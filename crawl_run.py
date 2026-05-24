@@ -41,15 +41,41 @@ def crawl(origins):
 _ENRICH_FIELDS = ("region", "farm", "producer", "altitude", "variety", "process", "grade", "cup_notes")
 
 
-def _merge_prev(bean_dicts, today):
-    """이전 beans.json 과 (vendor,url) 매칭 → 보강 필드·입고일(first_seen) 보존."""
-    prev = {}
+def _load_prev_beans():
+    """직전 beans.json 의 beans 리스트 (없으면 빈 리스트)."""
     if os.path.exists(OUT):
         try:
-            for ob in json.load(open(OUT, encoding="utf-8")).get("beans", []):
-                prev[(ob.get("vendor"), ob.get("url"))] = ob
+            return json.load(open(OUT, encoding="utf-8")).get("beans", [])
         except Exception:
-            pass
+            return []
+    return []
+
+
+# 한 판매처가 이전에 이만큼 이상 있었는데 이번에 0건이면 '증발'로 간주(차단/일시장애)
+_VANISH_MIN = 5
+
+
+def _preserve_vanished_vendors(bean_dicts, prev_beans):
+    """이전엔 다수 있었으나 이번 크롤에서 0건이 된 판매처 → 직전 데이터 그대로 유지.
+
+    royalcoffee 처럼 특정 IP(예: GitHub 데이터센터)를 차단하는 사이트가
+    클라우드에서만 0건이 되어 판매처가 통째로 사라지는 것을 방지.
+    """
+    import collections
+    new_count = collections.Counter(d.get("vendor") for d in bean_dicts)
+    prev_by_vendor = collections.defaultdict(list)
+    for ob in prev_beans:
+        prev_by_vendor[ob.get("vendor")].append(ob)
+    for vendor, prevs in prev_by_vendor.items():
+        if len(prevs) >= _VANISH_MIN and new_count.get(vendor, 0) == 0:
+            print(f"⚠️  {vendor}: 이번 0건(이전 {len(prevs)}건) → 직전 데이터 유지(차단/장애 추정)")
+            bean_dicts.extend(prevs)
+    return bean_dicts
+
+
+def _merge_prev(bean_dicts, prev_beans, today):
+    """이전 beans.json 과 (vendor,url) 매칭 → 보강 필드·입고일(first_seen) 보존."""
+    prev = {(ob.get("vendor"), ob.get("url")): ob for ob in prev_beans}
     for d in bean_dicts:
         old = prev.get((d.get("vendor"), d.get("url")))
         if old:
@@ -69,7 +95,9 @@ def main():
     beans, summary = crawl(origins)
 
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-    bean_dicts = _merge_prev([b.to_dict() for b in beans], today)
+    prev_beans = _load_prev_beans()
+    bean_dicts = _merge_prev([b.to_dict() for b in beans], prev_beans, today)
+    bean_dicts = _preserve_vanished_vendors(bean_dicts, prev_beans)
 
     os.makedirs(os.path.dirname(OUT), exist_ok=True)
     payload = {
