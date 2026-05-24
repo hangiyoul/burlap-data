@@ -8,10 +8,16 @@ JS+CSS로 표시만 토글. → 실제 화면에 '보이는'(offsetParent!==null
 
 검증: momos 에티오피아 생두 21종 → 판매중 12 / 품절 9 (실제 홈페이지와 일치).
 """
-from playwright.sync_api import sync_playwright
+import asyncio
+import os
+
+from playwright.async_api import async_playwright
 
 UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
       "AppleWebKit/537.36 Chrome/124.0 Safari/537.36")
+
+# 동시에 띄울 페이지 수 (CI/로컬에서 환경변수로 조절 가능)
+CONCURRENCY = int(os.environ.get("STOCK_CONCURRENCY", "8"))
 
 # 화면에 실제 보이는 요소만 보고 품절 판정
 _JS = """() => {
@@ -25,27 +31,40 @@ _JS = """() => {
 }"""
 
 
+async def _check_async(urls, headless=True):
+    out = {}
+    async with async_playwright() as p:
+        try:
+            br = await p.chromium.launch(channel="chrome", headless=headless)  # 설치된 Chrome 우선
+        except Exception:
+            br = await p.chromium.launch(headless=headless)                    # CI: playwright chromium
+        sem = asyncio.Semaphore(CONCURRENCY)
+
+        async def one(key, url):
+            async with sem:
+                page = await br.new_page(user_agent=UA)
+                try:
+                    await page.goto(url, timeout=30000, wait_until="domcontentloaded")
+                    await page.wait_for_timeout(2500)
+                    res = await page.evaluate(_JS)
+                    out[key] = bool(res["soldout"])
+                except Exception:
+                    out[key] = None
+                finally:
+                    await page.close()
+
+        await asyncio.gather(*(one(key, url) for key, url in urls))
+        await br.close()
+    return out
+
+
 def check_many(urls, headless=True):
     """
     urls: [(key, url)]  →  dict{key: True(품절)/False(판매중)/None(오류)}
+    동시 CONCURRENCY개 페이지로 병렬 확인 (순차 대비 ~수배 빠름).
     networkidle 은 추적스크립트 때문에 타임아웃 → domcontentloaded + 대기.
     """
-    out = {}
-    with sync_playwright() as p:
-        try:
-            br = p.chromium.launch(channel="chrome", headless=headless)   # 설치된 Chrome 우선
-        except Exception:
-            br = p.chromium.launch(headless=headless)                      # CI: playwright chromium
-        page = br.new_page(user_agent=UA)
-        for key, url in urls:
-            try:
-                page.goto(url, timeout=30000, wait_until="domcontentloaded")
-                page.wait_for_timeout(2500)
-                out[key] = bool(page.evaluate(_JS)["soldout"])
-            except Exception:
-                out[key] = None
-        br.close()
-    return out
+    return asyncio.run(_check_async(urls, headless=headless))
 
 
 if __name__ == "__main__":
