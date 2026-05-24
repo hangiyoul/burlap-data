@@ -1,0 +1,54 @@
+name: Burlap Crawl
+
+# 하루 3회 — KST 07:00 / 13:00 / 21:00 (cron 은 UTC 기준)
+on:
+  schedule:
+    - cron: "0 22 * * *"   # 07:00 KST (전날 22:00 UTC)
+    - cron: "0 4 * * *"    # 13:00 KST
+    - cron: "0 12 * * *"   # 21:00 KST
+  workflow_dispatch:        # 수동 실행 버튼
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Install Playwright Chromium (재고 확인용)
+        run: |
+          pip install playwright
+          python -m playwright install --with-deps chromium
+
+      - name: Snapshot previous (어제 대비 변화용)
+        run: cp data/beans.json data/beans_prev.json || echo "no prev"
+
+      - name: Run crawl
+        run: python crawl_run.py
+
+      - name: Stock check (재고 in_stock 갱신)
+        run: python stock_run.py || echo "stock check skipped"
+
+      - name: Compute changes (어제 대비 신규·품절·가격↓)
+        run: python make_changes.py || echo "changes skipped"
+
+      - name: Scrape market headlines (운임·경매) + 스토리 번역
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python market_scrape.py || echo "market scrape skipped"
+
+      # MVP: 결과 JSON 을 레포에 커밋(Supabase 연결 전까지). 이후 업로드 스텝으로 교체.
+      - name: Commit data
+        run: |
+          git config user.name "burlap-bot"
+          git config user.email "bot@burlap.app"
+          git add data/beans.json data/market.json
+          [ -f data/story_translations.json ] && git add data/story_translations.json
+          git commit -m "crawl: $(date -u +'%Y-%m-%dT%H:%MZ')" || echo "no changes"
+          git push || echo "push skipped"

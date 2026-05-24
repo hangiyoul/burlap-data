@@ -1,0 +1,9 @@
+# 정적 어댑터만 쓰면 표준 라이브러리로 충분 (별도 설치 불필요).
+# 재고 판정/스펙 OCR(헤드리스)에 필요:
+playwright>=1.40      # 설치 후: playwright install chromium  (또는 channel="chrome"로 설치된 크롬 재사용)
+Pillow>=10.0          # 스펙표 이미지 채도 선별
+# 제휴 피드(gsheet 모드)에 필요 (csv_url 모드는 불필요):
+google-api-python-client>=2.0
+google-auth>=2.0
+# 비전 OCR 연결 시(선택):
+# anthropic>=0.40

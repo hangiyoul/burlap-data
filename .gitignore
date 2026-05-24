@@ -1,0 +1,29 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# 크롤 작업용 임시 스냅샷(커밋된 beans.json 으로 매 실행 재생성)
+data/beans_prev.json
+
+# 비밀(키는 env/시크릿으로만)
+.env
+*.key
+
+# iOS 앱 프로젝트(자체 git·로컬 개발) — 이 레포는 크롤/데이터 백엔드용
+Burlap/
+
+# 백업본
+*.bak
+
+# Xcode
+build/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+*.xcuserdatad/

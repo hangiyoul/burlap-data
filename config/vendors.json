@@ -1,0 +1,79 @@
+{
+  "_comment": "업체 = 코드가 아니라 설정. 같은 platform이면 어댑터 공유. 새 업체 추가 = 여기 한 블록.",
+  "_status_legend": {
+    "active": "수집 가능 (정적/헤드리스 크롤링 또는 제휴 피드)",
+    "headless_needed": "JS 렌더 → Playwright 필요 (어댑터 미구현)",
+    "blocked": "자동 크롤링 차단(로그인 벽 등) → 보류",
+    "partner_pending": "제휴 진행중 → 시트ID 입력 후 active 전환",
+    "no_green": "생두 미취급(로스터) → 제외"
+  },
+  "vendors": {
+    "momos": {
+      "platform": "cafe24", "base": "https://momos.co.kr",
+      "status": "active", "url_pattern": "slug", "green_category": 180,
+      "stock": "headless", "spec": "image_ocr",
+      "note": "Cafe24 slug 스킨. 생두 영문 slug → 한글+영문 둘 다 검색. 재고/스펙 헤드리스(이미지 OCR)."
+    },
+    "coffeelibre": {
+      "platform": "cafe24", "base": "https://coffeelibre.kr",
+      "status": "active", "url_pattern": "detail",
+      "stock": "headless", "spec": "text",
+      "note": "Cafe24 detail.html?product_no= 스킨. 생두 판매(처음 0이었던 건 URL패턴 차이). 스펙=텍스트(영문 병기). 컵노트는 셀렉션로트 레이아웃 흔들림 → LLM 권장."
+    },
+    "micoffee": {
+      "platform": "godo", "base": "https://www.micoffee.co.kr",
+      "status": "active",
+      "note": "상품명=링크텍스트. 상태 prefix([품절] 등)."
+    },
+    "newbean": {
+      "platform": "godo", "base": "https://www.newbean.co.kr",
+      "status": "active",
+      "note": "상품명에 [에티오피아] prefix."
+    },
+    "wbeans": {
+      "platform": "godo", "base": "https://wbeans.com",
+      "status": "active", "name_mode": "alt",
+      "note": "상품명=alt 속성(링크텍스트 비어있음)."
+    },
+    "royalcoffee": {
+      "platform": "godo", "base": "https://www.royalcoffeekorea.co.kr",
+      "status": "active", "spec": "image_ocr", "loose_search": true,
+      "note": "검색 느슨(타산지 혼입)→제목필터. 스펙=이미지OCR. 제목에 지역/품종/가공 다수 포함."
+    },
+    "cobeans": {
+      "platform": "cobeans", "base": "https://www.cobeans.com",
+      "status": "active", "spec": "text",
+      "note": "텍스트 풀스펙(가장 깔끔). 세트/입고예정 필터 필요."
+    },
+    "sewoonggc": {
+      "platform": "youngcart", "base": "https://www.sewoonggc.com",
+      "status": "active",
+      "note": "영카트. /shop/search.php?q="
+    },
+    "ayantu": {
+      "platform": "imweb", "base": "https://ayantu.co.kr",
+      "status": "active", "engine": "headless",
+      "category": "greenbean", "spec": "image_ocr",
+      "note": "imweb SPA → 헤드리스 필수. 카테고리 /greenbean, 페이지네이션 ?page=N(끝까지 순회), 상세 /?idx=. 스펙=긴 상세이미지 OCR(영문병기+COE정보). 에티오피아 전문(가성비·CoE 입상 로트)."
+    },
+    "gimisa": {
+      "platform": "partner", "source": "gsheet",
+      "sheet_id": "TODO_제휴성사시_시트ID_입력",
+      "range": "A1:Z2000",
+      "store_url": "https://smartstore.naver.com/gimisa",
+      "landing": "https://gimisa.com",
+      "status": "partner_pending", "partner_badge": true,
+      "note": "스마트스토어 크롤링 차단 → 직접 제휴(데이터 피드)로 전환. 판매자(사부님)가 구글시트 관리, 서비스계정 view 공유 → Burlap 자동 구독. sheet_id 입력 + status=active 시 가동. 제휴=재고/가격 정확 + '공식 제휴' 배지."
+    },
+    "verde_trade": {
+      "platform": "smartstore", "base": "https://smartstore.naver.com/verde_trade",
+      "status": "blocked", "priority": "deferred",
+      "note": "네이버 스마트스토어. 실측(2026-05): 직접요청 429 + 헤드리스·스텔스·실제브라우저·영속세션 전부 로그인 리다이렉트. MVP 보류. Phase3 로그인세션 모듈 필요."
+    },
+    "ryubeans": {
+      "platform": "smartstore", "base": "https://smartstore.naver.com/ryubeans",
+      "status": "blocked", "priority": "deferred",
+      "note": "네이버 스마트스토어. verde_trade와 동일 차단. MVP 보류."
+    }
+  }
+}
