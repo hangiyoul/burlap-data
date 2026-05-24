@@ -1302,7 +1302,7 @@
       "farm": "Biloya Processing Station",
       "producer": "Smallholder farmers organized around the Biloya processing station",
       "altitude": "1600 – 2100 masl",
-      "variety": "Local Landraces and Indigenous Heirloom Cultivars",
+      "variety": "Local Landraces, Indigenous Heirloom Cultivars",
       "process": "Anaerobic",
       "grade": "G1",
       "cup_notes": [
@@ -1358,7 +1358,7 @@
       "farm": null,
       "producer": "Smallholder farmers organized around the Gelena Abaya processing station",
       "altitude": "1900 - 2100 masl",
-      "variety": "Local landraces and indigenous heirloom cultivars",
+      "variety": "Local landraces, indigenous heirloom cultivars",
       "process": "Anaerobic",
       "grade": "G1",
       "cup_notes": [
@@ -1414,7 +1414,7 @@
       "farm": "Banko Chelchele processing station",
       "producer": "Smallholder farmers",
       "altitude": "1945 - 1970 masl",
-      "variety": "Local landraces and indigenous heirloom cultivars",
+      "variety": "Local landraces, indigenous heirloom cultivars",
       "process": "Anaerobic",
       "grade": "G1",
       "cup_notes": [
@@ -1442,7 +1442,7 @@
       "farm": "Alamayehu Gosaye",
       "producer": "Alamayehu Gosaye",
       "altitude": "2200 – 2400 masl",
-      "variety": "Wolisho, Dega (local landraces), and 74112 and 74110 local landraces",
+      "variety": "Wolisho, Dega (local landraces), 74112, 74110 local landraces",
       "process": "Natural",
       "grade": "G1",
       "cup_notes": [
@@ -1498,7 +1498,7 @@
       "farm": null,
       "producer": "750 producers organized around Aricha processing station",
       "altitude": "1950 - 2100 masl",
-      "variety": "Indigenous landraces and cultivars",
+      "variety": "Indigenous landraces, cultivars",
       "process": "Washed",
       "grade": "그레이드 제로",
       "cup_notes": [
@@ -1526,7 +1526,7 @@
       "farm": "Haro Wachu",
       "producer": "Smallholder farmers",
       "altitude": "2000 - 2300 masl",
-      "variety": "Local landraces and indigenous heirloom cultivars",
+      "variety": "Local landraces, indigenous heirloom cultivars",
       "process": "Anaerobic",
       "grade": "G1",
       "cup_notes": [
@@ -1554,7 +1554,7 @@
       "farm": "Lecho Processing Station",
       "producer": "Smallholder Farmers",
       "altitude": "2000 - 2300 masl",
-      "variety": "Local landraces and indigenous heirloom cultivars",
+      "variety": "Local landraces, indigenous heirloom cultivars",
       "process": "Anaerobic",
       "grade": "G1",
       "cup_notes": [
@@ -1582,7 +1582,7 @@
       "farm": null,
       "producer": "Smallholder farmers organized around the Shakiso processing station",
       "altitude": "1900 - 1950 masl",
-      "variety": "Local landraces and indigenous heirloom cultivars",
+      "variety": "Local landraces, indigenous heirloom cultivars",
       "process": "Anaerobic",
       "grade": "G1",
       "cup_notes": [
@@ -1638,7 +1638,7 @@
       "farm": "Adame processing station",
       "producer": "839 producers organized around Adame processing station",
       "altitude": "1950 - 2100 masl",
-      "variety": "Indigenous landraces and heirloom cultivars",
+      "variety": "Indigenous landraces, heirloom cultivars",
       "process": "Washed",
       "grade": "그레이드 제로",
       "cup_notes": [
@@ -2792,7 +2792,7 @@
       "farm": null,
       "producer": null,
       "altitude": "1850~1950 m.a.s.l",
-      "variety": "게이샤",
+      "variety": "Geisha",
       "process": "Natural",
       "grade": "G1",
       "cup_notes": [
@@ -2819,7 +2819,7 @@
       "farm": null,
       "producer": null,
       "altitude": null,
-      "variety": "게이샤",
+      "variety": "Geisha",
       "process": "Natural",
       "grade": "G1",
       "cup_notes": [
@@ -4447,7 +4447,7 @@
       "farm": "Las Guayacanes",
       "producer": "Evelio Lasso",
       "altitude": "1,780m",
-      "variety": "카투라",
+      "variety": "Caturra",
       "process": "Washed",
       "grade": null,
       "cup_notes": [
@@ -4506,7 +4506,7 @@
       "farm": "La Terraza",
       "producer": "Wbeimar Lasso",
       "altitude": "1,800m",
-      "variety": "카투라",
+      "variety": "Caturra",
       "process": "Washed",
       "grade": null,
       "cup_notes": [
@@ -4623,7 +4623,7 @@
       "farm": "El Encanto",
       "producer": "Felipe Arcila",
       "altitude": "1,400~1,450m",
-      "variety": "카투라",
+      "variety": "Caturra",
       "process": "Washed",
       "grade": null,
       "cup_notes": [
@@ -4649,7 +4649,7 @@
       "farm": "El Encanto",
       "producer": "Felipe Arcila",
       "altitude": "1,400~1,450m",
-      "variety": "카투라",
+      "variety": "Caturra",
       "process": "Washed",
       "grade": null,
       "cup_notes": [
@@ -4675,7 +4675,7 @@
       "farm": "El Encanto",
       "producer": "Felipe Arcila",
       "altitude": "1,400-1,450m",
-      "variety": "카투라",
+      "variety": "Caturra",
       "process": "Washed",
       "grade": null,
       "cup_notes": [
@@ -4701,7 +4701,7 @@
       "farm": "El Encanto",
       "producer": "Felipe Arcila",
       "altitude": "1,400~1,450m",
-      "variety": "카투라",
+      "variety": "Caturra",
       "process": "Washed",
       "grade": null,
       "cup_notes": [
@@ -4727,7 +4727,7 @@
       "farm": "Tablon de Gomez",
       "producer": null,
       "altitude": "1,800~2,100m",
-      "variety": "카투라",
+      "variety": "Caturra",
       "process": "Washed",
       "grade": null,
       "cup_notes": [
@@ -4754,7 +4754,7 @@
       "farm": "Aponte",
       "producer": null,
       "altitude": "1,700~2,100m",
-      "variety": "카투라",
+      "variety": "Caturra",
       "process": "Honey",
       "grade": null,
       "cup_notes": [
@@ -4808,7 +4808,7 @@
       "farm": "Pergamino",
       "producer": "Arnulfo",
       "altitude": "1,700m ~ 1,900m",
-      "variety": "카투라",
+      "variety": "Caturra",
       "process": "Washed",
       "grade": null,
       "cup_notes": [
@@ -4863,7 +4863,7 @@
       "farm": "El Carmen",
       "producer": "Neyid Pillimue",
       "altitude": "1,800m ~ 2,000m",
-      "variety": "카투라",
+      "variety": "Caturra",
       "process": "Washed",
       "grade": null,
       "cup_notes": [
@@ -4890,7 +4890,7 @@
       "farm": "El Nogal",
       "producer": "Gloria Estella Gomez",
       "altitude": "2,000m",
-      "variety": "카투라",
+      "variety": "Caturra",
       "process": "Washed",
       "grade": null,
       "cup_notes": [
@@ -4917,7 +4917,7 @@
       "farm": "El Diamante",
       "producer": "Neftali Castro",
       "altitude": "1,758m",
-      "variety": "핑크 버번",
+      "variety": "Pink Bourbon",
       "process": "Washed",
       "grade": null,
       "cup_notes": [
@@ -4944,7 +4944,7 @@
       "farm": "Cerro Azul",
       "producer": null,
       "altitude": "1,752m ~ 1,941m",
-      "variety": "게이샤",
+      "variety": "Geisha",
       "process": "Napoleon",
       "grade": null,
       "cup_notes": [
@@ -4972,7 +4972,7 @@
       "farm": "Campo Hermoso",
       "producer": "Edwin Norena",
       "altitude": "1,650m",
-      "variety": "카투라",
+      "variety": "Caturra",
       "process": "Honey",
       "grade": null,
       "cup_notes": [
@@ -4998,7 +4998,7 @@
       "farm": "Campo Hermoso",
       "producer": "Edwin Norena",
       "altitude": "1,650m",
-      "variety": "핑크 버번",
+      "variety": "Pink Bourbon",
       "process": "Natural",
       "grade": null,
       "cup_notes": [
@@ -5025,7 +5025,7 @@
       "farm": "Las Margaritas",
       "producer": null,
       "altitude": "1,584 ~ 1,653m",
-      "variety": "옐로우 버번",
+      "variety": "Yellow Bourbon",
       "process": "Washed",
       "grade": null,
       "cup_notes": [
@@ -5216,7 +5216,7 @@
       "farm": "Finca Matarredonda",
       "producer": "Enrique Zarama",
       "altitude": "1900m",
-      "variety": "카투라",
+      "variety": "Caturra",
       "process": "Washed",
       "grade": null,
       "cup_notes": [
@@ -5333,7 +5333,7 @@
       "farm": "Los Nogales",
       "producer": "Ricardo Hernandez",
       "altitude": "1,800m ~ 1,900m",
-      "variety": "버번",
+      "variety": "Bourbon",
       "process": "Extended Fermentation",
       "grade": null,
       "cup_notes": [
@@ -5369,7 +5369,7 @@
       "farm": "Nubia",
       "producer": null,
       "altitude": null,
-      "variety": "핑크 버번",
+      "variety": "Pink Bourbon",
       "process": "Honey",
       "grade": null,
       "cup_notes": [
@@ -5420,7 +5420,7 @@
       "farm": "Las Flores",
       "producer": "Alberto Vergara, Jhoan & Diego Vergara",
       "altitude": "1,750m",
-      "variety": "게이샤",
+      "variety": "Geisha",
       "process": "Washed",
       "grade": null,
       "cup_notes": [
@@ -5448,7 +5448,7 @@
       "farm": "El Diviso",
       "producer": null,
       "altitude": "1,800m",
-      "variety": "게이샤",
+      "variety": "Geisha",
       "process": "Washed",
       "grade": null,
       "cup_notes": [
@@ -5785,7 +5785,7 @@
       "farm": null,
       "producer": null,
       "altitude": "1500 – 1800 masl",
-      "variety": "Caturra, Castillo, and Colombia",
+      "variety": "Caturra, Castillo, Colombia",
       "process": "Decaf",
       "grade": null,
       "cup_notes": [
@@ -5841,7 +5841,7 @@
       "farm": null,
       "producer": "Grupo Sierra Inconexus S.A.S",
       "altitude": "1400 - 1900 masl",
-      "variety": "Caturra, Castillo, Colombia, and Typica",
+      "variety": "Caturra, Castillo, Colombia, Typica",
       "process": "Decaf",
       "grade": null,
       "cup_notes": [
@@ -6009,7 +6009,7 @@
       "farm": "Campo Hermoso",
       "producer": "Campo Hermoso",
       "altitude": "1,600 masl",
-      "variety": "카투라",
+      "variety": "Caturra",
       "process": "Honey",
       "grade": null,
       "cup_notes": [
@@ -6037,7 +6037,7 @@
       "farm": "Campo Hermoso",
       "producer": "Campo Hermoso",
       "altitude": "1,600 masl",
-      "variety": "버번",
+      "variety": "Bourbon",
       "process": "Honey",
       "grade": null,
       "cup_notes": [
@@ -6093,7 +6093,7 @@
       "farm": "Campo Hermoso",
       "producer": "Campo Hermoso",
       "altitude": "1,600 masl",
-      "variety": "버번",
+      "variety": "Bourbon",
       "process": "Carbonic",
       "grade": null,
       "cup_notes": [
@@ -6149,7 +6149,7 @@
       "farm": "Campo Hermoso",
       "producer": "Campo Hermoso",
       "altitude": "1,600 masl",
-      "variety": "버번",
+      "variety": "Bourbon",
       "process": "Honey",
       "grade": null,
       "cup_notes": [
@@ -6576,7 +6576,7 @@
       "farm": "Las Flores",
       "producer": null,
       "altitude": "1950m",
-      "variety": "게이샤",
+      "variety": "Geisha",
       "process": "Washed",
       "grade": null,
       "cup_notes": [
@@ -6658,7 +6658,7 @@
       "farm": "El Rocio",
       "producer": null,
       "altitude": "1950m",
-      "variety": "버번",
+      "variety": "Bourbon",
       "process": "Honey",
       "grade": null,
       "cup_notes": [
@@ -6684,7 +6684,7 @@
       "farm": "La Roca",
       "producer": null,
       "altitude": "1900-2000m",
-      "variety": "게이샤",
+      "variety": "Geisha",
       "process": "Infused",
       "grade": null,
       "cup_notes": [
@@ -6711,7 +6711,7 @@
       "farm": "Los Cauchos",
       "producer": null,
       "altitude": "1550-1600m",
-      "variety": "버번",
+      "variety": "Bourbon",
       "process": "Washed",
       "grade": null,
       "cup_notes": [
@@ -7082,7 +7082,7 @@
       "farm": "Avarlin",
       "producer": null,
       "altitude": "1450 ~ 1500 m.a.s.l",
-      "variety": "카투라",
+      "variety": "Caturra",
       "process": "Natural",
       "grade": "Micro-Lot",
       "cup_notes": [
@@ -7257,7 +7257,7 @@
       "farm": "El Diviso",
       "producer": null,
       "altitude": "1600 ~ 1900 m.a.s.l",
-      "variety": "카투라",
+      "variety": "Caturra",
       "process": "Washed",
       "grade": "Microlot Specialty",
       "cup_notes": [
@@ -7365,7 +7365,7 @@
       "farm": "Los Cedros",
       "producer": "Oswaldo Toro",
       "altitude": "1600 ~ 1900 m.a.s.l",
-      "variety": "시드라",
+      "variety": "Sidra",
       "process": "Washed",
       "grade": "Microlot Specialty",
       "cup_notes": [
@@ -7392,7 +7392,7 @@
       "farm": "Zarza",
       "producer": "Jonathan & John Gasca",
       "altitude": "1600 ~ 1900 m.a.s.l",
-      "variety": "버번",
+      "variety": "Bourbon",
       "process": "Natural",
       "grade": "Microlot Specialty",
       "cup_notes": [
@@ -7500,7 +7500,7 @@
       "farm": "El Diviso",
       "producer": null,
       "altitude": "1600 ~ 1900 m.a.s.l",
-      "variety": "게이샤",
+      "variety": "Geisha",
       "process": "Natural",
       "grade": "Microlot Specialty",
       "cup_notes": [
@@ -9062,7 +9062,7 @@
       "farm": "Santa Ana",
       "producer": "Fernando Diaz",
       "altitude": "1,600 - 1,800m",
-      "variety": "게이샤",
+      "variety": "Geisha",
       "process": "Natural",
       "grade": null,
       "cup_notes": [
@@ -9091,7 +9091,7 @@
       "farm": "Agua Tibia",
       "producer": "Castillo Family",
       "altitude": "1,530m",
-      "variety": "게이샤",
+      "variety": "Geisha",
       "process": "Washed",
       "grade": null,
       "cup_notes": [
@@ -9325,7 +9325,7 @@
       "farm": "Agua Tibia",
       "producer": "Castillo Family",
       "altitude": "1,530m",
-      "variety": "게이샤",
+      "variety": "Geisha",
       "process": "Washed",
       "grade": null,
       "cup_notes": [
@@ -9527,7 +9527,7 @@
       "farm": "El Socorro",
       "producer": "Juan Diego De La Cerda",
       "altitude": "1,850m",
-      "variety": "게이샤",
+      "variety": "Geisha",
       "process": "Washed",
       "grade": null,
       "cup_notes": [
@@ -9663,7 +9663,7 @@
       "farm": null,
       "producer": null,
       "altitude": "1,500 ~ 1,800m",
-      "variety": "Bourbon and others",
+      "variety": "Bourbon, others",
       "process": "Fully Washed",
       "grade": "EP",
       "cup_notes": [
@@ -9928,7 +9928,7 @@
       "farm": "Santa Felisa",
       "producer": null,
       "altitude": "1550",
-      "variety": "시드라",
+      "variety": "Sidra",
       "process": "Natural",
       "grade": null,
       "cup_notes": [],
@@ -9972,7 +9972,7 @@
       "farm": "Santa Felisa",
       "producer": null,
       "altitude": null,
-      "variety": "카투라",
+      "variety": "Caturra",
       "process": "Natural",
       "grade": null,
       "cup_notes": [],
@@ -10220,7 +10220,7 @@
       "farm": "Santa Felisa",
       "producer": null,
       "altitude": "1600",
-      "variety": "게이샤",
+      "variety": "Geisha",
       "process": "Honey",
       "grade": "Microlot Specialty",
       "cup_notes": [
@@ -10247,7 +10247,7 @@
       "farm": "Santa Felisa",
       "producer": "Santa Felisa",
       "altitude": "1500 m.a.s.l",
-      "variety": "게이샤",
+      "variety": "Geisha",
       "process": "Washed",
       "grade": null,
       "cup_notes": [
@@ -10274,7 +10274,7 @@
       "farm": "Santa Felisa",
       "producer": "Santa Felisa",
       "altitude": "1500",
-      "variety": "시드라",
+      "variety": "Sidra",
       "process": "Natural",
       "grade": "Microlot Specialty",
       "cup_notes": [
@@ -10301,7 +10301,7 @@
       "farm": "Santa Felisa",
       "producer": "Santa Felisa",
       "altitude": "1600",
-      "variety": "게이샤",
+      "variety": "Geisha",
       "process": "Natural",
       "grade": "Microlot Specialty",
       "cup_notes": [
@@ -10328,7 +10328,7 @@
       "farm": "Santa Felisa",
       "producer": "Santa Felisa",
       "altitude": "1500 m.a.s.l",
-      "variety": "게이샤",
+      "variety": "Geisha",
       "process": "Natural",
       "grade": null,
       "cup_notes": [
@@ -10487,7 +10487,7 @@
       "farm": "Finca Hartmann",
       "producer": "Hartmann Family",
       "altitude": "1,400 - 2,000m",
-      "variety": "카투라",
+      "variety": "Caturra",
       "process": "Washed",
       "grade": null,
       "cup_notes": [
@@ -10516,7 +10516,7 @@
       "farm": "Finca Hartmann",
       "producer": "Familia Hartmann",
       "altitude": "1,400 - 2,000m",
-      "variety": "게이샤",
+      "variety": "Geisha",
       "process": "Natural",
       "grade": null,
       "cup_notes": [
@@ -10545,7 +10545,7 @@
       "farm": "Finca Hartmann",
       "producer": "Hartmann Family",
       "altitude": "1,400 - 2,000m",
-      "variety": "게이샤",
+      "variety": "Geisha",
       "process": "Washed",
       "grade": null,
       "cup_notes": [
@@ -10603,7 +10603,7 @@
       "farm": "Finca Auromar",
       "producer": "Roberto Brenes",
       "altitude": "1,600 - 1,770m",
-      "variety": "게이샤",
+      "variety": "Geisha",
       "process": "Washed",
       "grade": null,
       "cup_notes": [
@@ -10632,7 +10632,7 @@
       "farm": "Finca Deborah",
       "producer": "Jamison Savage",
       "altitude": "1,950m",
-      "variety": "게이샤",
+      "variety": "Geisha",
       "process": "Washed",
       "grade": null,
       "cup_notes": [
@@ -10660,7 +10660,7 @@
       "farm": "Abu Coffee",
       "producer": null,
       "altitude": "1,550m",
-      "variety": "게이샤",
+      "variety": "Geisha",
       "process": "Washed",
       "grade": null,
       "cup_notes": [
@@ -10688,7 +10688,7 @@
       "farm": "El Bajareque Symbiosis Coffee",
       "producer": "Hunter Tedman",
       "altitude": "1,500m",
-      "variety": "게이샤",
+      "variety": "Geisha",
       "process": "Natural",
       "grade": null,
       "cup_notes": [
@@ -10716,7 +10716,7 @@
       "farm": "El Bajareque",
       "producer": "Hunter Tedman",
       "altitude": "1,500m",
-      "variety": "게이샤",
+      "variety": "Geisha",
       "process": "Washed",
       "grade": null,
       "cup_notes": [
@@ -10743,7 +10743,7 @@
       "farm": "Garrido, Panela Dulce",
       "producer": "Garrido's Family",
       "altitude": "1,650m",
-      "variety": "게이샤",
+      "variety": "Geisha",
       "process": "Natural",
       "grade": null,
       "cup_notes": [
@@ -10771,7 +10771,7 @@
       "farm": "Garrido, Panela Dulce",
       "producer": "Garrido's Family",
       "altitude": "1,650m",
-      "variety": "게이샤",
+      "variety": "Geisha",
       "process": "Washed",
       "grade": null,
       "cup_notes": [
@@ -10798,7 +10798,7 @@
       "farm": "Abu Coffee",
       "producer": null,
       "altitude": "1,550m",
-      "variety": "게이샤",
+      "variety": "Geisha",
       "process": "Washed",
       "grade": null,
       "cup_notes": [
@@ -10826,7 +10826,7 @@
       "farm": "Abu Coffee",
       "producer": null,
       "altitude": "1,550m",
-      "variety": "게이샤",
+      "variety": "Geisha",
       "process": "Washed",
       "grade": null,
       "cup_notes": [
@@ -10882,7 +10882,7 @@
       "farm": "La Esmeralda",
       "producer": "La Esmeralda",
       "altitude": "1600-1800m",
-      "variety": "게이샤",
+      "variety": "Geisha",
       "process": "Washed",
       "grade": null,
       "cup_notes": [
@@ -10912,7 +10912,7 @@
       "farm": "La Esmeralda",
       "producer": "La Esmeralda",
       "altitude": "1,600m ~ 1,800m",
-      "variety": "게이샤",
+      "variety": "Geisha",
       "process": "Natural",
       "grade": null,
       "cup_notes": [
@@ -10971,7 +10971,7 @@
       "farm": "Esmeralda",
       "producer": null,
       "altitude": "1870m",
-      "variety": "게이샤",
+      "variety": "Geisha",
       "process": "Washed",
       "grade": "GUABO 6FB",
       "cup_notes": [
@@ -10998,7 +10998,7 @@
       "farm": "Esmeralda",
       "producer": null,
       "altitude": "1870m",
-      "variety": "게이샤",
+      "variety": "Geisha",
       "process": "Natural",
       "grade": "Microlot Specialty",
       "cup_notes": [
@@ -11079,7 +11079,7 @@
       "farm": "Los Pozos",
       "producer": "CCD",
       "altitude": "1800",
-      "variety": "게이샤",
+      "variety": "Geisha",
       "process": "Natural",
       "grade": "Microlot Specialty",
       "cup_notes": [
@@ -11189,7 +11189,7 @@
       "farm": "Finca Lerida",
       "producer": null,
       "altitude": "1500 m.a.s.l.",
-      "variety": "게이샤",
+      "variety": "Geisha",
       "process": "Natural",
       "grade": "Microlot",
       "cup_notes": [
@@ -11269,7 +11269,7 @@
       "farm": "Finca Lerida",
       "producer": null,
       "altitude": "1800m+",
-      "variety": "게이샤",
+      "variety": "Geisha",
       "process": "Washed",
       "grade": "Microlot",
       "cup_notes": [
@@ -11297,7 +11297,7 @@
       "farm": "Finca Lerida",
       "producer": null,
       "altitude": "1750m",
-      "variety": "게이샤",
+      "variety": "Geisha",
       "process": "Honey",
       "grade": "Microlot",
       "cup_notes": [
@@ -11324,7 +11324,7 @@
       "farm": "Finca Lerida",
       "producer": null,
       "altitude": "1800 m.a.s.l",
-      "variety": "게이샤",
+      "variety": "Geisha",
       "process": "Natural",
       "grade": "Microlot",
       "cup_notes": [
@@ -11352,7 +11352,7 @@
       "farm": "Cañas Verdes",
       "producer": null,
       "altitude": "1600-1900m",
-      "variety": "게이샤",
+      "variety": "Geisha",
       "process": "Washed",
       "grade": "Specialty",
       "cup_notes": [
@@ -11380,7 +11380,7 @@
       "farm": "Cañas Verdes",
       "producer": null,
       "altitude": "1600-1900m",
-      "variety": "게이샤",
+      "variety": "Geisha",
       "process": "Natural",
       "grade": "Specialty",
       "cup_notes": [
@@ -11408,7 +11408,7 @@
       "farm": "Finca Lerida",
       "producer": null,
       "altitude": "1600",
-      "variety": "게이샤",
+      "variety": "Geisha",
       "process": "Natural",
       "grade": null,
       "cup_notes": [],
@@ -11430,7 +11430,7 @@
       "farm": "Finca Lerida",
       "producer": "Lérida Coffee Estate",
       "altitude": "1600",
-      "variety": "게이샤",
+      "variety": "Geisha",
       "process": "Honey",
       "grade": null,
       "cup_notes": [],
@@ -11452,7 +11452,7 @@
       "farm": "Finca Lerida",
       "producer": "Lerida Coffee Estate",
       "altitude": null,
-      "variety": "게이샤",
+      "variety": "Geisha",
       "process": "Washed",
       "grade": null,
       "cup_notes": [],
@@ -11474,7 +11474,7 @@
       "farm": "Finca Lerida",
       "producer": "Lerida Coffee Estate",
       "altitude": null,
-      "variety": "게이샤",
+      "variety": "Geisha",
       "process": "Washed",
       "grade": null,
       "cup_notes": [],
@@ -11496,7 +11496,7 @@
       "farm": "Finca Lerida",
       "producer": null,
       "altitude": "1800 m.a.s.l",
-      "variety": "게이샤",
+      "variety": "Geisha",
       "process": "Washed",
       "grade": "Microlot Specialty",
       "cup_notes": [
@@ -11523,7 +11523,7 @@
       "farm": "Kotowa Las Brujas",
       "producer": null,
       "altitude": "1800-1900 m.a.s.l",
-      "variety": "게이샤",
+      "variety": "Geisha",
       "process": "Natural",
       "grade": "Microlot Specialty",
       "cup_notes": [
@@ -11550,7 +11550,7 @@
       "farm": "Kotowa Las Brujas",
       "producer": null,
       "altitude": "1800-1900 m.a.s.l",
-      "variety": "게이샤",
+      "variety": "Geisha",
       "process": "Natural",
       "grade": "Microlot Specialty",
       "cup_notes": [
@@ -12079,7 +12079,7 @@
       "farm": "Monte Belo",
       "producer": null,
       "altitude": "1,000 ~ 1,200m",
-      "variety": "옐로우 버번",
+      "variety": "Yellow Bourbon",
       "process": "Pulped Natural",
       "grade": "16up",
       "cup_notes": [
@@ -12269,7 +12269,7 @@
       "farm": "Daterra",
       "producer": "Daterra",
       "altitude": "1,000 ~ 1,200M",
-      "variety": "버번",
+      "variety": "Bourbon",
       "process": "Pulped Natural",
       "grade": "Exot #50",
       "cup_notes": [
@@ -12592,7 +12592,7 @@
       "farm": null,
       "producer": null,
       "altitude": "800-1,200m",
-      "variety": "Catuai/Mundo Novo",
+      "variety": "Catuai, Mundo Novo",
       "process": "Natural",
       "grade": "NY2 FC",
       "cup_notes": [

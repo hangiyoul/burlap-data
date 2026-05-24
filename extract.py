@@ -133,6 +133,41 @@ _PROCESSES = [("digital decaf", "Decaf"), ("디카페인", "Decaf"), ("decaf", "
               ("내추럴", "Natural"), ("natural", "Natural")]
 _GRADES = ["G1", "G2", "G3", "G4", "Q1", "Q2", "EP", "그레이드 제로", "Grade Zero"]
 
+# 품종 한글 → 영문 정규화 (LLM/규칙 어느 경로든 한글이 새어 나오면 영문으로 통일)
+_VARIETY_KO_EN = {
+    "게이샤": "Geisha", "게샤": "Gesha",
+    "카투라": "Caturra", "카투아이": "Catuai",
+    "버번": "Bourbon", "핑크 버번": "Pink Bourbon", "핑크버번": "Pink Bourbon",
+    "옐로우 버번": "Yellow Bourbon", "옐로우버번": "Yellow Bourbon",
+    "레드 버번": "Red Bourbon", "레드버번": "Red Bourbon",
+    "티피카": "Typica", "시드라": "Sidra", "파카마라": "Pacamara",
+    "마라고지페": "Maragogipe", "비야사르치": "Villa Sarchi", "빌라사치": "Villa Sarchi",
+    "수단 루메": "Sudan Rume", "에티오피아 재래종": "Heirloom",
+    "재래종": "Heirloom", "에어룸": "Heirloom", "롱베리": "Longberry",
+}
+
+
+def _norm_variety(s):
+    """품종 문자열의 한글 표기를 영문으로 통일 (콤마/슬래시 다중값 지원, 중복 제거)."""
+    if not s:
+        return s
+    parts = [p.strip() for p in re.split(r"[,/·]| and ", s) if p.strip()]
+    mapped = []
+    for p in parts:
+        if p in _VARIETY_KO_EN:
+            p = _VARIETY_KO_EN[p]
+        else:
+            for ko, en in _VARIETY_KO_EN.items():   # 토큰 안에 섞인 한글도 치환
+                if ko in p:
+                    p = p.replace(ko, en)
+        mapped.append(p)
+    seen, res = set(), []
+    for m in mapped:
+        if m.lower() not in seen:
+            seen.add(m.lower())
+            res.append(m)
+    return ", ".join(res) if res else s
+
 
 def _find(name, table):
     low = name.lower()
@@ -153,7 +188,7 @@ def normalize_with_rules(vendor, url, name, origin_hint=None):
     return GreenBean(
         vendor=vendor, url=url, raw_name=name,
         origin=origin_hint,
-        variety=_find(name, _VARIETIES),
+        variety=_norm_variety(_find(name, _VARIETIES)),
         process=proc,
         grade=_find(name, _GRADES),
     )
@@ -219,7 +254,7 @@ def normalize_with_llm(vendor, url, *, raw_text=None, image_path=None, name=None
         origin=data.get("origin") or origin_hint,
         region=data.get("region"), farm=data.get("farm"),
         producer=data.get("producer"), altitude=data.get("altitude"),
-        variety=data.get("variety"), process=data.get("process"),
+        variety=_norm_variety(data.get("variety")), process=data.get("process"),
         grade=data.get("grade"),
         cup_notes=data.get("cup_notes") or [],
         price=(str(data["price"]) if data.get("price") is not None else None),
@@ -261,7 +296,7 @@ def _bean_from_data(vendor, url, data, name, origin_hint):
         origin=origin,
         region=region, farm=_s(data.get("farm")),
         producer=_s(data.get("producer")), altitude=_s(data.get("altitude")),
-        variety=_s(data.get("variety")), process=_s(data.get("process")),
+        variety=_norm_variety(_s(data.get("variety"))), process=_s(data.get("process")),
         grade=_s(data.get("grade")),
         cup_notes=[str(x) for x in cn],
         price=_s(data.get("price")),
