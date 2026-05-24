@@ -17,19 +17,26 @@ cd "$(dirname "$0")"
 echo "▶ 최신 원격 반영 (봇 커밋과 충돌 방지)"
 git pull --rebase --autostash origin main
 
-echo "▶ 0/4 직전 스냅샷 (어제 대비 변화 계산용)"
+echo "▶ 0/5 직전 스냅샷 (어제 대비 변화 계산용)"
 cp data/beans.json data/beans_prev.json 2>/dev/null || true
 
-echo "▶ 1/4 전체 크롤 (royalcoffee 포함 · 한국 IP)"
+echo "▶ 1/5 전체 크롤 (royalcoffee 포함 · 한국 IP)"
 python3 crawl_run.py
 
-echo "▶ 2/4 재고 확인"
+echo "▶ 2/5 재고 확인"
 python3 stock_run.py || echo "  (재고 확인 건너뜀)"
 
-echo "▶ 3/4 어제 대비 변화 계산"
+echo "▶ 3/5 상세 보강 enrich (신규 상품의 지역·품종·컵노트·가격)"
+if [ -n "$GEMINI_API_KEY" ]; then
+  python3 enrich.py || echo "  (enrich 건너뜀)"
+else
+  echo "  GEMINI_API_KEY 미설정 → enrich 건너뜀 (신규 상품 상세가 비어있을 수 있음)"
+fi
+
+echo "▶ 4/5 어제 대비 변화 계산"
 python3 make_changes.py || echo "  (변화 계산 건너뜀)"
 
-echo "▶ 4/4 시장지표 + 스토리 번역"
+echo "▶ 5/5 시장지표 + 스토리 번역"
 if [ -n "$GEMINI_API_KEY" ]; then
   python3 market_scrape.py || echo "  (시장 스크레이프 건너뜀)"
 else

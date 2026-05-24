@@ -39,6 +39,11 @@ jobs:
       - name: Stock check (재고 in_stock 갱신)
         run: python stock_run.py || echo "stock check skipped"
 
+      - name: Enrich details (신규 상품 지역·품종·컵노트·가격)
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python enrich.py || echo "enrich skipped"
+
       - name: Compute changes (어제 대비 신규·품절·가격↓)
         run: python make_changes.py || echo "changes skipped"
 
