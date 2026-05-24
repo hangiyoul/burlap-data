@@ -8,6 +8,10 @@ on:
     - cron: "0 12 * * *"   # 21:00 KST
   workflow_dispatch:        # 수동 실행 버튼
 
+# 크롤 결과(data/*.json)를 레포에 다시 커밋하려면 쓰기 권한 필요
+permissions:
+  contents: write
+
 jobs:
   crawl:
     runs-on: ubuntu-latest
