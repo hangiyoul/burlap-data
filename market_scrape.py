@@ -46,10 +46,26 @@ def load():
     return {"metrics": {}}
 
 
+# 일별 1포인트로 최대 ~5.5년 보관
+_HISTORY_CAP = 2000
+
+
 def append_point(metrics, title, value, unit, fmt="{:,.0f}"):
+    today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     m = metrics.get(title, {})
-    hist = (m.get("history") or [])[-364:]
-    hist.append(value)
+    hist = list(m.get("history") or [])
+    dates = list(m.get("dates") or [])
+    # 구버전(날짜 없음/길이 불일치) → 평평한 레거시 버리고 날짜 기반으로 새로 시작
+    if len(dates) != len(hist):
+        hist, dates = [], []
+    # 하루 1회: 오늘 점이 이미 있으면 값 갱신, 없으면 추가 (크롤이 하루 3번 돌아도 1점/일)
+    if dates and dates[-1] == today:
+        hist[-1] = value
+    else:
+        hist.append(value)
+        dates.append(today)
+    hist = hist[-_HISTORY_CAP:]
+    dates = dates[-_HISTORY_CAP:]
     prev = hist[-2] if len(hist) >= 2 else value
     chg = (value - prev) / prev * 100 if prev else 0.0
     metrics[title] = {
@@ -57,6 +73,7 @@ def append_point(metrics, title, value, unit, fmt="{:,.0f}"):
         "unit": unit,
         "changePct": round(chg, 2),
         "history": hist,
+        "dates": dates,   # history 와 1:1 정렬 (YYYY-MM-DD)
     }
 
 
