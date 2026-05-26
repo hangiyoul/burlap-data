@@ -5,10 +5,12 @@
       "unit": "pt",
       "changePct": 0.0,
       "history": [
+        2218.15,
         2218.15
       ],
       "dates": [
-        "2026-05-25"
+        "2026-05-25",
+        "2026-05-26"
       ]
     },
     "Specialty Auction": {
@@ -40,7 +42,7 @@
       ]
     }
   },
-  "generated_at": "2026-05-25T23:11:43.121176+00:00",
+  "generated_at": "2026-05-26T06:08:00.186358+00:00",
   "coe_auctions": [
     {
       "country": "brazil",
