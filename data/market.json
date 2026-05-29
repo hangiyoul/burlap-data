@@ -1,15 +1,15 @@
 {
   "metrics": {
     "Freight Index": {
-      "value": "2,218.2",
+      "value": "2,571.7",
       "unit": "pt",
-      "changePct": 0.0,
+      "changePct": 15.94,
       "history": [
         2218.15,
         2218.15,
         2218.15,
         2218.15,
-        2218.15
+        2571.73
       ],
       "dates": [
         "2026-05-25",
@@ -48,7 +48,7 @@
       ]
     }
   },
-  "generated_at": "2026-05-29T06:21:01.228635+00:00",
+  "generated_at": "2026-05-29T14:11:51.679216+00:00",
   "coe_auctions": [
     {
       "country": "brazil",
