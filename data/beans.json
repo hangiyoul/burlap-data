@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-28T22:39:00.669216+00:00",
-  "count": 484,
+  "generated_at": "2026-05-29T05:39:36.090671+00:00",
+  "count": 485,
   "origins": [
     "ethiopia",
     "colombia",
@@ -11,7 +11,7 @@
   ],
   "summary": {
     "ethiopia": {
-      "total": 96,
+      "total": 106,
       "per_vendor": {
         "momos": 16,
         "coffeelibre": 7,
@@ -21,15 +21,15 @@
         "royalcoffee": 0,
         "cobeans": 22,
         "sewoonggc": 23,
-        "ayantu": 0
+        "ayantu": 10
       }
     },
     "colombia": {
-      "total": 130,
+      "total": 131,
       "per_vendor": {
         "momos": 25,
         "coffeelibre": 8,
-        "micoffee": 22,
+        "micoffee": 23,
         "newbean": 12,
         "wbeans": 7,
         "royalcoffee": 0,
@@ -116,12 +116,12 @@
         "Tropical"
       ],
       "price": "33000",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:34:58.837446+00:00",
+      "scraped_at": "2026-05-29T05:29:21.695690+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -142,12 +142,12 @@
         "Creamy"
       ],
       "price": "47500",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:34:58.837475+00:00",
+      "scraped_at": "2026-05-29T05:29:21.695720+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -170,12 +170,12 @@
         "Dark Chocolate"
       ],
       "price": "47,500원",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:34:58.837483+00:00",
+      "scraped_at": "2026-05-29T05:29:21.695730+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -197,12 +197,12 @@
         "Pineapple"
       ],
       "price": "51,500 KRW",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:34:58.837490+00:00",
+      "scraped_at": "2026-05-29T05:29:21.695738+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -224,12 +224,12 @@
         "Lime"
       ],
       "price": "51,500 KRW",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:34:58.837496+00:00",
+      "scraped_at": "2026-05-29T05:29:21.695746+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -251,12 +251,12 @@
         "Raisin"
       ],
       "price": "49,500 KRW for 1kg",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:34:58.837501+00:00",
+      "scraped_at": "2026-05-29T05:29:21.695753+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -279,12 +279,12 @@
         "Earl Grey Tea"
       ],
       "price": "47500",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:34:58.837506+00:00",
+      "scraped_at": "2026-05-29T05:29:21.695759+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -306,12 +306,12 @@
         "Apricot"
       ],
       "price": "49500",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:34:58.837515+00:00",
+      "scraped_at": "2026-05-29T05:29:21.695769+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -333,12 +333,12 @@
         "Silky"
       ],
       "price": "47500",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:34:58.837520+00:00",
+      "scraped_at": "2026-05-29T05:29:21.695776+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -360,12 +360,12 @@
         "Peach Iced-tea"
       ],
       "price": "23,000원",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:34:58.837526+00:00",
+      "scraped_at": "2026-05-29T05:29:21.695783+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -387,12 +387,12 @@
         "White Peach"
       ],
       "price": "23000",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:34:58.837531+00:00",
+      "scraped_at": "2026-05-29T05:29:21.695790+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -414,12 +414,12 @@
         "Acacia Honey"
       ],
       "price": "26000",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:34:58.837537+00:00",
+      "scraped_at": "2026-05-29T05:29:21.695797+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -442,12 +442,12 @@
         "Earl-grey"
       ],
       "price": "26000",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:34:58.837542+00:00",
+      "scraped_at": "2026-05-29T05:29:21.695804+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -470,12 +470,12 @@
         "Rooibos-tea"
       ],
       "price": "19500",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:34:58.837547+00:00",
+      "scraped_at": "2026-05-29T05:29:21.695810+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -498,12 +498,12 @@
         "Honey"
       ],
       "price": "21500",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:34:58.837552+00:00",
+      "scraped_at": "2026-05-29T05:29:21.695816+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -525,12 +525,12 @@
         "Cane-sugar"
       ],
       "price": "65,000원",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:34:58.837661+00:00",
+      "scraped_at": "2026-05-29T05:29:21.695933+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -554,12 +554,12 @@
         "Caramel"
       ],
       "price": "25500",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:03.739088+00:00",
+      "scraped_at": "2026-05-29T05:29:26.814013+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -583,12 +583,12 @@
         "Silky Body"
       ],
       "price": "17,700 KRW",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:03.739113+00:00",
+      "scraped_at": "2026-05-29T05:29:26.814041+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -613,12 +613,12 @@
         "Silky body"
       ],
       "price": "16,800원",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:03.739131+00:00",
+      "scraped_at": "2026-05-29T05:29:26.814067+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -643,12 +643,12 @@
         "Milky body"
       ],
       "price": "21000",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:03.739138+00:00",
+      "scraped_at": "2026-05-29T05:29:26.814077+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -672,12 +672,12 @@
         "Silky body"
       ],
       "price": "16700",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:03.739145+00:00",
+      "scraped_at": "2026-05-29T05:29:26.814085+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -702,12 +702,12 @@
         "Milky body"
       ],
       "price": "20,000 KRW",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:03.739150+00:00",
+      "scraped_at": "2026-05-29T05:29:26.814092+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -732,12 +732,12 @@
         "Silky body"
       ],
       "price": "15,800 KRW",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:03.739156+00:00",
+      "scraped_at": "2026-05-29T05:29:26.814100+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -754,12 +754,12 @@
       "grade": "G2",
       "cup_notes": [],
       "price": "0",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:08.994068+00:00",
+      "scraped_at": "2026-05-29T05:29:33.319076+00:00",
       "added_at": "2026-05-28"
     },
     {
@@ -776,12 +776,12 @@
       "grade": "G1",
       "cup_notes": [],
       "price": "0",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:08.994091+00:00",
+      "scraped_at": "2026-05-29T05:29:33.319102+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -798,12 +798,12 @@
       "grade": "G1",
       "cup_notes": [],
       "price": "0",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:08.994100+00:00",
+      "scraped_at": "2026-05-29T05:29:33.319115+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -825,12 +825,12 @@
         "Black Tea"
       ],
       "price": "26,000 KRW",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:08.994107+00:00",
+      "scraped_at": "2026-05-29T05:29:33.319125+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -852,12 +852,12 @@
         "Chocolate"
       ],
       "price": "26,500",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:08.994113+00:00",
+      "scraped_at": "2026-05-29T05:29:33.319135+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -879,12 +879,12 @@
         "Caramel"
       ],
       "price": "19500",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:08.994120+00:00",
+      "scraped_at": "2026-05-29T05:29:33.319145+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -901,12 +901,12 @@
       "grade": "G1",
       "cup_notes": [],
       "price": "0 원",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:08.994126+00:00",
+      "scraped_at": "2026-05-29T05:29:33.319154+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -923,12 +923,12 @@
       "grade": "G1",
       "cup_notes": [],
       "price": "0",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:08.994132+00:00",
+      "scraped_at": "2026-05-29T05:29:33.319165+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -950,12 +950,12 @@
         "Milk Chocolate"
       ],
       "price": "19,000 KRW",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:08.994138+00:00",
+      "scraped_at": "2026-05-29T05:29:33.319174+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -977,12 +977,12 @@
         "Heavy Body"
       ],
       "price": "16500",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:08.994144+00:00",
+      "scraped_at": "2026-05-29T05:29:33.319184+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1004,12 +1004,12 @@
         "Milk Chocolate"
       ],
       "price": "19000",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:08.994149+00:00",
+      "scraped_at": "2026-05-29T05:29:33.319193+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1026,12 +1026,12 @@
       "grade": "G1",
       "cup_notes": [],
       "price": null,
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:08.994156+00:00",
+      "scraped_at": "2026-05-29T05:29:33.319203+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1054,12 +1054,12 @@
         "Milk Chocolate"
       ],
       "price": "23,000 원",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:14.374228+00:00",
+      "scraped_at": "2026-05-29T05:29:39.393379+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1086,12 +1086,12 @@
         "Chocolate"
       ],
       "price": "23,000 Won",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:14.374251+00:00",
+      "scraped_at": "2026-05-29T05:29:39.393405+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1115,12 +1115,12 @@
         "Brown Sugar"
       ],
       "price": "16800",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:14.374258+00:00",
+      "scraped_at": "2026-05-29T05:29:39.393416+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1143,12 +1143,12 @@
         "Brown Sugar"
       ],
       "price": "13000",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:14.374265+00:00",
+      "scraped_at": "2026-05-29T05:29:39.393427+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1172,12 +1172,12 @@
         "Long Aftertaste"
       ],
       "price": "60000",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:14.374273+00:00",
+      "scraped_at": "2026-05-29T05:29:39.393440+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1200,12 +1200,12 @@
         "Tea Like"
       ],
       "price": null,
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:14.374280+00:00",
+      "scraped_at": "2026-05-29T05:29:39.393450+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1229,12 +1229,12 @@
         "Tropical Fruits"
       ],
       "price": "23000",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:14.374286+00:00",
+      "scraped_at": "2026-05-29T05:29:39.393459+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1257,12 +1257,12 @@
         "Good Structure"
       ],
       "price": "23,000 원",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:14.374292+00:00",
+      "scraped_at": "2026-05-29T05:29:39.393507+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1285,12 +1285,12 @@
         "Mandarin"
       ],
       "price": "20000",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:14.374298+00:00",
+      "scraped_at": "2026-05-29T05:29:39.393518+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1312,12 +1312,12 @@
         "Floral"
       ],
       "price": "13000",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:14.374304+00:00",
+      "scraped_at": "2026-05-29T05:29:39.393528+00:00",
       "added_at": "2026-05-26"
     },
     {
@@ -1334,12 +1334,12 @@
       "grade": "G2",
       "cup_notes": [],
       "price": null,
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:20.362834+00:00",
+      "scraped_at": "2026-05-29T05:29:45.763083+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1360,12 +1360,12 @@
         "Nectarine"
       ],
       "price": "20,300",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:39.659049+00:00",
+      "scraped_at": "2026-05-29T05:29:55.866307+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1386,12 +1386,12 @@
         "Sweet Potato"
       ],
       "price": "19,300",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:39.659072+00:00",
+      "scraped_at": "2026-05-29T05:29:55.866329+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1412,12 +1412,12 @@
         "Plum"
       ],
       "price": "22,300 원",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:39.659081+00:00",
+      "scraped_at": "2026-05-29T05:29:55.866339+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1438,12 +1438,12 @@
         "Apple Cider"
       ],
       "price": "18,300",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:39.659087+00:00",
+      "scraped_at": "2026-05-29T05:29:55.866348+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1464,12 +1464,12 @@
         "Citrus"
       ],
       "price": "19300",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:39.659095+00:00",
+      "scraped_at": "2026-05-29T05:29:55.866357+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1490,12 +1490,12 @@
         "Citrus"
       ],
       "price": "18,300",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:39.659102+00:00",
+      "scraped_at": "2026-05-29T05:29:55.866365+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1516,12 +1516,12 @@
         "Lavender"
       ],
       "price": "20,300원",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:39.659109+00:00",
+      "scraped_at": "2026-05-29T05:29:55.866373+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1542,12 +1542,12 @@
         "Citrus"
       ],
       "price": "22,300 원",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:39.659115+00:00",
+      "scraped_at": "2026-05-29T05:29:55.866380+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1568,12 +1568,12 @@
         "Herbal"
       ],
       "price": "20300",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:39.659122+00:00",
+      "scraped_at": "2026-05-29T05:29:55.866388+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1594,12 +1594,12 @@
         "Sweet Potato"
       ],
       "price": "18,300",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:39.659129+00:00",
+      "scraped_at": "2026-05-29T05:29:55.866397+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1621,12 +1621,12 @@
         "Floral"
       ],
       "price": "26300",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:39.659136+00:00",
+      "scraped_at": "2026-05-29T05:29:55.866406+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1647,12 +1647,12 @@
         "Lime"
       ],
       "price": "22,300 Won",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:39.659142+00:00",
+      "scraped_at": "2026-05-29T05:29:55.866413+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1673,12 +1673,12 @@
         "Earl Grey"
       ],
       "price": "24300",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:39.659148+00:00",
+      "scraped_at": "2026-05-29T05:29:55.866422+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1699,12 +1699,12 @@
         "Floral"
       ],
       "price": "14,300",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:39.659155+00:00",
+      "scraped_at": "2026-05-29T05:29:55.866431+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1725,12 +1725,12 @@
         "Pecan"
       ],
       "price": "20300",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:39.659162+00:00",
+      "scraped_at": "2026-05-29T05:29:55.866439+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1752,12 +1752,12 @@
         "Chocolate"
       ],
       "price": "17800",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:39.659168+00:00",
+      "scraped_at": "2026-05-29T05:29:55.866448+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1778,12 +1778,12 @@
         "Raisin"
       ],
       "price": "26,800",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:39.659173+00:00",
+      "scraped_at": "2026-05-29T05:29:55.866454+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1804,12 +1804,12 @@
         "Clean"
       ],
       "price": "20800",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:39.659178+00:00",
+      "scraped_at": "2026-05-29T05:29:55.866494+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1831,12 +1831,12 @@
         "Clean"
       ],
       "price": "27,300 원",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:39.659183+00:00",
+      "scraped_at": "2026-05-29T05:29:55.866504+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1857,12 +1857,12 @@
         "Mild"
       ],
       "price": "16500",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:39.659189+00:00",
+      "scraped_at": "2026-05-29T05:29:55.866512+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1885,12 +1885,12 @@
         "Floral"
       ],
       "price": "29,800",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:39.659196+00:00",
+      "scraped_at": "2026-05-29T05:29:55.866520+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1912,12 +1912,12 @@
         "Dark Chocolate"
       ],
       "price": "14100",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:42.541460+00:00",
+      "scraped_at": "2026-05-29T05:29:59.562581+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1936,12 +1936,12 @@
         "Fruity"
       ],
       "price": "16200",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:42.541480+00:00",
+      "scraped_at": "2026-05-29T05:29:59.562607+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1963,12 +1963,12 @@
         "Cane Sugar"
       ],
       "price": "21800",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:42.541487+00:00",
+      "scraped_at": "2026-05-29T05:29:59.562616+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1990,12 +1990,12 @@
         "Dark Chocolate"
       ],
       "price": "22,200원",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:42.541494+00:00",
+      "scraped_at": "2026-05-29T05:29:59.562624+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2017,12 +2017,12 @@
         "Jasmine"
       ],
       "price": "22900",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:42.541507+00:00",
+      "scraped_at": "2026-05-29T05:29:59.562638+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2041,12 +2041,12 @@
         "Strawberry"
       ],
       "price": "23400",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:42.541516+00:00",
+      "scraped_at": "2026-05-29T05:29:59.562647+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2068,12 +2068,12 @@
         "Brown Sugar"
       ],
       "price": "22,200",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:42.541524+00:00",
+      "scraped_at": "2026-05-29T05:29:59.562656+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2095,12 +2095,12 @@
         "Dark Chocolate"
       ],
       "price": "18600",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:42.541530+00:00",
+      "scraped_at": "2026-05-29T05:29:59.562664+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2122,12 +2122,12 @@
         "Honey"
       ],
       "price": "18600",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:42.541536+00:00",
+      "scraped_at": "2026-05-29T05:29:59.562671+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2149,12 +2149,12 @@
         "Syrup"
       ],
       "price": "22,200",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:42.541542+00:00",
+      "scraped_at": "2026-05-29T05:29:59.562678+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2176,12 +2176,12 @@
         "Orange Zest"
       ],
       "price": "22200",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:42.541547+00:00",
+      "scraped_at": "2026-05-29T05:29:59.562685+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2203,12 +2203,12 @@
         "Orange"
       ],
       "price": "21900",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:42.541553+00:00",
+      "scraped_at": "2026-05-29T05:29:59.562693+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2230,12 +2230,12 @@
         "Blueberry"
       ],
       "price": "17,500원",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:42.541560+00:00",
+      "scraped_at": "2026-05-29T05:29:59.562701+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2258,12 +2258,12 @@
         "Cacao Nibs"
       ],
       "price": "15800",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:42.541565+00:00",
+      "scraped_at": "2026-05-29T05:29:59.562707+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2285,12 +2285,12 @@
         "Apricot"
       ],
       "price": "22900",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:42.541571+00:00",
+      "scraped_at": "2026-05-29T05:29:59.562715+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2312,12 +2312,12 @@
         "Coconut"
       ],
       "price": "23,400원",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:42.541577+00:00",
+      "scraped_at": "2026-05-29T05:29:59.562722+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2339,12 +2339,12 @@
         "Coconut"
       ],
       "price": "18,600",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:42.541582+00:00",
+      "scraped_at": "2026-05-29T05:29:59.562728+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2366,12 +2366,12 @@
         "Dark Chocolate"
       ],
       "price": "21,800 KRW",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:42.541588+00:00",
+      "scraped_at": "2026-05-29T05:29:59.562736+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2393,12 +2393,12 @@
         "Cacao Nibs"
       ],
       "price": "22,900원",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:42.541593+00:00",
+      "scraped_at": "2026-05-29T05:29:59.562743+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2420,12 +2420,12 @@
         "Dark Chocolate"
       ],
       "price": "21,800원",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:42.541599+00:00",
+      "scraped_at": "2026-05-29T05:29:59.562749+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2447,12 +2447,12 @@
         "Honey"
       ],
       "price": "18200",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:42.541605+00:00",
+      "scraped_at": "2026-05-29T05:29:59.562756+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2474,12 +2474,12 @@
         "Cane Sugar"
       ],
       "price": "20,800 KRW/kg",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:42.541613+00:00",
+      "scraped_at": "2026-05-29T05:29:59.562767+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2496,13 +2496,289 @@
       "grade": "AFCA TOH 2nd",
       "cup_notes": [],
       "price": "15400",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:42.541621+00:00",
+      "scraped_at": "2026-05-29T05:29:59.562777+00:00",
       "added_at": "2026-05-24"
+    },
+    {
+      "vendor": "ayantu",
+      "url": "https://ayantu.co.kr/?idx=360",
+      "raw_name": "에티오피아 생두 곤조베 사무엘 내추럴",
+      "origin": "Ethiopia",
+      "region": "Sidama, Bensa, Bumbe",
+      "farm": "Gonjobe Samuel",
+      "producer": "Samuel Zerihun",
+      "altitude": "2,000-2,200m",
+      "variety": "Heirloom",
+      "process": "Natural",
+      "grade": null,
+      "cup_notes": [
+        "Honey",
+        "Jam",
+        "Lime",
+        "Floral"
+      ],
+      "price": "38,000 KRW",
+      "in_stock": null,
+      "moisture": null,
+      "density": null,
+      "score": null,
+      "arrival": null,
+      "scraped_at": "2026-05-29T05:31:19.864076+00:00",
+      "added_at": "2026-05-24"
+    },
+    {
+      "vendor": "ayantu",
+      "url": "https://ayantu.co.kr/?idx=358",
+      "raw_name": "에티오피아 생두 바샤 봄베 내추럴",
+      "origin": "Ethiopia",
+      "region": "Sidama",
+      "farm": "Bensa Bombe",
+      "producer": "Basha Bombe",
+      "altitude": "2,000m",
+      "variety": "Heirloom",
+      "process": "Natural",
+      "grade": "G1",
+      "cup_notes": [
+        "Acacia honey",
+        "Green apple",
+        "Honey"
+      ],
+      "price": "38,000원",
+      "in_stock": null,
+      "moisture": null,
+      "density": null,
+      "score": null,
+      "arrival": null,
+      "scraped_at": "2026-05-29T05:31:19.864097+00:00",
+      "added_at": "2026-05-24"
+    },
+    {
+      "vendor": "ayantu",
+      "url": "https://ayantu.co.kr/?idx=202",
+      "raw_name": "에티오피아 생두 물루게타 문타샤 워시드",
+      "origin": "Ethiopia",
+      "region": "Guji",
+      "farm": "Mulugeta Muntasha",
+      "producer": null,
+      "altitude": "2,200m",
+      "variety": "Ethiopian Heirloom",
+      "process": "Washed",
+      "grade": null,
+      "cup_notes": [
+        "Blueberry",
+        "Jasmine",
+        "Peach",
+        "Honey",
+        "Sugarcane"
+      ],
+      "price": "38800",
+      "in_stock": null,
+      "moisture": null,
+      "density": null,
+      "score": null,
+      "arrival": null,
+      "scraped_at": "2026-05-29T05:31:19.864107+00:00",
+      "added_at": "2026-05-24"
+    },
+    {
+      "vendor": "ayantu",
+      "url": "https://ayantu.co.kr/?idx=310",
+      "raw_name": "에티오피아 생두 물루게타문타샤 피베리 내추럴",
+      "origin": "Ethiopia",
+      "region": "Sidama, Guji",
+      "farm": "Mulugeta Muntasaha",
+      "producer": "Mulugeta Muntasaha",
+      "altitude": "2,200m",
+      "variety": "Peaberry",
+      "process": "Natural",
+      "grade": null,
+      "cup_notes": [
+        "Blueberry",
+        "Jasmine",
+        "Peach",
+        "Orange",
+        "Honey"
+      ],
+      "price": "68,800 KRW",
+      "in_stock": null,
+      "moisture": null,
+      "density": null,
+      "score": null,
+      "arrival": null,
+      "scraped_at": "2026-05-29T05:31:19.864118+00:00",
+      "added_at": "2026-05-24"
+    },
+    {
+      "vendor": "ayantu",
+      "url": "https://ayantu.co.kr/?idx=195",
+      "raw_name": "에티오피아 생두 물루게타문타샤 무산소",
+      "origin": "Ethiopia",
+      "region": "Sidama",
+      "farm": "Muntasha Washing Station",
+      "producer": "Mulugeta Muntasha",
+      "altitude": "Over 2000m",
+      "variety": "Ethiopian Heirloom",
+      "process": "Anaerobic",
+      "grade": null,
+      "cup_notes": [
+        "Blueberry",
+        "Jasmine",
+        "Peach",
+        "Honey",
+        "Tropical Fruit",
+        "Winey"
+      ],
+      "price": "68800",
+      "in_stock": null,
+      "moisture": null,
+      "density": null,
+      "score": null,
+      "arrival": null,
+      "scraped_at": "2026-05-29T05:31:19.864126+00:00",
+      "added_at": "2026-05-24"
+    },
+    {
+      "vendor": "ayantu",
+      "url": "https://ayantu.co.kr/?idx=312",
+      "raw_name": "에티오피아 생두 바샤베켈레 곤조베 내추럴",
+      "origin": "Ethiopia",
+      "region": "Bashabekele Gonzobe",
+      "farm": "Bashabekele Gonjobe",
+      "producer": null,
+      "altitude": null,
+      "variety": "Ethiopian Heirloom",
+      "process": "Natural",
+      "grade": null,
+      "cup_notes": [
+        "Blueberry",
+        "Jasmine",
+        "Peach",
+        "Orange",
+        "Pineapple",
+        "Honey",
+        "Citrus"
+      ],
+      "price": "68,800",
+      "in_stock": null,
+      "moisture": null,
+      "density": null,
+      "score": null,
+      "arrival": null,
+      "scraped_at": "2026-05-29T05:31:19.864134+00:00",
+      "added_at": "2026-05-24"
+    },
+    {
+      "vendor": "ayantu",
+      "url": "https://ayantu.co.kr/?idx=313",
+      "raw_name": "에티오피아 생두 바샤베켈레 곤조베 내추럴허니",
+      "origin": "Ethiopia",
+      "region": "Basha Bekele Gonzo Be",
+      "farm": "Basha Bekele Gonzo Be",
+      "producer": "Gonjobe",
+      "altitude": "2,000m",
+      "variety": "Ethiopian Heirloom",
+      "process": "Honey",
+      "grade": null,
+      "cup_notes": [
+        "Berry",
+        "Jasmine",
+        "Honey",
+        "Molasses"
+      ],
+      "price": "66,800원",
+      "in_stock": null,
+      "moisture": null,
+      "density": null,
+      "score": null,
+      "arrival": null,
+      "scraped_at": "2026-05-29T05:31:19.864142+00:00",
+      "added_at": "2026-05-24"
+    },
+    {
+      "vendor": "ayantu",
+      "url": "https://ayantu.co.kr/?idx=314",
+      "raw_name": "에티오피아 생두 바샤베켈레 무라고 내추럴",
+      "origin": "Ethiopia",
+      "region": "Sidama Bashabekele",
+      "farm": "Bashabekele Murago",
+      "producer": "Murago Washing Station",
+      "altitude": "2,000m - 2,200m",
+      "variety": "Ethiopian Heirloom",
+      "process": "Natural",
+      "grade": null,
+      "cup_notes": [
+        "Orange",
+        "Blueberry",
+        "Jasmine",
+        "Earl Grey"
+      ],
+      "price": "55,800 KRW",
+      "in_stock": null,
+      "moisture": null,
+      "density": null,
+      "score": null,
+      "arrival": null,
+      "scraped_at": "2026-05-29T05:31:19.864150+00:00",
+      "added_at": "2026-05-24"
+    },
+    {
+      "vendor": "ayantu",
+      "url": "https://ayantu.co.kr/?idx=315",
+      "raw_name": "에티오피아 생두 발레 내추럴",
+      "origin": "Ethiopia",
+      "region": "Bale",
+      "farm": null,
+      "producer": null,
+      "altitude": "1,900-2,300m",
+      "variety": "Heirloom",
+      "process": "Natural",
+      "grade": "G4",
+      "cup_notes": [
+        "Floral",
+        "Fruit",
+        "Malt-Barley",
+        "Sweet",
+        "Clean"
+      ],
+      "price": "13,800원",
+      "in_stock": null,
+      "moisture": null,
+      "density": null,
+      "score": null,
+      "arrival": null,
+      "scraped_at": "2026-05-29T05:31:19.864159+00:00",
+      "added_at": "2026-05-24"
+    },
+    {
+      "vendor": "ayantu",
+      "url": "https://ayantu.co.kr/?idx=346",
+      "raw_name": "에티오피아 생두 시다마 내추럴",
+      "origin": "Ethiopia",
+      "region": "Sidama",
+      "farm": null,
+      "producer": null,
+      "altitude": "1,700m ~ 1,900m",
+      "variety": "Heirloom",
+      "process": "Natural",
+      "grade": "G1",
+      "cup_notes": [
+        "Black tea",
+        "Brown sugar",
+        "Orange blossom"
+      ],
+      "price": "15800",
+      "in_stock": null,
+      "moisture": null,
+      "density": null,
+      "score": null,
+      "arrival": null,
+      "scraped_at": "2026-05-29T05:31:19.864167+00:00",
+      "added_at": "2026-05-26"
     },
     {
       "vendor": "momos",
@@ -2524,12 +2800,12 @@
         "Mild"
       ],
       "price": "22000",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:53.694065+00:00",
+      "scraped_at": "2026-05-29T05:31:27.383714+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2552,12 +2828,12 @@
         "Orange-citrus"
       ],
       "price": "24500",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:53.694099+00:00",
+      "scraped_at": "2026-05-29T05:31:27.383752+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2581,12 +2857,12 @@
         "Perfumy"
       ],
       "price": "120000",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:53.694108+00:00",
+      "scraped_at": "2026-05-29T05:31:27.383765+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2608,12 +2884,12 @@
         "Stone-fruit"
       ],
       "price": "25500",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:53.694116+00:00",
+      "scraped_at": "2026-05-29T05:31:27.383776+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2635,12 +2911,12 @@
         "Candy-sweet"
       ],
       "price": "33000",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:53.694125+00:00",
+      "scraped_at": "2026-05-29T05:31:27.383789+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2663,12 +2939,12 @@
         "Crisp"
       ],
       "price": "70,000 KRW",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:53.694133+00:00",
+      "scraped_at": "2026-05-29T05:31:27.383812+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2690,12 +2966,12 @@
         "Black-tea"
       ],
       "price": "24500",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:53.694140+00:00",
+      "scraped_at": "2026-05-29T05:31:27.383823+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2718,12 +2994,12 @@
         "Osmanthus"
       ],
       "price": "54,000 KRW",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:53.694147+00:00",
+      "scraped_at": "2026-05-29T05:31:27.383833+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2746,12 +3022,12 @@
         "Balance"
       ],
       "price": "30000",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:53.694155+00:00",
+      "scraped_at": "2026-05-29T05:31:27.383846+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2774,12 +3050,12 @@
         "Juicy"
       ],
       "price": "90000",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:53.694162+00:00",
+      "scraped_at": "2026-05-29T05:31:27.383855+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2801,12 +3077,12 @@
         "Papaya"
       ],
       "price": "120,000 KRW",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:53.694168+00:00",
+      "scraped_at": "2026-05-29T05:31:27.383865+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2828,12 +3104,12 @@
         "Aloe"
       ],
       "price": "70000",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:53.694175+00:00",
+      "scraped_at": "2026-05-29T05:31:27.383874+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2855,12 +3131,12 @@
         "Clean"
       ],
       "price": "35,000 KRW",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:53.694181+00:00",
+      "scraped_at": "2026-05-29T05:31:27.383883+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2884,12 +3160,12 @@
         "Persimmon"
       ],
       "price": "28,000원",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:53.694187+00:00",
+      "scraped_at": "2026-05-29T05:31:27.383893+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2912,12 +3188,12 @@
         "Chocolate"
       ],
       "price": "23,000원",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:53.694193+00:00",
+      "scraped_at": "2026-05-29T05:31:27.383901+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2941,12 +3217,12 @@
         "White Flower"
       ],
       "price": "175000",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:53.694199+00:00",
+      "scraped_at": "2026-05-29T05:31:27.383911+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2969,12 +3245,12 @@
         "Apple-juice"
       ],
       "price": "175000",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:53.694207+00:00",
+      "scraped_at": "2026-05-29T05:31:27.383922+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2996,12 +3272,12 @@
         "Dark-plum"
       ],
       "price": "175000",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:53.694215+00:00",
+      "scraped_at": "2026-05-29T05:31:27.383935+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3024,12 +3300,12 @@
         "Vanilla"
       ],
       "price": "195,000원",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:53.694223+00:00",
+      "scraped_at": "2026-05-29T05:31:27.383946+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3051,12 +3327,12 @@
         "Cocktail-cherry"
       ],
       "price": "125000",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:53.694231+00:00",
+      "scraped_at": "2026-05-29T05:31:27.383958+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3080,12 +3356,12 @@
         "Milky"
       ],
       "price": "78000",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:53.694237+00:00",
+      "scraped_at": "2026-05-29T05:31:27.383968+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3108,12 +3384,12 @@
         "Jujube"
       ],
       "price": "57,000 KRW",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:53.694245+00:00",
+      "scraped_at": "2026-05-29T05:31:27.383980+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3137,12 +3413,12 @@
         "Perfumy"
       ],
       "price": "48000",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:53.694251+00:00",
+      "scraped_at": "2026-05-29T05:31:27.383992+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3165,12 +3441,12 @@
         "Honey"
       ],
       "price": "58000",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:53.694257+00:00",
+      "scraped_at": "2026-05-29T05:31:27.384001+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3192,12 +3468,12 @@
         "Body"
       ],
       "price": "17500",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:53.694264+00:00",
+      "scraped_at": "2026-05-29T05:31:27.384013+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3221,12 +3497,12 @@
         "Creamy"
       ],
       "price": "30,500 KRW",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:57.804631+00:00",
+      "scraped_at": "2026-05-29T05:31:32.748821+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3251,12 +3527,12 @@
         "Juicy"
       ],
       "price": "28,500 KRW",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:57.804657+00:00",
+      "scraped_at": "2026-05-29T05:31:32.748850+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3281,12 +3557,12 @@
         "Floral"
       ],
       "price": "678,500 KRW (24kg Box)",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:57.804667+00:00",
+      "scraped_at": "2026-05-29T05:31:32.748864+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3310,12 +3586,12 @@
         "Condensed Milk"
       ],
       "price": "31,800원",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:57.804683+00:00",
+      "scraped_at": "2026-05-29T05:31:32.748884+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3339,12 +3615,12 @@
         "Creamy"
       ],
       "price": "31,800 KRW",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:57.804692+00:00",
+      "scraped_at": "2026-05-29T05:31:32.748898+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3368,12 +3644,12 @@
         "Maple Syrup"
       ],
       "price": "47600",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:57.804700+00:00",
+      "scraped_at": "2026-05-29T05:31:32.748910+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3397,12 +3673,12 @@
         "Kyoho Grape"
       ],
       "price": "42,800 KRW",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:57.804708+00:00",
+      "scraped_at": "2026-05-29T05:31:32.748920+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3427,12 +3703,12 @@
         "Syrupy"
       ],
       "price": "19800",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:35:57.804715+00:00",
+      "scraped_at": "2026-05-29T05:31:32.748931+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3454,12 +3730,12 @@
         "Black Tea"
       ],
       "price": "25500",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:03.882223+00:00",
+      "scraped_at": "2026-05-29T05:31:39.970273+00:00",
       "added_at": "2026-05-26"
     },
     {
@@ -3481,12 +3757,12 @@
         "Chocolate"
       ],
       "price": "26,500",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:03.882246+00:00",
+      "scraped_at": "2026-05-29T05:31:39.970300+00:00",
       "added_at": "2026-05-26"
     },
     {
@@ -3507,12 +3783,12 @@
         "Milk Chocolate"
       ],
       "price": "45,500 원",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:03.882255+00:00",
+      "scraped_at": "2026-05-29T05:31:39.970313+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3533,13 +3809,39 @@
         "Earl Grey"
       ],
       "price": "45,500 원",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:03.882262+00:00",
+      "scraped_at": "2026-05-29T05:31:39.970324+00:00",
       "added_at": "2026-05-24"
+    },
+    {
+      "vendor": "micoffee",
+      "url": "https://www.micoffee.co.kr/goods/goods_view.php?goodsNo=1000007471",
+      "raw_name": "[신규입고] 콜롬비아 엘 엔칸토 카투라 워시드 룰로",
+      "origin": "Colombia",
+      "region": "Armenia, Quindio",
+      "farm": "El Encanto",
+      "producer": "Felipe Arcila",
+      "altitude": "1,400~1,450m",
+      "variety": "Caturra",
+      "process": "Washed",
+      "grade": null,
+      "cup_notes": [
+        "Lulo",
+        "Strawberry",
+        "Pineapple"
+      ],
+      "price": "45,500",
+      "in_stock": null,
+      "moisture": null,
+      "density": null,
+      "score": null,
+      "arrival": null,
+      "scraped_at": "2026-05-29T05:31:39.970336+00:00",
+      "added_at": "2026-05-29"
     },
     {
       "vendor": "micoffee",
@@ -3559,12 +3861,12 @@
         "Juicy"
       ],
       "price": "45500",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:03.882270+00:00",
+      "scraped_at": "2026-05-29T05:31:39.970346+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3586,12 +3888,12 @@
         "Chocolate"
       ],
       "price": "21000",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:03.882278+00:00",
+      "scraped_at": "2026-05-29T05:31:39.970357+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3613,12 +3915,12 @@
         "Milk Chocolate"
       ],
       "price": "24,500",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:03.882284+00:00",
+      "scraped_at": "2026-05-29T05:31:39.970368+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3641,12 +3943,12 @@
         "Chocolate"
       ],
       "price": "49750",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:03.882293+00:00",
+      "scraped_at": "2026-05-29T05:31:39.970382+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3668,12 +3970,12 @@
         "Chocolate"
       ],
       "price": "24500",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:03.882300+00:00",
+      "scraped_at": "2026-05-29T05:31:39.970392+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3695,12 +3997,12 @@
         "Dark Chocolate"
       ],
       "price": "24500",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:03.882306+00:00",
+      "scraped_at": "2026-05-29T05:31:39.970402+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3722,12 +4024,12 @@
         "Milk Chocolate"
       ],
       "price": "25,500 원",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:03.882314+00:00",
+      "scraped_at": "2026-05-29T05:31:39.970414+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3750,12 +4052,12 @@
         "Complex"
       ],
       "price": "430,000",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:03.882321+00:00",
+      "scraped_at": "2026-05-29T05:31:39.970424+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3776,12 +4078,12 @@
         "Brown Sugar"
       ],
       "price": "54,800 원",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:03.882328+00:00",
+      "scraped_at": "2026-05-29T05:31:39.970434+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3803,12 +4105,12 @@
         "Wine"
       ],
       "price": "52,500 원",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:03.882335+00:00",
+      "scraped_at": "2026-05-29T05:31:39.970446+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3830,12 +4132,12 @@
         "Chocolate"
       ],
       "price": "34,000 KRW",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:03.882343+00:00",
+      "scraped_at": "2026-05-29T05:31:39.970459+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3858,12 +4160,12 @@
         "Chocolate"
       ],
       "price": "105,000 KRW",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:03.882350+00:00",
+      "scraped_at": "2026-05-29T05:31:39.970501+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3886,12 +4188,12 @@
         "Cognac"
       ],
       "price": "131,000 원",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:03.882357+00:00",
+      "scraped_at": "2026-05-29T05:31:39.970514+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3913,12 +4215,12 @@
         "Roasted Nuts"
       ],
       "price": "25500",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:03.882363+00:00",
+      "scraped_at": "2026-05-29T05:31:39.970522+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3940,12 +4242,12 @@
         "Caramel"
       ],
       "price": "21000",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:03.882370+00:00",
+      "scraped_at": "2026-05-29T05:31:39.970532+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3967,12 +4269,12 @@
         "Brown Sugar"
       ],
       "price": null,
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:03.882377+00:00",
+      "scraped_at": "2026-05-29T05:31:39.970554+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3994,12 +4296,12 @@
         "Cacao"
       ],
       "price": "19000",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:03.882383+00:00",
+      "scraped_at": "2026-05-29T05:31:39.970564+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4022,12 +4324,12 @@
         "Full Body"
       ],
       "price": "22800",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:09.021423+00:00",
+      "scraped_at": "2026-05-29T05:31:45.969928+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4056,12 +4358,12 @@
         "Long Aftertaste"
       ],
       "price": "18000",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:09.021448+00:00",
+      "scraped_at": "2026-05-29T05:31:45.969955+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4082,12 +4384,12 @@
         "Nuts"
       ],
       "price": null,
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:09.021455+00:00",
+      "scraped_at": "2026-05-29T05:31:45.969963+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4111,12 +4413,12 @@
         "Full Body"
       ],
       "price": "19000",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:09.021462+00:00",
+      "scraped_at": "2026-05-29T05:31:45.969972+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4147,12 +4449,12 @@
         "Sparkling finish"
       ],
       "price": "35000",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:09.021472+00:00",
+      "scraped_at": "2026-05-29T05:31:45.969984+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4171,12 +4473,12 @@
         "Red Fruits"
       ],
       "price": "52000",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:09.021479+00:00",
+      "scraped_at": "2026-05-29T05:31:45.969994+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4198,12 +4500,12 @@
         "Sugar Cane"
       ],
       "price": "16000",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:09.021486+00:00",
+      "scraped_at": "2026-05-29T05:31:45.970003+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4226,12 +4528,12 @@
         "Eucalyptus"
       ],
       "price": "85000",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:09.021492+00:00",
+      "scraped_at": "2026-05-29T05:31:45.970011+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4255,12 +4557,12 @@
         "Pine"
       ],
       "price": "85000",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:09.021498+00:00",
+      "scraped_at": "2026-05-29T05:31:45.970019+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4284,12 +4586,12 @@
         "Clean"
       ],
       "price": "25000",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:09.021504+00:00",
+      "scraped_at": "2026-05-29T05:31:45.970027+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4312,12 +4614,12 @@
         "Clean Finish"
       ],
       "price": "15500",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:09.021512+00:00",
+      "scraped_at": "2026-05-29T05:31:45.970035+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4341,12 +4643,12 @@
         "Nutty Finish"
       ],
       "price": "15500",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:09.021518+00:00",
+      "scraped_at": "2026-05-29T05:31:45.970042+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4368,12 +4670,12 @@
         "Blackberry"
       ],
       "price": "0",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:24.683156+00:00",
+      "scraped_at": "2026-05-29T05:31:58.597964+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4392,12 +4694,12 @@
         "Irish Cream"
       ],
       "price": "0",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:24.683180+00:00",
+      "scraped_at": "2026-05-29T05:31:58.597987+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4416,12 +4718,12 @@
         "Cherry"
       ],
       "price": "0",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:24.683188+00:00",
+      "scraped_at": "2026-05-29T05:31:58.597997+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4440,12 +4742,12 @@
         "Soursop"
       ],
       "price": "0",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:24.683196+00:00",
+      "scraped_at": "2026-05-29T05:31:58.598006+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4464,12 +4766,12 @@
         "Apricot"
       ],
       "price": "0",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:24.683202+00:00",
+      "scraped_at": "2026-05-29T05:31:58.598013+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4488,12 +4790,12 @@
         "Blueberry"
       ],
       "price": "0 Won",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:24.683208+00:00",
+      "scraped_at": "2026-05-29T05:31:58.598021+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4512,12 +4814,12 @@
         "Coconut"
       ],
       "price": "0",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:24.683215+00:00",
+      "scraped_at": "2026-05-29T05:31:58.598029+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4536,12 +4838,12 @@
         "Watermelon"
       ],
       "price": "0",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:24.683221+00:00",
+      "scraped_at": "2026-05-29T05:31:58.598036+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4560,12 +4862,12 @@
         "Lychee"
       ],
       "price": "0",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:24.683228+00:00",
+      "scraped_at": "2026-05-29T05:31:58.598044+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4584,12 +4886,12 @@
         "Strawberry"
       ],
       "price": "0 원",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:24.683235+00:00",
+      "scraped_at": "2026-05-29T05:31:58.598051+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4608,12 +4910,12 @@
         "Peach"
       ],
       "price": "0",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:24.683241+00:00",
+      "scraped_at": "2026-05-29T05:31:58.598059+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4634,12 +4936,12 @@
         "Chocolate"
       ],
       "price": "17000",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:24.683248+00:00",
+      "scraped_at": "2026-05-29T05:31:58.598068+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4660,12 +4962,12 @@
         "Chocolate"
       ],
       "price": "47,300 원",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:24.683256+00:00",
+      "scraped_at": "2026-05-29T05:31:58.598078+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4686,12 +4988,12 @@
         "Floral"
       ],
       "price": "39,300 원",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:24.683263+00:00",
+      "scraped_at": "2026-05-29T05:31:58.598086+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4713,12 +5015,12 @@
         "Cedar"
       ],
       "price": "58,300 원",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:24.683280+00:00",
+      "scraped_at": "2026-05-29T05:31:58.598105+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4742,12 +5044,12 @@
         "Medium Body"
       ],
       "price": "21,300",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:24.683286+00:00",
+      "scraped_at": "2026-05-29T05:31:58.598113+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4768,12 +5070,12 @@
         "Herb"
       ],
       "price": "38,800",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:24.683294+00:00",
+      "scraped_at": "2026-05-29T05:31:58.598123+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4795,12 +5097,12 @@
         "Tropical Fruit"
       ],
       "price": "40,800",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:24.683302+00:00",
+      "scraped_at": "2026-05-29T05:31:58.598133+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4821,12 +5123,12 @@
         "Toffee Nut"
       ],
       "price": "36,300",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:24.683309+00:00",
+      "scraped_at": "2026-05-29T05:31:58.598144+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4847,12 +5149,12 @@
         "Unique Flavor"
       ],
       "price": "16700",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:27.506638+00:00",
+      "scraped_at": "2026-05-29T05:32:01.975774+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4874,12 +5176,12 @@
         "Cacao Nibs"
       ],
       "price": "15900",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:27.506662+00:00",
+      "scraped_at": "2026-05-29T05:32:01.975796+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4901,12 +5203,12 @@
         "Citrus acidity"
       ],
       "price": "16200",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:27.506671+00:00",
+      "scraped_at": "2026-05-29T05:32:01.975806+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4928,12 +5230,12 @@
         "Herb"
       ],
       "price": "11200",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:27.506679+00:00",
+      "scraped_at": "2026-05-29T05:32:01.975814+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4952,12 +5254,12 @@
         "Rich Peach"
       ],
       "price": "45,000원",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:27.506686+00:00",
+      "scraped_at": "2026-05-29T05:32:01.975823+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4979,12 +5281,12 @@
         "Orange Zest"
       ],
       "price": "17,800원",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:27.506693+00:00",
+      "scraped_at": "2026-05-29T05:32:01.975832+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5007,12 +5309,12 @@
         "Vanilla"
       ],
       "price": "15800",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:27.506700+00:00",
+      "scraped_at": "2026-05-29T05:32:01.975840+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5036,12 +5338,12 @@
         "Grapefruit"
       ],
       "price": "16500",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:27.506707+00:00",
+      "scraped_at": "2026-05-29T05:32:01.975849+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5063,12 +5365,12 @@
         "Brown Sugar"
       ],
       "price": "16400",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:27.506714+00:00",
+      "scraped_at": "2026-05-29T05:32:01.975857+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5090,12 +5392,12 @@
         "Grapefruit"
       ],
       "price": "17800",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:27.506730+00:00",
+      "scraped_at": "2026-05-29T05:32:01.975864+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5115,12 +5417,12 @@
         "Orange"
       ],
       "price": "49000",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:27.506737+00:00",
+      "scraped_at": "2026-05-29T05:32:01.975872+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5139,12 +5441,12 @@
         "Passion Fruit"
       ],
       "price": "45,000원",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:27.506744+00:00",
+      "scraped_at": "2026-05-29T05:32:01.975881+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5166,12 +5468,12 @@
         "Roasted Almonds"
       ],
       "price": "45,000원",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:27.506751+00:00",
+      "scraped_at": "2026-05-29T05:32:01.975891+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5193,12 +5495,12 @@
         "Cream"
       ],
       "price": "51,000 KRW",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:27.506763+00:00",
+      "scraped_at": "2026-05-29T05:32:01.975904+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5217,12 +5519,12 @@
         "Peach"
       ],
       "price": "49000",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:27.506770+00:00",
+      "scraped_at": "2026-05-29T05:32:01.975912+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5241,12 +5543,12 @@
         "Red Fruits"
       ],
       "price": "49000",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:27.506777+00:00",
+      "scraped_at": "2026-05-29T05:32:01.975920+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5266,12 +5568,12 @@
         "Honey"
       ],
       "price": "49,000 KRW",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:27.506783+00:00",
+      "scraped_at": "2026-05-29T05:32:01.975927+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5290,12 +5592,12 @@
         "Mango"
       ],
       "price": "46000",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:27.506790+00:00",
+      "scraped_at": "2026-05-29T05:32:01.975935+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5314,12 +5616,12 @@
         "Passion Fruit"
       ],
       "price": "46000",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:27.506797+00:00",
+      "scraped_at": "2026-05-29T05:32:01.975944+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5341,12 +5643,12 @@
         "Blackberry"
       ],
       "price": "45,000 KRW",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:27.506805+00:00",
+      "scraped_at": "2026-05-29T05:32:01.975952+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5368,12 +5670,12 @@
         "Chamomile"
       ],
       "price": "49000",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:27.506813+00:00",
+      "scraped_at": "2026-05-29T05:32:01.975961+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5395,12 +5697,12 @@
         "Fruity"
       ],
       "price": "52,000원",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:27.506821+00:00",
+      "scraped_at": "2026-05-29T05:32:01.975969+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5422,12 +5724,12 @@
         "Caramel"
       ],
       "price": "35,000 KRW",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:27.506828+00:00",
+      "scraped_at": "2026-05-29T05:32:01.975978+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5449,12 +5751,12 @@
         "Raspberry"
       ],
       "price": "58,000",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:27.506835+00:00",
+      "scraped_at": "2026-05-29T05:32:01.975986+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5476,12 +5778,12 @@
         "Passion Fruit"
       ],
       "price": "52,000 KRW",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:27.506843+00:00",
+      "scraped_at": "2026-05-29T05:32:01.976006+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5503,12 +5805,12 @@
         "Honey"
       ],
       "price": "59,000 KRW",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:27.506850+00:00",
+      "scraped_at": "2026-05-29T05:32:01.976015+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5530,12 +5832,12 @@
         "Roasted Nuts"
       ],
       "price": "17200",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:27.506857+00:00",
+      "scraped_at": "2026-05-29T05:32:01.976023+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5557,12 +5859,12 @@
         "Pistachio"
       ],
       "price": "17200",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:27.506863+00:00",
+      "scraped_at": "2026-05-29T05:32:01.976031+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5584,12 +5886,12 @@
         "Chamomile Tea"
       ],
       "price": "76,000원",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:27.506869+00:00",
+      "scraped_at": "2026-05-29T05:32:01.976040+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5611,12 +5913,12 @@
         "Lime"
       ],
       "price": "68,000 KRW",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:27.506877+00:00",
+      "scraped_at": "2026-05-29T05:32:01.976049+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5638,12 +5940,12 @@
         "Cherry"
       ],
       "price": "52,000",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:27.507037+00:00",
+      "scraped_at": "2026-05-29T05:32:01.976058+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5665,12 +5967,12 @@
         "Dark Chocolate"
       ],
       "price": "18700",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:27.507043+00:00",
+      "scraped_at": "2026-05-29T05:32:01.976065+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5692,12 +5994,12 @@
         "Cacao"
       ],
       "price": "49000",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:27.507050+00:00",
+      "scraped_at": "2026-05-29T05:32:01.976072+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5719,12 +6021,12 @@
         "Cane Sugar"
       ],
       "price": "51,000",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:27.507056+00:00",
+      "scraped_at": "2026-05-29T05:32:01.976079+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5746,12 +6048,12 @@
         "Dark Chocolate"
       ],
       "price": "49000",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:27.507062+00:00",
+      "scraped_at": "2026-05-29T05:32:01.976087+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5773,12 +6075,12 @@
         "Brown Sugar"
       ],
       "price": "20,000",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:27.507068+00:00",
+      "scraped_at": "2026-05-29T05:32:01.976095+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5800,12 +6102,12 @@
         "Cane Sugar"
       ],
       "price": "48000",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:27.507074+00:00",
+      "scraped_at": "2026-05-29T05:32:01.976102+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5828,12 +6130,12 @@
         "Syrup"
       ],
       "price": "26,500 KRW",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:40.381780+00:00",
+      "scraped_at": "2026-05-29T05:33:10.562607+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5857,12 +6159,12 @@
         "Cherry"
       ],
       "price": "26,500 KRW",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:40.381803+00:00",
+      "scraped_at": "2026-05-29T05:33:10.562631+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5890,12 +6192,12 @@
         "Rosemary"
       ],
       "price": "26500",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:40.381812+00:00",
+      "scraped_at": "2026-05-29T05:33:10.562641+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5926,12 +6228,12 @@
         "Black Tea"
       ],
       "price": "26500",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:40.381819+00:00",
+      "scraped_at": "2026-05-29T05:33:10.562650+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5955,12 +6257,12 @@
         "Silky"
       ],
       "price": "768,500 KRW",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:40.381825+00:00",
+      "scraped_at": "2026-05-29T05:33:10.562658+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5988,12 +6290,12 @@
         "Lemon"
       ],
       "price": "26500",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:40.381832+00:00",
+      "scraped_at": "2026-05-29T05:33:10.562667+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6016,12 +6318,12 @@
         "White Peach"
       ],
       "price": "26,500",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:40.381840+00:00",
+      "scraped_at": "2026-05-29T05:33:10.562676+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6044,12 +6346,12 @@
         "Milk Chocolate"
       ],
       "price": "26500",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:40.381847+00:00",
+      "scraped_at": "2026-05-29T05:33:10.562685+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6073,12 +6375,12 @@
         "Honey"
       ],
       "price": "27,000 KRW",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:40.381854+00:00",
+      "scraped_at": "2026-05-29T05:33:10.562694+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6102,12 +6404,12 @@
         "Pomegranate"
       ],
       "price": "19,800 KRW",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:40.381861+00:00",
+      "scraped_at": "2026-05-29T05:33:10.562703+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6131,12 +6433,12 @@
         "Sweet Syrup"
       ],
       "price": "19,800",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:40.381867+00:00",
+      "scraped_at": "2026-05-29T05:33:10.562711+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6160,12 +6462,12 @@
         "Molasses"
       ],
       "price": "18,900 KRW",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:40.381873+00:00",
+      "scraped_at": "2026-05-29T05:33:10.562720+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6189,12 +6491,12 @@
         "Long Aftertaste"
       ],
       "price": "19,800 KRW",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:40.381879+00:00",
+      "scraped_at": "2026-05-29T05:33:10.562728+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6218,12 +6520,12 @@
         "Juicy"
       ],
       "price": "19,800원",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:40.381884+00:00",
+      "scraped_at": "2026-05-29T05:33:10.562736+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6245,12 +6547,12 @@
         "Dark Chocolate"
       ],
       "price": "16,500",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:44.889427+00:00",
+      "scraped_at": "2026-05-29T05:33:17.227197+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6272,12 +6574,12 @@
         "Dark Chocolate"
       ],
       "price": "22000",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:44.889450+00:00",
+      "scraped_at": "2026-05-29T05:33:17.227220+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6301,12 +6603,12 @@
         "Full Body"
       ],
       "price": "20,500",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:49.593225+00:00",
+      "scraped_at": "2026-05-29T05:33:22.766190+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6329,12 +6631,12 @@
         "Silky"
       ],
       "price": "17,500",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:49.593248+00:00",
+      "scraped_at": "2026-05-29T05:33:22.766217+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6358,12 +6660,12 @@
         "Full Body"
       ],
       "price": "17500",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:49.593256+00:00",
+      "scraped_at": "2026-05-29T05:33:22.766229+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6386,12 +6688,12 @@
         "Medium Body"
       ],
       "price": "17000",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:36:49.593263+00:00",
+      "scraped_at": "2026-05-29T05:33:22.766240+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6412,12 +6714,12 @@
         "Fruity"
       ],
       "price": "24800",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:04.888531+00:00",
+      "scraped_at": "2026-05-29T05:33:34.835018+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6438,12 +6740,12 @@
         "Syrupy"
       ],
       "price": "24300",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:04.888553+00:00",
+      "scraped_at": "2026-05-29T05:33:34.835042+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6465,12 +6767,12 @@
         "Sweet Potato"
       ],
       "price": "24,300",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:04.888561+00:00",
+      "scraped_at": "2026-05-29T05:33:34.835052+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6492,12 +6794,12 @@
         "Berry"
       ],
       "price": "24,800",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:04.888569+00:00",
+      "scraped_at": "2026-05-29T05:33:34.835060+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6517,12 +6819,12 @@
         "Heavy body"
       ],
       "price": "18000",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:07.063601+00:00",
+      "scraped_at": "2026-05-29T05:33:37.528311+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6544,12 +6846,12 @@
         "Apricot"
       ],
       "price": "18900",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:07.063624+00:00",
+      "scraped_at": "2026-05-29T05:33:37.528337+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6571,12 +6873,12 @@
         "Orange Zest"
       ],
       "price": "23900",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:07.063632+00:00",
+      "scraped_at": "2026-05-29T05:33:37.528350+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6598,12 +6900,12 @@
         "Apple"
       ],
       "price": "24300",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:07.063640+00:00",
+      "scraped_at": "2026-05-29T05:33:37.528362+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6625,12 +6927,12 @@
         "Cacao Nibs"
       ],
       "price": "19,500원",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:07.063647+00:00",
+      "scraped_at": "2026-05-29T05:33:37.528373+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6652,12 +6954,12 @@
         "Orange Zest"
       ],
       "price": "23,500",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:07.063654+00:00",
+      "scraped_at": "2026-05-29T05:33:37.528385+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6679,12 +6981,12 @@
         "Roasted Almonds"
       ],
       "price": "22,600원",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:07.063661+00:00",
+      "scraped_at": "2026-05-29T05:33:37.528395+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6706,12 +7008,12 @@
         "Walnut"
       ],
       "price": "19900",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:07.063668+00:00",
+      "scraped_at": "2026-05-29T05:33:37.528406+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6733,12 +7035,12 @@
         "Black Tea"
       ],
       "price": "21400",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:07.063675+00:00",
+      "scraped_at": "2026-05-29T05:33:37.528416+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6760,12 +7062,12 @@
         "Milk Chocolate"
       ],
       "price": "21800",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:07.063681+00:00",
+      "scraped_at": "2026-05-29T05:33:37.528425+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6787,12 +7089,12 @@
         "Walnut"
       ],
       "price": "23,900 KRW",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:07.063689+00:00",
+      "scraped_at": "2026-05-29T05:33:37.528435+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6814,12 +7116,12 @@
         "Roasted Almonds"
       ],
       "price": "34,800원",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:07.063696+00:00",
+      "scraped_at": "2026-05-29T05:33:37.528444+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6841,12 +7143,12 @@
         "Raisin"
       ],
       "price": "27,300원",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:07.063702+00:00",
+      "scraped_at": "2026-05-29T05:33:37.528454+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6868,12 +7170,12 @@
         "Molasses"
       ],
       "price": "26400",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:07.063709+00:00",
+      "scraped_at": "2026-05-29T05:33:37.528514+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6896,12 +7198,12 @@
         "Rose-hip"
       ],
       "price": "420000",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:15.214327+00:00",
+      "scraped_at": "2026-05-29T05:34:45.126690+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6923,12 +7225,12 @@
         "Well-balance"
       ],
       "price": "19,500",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:15.214362+00:00",
+      "scraped_at": "2026-05-29T05:34:45.126722+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6950,12 +7252,12 @@
         "Maple-syrup"
       ],
       "price": "19500",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:15.214372+00:00",
+      "scraped_at": "2026-05-29T05:34:45.126734+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6977,12 +7279,12 @@
         "Caramel"
       ],
       "price": "21,000 KRW",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:15.214380+00:00",
+      "scraped_at": "2026-05-29T05:34:45.126744+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7005,12 +7307,12 @@
         "Grape"
       ],
       "price": "59000",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:15.214387+00:00",
+      "scraped_at": "2026-05-29T05:34:45.126754+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7033,12 +7335,12 @@
         "Body"
       ],
       "price": "19500",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:15.214395+00:00",
+      "scraped_at": "2026-05-29T05:34:45.126764+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7062,12 +7364,12 @@
         "Honey"
       ],
       "price": "106,000",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:19.481563+00:00",
+      "scraped_at": "2026-05-29T05:34:50.353317+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7092,12 +7394,12 @@
         "Floral"
       ],
       "price": "70,000 KRW",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:19.481587+00:00",
+      "scraped_at": "2026-05-29T05:34:50.353344+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7122,12 +7424,12 @@
         "Heavy Body"
       ],
       "price": "16600",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:19.481597+00:00",
+      "scraped_at": "2026-05-29T05:34:50.353359+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7151,12 +7453,12 @@
         "Round Body"
       ],
       "price": "17,900",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:19.481606+00:00",
+      "scraped_at": "2026-05-29T05:34:50.353371+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7180,12 +7482,12 @@
         "Milk Chocolate"
       ],
       "price": "17,900",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:19.481614+00:00",
+      "scraped_at": "2026-05-29T05:34:50.353382+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7209,12 +7511,12 @@
         "Milk Chocolate"
       ],
       "price": "17,900원",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:19.481621+00:00",
+      "scraped_at": "2026-05-29T05:34:50.353392+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7238,12 +7540,12 @@
         "Sugarcane"
       ],
       "price": "17,900원",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:19.481628+00:00",
+      "scraped_at": "2026-05-29T05:34:50.353403+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7267,12 +7569,12 @@
         "Sugarcane"
       ],
       "price": "17,900원",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:19.481635+00:00",
+      "scraped_at": "2026-05-29T05:34:50.353413+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7296,12 +7598,12 @@
         "Round Body"
       ],
       "price": "17900",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:19.481641+00:00",
+      "scraped_at": "2026-05-29T05:34:50.353423+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7326,12 +7628,12 @@
         "Floral"
       ],
       "price": "69,000 KRW",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:19.481648+00:00",
+      "scraped_at": "2026-05-29T05:34:50.353435+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7355,12 +7657,12 @@
         "Syrup"
       ],
       "price": "24000",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:19.481654+00:00",
+      "scraped_at": "2026-05-29T05:34:50.353446+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7384,12 +7686,12 @@
         "Round Body"
       ],
       "price": "166500",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:19.481661+00:00",
+      "scraped_at": "2026-05-29T05:34:50.353456+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7413,12 +7715,12 @@
         "Good Balance"
       ],
       "price": "18900",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:19.481668+00:00",
+      "scraped_at": "2026-05-29T05:34:50.353517+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7442,12 +7744,12 @@
         "Long Aftertaste"
       ],
       "price": "17,900",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:19.481680+00:00",
+      "scraped_at": "2026-05-29T05:34:50.353527+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7470,12 +7772,12 @@
         "Milk Chocolate"
       ],
       "price": "17900",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:19.481689+00:00",
+      "scraped_at": "2026-05-29T05:34:50.353535+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7498,12 +7800,12 @@
         "Brown Sugar"
       ],
       "price": "58,000",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:24.071918+00:00",
+      "scraped_at": "2026-05-29T05:34:56.574286+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7526,12 +7828,12 @@
         "Clean"
       ],
       "price": "131,000 Won",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:24.071946+00:00",
+      "scraped_at": "2026-05-29T05:34:56.574313+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7553,12 +7855,12 @@
         "Dark Chocolate"
       ],
       "price": "25500",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:24.071953+00:00",
+      "scraped_at": "2026-05-29T05:34:56.574323+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7580,12 +7882,12 @@
         "Milk Chocolate"
       ],
       "price": "21500",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:24.071962+00:00",
+      "scraped_at": "2026-05-29T05:34:56.574332+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7607,12 +7909,12 @@
         "Heavy Body"
       ],
       "price": "20500",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:24.071969+00:00",
+      "scraped_at": "2026-05-29T05:34:56.574341+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7634,12 +7936,12 @@
         "Chocolate"
       ],
       "price": "21,000 KRW",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:24.071976+00:00",
+      "scraped_at": "2026-05-29T05:34:56.574350+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7661,12 +7963,12 @@
         "Chocolate"
       ],
       "price": "21000",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:24.071984+00:00",
+      "scraped_at": "2026-05-29T05:34:56.574359+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7688,12 +7990,12 @@
         "Caramel"
       ],
       "price": "16,500 KRW",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:28.566166+00:00",
+      "scraped_at": "2026-05-29T05:35:01.340031+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7717,12 +8019,12 @@
         "Peppermint"
       ],
       "price": "18000",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:28.566189+00:00",
+      "scraped_at": "2026-05-29T05:35:01.340059+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7745,12 +8047,12 @@
         "Sweet Fruity"
       ],
       "price": "17,500 KRW",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:28.566198+00:00",
+      "scraped_at": "2026-05-29T05:35:01.340071+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7771,12 +8073,12 @@
         "Cedar"
       ],
       "price": "17,800",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:44.437883+00:00",
+      "scraped_at": "2026-05-29T05:35:12.857062+00:00",
       "added_at": "2026-05-27"
     },
     {
@@ -7799,12 +8101,12 @@
         "Medium Heavy Body"
       ],
       "price": "17,800",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:44.437906+00:00",
+      "scraped_at": "2026-05-29T05:35:12.857086+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7825,12 +8127,12 @@
         "Roasted Nuts"
       ],
       "price": "17,800 원",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:44.437915+00:00",
+      "scraped_at": "2026-05-29T05:35:12.857097+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7851,12 +8153,12 @@
         "Lively Flavor"
       ],
       "price": "18500",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:46.530815+00:00",
+      "scraped_at": "2026-05-29T05:35:15.894085+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7875,12 +8177,12 @@
         "Jasmine"
       ],
       "price": "17200",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:46.530838+00:00",
+      "scraped_at": "2026-05-29T05:35:15.894112+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7897,12 +8199,12 @@
       "grade": null,
       "cup_notes": [],
       "price": "57,000",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:46.530848+00:00",
+      "scraped_at": "2026-05-29T05:35:15.894126+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7919,12 +8221,12 @@
       "grade": null,
       "cup_notes": [],
       "price": "43,000",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:46.530862+00:00",
+      "scraped_at": "2026-05-29T05:35:15.894147+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7941,12 +8243,12 @@
       "grade": null,
       "cup_notes": [],
       "price": "40000",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:46.530870+00:00",
+      "scraped_at": "2026-05-29T05:35:15.894161+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7963,12 +8265,12 @@
       "grade": null,
       "cup_notes": [],
       "price": "29,000원",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:46.530877+00:00",
+      "scraped_at": "2026-05-29T05:35:15.894174+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7985,12 +8287,12 @@
       "grade": null,
       "cup_notes": [],
       "price": "23000",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:46.530884+00:00",
+      "scraped_at": "2026-05-29T05:35:15.894186+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8012,12 +8314,12 @@
         "Olives"
       ],
       "price": "18,500",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:46.530892+00:00",
+      "scraped_at": "2026-05-29T05:35:15.894198+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8034,12 +8336,12 @@
       "grade": null,
       "cup_notes": [],
       "price": "24500",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:46.530898+00:00",
+      "scraped_at": "2026-05-29T05:35:15.894209+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8056,12 +8358,12 @@
       "grade": "Triple A",
       "cup_notes": [],
       "price": "22,000 KRW",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:46.530906+00:00",
+      "scraped_at": "2026-05-29T05:35:15.894220+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8083,12 +8385,12 @@
         "Cacao Nibs"
       ],
       "price": "20,300원",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:46.530912+00:00",
+      "scraped_at": "2026-05-29T05:35:15.894231+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8110,12 +8412,12 @@
         "Dark Chocolate"
       ],
       "price": "30200",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:46.530919+00:00",
+      "scraped_at": "2026-05-29T05:35:15.894243+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8137,12 +8439,12 @@
         "Cacao Nibs"
       ],
       "price": "38,600원",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:46.530927+00:00",
+      "scraped_at": "2026-05-29T05:35:15.894255+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8163,12 +8465,12 @@
         "Milk Chocolate"
       ],
       "price": "19,900 KRW",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:46.530934+00:00",
+      "scraped_at": "2026-05-29T05:35:15.894267+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8189,12 +8491,12 @@
         "Brown Sugar"
       ],
       "price": "21,800원",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:46.530941+00:00",
+      "scraped_at": "2026-05-29T05:35:15.894278+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8216,12 +8518,12 @@
         "Cane Sugar"
       ],
       "price": "42500",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:46.530948+00:00",
+      "scraped_at": "2026-05-29T05:35:15.894289+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8243,12 +8545,12 @@
         "Milk Chocolate"
       ],
       "price": "41,500 KRW",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:46.530954+00:00",
+      "scraped_at": "2026-05-29T05:35:15.894301+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8270,12 +8572,12 @@
         "Dark Chocolate"
       ],
       "price": "39900",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:46.530962+00:00",
+      "scraped_at": "2026-05-29T05:35:15.894315+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8297,12 +8599,12 @@
         "Dark Chocolate"
       ],
       "price": "69500",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:46.530968+00:00",
+      "scraped_at": "2026-05-29T05:35:15.894326+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8324,12 +8626,12 @@
         "Dark Chocolate"
       ],
       "price": "79000",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:46.530974+00:00",
+      "scraped_at": "2026-05-29T05:35:15.894339+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8351,12 +8653,12 @@
         "Berry"
       ],
       "price": "15000",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:46.530982+00:00",
+      "scraped_at": "2026-05-29T05:35:15.894350+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8373,12 +8675,12 @@
       "grade": null,
       "cup_notes": [],
       "price": "28600",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:46.530990+00:00",
+      "scraped_at": "2026-05-29T05:35:15.894365+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8400,12 +8702,12 @@
         "Cane-sugar"
       ],
       "price": "278000",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:55.156560+00:00",
+      "scraped_at": "2026-05-29T05:36:24.040782+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8428,12 +8730,12 @@
         "Juicy"
       ],
       "price": "205000",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:55.156570+00:00",
+      "scraped_at": "2026-05-29T05:36:24.040797+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8456,12 +8758,12 @@
         "Well-balance"
       ],
       "price": "35000",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:55.156577+00:00",
+      "scraped_at": "2026-05-29T05:36:24.040810+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8485,12 +8787,12 @@
         "Molasses"
       ],
       "price": "17,500 KRW",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:58.761507+00:00",
+      "scraped_at": "2026-05-29T05:36:29.792602+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8514,12 +8816,12 @@
         "Silky"
       ],
       "price": "165000",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:58.761530+00:00",
+      "scraped_at": "2026-05-29T05:36:29.792630+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8543,12 +8845,12 @@
         "Honey"
       ],
       "price": "160,000원",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:58.761538+00:00",
+      "scraped_at": "2026-05-29T05:36:29.792643+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8572,12 +8874,12 @@
         "Honey"
       ],
       "price": "33,000원",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:58.761547+00:00",
+      "scraped_at": "2026-05-29T05:36:29.792658+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8601,12 +8903,12 @@
         "Vanilla"
       ],
       "price": "160000",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:37:58.761555+00:00",
+      "scraped_at": "2026-05-29T05:36:29.792671+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8629,12 +8931,12 @@
         "Green Tea"
       ],
       "price": "32,500",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:02.935163+00:00",
+      "scraped_at": "2026-05-29T05:36:36.634324+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8657,12 +8959,12 @@
         "Apple"
       ],
       "price": "25,000",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:02.935189+00:00",
+      "scraped_at": "2026-05-29T05:36:36.634354+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8685,12 +8987,12 @@
         "Chocolate"
       ],
       "price": "141,000 KRW",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:02.935199+00:00",
+      "scraped_at": "2026-05-29T05:36:36.634367+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8712,12 +9014,12 @@
         "Caramel"
       ],
       "price": "121,000",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:02.935205+00:00",
+      "scraped_at": "2026-05-29T05:36:36.634378+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8740,12 +9042,12 @@
         "Milk Chocolate"
       ],
       "price": "67,000 KRW",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:02.935214+00:00",
+      "scraped_at": "2026-05-29T05:36:36.634389+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8767,12 +9069,12 @@
         "Chocolate"
       ],
       "price": "64,000",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:02.935221+00:00",
+      "scraped_at": "2026-05-29T05:36:36.634399+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8795,12 +9097,12 @@
         "Orange"
       ],
       "price": "346,000",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:02.935228+00:00",
+      "scraped_at": "2026-05-29T05:36:36.634409+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8823,12 +9125,12 @@
         "Milk Chocolate"
       ],
       "price": "330,000",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:02.935234+00:00",
+      "scraped_at": "2026-05-29T05:36:36.634429+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8851,12 +9153,12 @@
         "Chocolate"
       ],
       "price": "41000",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:02.935254+00:00",
+      "scraped_at": "2026-05-29T05:36:36.634441+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8881,12 +9183,12 @@
         "Honey"
       ],
       "price": null,
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:07.263050+00:00",
+      "scraped_at": "2026-05-29T05:36:42.806051+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8912,12 +9214,12 @@
         "Sparkling"
       ],
       "price": null,
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:07.263073+00:00",
+      "scraped_at": "2026-05-29T05:36:42.806079+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8939,12 +9241,12 @@
         "Honey"
       ],
       "price": "395,000원",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:19.268629+00:00",
+      "scraped_at": "2026-05-29T05:36:57.928017+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8966,12 +9268,12 @@
         "Cranberry"
       ],
       "price": "445,000원",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:19.268652+00:00",
+      "scraped_at": "2026-05-29T05:36:57.928041+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8993,12 +9295,12 @@
         "Roasted Almond"
       ],
       "price": "164,000원",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:19.268662+00:00",
+      "scraped_at": "2026-05-29T05:36:57.928053+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9020,12 +9322,12 @@
         "Black Tea"
       ],
       "price": "174000",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:19.268669+00:00",
+      "scraped_at": "2026-05-29T05:36:57.928063+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9047,12 +9349,12 @@
         "Maple Syrup"
       ],
       "price": "174000",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:19.268677+00:00",
+      "scraped_at": "2026-05-29T05:36:57.928073+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9074,12 +9376,12 @@
         "Roasted Nuts"
       ],
       "price": "69000",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:19.268684+00:00",
+      "scraped_at": "2026-05-29T05:36:57.928083+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9101,12 +9403,12 @@
         "Melon"
       ],
       "price": "69,000 KRW/kg",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:19.268691+00:00",
+      "scraped_at": "2026-05-29T05:36:57.928092+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9130,12 +9432,12 @@
         "Syrup"
       ],
       "price": "750,000",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:19.268698+00:00",
+      "scraped_at": "2026-05-29T05:36:57.928101+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9158,12 +9460,12 @@
         "Orange"
       ],
       "price": "89,000 KRW",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:19.268705+00:00",
+      "scraped_at": "2026-05-29T05:36:57.928110+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9185,12 +9487,12 @@
         "Plum Juice"
       ],
       "price": "65000",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:19.268712+00:00",
+      "scraped_at": "2026-05-29T05:36:57.928120+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9210,12 +9512,12 @@
         "Cognac"
       ],
       "price": "54000",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:19.268746+00:00",
+      "scraped_at": "2026-05-29T05:36:57.928130+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9238,12 +9540,12 @@
         "Cotton Candy"
       ],
       "price": "228,000 KRW",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:19.268754+00:00",
+      "scraped_at": "2026-05-29T05:36:57.928138+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9265,12 +9567,12 @@
         "Peach Yogurt"
       ],
       "price": "184,000 KRW",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:19.268760+00:00",
+      "scraped_at": "2026-05-29T05:36:57.928145+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9293,12 +9595,12 @@
         "Strawberry Jam"
       ],
       "price": "180,000원",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:19.268768+00:00",
+      "scraped_at": "2026-05-29T05:36:57.928154+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9321,12 +9623,12 @@
         "Vanilla"
       ],
       "price": "145,000",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:19.268775+00:00",
+      "scraped_at": "2026-05-29T05:36:57.928163+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9349,12 +9651,12 @@
         "Lemon"
       ],
       "price": "159000",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:19.268781+00:00",
+      "scraped_at": "2026-05-29T05:36:57.928171+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9371,12 +9673,12 @@
       "grade": null,
       "cup_notes": [],
       "price": "190,000 KRW",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:19.268788+00:00",
+      "scraped_at": "2026-05-29T05:36:57.928189+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9393,12 +9695,12 @@
       "grade": null,
       "cup_notes": [],
       "price": "165,000원",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:19.268795+00:00",
+      "scraped_at": "2026-05-29T05:36:57.928196+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9415,12 +9717,12 @@
       "grade": null,
       "cup_notes": [],
       "price": "165,000원",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:19.268803+00:00",
+      "scraped_at": "2026-05-29T05:36:57.928204+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9437,12 +9739,12 @@
       "grade": null,
       "cup_notes": [],
       "price": "200,000원",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:19.268809+00:00",
+      "scraped_at": "2026-05-29T05:36:57.928211+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9464,12 +9766,12 @@
         "Mandarine"
       ],
       "price": "210,000 KRW",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:19.268815+00:00",
+      "scraped_at": "2026-05-29T05:36:57.928220+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9491,12 +9793,12 @@
         "Nuts"
       ],
       "price": "330,000 KRW",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:19.268822+00:00",
+      "scraped_at": "2026-05-29T05:36:57.928228+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9518,12 +9820,12 @@
         "Plum"
       ],
       "price": "330,000 KRW",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:19.268828+00:00",
+      "scraped_at": "2026-05-29T05:36:57.928236+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9540,12 +9842,12 @@
       "grade": null,
       "cup_notes": [],
       "price": "63250",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:19.268837+00:00",
+      "scraped_at": "2026-05-29T05:36:57.928246+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9562,12 +9864,12 @@
       "grade": null,
       "cup_notes": [],
       "price": "36,850",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:19.268845+00:00",
+      "scraped_at": "2026-05-29T05:36:57.928257+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9584,12 +9886,12 @@
       "grade": null,
       "cup_notes": [],
       "price": "45,650 KRW",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:19.268853+00:00",
+      "scraped_at": "2026-05-29T05:36:57.928265+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9606,12 +9908,12 @@
       "grade": null,
       "cup_notes": [],
       "price": "36850",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:19.268860+00:00",
+      "scraped_at": "2026-05-29T05:36:57.928274+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9633,12 +9935,12 @@
         "Nut-sweet"
       ],
       "price": "16800",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:27.357519+00:00",
+      "scraped_at": "2026-05-29T05:38:04.245596+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9661,12 +9963,12 @@
         "Hoji-tea"
       ],
       "price": "18800",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:27.357541+00:00",
+      "scraped_at": "2026-05-29T05:38:04.245622+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9690,12 +9992,12 @@
         "Clean"
       ],
       "price": "17200",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:31.612921+00:00",
+      "scraped_at": "2026-05-29T05:38:09.031918+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9719,12 +10021,12 @@
         "Clean"
       ],
       "price": "16900",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:31.612945+00:00",
+      "scraped_at": "2026-05-29T05:38:09.031945+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9746,12 +10048,12 @@
         "Heavy Body"
       ],
       "price": "14500",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:35.770697+00:00",
+      "scraped_at": "2026-05-29T05:38:13.915701+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9773,12 +10075,12 @@
         "Milk Chocolate"
       ],
       "price": "19,000",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:35.770750+00:00",
+      "scraped_at": "2026-05-29T05:38:13.915723+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9800,12 +10102,12 @@
         "Dark Chocolate"
       ],
       "price": "18,000 원",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:35.770758+00:00",
+      "scraped_at": "2026-05-29T05:38:13.915734+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9827,12 +10129,12 @@
         "Brown Sugar"
       ],
       "price": "18500",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:35.770766+00:00",
+      "scraped_at": "2026-05-29T05:38:13.915744+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9849,12 +10151,12 @@
       "grade": null,
       "cup_notes": [],
       "price": "19000",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:35.770773+00:00",
+      "scraped_at": "2026-05-29T05:38:13.915752+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9875,12 +10177,12 @@
         "Almond"
       ],
       "price": "16600",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:39.929185+00:00",
+      "scraped_at": "2026-05-29T05:38:19.435056+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9902,12 +10204,12 @@
         "Brazil Nut"
       ],
       "price": "22,000 KRW",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:39.929208+00:00",
+      "scraped_at": "2026-05-29T05:38:19.435085+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9932,12 +10234,12 @@
         "Smooth Mouthfeel"
       ],
       "price": "22000",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:39.929217+00:00",
+      "scraped_at": "2026-05-29T05:38:19.435097+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9964,12 +10266,12 @@
         "Long Aftertaste"
       ],
       "price": "17600",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:39.929225+00:00",
+      "scraped_at": "2026-05-29T05:38:19.435108+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9992,12 +10294,12 @@
         "Orange"
       ],
       "price": "16,600 원",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:39.929232+00:00",
+      "scraped_at": "2026-05-29T05:38:19.435119+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10020,12 +10322,12 @@
         "Silky"
       ],
       "price": "18300",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:39.929240+00:00",
+      "scraped_at": "2026-05-29T05:38:19.435131+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10048,12 +10350,12 @@
         "Sugar Cane"
       ],
       "price": null,
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:39.929255+00:00",
+      "scraped_at": "2026-05-29T05:38:19.435151+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10074,12 +10376,12 @@
         "Spicy"
       ],
       "price": "9,900 Won",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:39.929262+00:00",
+      "scraped_at": "2026-05-29T05:38:19.435164+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10101,12 +10403,12 @@
         "Brown Sugar"
       ],
       "price": "24500",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:39.929268+00:00",
+      "scraped_at": "2026-05-29T05:38:19.435174+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10129,12 +10431,12 @@
         "Clean"
       ],
       "price": "16000",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:39.929275+00:00",
+      "scraped_at": "2026-05-29T05:38:19.435186+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10155,12 +10457,12 @@
         "Good Body"
       ],
       "price": "22000",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:39.929281+00:00",
+      "scraped_at": "2026-05-29T05:38:19.435196+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10183,12 +10485,12 @@
         "Full Body"
       ],
       "price": "17000",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:39.929287+00:00",
+      "scraped_at": "2026-05-29T05:38:19.435206+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10210,12 +10512,12 @@
         "Full Body"
       ],
       "price": "17000",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:39.929293+00:00",
+      "scraped_at": "2026-05-29T05:38:19.435217+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10239,12 +10541,12 @@
         "Full Body"
       ],
       "price": "19,000",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:39.929302+00:00",
+      "scraped_at": "2026-05-29T05:38:19.435230+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10274,12 +10576,12 @@
         "Honey"
       ],
       "price": "23000",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:39.929308+00:00",
+      "scraped_at": "2026-05-29T05:38:19.435241+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10301,12 +10603,12 @@
         "Hazelnut"
       ],
       "price": "17600",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:39.929314+00:00",
+      "scraped_at": "2026-05-29T05:38:19.435252+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10328,12 +10630,12 @@
         "Corn Syrup"
       ],
       "price": "13500",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:39.929322+00:00",
+      "scraped_at": "2026-05-29T05:38:19.435264+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10353,12 +10655,12 @@
         "Chocolate"
       ],
       "price": "15300",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:54.927947+00:00",
+      "scraped_at": "2026-05-29T05:38:32.387965+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10379,12 +10681,12 @@
         "Lime"
       ],
       "price": "25,500",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:54.927973+00:00",
+      "scraped_at": "2026-05-29T05:38:32.387991+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10403,12 +10705,12 @@
         "Red Grape"
       ],
       "price": "23,300",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:54.927982+00:00",
+      "scraped_at": "2026-05-29T05:38:32.388002+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10429,12 +10731,12 @@
         "Quince"
       ],
       "price": "19300",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:54.927992+00:00",
+      "scraped_at": "2026-05-29T05:38:32.388011+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10453,12 +10755,12 @@
         "Chocolate"
       ],
       "price": "23300",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:54.928000+00:00",
+      "scraped_at": "2026-05-29T05:38:32.388021+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10477,12 +10779,12 @@
         "Coconut"
       ],
       "price": "23300",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:54.928006+00:00",
+      "scraped_at": "2026-05-29T05:38:32.388030+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10505,12 +10807,12 @@
         "Cinnamon"
       ],
       "price": "14500",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:56.918846+00:00",
+      "scraped_at": "2026-05-29T05:38:35.493951+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10533,12 +10835,12 @@
         "Brown Sugar"
       ],
       "price": null,
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:56.918870+00:00",
+      "scraped_at": "2026-05-29T05:38:35.493974+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10559,12 +10861,12 @@
         "Pineapple"
       ],
       "price": "14,800원",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:56.918878+00:00",
+      "scraped_at": "2026-05-29T05:38:35.493984+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10586,12 +10888,12 @@
         "Milk Chocolate"
       ],
       "price": "20,400원",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:56.918885+00:00",
+      "scraped_at": "2026-05-29T05:38:35.493992+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10613,12 +10915,12 @@
         "Citrus"
       ],
       "price": null,
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:56.918892+00:00",
+      "scraped_at": "2026-05-29T05:38:35.494001+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10638,12 +10940,12 @@
         "Chocolate"
       ],
       "price": "20400",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:56.918899+00:00",
+      "scraped_at": "2026-05-29T05:38:35.494009+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10665,12 +10967,12 @@
         "Citrus"
       ],
       "price": "20000",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:56.918904+00:00",
+      "scraped_at": "2026-05-29T05:38:35.494017+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10692,12 +10994,12 @@
         "Honey"
       ],
       "price": "19800",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:56.918911+00:00",
+      "scraped_at": "2026-05-29T05:38:35.494024+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10719,12 +11021,12 @@
         "Brown Sugar"
       ],
       "price": "19400",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:56.918917+00:00",
+      "scraped_at": "2026-05-29T05:38:35.494031+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10746,12 +11048,12 @@
         "Orange"
       ],
       "price": "17800",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:56.918924+00:00",
+      "scraped_at": "2026-05-29T05:38:35.494040+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10773,12 +11075,12 @@
         "Cacao"
       ],
       "price": "20400",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:56.918930+00:00",
+      "scraped_at": "2026-05-29T05:38:35.494048+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10800,12 +11102,12 @@
         "Oak"
       ],
       "price": "32,000 KRW",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:56.918937+00:00",
+      "scraped_at": "2026-05-29T05:38:35.494056+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10827,12 +11129,12 @@
         "Citrus"
       ],
       "price": "23800",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:56.918942+00:00",
+      "scraped_at": "2026-05-29T05:38:35.494064+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10854,12 +11156,12 @@
         "Tangerine"
       ],
       "price": "19800",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:56.918948+00:00",
+      "scraped_at": "2026-05-29T05:38:35.494072+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10881,12 +11183,12 @@
         "Chocolate"
       ],
       "price": "20800",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:56.918954+00:00",
+      "scraped_at": "2026-05-29T05:38:35.494080+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10908,12 +11210,12 @@
         "Citrus"
       ],
       "price": "21200",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:56.918962+00:00",
+      "scraped_at": "2026-05-29T05:38:35.494087+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10935,12 +11237,12 @@
         "Citrus"
       ],
       "price": "20200",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:56.918969+00:00",
+      "scraped_at": "2026-05-29T05:38:35.494095+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10963,12 +11265,12 @@
         "Syrupy"
       ],
       "price": "23,000원",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:56.918976+00:00",
+      "scraped_at": "2026-05-29T05:38:35.494102+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10990,12 +11292,12 @@
         "Sourish"
       ],
       "price": "15700",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:56.918983+00:00",
+      "scraped_at": "2026-05-29T05:38:35.494111+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -11017,12 +11319,12 @@
         "Pineapple"
       ],
       "price": null,
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:56.918990+00:00",
+      "scraped_at": "2026-05-29T05:38:35.494120+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -11045,12 +11347,12 @@
         "Peanut Caramel"
       ],
       "price": null,
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:56.918998+00:00",
+      "scraped_at": "2026-05-29T05:38:35.494129+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -11069,12 +11371,12 @@
         "Raspberry Jam"
       ],
       "price": null,
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:56.919005+00:00",
+      "scraped_at": "2026-05-29T05:38:35.494137+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -11093,12 +11395,12 @@
         "Fruit"
       ],
       "price": null,
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:56.919012+00:00",
+      "scraped_at": "2026-05-29T05:38:35.494145+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -11118,12 +11420,12 @@
         "Caramel"
       ],
       "price": null,
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:56.919020+00:00",
+      "scraped_at": "2026-05-29T05:38:35.494155+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -11143,12 +11445,12 @@
         "Prune"
       ],
       "price": "28000",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:56.919026+00:00",
+      "scraped_at": "2026-05-29T05:38:35.494163+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -11170,12 +11472,12 @@
         "Sugarcane"
       ],
       "price": "15900",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:56.919033+00:00",
+      "scraped_at": "2026-05-29T05:38:35.494171+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -11194,12 +11496,12 @@
         "Chocolate Mousse"
       ],
       "price": "14,500 KRW",
-      "in_stock": false,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:56.919040+00:00",
+      "scraped_at": "2026-05-29T05:38:35.494180+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -11220,289 +11522,13 @@
         "Barley Tea"
       ],
       "price": "20,100",
-      "in_stock": true,
+      "in_stock": null,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-28T22:38:56.919046+00:00",
+      "scraped_at": "2026-05-29T05:38:35.494187+00:00",
       "added_at": "2026-05-24"
-    },
-    {
-      "vendor": "ayantu",
-      "url": "https://ayantu.co.kr/?idx=360",
-      "raw_name": "에티오피아 생두 곤조베 사무엘 내추럴",
-      "origin": "Ethiopia",
-      "region": "Sidama, Bensa, Bumbe",
-      "farm": "Gonjobe Samuel",
-      "producer": "Samuel Zerihun",
-      "altitude": "2,000-2,200m",
-      "variety": "Heirloom",
-      "process": "Natural",
-      "grade": null,
-      "cup_notes": [
-        "Honey",
-        "Jam",
-        "Lime",
-        "Floral"
-      ],
-      "price": "38,000 KRW",
-      "in_stock": true,
-      "moisture": null,
-      "density": null,
-      "score": null,
-      "arrival": null,
-      "scraped_at": "2026-05-27T22:36:36.049438+00:00",
-      "added_at": "2026-05-24"
-    },
-    {
-      "vendor": "ayantu",
-      "url": "https://ayantu.co.kr/?idx=358",
-      "raw_name": "에티오피아 생두 바샤 봄베 내추럴",
-      "origin": "Ethiopia",
-      "region": "Sidama",
-      "farm": "Bensa Bombe",
-      "producer": "Basha Bombe",
-      "altitude": "2,000m",
-      "variety": "Heirloom",
-      "process": "Natural",
-      "grade": "G1",
-      "cup_notes": [
-        "Acacia honey",
-        "Green apple",
-        "Honey"
-      ],
-      "price": "38,000원",
-      "in_stock": true,
-      "moisture": null,
-      "density": null,
-      "score": null,
-      "arrival": null,
-      "scraped_at": "2026-05-27T22:36:36.049461+00:00",
-      "added_at": "2026-05-24"
-    },
-    {
-      "vendor": "ayantu",
-      "url": "https://ayantu.co.kr/?idx=202",
-      "raw_name": "에티오피아 생두 물루게타 문타샤 워시드",
-      "origin": "Ethiopia",
-      "region": "Guji",
-      "farm": "Mulugeta Muntasha",
-      "producer": null,
-      "altitude": "2,200m",
-      "variety": "Ethiopian Heirloom",
-      "process": "Washed",
-      "grade": null,
-      "cup_notes": [
-        "Blueberry",
-        "Jasmine",
-        "Peach",
-        "Honey",
-        "Sugarcane"
-      ],
-      "price": "38800",
-      "in_stock": true,
-      "moisture": null,
-      "density": null,
-      "score": null,
-      "arrival": null,
-      "scraped_at": "2026-05-27T22:36:36.049471+00:00",
-      "added_at": "2026-05-24"
-    },
-    {
-      "vendor": "ayantu",
-      "url": "https://ayantu.co.kr/?idx=310",
-      "raw_name": "에티오피아 생두 물루게타문타샤 피베리 내추럴",
-      "origin": "Ethiopia",
-      "region": "Sidama, Guji",
-      "farm": "Mulugeta Muntasaha",
-      "producer": "Mulugeta Muntasaha",
-      "altitude": "2,200m",
-      "variety": "Peaberry",
-      "process": "Natural",
-      "grade": null,
-      "cup_notes": [
-        "Blueberry",
-        "Jasmine",
-        "Peach",
-        "Orange",
-        "Honey"
-      ],
-      "price": "68,800 KRW",
-      "in_stock": true,
-      "moisture": null,
-      "density": null,
-      "score": null,
-      "arrival": null,
-      "scraped_at": "2026-05-27T22:36:36.049481+00:00",
-      "added_at": "2026-05-24"
-    },
-    {
-      "vendor": "ayantu",
-      "url": "https://ayantu.co.kr/?idx=195",
-      "raw_name": "에티오피아 생두 물루게타문타샤 무산소",
-      "origin": "Ethiopia",
-      "region": "Sidama",
-      "farm": "Muntasha Washing Station",
-      "producer": "Mulugeta Muntasha",
-      "altitude": "Over 2000m",
-      "variety": "Ethiopian Heirloom",
-      "process": "Anaerobic",
-      "grade": null,
-      "cup_notes": [
-        "Blueberry",
-        "Jasmine",
-        "Peach",
-        "Honey",
-        "Tropical Fruit",
-        "Winey"
-      ],
-      "price": "68800",
-      "in_stock": true,
-      "moisture": null,
-      "density": null,
-      "score": null,
-      "arrival": null,
-      "scraped_at": "2026-05-27T22:36:36.049489+00:00",
-      "added_at": "2026-05-24"
-    },
-    {
-      "vendor": "ayantu",
-      "url": "https://ayantu.co.kr/?idx=312",
-      "raw_name": "에티오피아 생두 바샤베켈레 곤조베 내추럴",
-      "origin": "Ethiopia",
-      "region": "Bashabekele Gonzobe",
-      "farm": "Bashabekele Gonjobe",
-      "producer": null,
-      "altitude": null,
-      "variety": "Ethiopian Heirloom",
-      "process": "Natural",
-      "grade": null,
-      "cup_notes": [
-        "Blueberry",
-        "Jasmine",
-        "Peach",
-        "Orange",
-        "Pineapple",
-        "Honey",
-        "Citrus"
-      ],
-      "price": "68,800",
-      "in_stock": true,
-      "moisture": null,
-      "density": null,
-      "score": null,
-      "arrival": null,
-      "scraped_at": "2026-05-27T22:36:36.049497+00:00",
-      "added_at": "2026-05-24"
-    },
-    {
-      "vendor": "ayantu",
-      "url": "https://ayantu.co.kr/?idx=313",
-      "raw_name": "에티오피아 생두 바샤베켈레 곤조베 내추럴허니",
-      "origin": "Ethiopia",
-      "region": "Basha Bekele Gonzo Be",
-      "farm": "Basha Bekele Gonzo Be",
-      "producer": "Gonjobe",
-      "altitude": "2,000m",
-      "variety": "Ethiopian Heirloom",
-      "process": "Honey",
-      "grade": null,
-      "cup_notes": [
-        "Berry",
-        "Jasmine",
-        "Honey",
-        "Molasses"
-      ],
-      "price": "66,800원",
-      "in_stock": true,
-      "moisture": null,
-      "density": null,
-      "score": null,
-      "arrival": null,
-      "scraped_at": "2026-05-27T22:36:36.049506+00:00",
-      "added_at": "2026-05-24"
-    },
-    {
-      "vendor": "ayantu",
-      "url": "https://ayantu.co.kr/?idx=314",
-      "raw_name": "에티오피아 생두 바샤베켈레 무라고 내추럴",
-      "origin": "Ethiopia",
-      "region": "Sidama Bashabekele",
-      "farm": "Bashabekele Murago",
-      "producer": "Murago Washing Station",
-      "altitude": "2,000m - 2,200m",
-      "variety": "Ethiopian Heirloom",
-      "process": "Natural",
-      "grade": null,
-      "cup_notes": [
-        "Orange",
-        "Blueberry",
-        "Jasmine",
-        "Earl Grey"
-      ],
-      "price": "55,800 KRW",
-      "in_stock": true,
-      "moisture": null,
-      "density": null,
-      "score": null,
-      "arrival": null,
-      "scraped_at": "2026-05-27T22:36:36.049514+00:00",
-      "added_at": "2026-05-24"
-    },
-    {
-      "vendor": "ayantu",
-      "url": "https://ayantu.co.kr/?idx=315",
-      "raw_name": "에티오피아 생두 발레 내추럴",
-      "origin": "Ethiopia",
-      "region": "Bale",
-      "farm": null,
-      "producer": null,
-      "altitude": "1,900-2,300m",
-      "variety": "Heirloom",
-      "process": "Natural",
-      "grade": "G4",
-      "cup_notes": [
-        "Floral",
-        "Fruit",
-        "Malt-Barley",
-        "Sweet",
-        "Clean"
-      ],
-      "price": "13,800원",
-      "in_stock": true,
-      "moisture": null,
-      "density": null,
-      "score": null,
-      "arrival": null,
-      "scraped_at": "2026-05-27T22:36:36.049523+00:00",
-      "added_at": "2026-05-24"
-    },
-    {
-      "vendor": "ayantu",
-      "url": "https://ayantu.co.kr/?idx=346",
-      "raw_name": "에티오피아 생두 시다마 내추럴",
-      "origin": "Ethiopia",
-      "region": "Sidama",
-      "farm": null,
-      "producer": null,
-      "altitude": "1,700m ~ 1,900m",
-      "variety": "Heirloom",
-      "process": "Natural",
-      "grade": "G1",
-      "cup_notes": [
-        "Black tea",
-        "Brown sugar",
-        "Orange blossom"
-      ],
-      "price": "15800",
-      "in_stock": true,
-      "moisture": null,
-      "density": null,
-      "score": null,
-      "arrival": null,
-      "scraped_at": "2026-05-27T22:36:36.049531+00:00",
-      "added_at": "2026-05-26"
     },
     {
       "vendor": "royalcoffee",
@@ -13234,29 +13260,13 @@
     }
   ],
   "changes": {
-    "new": [],
-    "sold_out": [
+    "new": [
       {
-        "url": "https://www.micoffee.co.kr/goods/goods_view.php?goodsNo=1000001858",
-        "type": "sold_out"
-      },
-      {
-        "url": "https://www.micoffee.co.kr/goods/goods_view.php?goodsNo=1000007486",
-        "type": "sold_out"
-      },
-      {
-        "url": "https://www.micoffee.co.kr/goods/goods_view.php?goodsNo=1000007472",
-        "type": "sold_out"
-      },
-      {
-        "url": "https://www.micoffee.co.kr/goods/goods_view.php?goodsNo=1000007391",
-        "type": "sold_out"
-      },
-      {
-        "url": "https://www.micoffee.co.kr/goods/goods_view.php?goodsNo=1000007335",
-        "type": "sold_out"
+        "url": "https://www.micoffee.co.kr/goods/goods_view.php?goodsNo=1000007471",
+        "type": "new"
       }
     ],
+    "sold_out": [],
     "price_down": []
   }
 }
