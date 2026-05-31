@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-31T05:44:14.890540+00:00",
-  "count": 483,
+  "generated_at": "2026-05-31T12:49:34.671976+00:00",
+  "count": 484,
   "origins": [
     "ethiopia",
     "colombia",
@@ -11,7 +11,7 @@
   ],
   "summary": {
     "ethiopia": {
-      "total": 109,
+      "total": 110,
       "per_vendor": {
         "momos": 16,
         "coffeelibre": 7,
@@ -21,7 +21,7 @@
         "royalcoffee": 0,
         "cobeans": 22,
         "sewoonggc": 24,
-        "ayantu": 10
+        "ayantu": 11
       }
     },
     "colombia": {
@@ -121,7 +121,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:32:51.298603+00:00",
+      "scraped_at": "2026-05-31T12:38:29.611343+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -147,7 +147,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:32:51.298636+00:00",
+      "scraped_at": "2026-05-31T12:38:29.611378+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -175,7 +175,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:32:51.298645+00:00",
+      "scraped_at": "2026-05-31T12:38:29.611388+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -202,7 +202,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:32:51.298654+00:00",
+      "scraped_at": "2026-05-31T12:38:29.611397+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -229,7 +229,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:32:51.298662+00:00",
+      "scraped_at": "2026-05-31T12:38:29.611404+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -256,7 +256,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:32:51.298669+00:00",
+      "scraped_at": "2026-05-31T12:38:29.611412+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -284,7 +284,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:32:51.298675+00:00",
+      "scraped_at": "2026-05-31T12:38:29.611418+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -311,7 +311,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:32:51.298686+00:00",
+      "scraped_at": "2026-05-31T12:38:29.611428+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -338,7 +338,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:32:51.298693+00:00",
+      "scraped_at": "2026-05-31T12:38:29.611435+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -365,7 +365,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:32:51.298700+00:00",
+      "scraped_at": "2026-05-31T12:38:29.611442+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -392,7 +392,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:32:51.298707+00:00",
+      "scraped_at": "2026-05-31T12:38:29.611449+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -419,7 +419,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:32:51.298713+00:00",
+      "scraped_at": "2026-05-31T12:38:29.611456+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -447,7 +447,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:32:51.298720+00:00",
+      "scraped_at": "2026-05-31T12:38:29.611462+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -475,7 +475,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:32:51.298736+00:00",
+      "scraped_at": "2026-05-31T12:38:29.611469+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -503,7 +503,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:32:51.298742+00:00",
+      "scraped_at": "2026-05-31T12:38:29.611475+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -530,7 +530,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:32:51.298888+00:00",
+      "scraped_at": "2026-05-31T12:38:29.611602+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -559,7 +559,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:32:58.778320+00:00",
+      "scraped_at": "2026-05-31T12:38:37.275997+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -588,7 +588,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:32:58.778350+00:00",
+      "scraped_at": "2026-05-31T12:38:37.276026+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -618,7 +618,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:32:58.778374+00:00",
+      "scraped_at": "2026-05-31T12:38:37.276038+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -648,7 +648,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:32:58.778383+00:00",
+      "scraped_at": "2026-05-31T12:38:37.276047+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -677,7 +677,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:32:58.778391+00:00",
+      "scraped_at": "2026-05-31T12:38:37.276055+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -707,7 +707,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:32:58.778399+00:00",
+      "scraped_at": "2026-05-31T12:38:37.276064+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -737,7 +737,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:32:58.778407+00:00",
+      "scraped_at": "2026-05-31T12:38:37.276072+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -759,7 +759,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:33:06.442245+00:00",
+      "scraped_at": "2026-05-31T12:38:45.444959+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -781,7 +781,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:33:06.442272+00:00",
+      "scraped_at": "2026-05-31T12:38:45.444986+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -808,7 +808,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:33:06.442283+00:00",
+      "scraped_at": "2026-05-31T12:38:45.444997+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -835,7 +835,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:33:06.442292+00:00",
+      "scraped_at": "2026-05-31T12:38:45.445006+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -862,7 +862,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:33:06.442301+00:00",
+      "scraped_at": "2026-05-31T12:38:45.445014+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -884,7 +884,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:33:06.442309+00:00",
+      "scraped_at": "2026-05-31T12:38:45.445023+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -906,7 +906,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:33:06.442318+00:00",
+      "scraped_at": "2026-05-31T12:38:45.445031+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -933,7 +933,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:33:06.442325+00:00",
+      "scraped_at": "2026-05-31T12:38:45.445039+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -960,7 +960,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:33:06.442332+00:00",
+      "scraped_at": "2026-05-31T12:38:45.445047+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -987,7 +987,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:33:06.442340+00:00",
+      "scraped_at": "2026-05-31T12:38:45.445053+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1009,7 +1009,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:33:06.442349+00:00",
+      "scraped_at": "2026-05-31T12:38:45.445062+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1037,7 +1037,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:33:14.021173+00:00",
+      "scraped_at": "2026-05-31T12:38:52.638013+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1069,7 +1069,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:33:14.021200+00:00",
+      "scraped_at": "2026-05-31T12:38:52.638040+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1098,7 +1098,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:33:14.021210+00:00",
+      "scraped_at": "2026-05-31T12:38:52.638050+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1126,7 +1126,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:33:14.021219+00:00",
+      "scraped_at": "2026-05-31T12:38:52.638058+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1155,7 +1155,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:33:14.021229+00:00",
+      "scraped_at": "2026-05-31T12:38:52.638069+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1183,7 +1183,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:33:14.021238+00:00",
+      "scraped_at": "2026-05-31T12:38:52.638077+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1212,7 +1212,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:33:14.021246+00:00",
+      "scraped_at": "2026-05-31T12:38:52.638084+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1240,7 +1240,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:33:14.021255+00:00",
+      "scraped_at": "2026-05-31T12:38:52.638092+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1268,7 +1268,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:33:14.021262+00:00",
+      "scraped_at": "2026-05-31T12:38:52.638134+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1295,7 +1295,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:33:14.021270+00:00",
+      "scraped_at": "2026-05-31T12:38:52.638146+00:00",
       "added_at": "2026-05-26"
     },
     {
@@ -1317,7 +1317,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:33:22.655298+00:00",
+      "scraped_at": "2026-05-31T12:39:01.424515+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1343,7 +1343,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:33:34.349067+00:00",
+      "scraped_at": "2026-05-31T12:39:12.518804+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1369,7 +1369,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:33:34.349093+00:00",
+      "scraped_at": "2026-05-31T12:39:12.518830+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1395,7 +1395,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:33:34.349102+00:00",
+      "scraped_at": "2026-05-31T12:39:12.518839+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1421,7 +1421,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:33:34.349111+00:00",
+      "scraped_at": "2026-05-31T12:39:12.518848+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1447,7 +1447,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:33:34.349119+00:00",
+      "scraped_at": "2026-05-31T12:39:12.518856+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1473,7 +1473,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:33:34.349128+00:00",
+      "scraped_at": "2026-05-31T12:39:12.518864+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1499,7 +1499,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:33:34.349136+00:00",
+      "scraped_at": "2026-05-31T12:39:12.518873+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1525,7 +1525,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:33:34.349144+00:00",
+      "scraped_at": "2026-05-31T12:39:12.518880+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1551,7 +1551,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:33:34.349152+00:00",
+      "scraped_at": "2026-05-31T12:39:12.518888+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1577,7 +1577,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:33:34.349162+00:00",
+      "scraped_at": "2026-05-31T12:39:12.518897+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1604,7 +1604,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:33:34.349171+00:00",
+      "scraped_at": "2026-05-31T12:39:12.518905+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1630,7 +1630,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:33:34.349179+00:00",
+      "scraped_at": "2026-05-31T12:39:12.518913+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1656,7 +1656,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:33:34.349188+00:00",
+      "scraped_at": "2026-05-31T12:39:12.518922+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1682,7 +1682,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:33:34.349197+00:00",
+      "scraped_at": "2026-05-31T12:39:12.518930+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1708,7 +1708,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:33:34.349206+00:00",
+      "scraped_at": "2026-05-31T12:39:12.518938+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1735,7 +1735,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:33:34.349215+00:00",
+      "scraped_at": "2026-05-31T12:39:12.518947+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1761,7 +1761,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:33:34.349221+00:00",
+      "scraped_at": "2026-05-31T12:39:12.518953+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1787,7 +1787,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:33:34.349227+00:00",
+      "scraped_at": "2026-05-31T12:39:12.518959+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1814,7 +1814,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:33:34.349233+00:00",
+      "scraped_at": "2026-05-31T12:39:12.518965+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1840,7 +1840,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:33:34.349241+00:00",
+      "scraped_at": "2026-05-31T12:39:12.518974+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1868,7 +1868,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:33:34.349261+00:00",
+      "scraped_at": "2026-05-31T12:39:12.518994+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1895,7 +1895,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:33:48.672204+00:00",
+      "scraped_at": "2026-05-31T12:39:17.376721+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1919,7 +1919,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:33:48.672228+00:00",
+      "scraped_at": "2026-05-31T12:39:17.376747+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1946,7 +1946,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:33:48.672239+00:00",
+      "scraped_at": "2026-05-31T12:39:17.376758+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1973,7 +1973,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:33:48.672247+00:00",
+      "scraped_at": "2026-05-31T12:39:17.376766+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2000,7 +2000,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:33:48.672263+00:00",
+      "scraped_at": "2026-05-31T12:39:17.376783+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2024,7 +2024,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:33:48.672272+00:00",
+      "scraped_at": "2026-05-31T12:39:17.376793+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2051,7 +2051,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:33:48.672282+00:00",
+      "scraped_at": "2026-05-31T12:39:17.376802+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2078,7 +2078,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:33:48.672290+00:00",
+      "scraped_at": "2026-05-31T12:39:17.376810+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2105,7 +2105,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:33:48.672297+00:00",
+      "scraped_at": "2026-05-31T12:39:17.376818+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2132,7 +2132,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:33:48.672305+00:00",
+      "scraped_at": "2026-05-31T12:39:17.376826+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2159,7 +2159,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:33:48.672314+00:00",
+      "scraped_at": "2026-05-31T12:39:17.376833+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2186,7 +2186,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:33:48.672322+00:00",
+      "scraped_at": "2026-05-31T12:39:17.376841+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2213,7 +2213,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:33:48.672331+00:00",
+      "scraped_at": "2026-05-31T12:39:17.376850+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2241,7 +2241,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:33:48.672338+00:00",
+      "scraped_at": "2026-05-31T12:39:17.376857+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2268,7 +2268,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:33:48.672346+00:00",
+      "scraped_at": "2026-05-31T12:39:17.376865+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2295,7 +2295,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:33:48.672353+00:00",
+      "scraped_at": "2026-05-31T12:39:17.376873+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2322,7 +2322,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:33:48.672361+00:00",
+      "scraped_at": "2026-05-31T12:39:17.376880+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2349,7 +2349,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:33:48.672368+00:00",
+      "scraped_at": "2026-05-31T12:39:17.376887+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2376,7 +2376,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:33:48.672376+00:00",
+      "scraped_at": "2026-05-31T12:39:17.376895+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2403,7 +2403,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:33:48.672387+00:00",
+      "scraped_at": "2026-05-31T12:39:17.376906+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2430,7 +2430,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:33:48.672395+00:00",
+      "scraped_at": "2026-05-31T12:39:17.376914+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2457,7 +2457,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:33:48.672403+00:00",
+      "scraped_at": "2026-05-31T12:39:17.376921+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2491,7 +2491,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:33:48.672411+00:00",
+      "scraped_at": "2026-05-31T12:39:17.376930+00:00",
       "added_at": "2026-05-29"
     },
     {
@@ -2513,7 +2513,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:33:48.672422+00:00",
+      "scraped_at": "2026-05-31T12:39:17.376940+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2540,7 +2540,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:35:06.164550+00:00",
+      "scraped_at": "2026-05-31T12:40:29.999698+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2566,7 +2566,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:35:06.164573+00:00",
+      "scraped_at": "2026-05-31T12:40:29.999720+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2594,7 +2594,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:35:06.164584+00:00",
+      "scraped_at": "2026-05-31T12:40:29.999731+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2622,7 +2622,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:35:06.164594+00:00",
+      "scraped_at": "2026-05-31T12:40:29.999741+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2651,7 +2651,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:35:06.164603+00:00",
+      "scraped_at": "2026-05-31T12:40:29.999749+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2681,7 +2681,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:35:06.164613+00:00",
+      "scraped_at": "2026-05-31T12:40:29.999758+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2708,7 +2708,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:35:06.164620+00:00",
+      "scraped_at": "2026-05-31T12:40:29.999766+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2735,7 +2735,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:35:06.164629+00:00",
+      "scraped_at": "2026-05-31T12:40:29.999775+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2763,7 +2763,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:35:06.164638+00:00",
+      "scraped_at": "2026-05-31T12:40:29.999784+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2789,8 +2789,33 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:35:06.164648+00:00",
+      "scraped_at": "2026-05-31T12:40:29.999792+00:00",
       "added_at": "2026-05-26"
+    },
+    {
+      "vendor": "ayantu",
+      "url": "https://ayantu.co.kr/?idx=205",
+      "raw_name": "에티오피아 생두 전문",
+      "origin": "Ethiopia",
+      "region": "Sidama Arbegona",
+      "farm": "Bursa",
+      "producer": "Mulugeta Muntasha",
+      "altitude": "2,350m+",
+      "variety": "74158",
+      "process": "Peaberry Washed",
+      "grade": null,
+      "cup_notes": [
+        "White Peach",
+        "Jasmine"
+      ],
+      "price": "68000",
+      "in_stock": true,
+      "moisture": null,
+      "density": null,
+      "score": null,
+      "arrival": null,
+      "scraped_at": "2026-05-31T12:40:29.999802+00:00",
+      "added_at": "2026-05-31"
     },
     {
       "vendor": "momos",
@@ -2817,7 +2842,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:35:16.627426+00:00",
+      "scraped_at": "2026-05-31T12:40:42.729957+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2845,7 +2870,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:35:16.627465+00:00",
+      "scraped_at": "2026-05-31T12:40:42.729993+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2874,7 +2899,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:35:16.627477+00:00",
+      "scraped_at": "2026-05-31T12:40:42.730004+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2901,7 +2926,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:35:16.627486+00:00",
+      "scraped_at": "2026-05-31T12:40:42.730013+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2928,7 +2953,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:35:16.627499+00:00",
+      "scraped_at": "2026-05-31T12:40:42.730025+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2956,7 +2981,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:35:16.627509+00:00",
+      "scraped_at": "2026-05-31T12:40:42.730034+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2983,7 +3008,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:35:16.627518+00:00",
+      "scraped_at": "2026-05-31T12:40:42.730043+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3011,7 +3036,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:35:16.627527+00:00",
+      "scraped_at": "2026-05-31T12:40:42.730052+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3039,7 +3064,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:35:16.627537+00:00",
+      "scraped_at": "2026-05-31T12:40:42.730061+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3067,7 +3092,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:35:16.627546+00:00",
+      "scraped_at": "2026-05-31T12:40:42.730069+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3094,7 +3119,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:35:16.627555+00:00",
+      "scraped_at": "2026-05-31T12:40:42.730077+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3121,7 +3146,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:35:16.627563+00:00",
+      "scraped_at": "2026-05-31T12:40:42.730085+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3148,7 +3173,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:35:16.627571+00:00",
+      "scraped_at": "2026-05-31T12:40:42.730093+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3177,7 +3202,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:35:16.627579+00:00",
+      "scraped_at": "2026-05-31T12:40:42.730141+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3205,7 +3230,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:35:16.627587+00:00",
+      "scraped_at": "2026-05-31T12:40:42.730149+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3234,7 +3259,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:35:16.627595+00:00",
+      "scraped_at": "2026-05-31T12:40:42.730157+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3262,7 +3287,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:35:16.627605+00:00",
+      "scraped_at": "2026-05-31T12:40:42.730167+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3289,7 +3314,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:35:16.627615+00:00",
+      "scraped_at": "2026-05-31T12:40:42.730177+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3317,7 +3342,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:35:16.627626+00:00",
+      "scraped_at": "2026-05-31T12:40:42.730187+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3344,7 +3369,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:35:16.627636+00:00",
+      "scraped_at": "2026-05-31T12:40:42.730197+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3373,7 +3398,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:35:16.627644+00:00",
+      "scraped_at": "2026-05-31T12:40:42.730218+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3401,7 +3426,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:35:16.627654+00:00",
+      "scraped_at": "2026-05-31T12:40:42.730231+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3430,7 +3455,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:35:16.627662+00:00",
+      "scraped_at": "2026-05-31T12:40:42.730239+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3458,7 +3483,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:35:16.627684+00:00",
+      "scraped_at": "2026-05-31T12:40:42.730246+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3485,7 +3510,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:35:16.627692+00:00",
+      "scraped_at": "2026-05-31T12:40:42.730254+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3514,7 +3539,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:35:27.225109+00:00",
+      "scraped_at": "2026-05-31T12:40:49.202628+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3544,7 +3569,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:35:27.225138+00:00",
+      "scraped_at": "2026-05-31T12:40:49.202656+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3574,7 +3599,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:35:27.225150+00:00",
+      "scraped_at": "2026-05-31T12:40:49.202668+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3603,7 +3628,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:35:27.225169+00:00",
+      "scraped_at": "2026-05-31T12:40:49.202688+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3632,7 +3657,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:35:27.225181+00:00",
+      "scraped_at": "2026-05-31T12:40:49.202699+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3661,7 +3686,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:35:27.225191+00:00",
+      "scraped_at": "2026-05-31T12:40:49.202709+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3691,7 +3716,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:35:27.225201+00:00",
+      "scraped_at": "2026-05-31T12:40:49.202718+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3713,12 +3738,12 @@
         "Black Tea"
       ],
       "price": "25500",
-      "in_stock": false,
+      "in_stock": true,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:35:36.254596+00:00",
+      "scraped_at": "2026-05-31T12:40:58.991799+00:00",
       "added_at": "2026-05-26"
     },
     {
@@ -3740,12 +3765,12 @@
         "Chocolate"
       ],
       "price": "26,500",
-      "in_stock": false,
+      "in_stock": true,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:35:36.254623+00:00",
+      "scraped_at": "2026-05-31T12:40:58.991825+00:00",
       "added_at": "2026-05-26"
     },
     {
@@ -3771,7 +3796,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:35:36.254635+00:00",
+      "scraped_at": "2026-05-31T12:40:58.991837+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3792,12 +3817,12 @@
         "Earl Grey"
       ],
       "price": "45,500 원",
-      "in_stock": false,
+      "in_stock": true,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:35:36.254644+00:00",
+      "scraped_at": "2026-05-31T12:40:58.991847+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3818,12 +3843,12 @@
         "Juicy"
       ],
       "price": "45500",
-      "in_stock": true,
+      "in_stock": false,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:35:36.254654+00:00",
+      "scraped_at": "2026-05-31T12:40:58.991857+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3850,7 +3875,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:35:36.254664+00:00",
+      "scraped_at": "2026-05-31T12:40:58.991866+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3872,12 +3897,12 @@
         "Milk Chocolate"
       ],
       "price": "24,500",
-      "in_stock": false,
+      "in_stock": true,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:35:36.254673+00:00",
+      "scraped_at": "2026-05-31T12:40:58.991874+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3905,7 +3930,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:35:36.254684+00:00",
+      "scraped_at": "2026-05-31T12:40:58.991886+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3932,7 +3957,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:35:36.254692+00:00",
+      "scraped_at": "2026-05-31T12:40:58.991894+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3959,7 +3984,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:35:36.254702+00:00",
+      "scraped_at": "2026-05-31T12:40:58.991902+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3986,7 +4011,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:35:36.254713+00:00",
+      "scraped_at": "2026-05-31T12:40:58.991911+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4014,7 +4039,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:35:36.254723+00:00",
+      "scraped_at": "2026-05-31T12:40:58.991920+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4035,12 +4060,12 @@
         "Brown Sugar"
       ],
       "price": "54,800 원",
-      "in_stock": false,
+      "in_stock": true,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:35:36.254731+00:00",
+      "scraped_at": "2026-05-31T12:40:58.991928+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4067,7 +4092,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:35:36.254741+00:00",
+      "scraped_at": "2026-05-31T12:40:58.991939+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4094,7 +4119,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:35:36.254751+00:00",
+      "scraped_at": "2026-05-31T12:40:58.991948+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4122,7 +4147,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:35:36.254761+00:00",
+      "scraped_at": "2026-05-31T12:40:58.991957+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4145,12 +4170,12 @@
         "Cognac"
       ],
       "price": "131,000 원",
-      "in_stock": true,
+      "in_stock": false,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:35:36.254770+00:00",
+      "scraped_at": "2026-05-31T12:40:58.991965+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4177,7 +4202,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:35:36.254777+00:00",
+      "scraped_at": "2026-05-31T12:40:58.991984+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4204,7 +4229,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:35:36.254799+00:00",
+      "scraped_at": "2026-05-31T12:40:58.991993+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4231,7 +4256,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:35:36.254808+00:00",
+      "scraped_at": "2026-05-31T12:40:58.992002+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4258,7 +4283,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:35:36.254854+00:00",
+      "scraped_at": "2026-05-31T12:40:58.992009+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4286,7 +4311,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:35:43.228643+00:00",
+      "scraped_at": "2026-05-31T12:41:06.917904+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4320,7 +4345,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:35:43.228671+00:00",
+      "scraped_at": "2026-05-31T12:41:06.917938+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4346,7 +4371,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:35:43.228681+00:00",
+      "scraped_at": "2026-05-31T12:41:06.917947+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4375,7 +4400,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:35:43.228692+00:00",
+      "scraped_at": "2026-05-31T12:41:06.917956+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4411,7 +4436,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:35:43.228705+00:00",
+      "scraped_at": "2026-05-31T12:41:06.917969+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4435,7 +4460,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:35:43.228717+00:00",
+      "scraped_at": "2026-05-31T12:41:06.917979+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4462,7 +4487,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:35:43.228727+00:00",
+      "scraped_at": "2026-05-31T12:41:06.917995+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4490,7 +4515,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:35:43.228735+00:00",
+      "scraped_at": "2026-05-31T12:41:06.918008+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4519,7 +4544,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:35:43.228743+00:00",
+      "scraped_at": "2026-05-31T12:41:06.918020+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4548,7 +4573,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:35:43.228751+00:00",
+      "scraped_at": "2026-05-31T12:41:06.918033+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4576,7 +4601,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:35:43.228759+00:00",
+      "scraped_at": "2026-05-31T12:41:06.918047+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4605,7 +4630,31 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:35:43.228767+00:00",
+      "scraped_at": "2026-05-31T12:41:06.918060+00:00",
+      "added_at": "2026-05-24"
+    },
+    {
+      "vendor": "cobeans",
+      "url": "https://www.cobeans.com/shop/detail.php?pno=F976B57BB9DD27AA2E7E7DF2825893A6",
+      "raw_name": "︎6월1일오픈예정︎26 콜롬비아 카페 로사리오 코...",
+      "origin": "Colombia",
+      "region": "Antioquia",
+      "farm": "Cafe Rosario",
+      "producer": "Cafe Rosario",
+      "altitude": "1650-2000m",
+      "variety": "Blend",
+      "process": "Co-fermented",
+      "grade": null,
+      "cup_notes": [
+        "Coconut"
+      ],
+      "price": "0",
+      "in_stock": true,
+      "moisture": null,
+      "density": null,
+      "score": null,
+      "arrival": null,
+      "scraped_at": "2026-05-31T12:41:24.448411+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4629,7 +4678,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:36:01.965368+00:00",
+      "scraped_at": "2026-05-31T12:41:24.448438+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4653,7 +4702,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:36:01.965393+00:00",
+      "scraped_at": "2026-05-31T12:41:24.448448+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4680,7 +4729,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:36:01.965403+00:00",
+      "scraped_at": "2026-05-31T12:41:24.448457+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4704,7 +4753,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:36:01.965412+00:00",
+      "scraped_at": "2026-05-31T12:41:24.448467+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4728,7 +4777,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:36:01.965422+00:00",
+      "scraped_at": "2026-05-31T12:41:24.448476+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4752,7 +4801,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:36:01.965431+00:00",
+      "scraped_at": "2026-05-31T12:41:24.448485+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4776,31 +4825,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:36:01.965438+00:00",
-      "added_at": "2026-05-24"
-    },
-    {
-      "vendor": "cobeans",
-      "url": "https://www.cobeans.com/shop/detail.php?pno=F976B57BB9DD27AA2E7E7DF2825893A6",
-      "raw_name": "︎6월1일오픈예정︎26 콜롬비아 카페 로사리오 코...",
-      "origin": "Colombia",
-      "region": "Antioquia",
-      "farm": "Cafe Rosario",
-      "producer": "Cafe Rosario",
-      "altitude": "1650-2000m",
-      "variety": "Blend",
-      "process": "Co-fermented",
-      "grade": null,
-      "cup_notes": [
-        "Coconut"
-      ],
-      "price": "0",
-      "in_stock": true,
-      "moisture": null,
-      "density": null,
-      "score": null,
-      "arrival": null,
-      "scraped_at": "2026-05-31T05:36:01.965446+00:00",
+      "scraped_at": "2026-05-31T12:41:24.448493+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4824,7 +4849,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:36:01.965456+00:00",
+      "scraped_at": "2026-05-31T12:41:24.448501+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4848,7 +4873,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:36:01.965465+00:00",
+      "scraped_at": "2026-05-31T12:41:24.448509+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4872,7 +4897,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:36:01.965473+00:00",
+      "scraped_at": "2026-05-31T12:41:24.448517+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4898,7 +4923,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:36:01.965482+00:00",
+      "scraped_at": "2026-05-31T12:41:24.448526+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4924,7 +4949,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:36:01.965492+00:00",
+      "scraped_at": "2026-05-31T12:41:24.448537+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4950,7 +4975,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:36:01.965500+00:00",
+      "scraped_at": "2026-05-31T12:41:24.448545+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4977,7 +5002,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:36:01.965519+00:00",
+      "scraped_at": "2026-05-31T12:41:24.448565+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5006,7 +5031,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:36:01.965527+00:00",
+      "scraped_at": "2026-05-31T12:41:24.448572+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5032,7 +5057,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:36:01.965538+00:00",
+      "scraped_at": "2026-05-31T12:41:24.448582+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5059,7 +5084,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:36:01.965548+00:00",
+      "scraped_at": "2026-05-31T12:41:24.448591+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5085,7 +5110,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:36:01.965558+00:00",
+      "scraped_at": "2026-05-31T12:41:24.448600+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5111,7 +5136,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:36:06.328722+00:00",
+      "scraped_at": "2026-05-31T12:41:28.015345+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5138,7 +5163,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:36:06.328749+00:00",
+      "scraped_at": "2026-05-31T12:41:28.015371+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5165,7 +5190,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:36:06.328760+00:00",
+      "scraped_at": "2026-05-31T12:41:28.015382+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5192,7 +5217,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:36:06.328770+00:00",
+      "scraped_at": "2026-05-31T12:41:28.015392+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5216,7 +5241,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:36:06.328780+00:00",
+      "scraped_at": "2026-05-31T12:41:28.015403+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5243,7 +5268,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:36:06.328789+00:00",
+      "scraped_at": "2026-05-31T12:41:28.015412+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5271,7 +5296,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:36:06.328798+00:00",
+      "scraped_at": "2026-05-31T12:41:28.015420+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5300,7 +5325,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:36:06.328807+00:00",
+      "scraped_at": "2026-05-31T12:41:28.015429+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5327,7 +5352,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:36:06.328828+00:00",
+      "scraped_at": "2026-05-31T12:41:28.015437+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5354,7 +5379,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:36:06.328836+00:00",
+      "scraped_at": "2026-05-31T12:41:28.015445+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5379,7 +5404,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:36:06.328844+00:00",
+      "scraped_at": "2026-05-31T12:41:28.015453+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5403,7 +5428,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:36:06.328852+00:00",
+      "scraped_at": "2026-05-31T12:41:28.015461+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5430,7 +5455,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:36:06.328860+00:00",
+      "scraped_at": "2026-05-31T12:41:28.015470+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5457,7 +5482,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:36:06.328876+00:00",
+      "scraped_at": "2026-05-31T12:41:28.015484+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5481,7 +5506,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:36:06.328884+00:00",
+      "scraped_at": "2026-05-31T12:41:28.015492+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5505,7 +5530,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:36:06.328892+00:00",
+      "scraped_at": "2026-05-31T12:41:28.015499+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5530,7 +5555,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:36:06.328900+00:00",
+      "scraped_at": "2026-05-31T12:41:28.015507+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5554,7 +5579,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:36:06.328908+00:00",
+      "scraped_at": "2026-05-31T12:41:28.015516+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5578,7 +5603,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:36:06.328916+00:00",
+      "scraped_at": "2026-05-31T12:41:28.015524+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5605,7 +5630,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:36:06.328925+00:00",
+      "scraped_at": "2026-05-31T12:41:28.015532+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5632,7 +5657,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:36:06.328934+00:00",
+      "scraped_at": "2026-05-31T12:41:28.015542+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5659,7 +5684,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:36:06.328942+00:00",
+      "scraped_at": "2026-05-31T12:41:28.015549+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5686,7 +5711,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:36:06.328950+00:00",
+      "scraped_at": "2026-05-31T12:41:28.015570+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5713,7 +5738,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:36:06.328958+00:00",
+      "scraped_at": "2026-05-31T12:41:28.015579+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5740,7 +5765,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:36:06.328969+00:00",
+      "scraped_at": "2026-05-31T12:41:28.015589+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5767,7 +5792,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:36:06.328978+00:00",
+      "scraped_at": "2026-05-31T12:41:28.015599+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5794,7 +5819,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:36:06.328987+00:00",
+      "scraped_at": "2026-05-31T12:41:28.015608+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5821,7 +5846,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:36:06.328995+00:00",
+      "scraped_at": "2026-05-31T12:41:28.015616+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5848,7 +5873,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:36:06.329003+00:00",
+      "scraped_at": "2026-05-31T12:41:28.015626+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5875,7 +5900,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:36:06.329012+00:00",
+      "scraped_at": "2026-05-31T12:41:28.015636+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5902,7 +5927,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:36:06.329020+00:00",
+      "scraped_at": "2026-05-31T12:41:28.015646+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5929,7 +5954,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:36:06.329028+00:00",
+      "scraped_at": "2026-05-31T12:41:28.015654+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5956,7 +5981,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:36:06.329036+00:00",
+      "scraped_at": "2026-05-31T12:41:28.015662+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5983,7 +6008,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:36:06.329043+00:00",
+      "scraped_at": "2026-05-31T12:41:28.015670+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6010,7 +6035,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:36:06.329053+00:00",
+      "scraped_at": "2026-05-31T12:41:28.015678+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6037,7 +6062,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:36:06.329060+00:00",
+      "scraped_at": "2026-05-31T12:41:28.015685+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6064,7 +6089,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:36:06.329067+00:00",
+      "scraped_at": "2026-05-31T12:41:28.015693+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6092,7 +6117,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:37:20.761923+00:00",
+      "scraped_at": "2026-05-31T12:42:44.325754+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6121,7 +6146,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:37:20.761951+00:00",
+      "scraped_at": "2026-05-31T12:42:44.325782+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6154,7 +6179,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:37:20.761963+00:00",
+      "scraped_at": "2026-05-31T12:42:44.325793+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6190,7 +6215,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:37:20.761972+00:00",
+      "scraped_at": "2026-05-31T12:42:44.325801+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6219,7 +6244,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:37:20.761982+00:00",
+      "scraped_at": "2026-05-31T12:42:44.325809+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6252,7 +6277,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:37:20.761992+00:00",
+      "scraped_at": "2026-05-31T12:42:44.325819+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6280,7 +6305,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:37:20.762001+00:00",
+      "scraped_at": "2026-05-31T12:42:44.325828+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6308,7 +6333,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:37:20.762010+00:00",
+      "scraped_at": "2026-05-31T12:42:44.325837+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6337,7 +6362,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:37:20.762018+00:00",
+      "scraped_at": "2026-05-31T12:42:44.325845+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6366,7 +6391,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:37:20.762027+00:00",
+      "scraped_at": "2026-05-31T12:42:44.325854+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6395,7 +6420,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:37:20.762035+00:00",
+      "scraped_at": "2026-05-31T12:42:44.325862+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6424,7 +6449,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:37:20.762043+00:00",
+      "scraped_at": "2026-05-31T12:42:44.325871+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6453,7 +6478,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:37:20.762051+00:00",
+      "scraped_at": "2026-05-31T12:42:44.325879+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6482,7 +6507,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:37:20.762059+00:00",
+      "scraped_at": "2026-05-31T12:42:44.325887+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6509,7 +6534,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:37:26.856732+00:00",
+      "scraped_at": "2026-05-31T12:42:51.332460+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6536,7 +6561,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:37:26.856758+00:00",
+      "scraped_at": "2026-05-31T12:42:51.332484+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6565,7 +6590,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:37:32.976110+00:00",
+      "scraped_at": "2026-05-31T12:42:58.018757+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6593,7 +6618,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:37:32.976137+00:00",
+      "scraped_at": "2026-05-31T12:42:58.018784+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6622,7 +6647,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:37:32.976147+00:00",
+      "scraped_at": "2026-05-31T12:42:58.018794+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6650,7 +6675,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:37:32.976156+00:00",
+      "scraped_at": "2026-05-31T12:42:58.018803+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6676,7 +6701,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:37:48.099362+00:00",
+      "scraped_at": "2026-05-31T12:43:12.166284+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6702,7 +6727,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:37:48.099390+00:00",
+      "scraped_at": "2026-05-31T12:43:12.166312+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6729,7 +6754,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:37:48.099401+00:00",
+      "scraped_at": "2026-05-31T12:43:12.166322+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6756,7 +6781,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:37:48.099410+00:00",
+      "scraped_at": "2026-05-31T12:43:12.166331+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6781,7 +6806,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:37:51.221932+00:00",
+      "scraped_at": "2026-05-31T12:43:15.315594+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6808,7 +6833,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:37:51.221958+00:00",
+      "scraped_at": "2026-05-31T12:43:15.315620+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6835,7 +6860,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:37:51.221969+00:00",
+      "scraped_at": "2026-05-31T12:43:15.315632+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6862,7 +6887,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:37:51.221979+00:00",
+      "scraped_at": "2026-05-31T12:43:15.315641+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6889,7 +6914,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:37:51.221988+00:00",
+      "scraped_at": "2026-05-31T12:43:15.315651+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6916,7 +6941,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:37:51.221998+00:00",
+      "scraped_at": "2026-05-31T12:43:15.315659+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6943,7 +6968,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:37:51.222006+00:00",
+      "scraped_at": "2026-05-31T12:43:15.315667+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6970,7 +6995,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:37:51.222015+00:00",
+      "scraped_at": "2026-05-31T12:43:15.315676+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6997,7 +7022,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:37:51.222024+00:00",
+      "scraped_at": "2026-05-31T12:43:15.315685+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7024,7 +7049,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:37:51.222032+00:00",
+      "scraped_at": "2026-05-31T12:43:15.315693+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7051,7 +7076,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:37:51.222040+00:00",
+      "scraped_at": "2026-05-31T12:43:15.315701+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7078,7 +7103,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:37:51.222048+00:00",
+      "scraped_at": "2026-05-31T12:43:15.315709+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7105,7 +7130,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:37:51.222056+00:00",
+      "scraped_at": "2026-05-31T12:43:15.315717+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7132,7 +7157,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:37:51.222064+00:00",
+      "scraped_at": "2026-05-31T12:43:15.315725+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7160,7 +7185,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:39:01.734351+00:00",
+      "scraped_at": "2026-05-31T12:44:24.720772+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7187,7 +7212,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:39:01.734389+00:00",
+      "scraped_at": "2026-05-31T12:44:24.720811+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7214,7 +7239,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:39:01.734402+00:00",
+      "scraped_at": "2026-05-31T12:44:24.720824+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7241,7 +7266,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:39:01.734411+00:00",
+      "scraped_at": "2026-05-31T12:44:24.720834+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7269,7 +7294,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:39:01.734422+00:00",
+      "scraped_at": "2026-05-31T12:44:24.720843+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7297,7 +7322,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:39:01.734433+00:00",
+      "scraped_at": "2026-05-31T12:44:24.720852+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7326,7 +7351,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:39:07.087709+00:00",
+      "scraped_at": "2026-05-31T12:44:30.857051+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7356,7 +7381,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:39:07.087737+00:00",
+      "scraped_at": "2026-05-31T12:44:30.857080+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7386,7 +7411,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:39:07.087750+00:00",
+      "scraped_at": "2026-05-31T12:44:30.857092+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7415,7 +7440,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:39:07.087760+00:00",
+      "scraped_at": "2026-05-31T12:44:30.857140+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7444,7 +7469,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:39:07.087770+00:00",
+      "scraped_at": "2026-05-31T12:44:30.857150+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7473,7 +7498,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:39:07.087779+00:00",
+      "scraped_at": "2026-05-31T12:44:30.857159+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7502,7 +7527,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:39:07.087789+00:00",
+      "scraped_at": "2026-05-31T12:44:30.857168+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7531,7 +7556,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:39:07.087797+00:00",
+      "scraped_at": "2026-05-31T12:44:30.857178+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7560,7 +7585,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:39:07.087806+00:00",
+      "scraped_at": "2026-05-31T12:44:30.857186+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7590,7 +7615,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:39:07.087852+00:00",
+      "scraped_at": "2026-05-31T12:44:30.857196+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7619,7 +7644,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:39:07.087867+00:00",
+      "scraped_at": "2026-05-31T12:44:30.857205+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7648,7 +7673,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:39:07.087878+00:00",
+      "scraped_at": "2026-05-31T12:44:30.857214+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7677,7 +7702,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:39:07.087887+00:00",
+      "scraped_at": "2026-05-31T12:44:30.857223+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7706,7 +7731,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:39:07.087896+00:00",
+      "scraped_at": "2026-05-31T12:44:30.857231+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7734,7 +7759,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:39:07.087903+00:00",
+      "scraped_at": "2026-05-31T12:44:30.857238+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7762,7 +7787,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:39:13.962500+00:00",
+      "scraped_at": "2026-05-31T12:44:37.047039+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7790,7 +7815,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:39:13.962533+00:00",
+      "scraped_at": "2026-05-31T12:44:37.047073+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7817,7 +7842,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:39:13.962544+00:00",
+      "scraped_at": "2026-05-31T12:44:37.047083+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7844,7 +7869,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:39:13.962554+00:00",
+      "scraped_at": "2026-05-31T12:44:37.047094+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7871,7 +7896,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:39:13.962564+00:00",
+      "scraped_at": "2026-05-31T12:44:37.047146+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7898,7 +7923,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:39:13.962574+00:00",
+      "scraped_at": "2026-05-31T12:44:37.047161+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7925,7 +7950,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:39:13.962582+00:00",
+      "scraped_at": "2026-05-31T12:44:37.047175+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7952,7 +7977,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:39:20.680497+00:00",
+      "scraped_at": "2026-05-31T12:44:43.350553+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7981,7 +8006,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:39:20.680524+00:00",
+      "scraped_at": "2026-05-31T12:44:43.350581+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8009,7 +8034,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:39:20.680535+00:00",
+      "scraped_at": "2026-05-31T12:44:43.350592+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8035,7 +8060,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:39:37.150652+00:00",
+      "scraped_at": "2026-05-31T12:44:57.989274+00:00",
       "added_at": "2026-05-27"
     },
     {
@@ -8063,7 +8088,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:39:37.150680+00:00",
+      "scraped_at": "2026-05-31T12:44:57.989301+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8089,7 +8114,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:39:37.150693+00:00",
+      "scraped_at": "2026-05-31T12:44:57.989312+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8115,7 +8140,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:39:40.925106+00:00",
+      "scraped_at": "2026-05-31T12:45:01.749544+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8139,7 +8164,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:39:40.925132+00:00",
+      "scraped_at": "2026-05-31T12:45:01.749569+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8161,7 +8186,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:39:40.925144+00:00",
+      "scraped_at": "2026-05-31T12:45:01.749582+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8183,7 +8208,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:39:40.925162+00:00",
+      "scraped_at": "2026-05-31T12:45:01.749599+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8205,7 +8230,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:39:40.925173+00:00",
+      "scraped_at": "2026-05-31T12:45:01.749610+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8227,7 +8252,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:39:40.925183+00:00",
+      "scraped_at": "2026-05-31T12:45:01.749620+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8249,7 +8274,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:39:40.925192+00:00",
+      "scraped_at": "2026-05-31T12:45:01.749630+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8276,7 +8301,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:39:40.925201+00:00",
+      "scraped_at": "2026-05-31T12:45:01.749639+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8298,7 +8323,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:39:40.925209+00:00",
+      "scraped_at": "2026-05-31T12:45:01.749647+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8320,7 +8345,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:39:40.925218+00:00",
+      "scraped_at": "2026-05-31T12:45:01.749656+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8347,7 +8372,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:39:40.925226+00:00",
+      "scraped_at": "2026-05-31T12:45:01.749666+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8374,7 +8399,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:39:40.925248+00:00",
+      "scraped_at": "2026-05-31T12:45:01.749688+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8401,7 +8426,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:39:40.925258+00:00",
+      "scraped_at": "2026-05-31T12:45:01.749698+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8427,7 +8452,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:39:40.925268+00:00",
+      "scraped_at": "2026-05-31T12:45:01.749707+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8453,7 +8478,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:39:40.925277+00:00",
+      "scraped_at": "2026-05-31T12:45:01.749716+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8480,7 +8505,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:39:40.925286+00:00",
+      "scraped_at": "2026-05-31T12:45:01.749725+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8507,7 +8532,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:39:40.925294+00:00",
+      "scraped_at": "2026-05-31T12:45:01.749733+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8534,7 +8559,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:39:40.925305+00:00",
+      "scraped_at": "2026-05-31T12:45:01.749743+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8561,7 +8586,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:39:40.925314+00:00",
+      "scraped_at": "2026-05-31T12:45:01.749752+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8588,7 +8613,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:39:40.925322+00:00",
+      "scraped_at": "2026-05-31T12:45:01.749760+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8615,7 +8640,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:39:40.925331+00:00",
+      "scraped_at": "2026-05-31T12:45:01.749770+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8637,7 +8662,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:39:40.925343+00:00",
+      "scraped_at": "2026-05-31T12:45:01.749781+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8664,7 +8689,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:40:47.332723+00:00",
+      "scraped_at": "2026-05-31T12:46:12.444383+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8692,7 +8717,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:40:47.332735+00:00",
+      "scraped_at": "2026-05-31T12:46:12.444395+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8720,7 +8745,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:40:47.332746+00:00",
+      "scraped_at": "2026-05-31T12:46:12.444405+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8749,7 +8774,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:40:53.290169+00:00",
+      "scraped_at": "2026-05-31T12:46:18.214850+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8778,7 +8803,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:40:53.290197+00:00",
+      "scraped_at": "2026-05-31T12:46:18.214878+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8807,7 +8832,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:40:53.290208+00:00",
+      "scraped_at": "2026-05-31T12:46:18.214888+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8836,7 +8861,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:40:53.290219+00:00",
+      "scraped_at": "2026-05-31T12:46:18.214899+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8865,7 +8890,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:40:53.290228+00:00",
+      "scraped_at": "2026-05-31T12:46:18.214909+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8893,7 +8918,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:40:58.725095+00:00",
+      "scraped_at": "2026-05-31T12:46:24.519004+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8921,7 +8946,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:40:58.725128+00:00",
+      "scraped_at": "2026-05-31T12:46:24.519032+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8949,7 +8974,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:40:58.725143+00:00",
+      "scraped_at": "2026-05-31T12:46:24.519044+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8976,7 +9001,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:40:58.725155+00:00",
+      "scraped_at": "2026-05-31T12:46:24.519054+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9004,7 +9029,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:40:58.725168+00:00",
+      "scraped_at": "2026-05-31T12:46:24.519063+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9031,7 +9056,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:40:58.725179+00:00",
+      "scraped_at": "2026-05-31T12:46:24.519071+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9059,7 +9084,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:40:58.725190+00:00",
+      "scraped_at": "2026-05-31T12:46:24.519079+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9087,7 +9112,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:40:58.725204+00:00",
+      "scraped_at": "2026-05-31T12:46:24.519088+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9115,7 +9140,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:40:58.725218+00:00",
+      "scraped_at": "2026-05-31T12:46:24.519143+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9145,7 +9170,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:41:04.544053+00:00",
+      "scraped_at": "2026-05-31T12:46:30.654378+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9176,7 +9201,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:41:04.544081+00:00",
+      "scraped_at": "2026-05-31T12:46:30.654406+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9203,7 +9228,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:41:25.144312+00:00",
+      "scraped_at": "2026-05-31T12:46:48.457020+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9230,7 +9255,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:41:25.144339+00:00",
+      "scraped_at": "2026-05-31T12:46:48.457047+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9257,7 +9282,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:41:25.144351+00:00",
+      "scraped_at": "2026-05-31T12:46:48.457059+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9284,7 +9309,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:41:25.144361+00:00",
+      "scraped_at": "2026-05-31T12:46:48.457069+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9311,7 +9336,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:41:25.144371+00:00",
+      "scraped_at": "2026-05-31T12:46:48.457080+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9338,7 +9363,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:41:25.144381+00:00",
+      "scraped_at": "2026-05-31T12:46:48.457090+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9365,7 +9390,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:41:25.144390+00:00",
+      "scraped_at": "2026-05-31T12:46:48.457135+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9394,7 +9419,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:41:25.144399+00:00",
+      "scraped_at": "2026-05-31T12:46:48.457151+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9422,7 +9447,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:41:25.144408+00:00",
+      "scraped_at": "2026-05-31T12:46:48.457164+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9449,7 +9474,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:41:25.144418+00:00",
+      "scraped_at": "2026-05-31T12:46:48.457173+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9474,7 +9499,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:41:25.144428+00:00",
+      "scraped_at": "2026-05-31T12:46:48.457183+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9502,7 +9527,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:41:25.144436+00:00",
+      "scraped_at": "2026-05-31T12:46:48.457191+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9529,7 +9554,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:41:25.144443+00:00",
+      "scraped_at": "2026-05-31T12:46:48.457198+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9557,7 +9582,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:41:25.144452+00:00",
+      "scraped_at": "2026-05-31T12:46:48.457207+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9585,7 +9610,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:41:25.144460+00:00",
+      "scraped_at": "2026-05-31T12:46:48.457216+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9613,7 +9638,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:41:25.144482+00:00",
+      "scraped_at": "2026-05-31T12:46:48.457224+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9635,7 +9660,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:41:25.144490+00:00",
+      "scraped_at": "2026-05-31T12:46:48.457233+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9657,7 +9682,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:41:25.144497+00:00",
+      "scraped_at": "2026-05-31T12:46:48.457240+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9679,7 +9704,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:41:25.144506+00:00",
+      "scraped_at": "2026-05-31T12:46:48.457248+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9701,7 +9726,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:41:25.144514+00:00",
+      "scraped_at": "2026-05-31T12:46:48.457256+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9728,7 +9753,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:41:25.144522+00:00",
+      "scraped_at": "2026-05-31T12:46:48.457264+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9755,7 +9780,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:41:25.144531+00:00",
+      "scraped_at": "2026-05-31T12:46:48.457272+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9782,7 +9807,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:41:25.144540+00:00",
+      "scraped_at": "2026-05-31T12:46:48.457279+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9804,7 +9829,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:41:25.144551+00:00",
+      "scraped_at": "2026-05-31T12:46:48.457290+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9826,7 +9851,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:41:25.144562+00:00",
+      "scraped_at": "2026-05-31T12:46:48.457301+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9848,7 +9873,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:41:25.144571+00:00",
+      "scraped_at": "2026-05-31T12:46:48.457312+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9870,7 +9895,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:41:25.144582+00:00",
+      "scraped_at": "2026-05-31T12:46:48.457321+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9897,7 +9922,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:42:34.324733+00:00",
+      "scraped_at": "2026-05-31T12:47:57.088697+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9925,7 +9950,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:42:34.324760+00:00",
+      "scraped_at": "2026-05-31T12:47:57.088724+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9954,7 +9979,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:42:40.251734+00:00",
+      "scraped_at": "2026-05-31T12:48:03.557347+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9983,7 +10008,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:42:40.251762+00:00",
+      "scraped_at": "2026-05-31T12:48:03.557375+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10005,12 +10030,12 @@
         "Heavy Body"
       ],
       "price": "14500",
-      "in_stock": true,
+      "in_stock": false,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:42:46.469150+00:00",
+      "scraped_at": "2026-05-31T12:48:09.304017+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10037,7 +10062,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:42:46.469178+00:00",
+      "scraped_at": "2026-05-31T12:48:09.304044+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10064,7 +10089,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:42:46.469189+00:00",
+      "scraped_at": "2026-05-31T12:48:09.304054+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10091,7 +10116,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:42:46.469199+00:00",
+      "scraped_at": "2026-05-31T12:48:09.304064+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10113,7 +10138,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:42:46.469208+00:00",
+      "scraped_at": "2026-05-31T12:48:09.304073+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10139,7 +10164,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:42:53.120506+00:00",
+      "scraped_at": "2026-05-31T12:48:16.113852+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10166,7 +10191,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:42:53.120533+00:00",
+      "scraped_at": "2026-05-31T12:48:16.113879+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10196,7 +10221,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:42:53.120544+00:00",
+      "scraped_at": "2026-05-31T12:48:16.113889+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10228,7 +10253,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:42:53.120553+00:00",
+      "scraped_at": "2026-05-31T12:48:16.113899+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10256,7 +10281,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:42:53.120562+00:00",
+      "scraped_at": "2026-05-31T12:48:16.113908+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10284,7 +10309,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:42:53.120572+00:00",
+      "scraped_at": "2026-05-31T12:48:16.113917+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10312,7 +10337,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:42:53.120590+00:00",
+      "scraped_at": "2026-05-31T12:48:16.113936+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10338,7 +10363,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:42:53.120601+00:00",
+      "scraped_at": "2026-05-31T12:48:16.113946+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10365,7 +10390,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:42:53.120609+00:00",
+      "scraped_at": "2026-05-31T12:48:16.113954+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10393,7 +10418,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:42:53.120618+00:00",
+      "scraped_at": "2026-05-31T12:48:16.113964+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10419,7 +10444,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:42:53.120626+00:00",
+      "scraped_at": "2026-05-31T12:48:16.113971+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10447,7 +10472,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:42:53.120635+00:00",
+      "scraped_at": "2026-05-31T12:48:16.113980+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10474,7 +10499,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:42:53.120643+00:00",
+      "scraped_at": "2026-05-31T12:48:16.113989+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10503,7 +10528,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:42:53.120654+00:00",
+      "scraped_at": "2026-05-31T12:48:16.113999+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10538,7 +10563,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:42:53.120664+00:00",
+      "scraped_at": "2026-05-31T12:48:16.114008+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10565,7 +10590,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:42:53.120672+00:00",
+      "scraped_at": "2026-05-31T12:48:16.114016+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10592,7 +10617,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:42:53.120682+00:00",
+      "scraped_at": "2026-05-31T12:48:16.114026+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10617,7 +10642,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:43:09.075271+00:00",
+      "scraped_at": "2026-05-31T12:48:30.266337+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10643,7 +10668,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:43:09.075301+00:00",
+      "scraped_at": "2026-05-31T12:48:30.266368+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10667,7 +10692,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:43:09.075312+00:00",
+      "scraped_at": "2026-05-31T12:48:30.266380+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10693,7 +10718,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:43:09.075322+00:00",
+      "scraped_at": "2026-05-31T12:48:30.266389+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10717,7 +10742,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:43:09.075332+00:00",
+      "scraped_at": "2026-05-31T12:48:30.266399+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10741,7 +10766,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:43:09.075342+00:00",
+      "scraped_at": "2026-05-31T12:48:30.266408+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10769,7 +10794,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:43:12.838625+00:00",
+      "scraped_at": "2026-05-31T12:48:34.364791+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10797,7 +10822,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:43:12.838652+00:00",
+      "scraped_at": "2026-05-31T12:48:34.364817+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10823,7 +10848,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:43:12.838663+00:00",
+      "scraped_at": "2026-05-31T12:48:34.364827+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10850,7 +10875,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:43:12.838673+00:00",
+      "scraped_at": "2026-05-31T12:48:34.364836+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10877,7 +10902,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:43:12.838682+00:00",
+      "scraped_at": "2026-05-31T12:48:34.364846+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10902,7 +10927,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:43:12.838691+00:00",
+      "scraped_at": "2026-05-31T12:48:34.364854+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10929,7 +10954,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:43:12.838698+00:00",
+      "scraped_at": "2026-05-31T12:48:34.364861+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10956,7 +10981,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:43:12.838705+00:00",
+      "scraped_at": "2026-05-31T12:48:34.364869+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10983,7 +11008,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:43:12.838713+00:00",
+      "scraped_at": "2026-05-31T12:48:34.364877+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -11010,7 +11035,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:43:12.838722+00:00",
+      "scraped_at": "2026-05-31T12:48:34.364885+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -11037,7 +11062,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:43:12.838729+00:00",
+      "scraped_at": "2026-05-31T12:48:34.364893+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -11064,7 +11089,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:43:12.838737+00:00",
+      "scraped_at": "2026-05-31T12:48:34.364901+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -11091,7 +11116,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:43:12.838744+00:00",
+      "scraped_at": "2026-05-31T12:48:34.364908+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -11118,7 +11143,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:43:12.838752+00:00",
+      "scraped_at": "2026-05-31T12:48:34.364915+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -11145,7 +11170,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:43:12.838760+00:00",
+      "scraped_at": "2026-05-31T12:48:34.364923+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -11172,7 +11197,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:43:12.838768+00:00",
+      "scraped_at": "2026-05-31T12:48:34.364931+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -11199,7 +11224,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:43:12.838776+00:00",
+      "scraped_at": "2026-05-31T12:48:34.364938+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -11227,7 +11252,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:43:12.838785+00:00",
+      "scraped_at": "2026-05-31T12:48:34.364947+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -11254,7 +11279,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:43:12.838794+00:00",
+      "scraped_at": "2026-05-31T12:48:34.364956+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -11281,7 +11306,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:43:12.838804+00:00",
+      "scraped_at": "2026-05-31T12:48:34.364965+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -11309,7 +11334,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:43:12.838827+00:00",
+      "scraped_at": "2026-05-31T12:48:34.364975+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -11333,7 +11358,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:43:12.838835+00:00",
+      "scraped_at": "2026-05-31T12:48:34.364984+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -11357,7 +11382,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:43:12.838844+00:00",
+      "scraped_at": "2026-05-31T12:48:34.364992+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -11382,7 +11407,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:43:12.838852+00:00",
+      "scraped_at": "2026-05-31T12:48:34.365000+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -11407,7 +11432,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:43:12.838860+00:00",
+      "scraped_at": "2026-05-31T12:48:34.365008+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -11434,7 +11459,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:43:12.838868+00:00",
+      "scraped_at": "2026-05-31T12:48:34.365015+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -11458,7 +11483,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:43:12.838876+00:00",
+      "scraped_at": "2026-05-31T12:48:34.365023+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -11484,7 +11509,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T05:43:12.838883+00:00",
+      "scraped_at": "2026-05-31T12:48:34.365030+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -13217,18 +13242,23 @@
     }
   ],
   "changes": {
-    "new": [],
+    "new": [
+      {
+        "url": "https://ayantu.co.kr/?idx=205",
+        "type": "new"
+      }
+    ],
     "sold_out": [
       {
-        "url": "https://www.micoffee.co.kr/goods/goods_view.php?goodsNo=1000007430",
+        "url": "https://www.micoffee.co.kr/goods/goods_view.php?goodsNo=1000007470",
         "type": "sold_out"
       },
       {
-        "url": "https://www.micoffee.co.kr/goods/goods_view.php?goodsNo=1000007389",
+        "url": "https://www.micoffee.co.kr/goods/goods_view.php?goodsNo=1000006877",
         "type": "sold_out"
       },
       {
-        "url": "https://www.micoffee.co.kr/goods/goods_view.php?goodsNo=1000000723",
+        "url": "https://www.micoffee.co.kr/goods/goods_view.php?goodsNo=1000007417",
         "type": "sold_out"
       }
     ],
