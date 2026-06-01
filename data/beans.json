@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-31T22:27:51.092159+00:00",
-  "count": 484,
+  "generated_at": "2026-06-01T05:49:53.659812+00:00",
+  "count": 483,
   "origins": [
     "ethiopia",
     "colombia",
@@ -11,7 +11,7 @@
   ],
   "summary": {
     "ethiopia": {
-      "total": 99,
+      "total": 110,
       "per_vendor": {
         "momos": 16,
         "coffeelibre": 7,
@@ -21,7 +21,7 @@
         "royalcoffee": 0,
         "cobeans": 22,
         "sewoonggc": 24,
-        "ayantu": 0
+        "ayantu": 11
       }
     },
     "colombia": {
@@ -67,11 +67,11 @@
       }
     },
     "panama": {
-      "total": 50,
+      "total": 49,
       "per_vendor": {
         "momos": 4,
         "coffeelibre": 5,
-        "micoffee": 10,
+        "micoffee": 9,
         "newbean": 2,
         "wbeans": 2,
         "royalcoffee": 0,
@@ -81,13 +81,13 @@
       }
     },
     "brazil": {
-      "total": 74,
+      "total": 70,
       "per_vendor": {
         "momos": 2,
         "coffeelibre": 2,
         "micoffee": 5,
         "newbean": 17,
-        "wbeans": 14,
+        "wbeans": 10,
         "royalcoffee": 0,
         "cobeans": 6,
         "sewoonggc": 28,
@@ -121,7 +121,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:23:33.246030+00:00",
+      "scraped_at": "2026-06-01T05:39:40.334683+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -147,7 +147,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:23:33.246061+00:00",
+      "scraped_at": "2026-06-01T05:39:40.334740+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -175,7 +175,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:23:33.246071+00:00",
+      "scraped_at": "2026-06-01T05:39:40.334750+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -202,7 +202,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:23:33.246079+00:00",
+      "scraped_at": "2026-06-01T05:39:40.334759+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -229,7 +229,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:23:33.246087+00:00",
+      "scraped_at": "2026-06-01T05:39:40.334767+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -251,12 +251,12 @@
         "Raisin"
       ],
       "price": "49,500 KRW for 1kg",
-      "in_stock": false,
+      "in_stock": true,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:23:33.246094+00:00",
+      "scraped_at": "2026-06-01T05:39:40.334774+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -284,7 +284,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:23:33.246100+00:00",
+      "scraped_at": "2026-06-01T05:39:40.334780+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -311,7 +311,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:23:33.246110+00:00",
+      "scraped_at": "2026-06-01T05:39:40.334791+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -338,7 +338,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:23:33.246117+00:00",
+      "scraped_at": "2026-06-01T05:39:40.334798+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -365,7 +365,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:23:33.246124+00:00",
+      "scraped_at": "2026-06-01T05:39:40.334806+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -392,7 +392,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:23:33.246131+00:00",
+      "scraped_at": "2026-06-01T05:39:40.334814+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -419,7 +419,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:23:33.246137+00:00",
+      "scraped_at": "2026-06-01T05:39:40.334821+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -447,7 +447,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:23:33.246144+00:00",
+      "scraped_at": "2026-06-01T05:39:40.334828+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -475,7 +475,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:23:33.246151+00:00",
+      "scraped_at": "2026-06-01T05:39:40.334834+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -503,7 +503,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:23:33.246157+00:00",
+      "scraped_at": "2026-06-01T05:39:40.334841+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -530,7 +530,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:23:33.246278+00:00",
+      "scraped_at": "2026-06-01T05:39:40.334966+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -559,7 +559,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:23:38.163196+00:00",
+      "scraped_at": "2026-06-01T05:39:45.912524+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -588,7 +588,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:23:38.163223+00:00",
+      "scraped_at": "2026-06-01T05:39:45.912553+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -618,7 +618,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:23:38.163247+00:00",
+      "scraped_at": "2026-06-01T05:39:45.912577+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -648,7 +648,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:23:38.163258+00:00",
+      "scraped_at": "2026-06-01T05:39:45.912586+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -677,7 +677,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:23:38.163268+00:00",
+      "scraped_at": "2026-06-01T05:39:45.912594+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -707,7 +707,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:23:38.163278+00:00",
+      "scraped_at": "2026-06-01T05:39:45.912602+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -737,7 +737,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:23:38.163287+00:00",
+      "scraped_at": "2026-06-01T05:39:45.912610+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -759,7 +759,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:23:43.349292+00:00",
+      "scraped_at": "2026-06-01T05:39:52.047000+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -781,7 +781,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:23:43.349320+00:00",
+      "scraped_at": "2026-06-01T05:39:52.047026+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -808,7 +808,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:23:43.349333+00:00",
+      "scraped_at": "2026-06-01T05:39:52.047038+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -835,7 +835,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:23:43.349345+00:00",
+      "scraped_at": "2026-06-01T05:39:52.047048+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -862,7 +862,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:23:43.349355+00:00",
+      "scraped_at": "2026-06-01T05:39:52.047056+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -884,7 +884,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:23:43.349364+00:00",
+      "scraped_at": "2026-06-01T05:39:52.047065+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -906,7 +906,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:23:43.349374+00:00",
+      "scraped_at": "2026-06-01T05:39:52.047073+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -933,7 +933,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:23:43.349383+00:00",
+      "scraped_at": "2026-06-01T05:39:52.047080+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -960,7 +960,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:23:43.349393+00:00",
+      "scraped_at": "2026-06-01T05:39:52.047088+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -987,7 +987,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:23:43.349401+00:00",
+      "scraped_at": "2026-06-01T05:39:52.047095+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1009,7 +1009,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:23:43.349411+00:00",
+      "scraped_at": "2026-06-01T05:39:52.047104+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1037,7 +1037,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:23:48.219037+00:00",
+      "scraped_at": "2026-06-01T05:39:59.266560+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1069,7 +1069,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:23:48.219063+00:00",
+      "scraped_at": "2026-06-01T05:39:59.266586+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1098,7 +1098,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:23:48.219075+00:00",
+      "scraped_at": "2026-06-01T05:39:59.266596+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1126,7 +1126,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:23:48.219085+00:00",
+      "scraped_at": "2026-06-01T05:39:59.266604+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1155,7 +1155,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:23:48.219098+00:00",
+      "scraped_at": "2026-06-01T05:39:59.266615+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1183,7 +1183,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:23:48.219108+00:00",
+      "scraped_at": "2026-06-01T05:39:59.266624+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1212,7 +1212,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:23:48.219116+00:00",
+      "scraped_at": "2026-06-01T05:39:59.266631+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1235,12 +1235,12 @@
         "Good Structure"
       ],
       "price": "23,000 원",
-      "in_stock": true,
+      "in_stock": false,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:23:48.219126+00:00",
+      "scraped_at": "2026-06-01T05:39:59.266639+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1268,7 +1268,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:23:48.219134+00:00",
+      "scraped_at": "2026-06-01T05:39:59.266647+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1295,21 +1295,21 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:23:48.219144+00:00",
+      "scraped_at": "2026-06-01T05:39:59.266655+00:00",
       "added_at": "2026-05-26"
     },
     {
       "vendor": "wbeans",
       "url": "https://wbeans.com",
-      "raw_name": "[프로모션] 에티오피아 시다모 G2 마운틴워터 디카페인",
+      "raw_name": "에티오피아 예가체프 첼바 프리미엄 G1 내추럴",
       "origin": "Ethiopia",
       "region": "Sidamo",
-      "farm": null,
+      "farm": "Chelba",
       "producer": null,
       "altitude": null,
       "variety": null,
-      "process": "Decaf",
-      "grade": "G2",
+      "process": "Natural",
+      "grade": "G1",
       "cup_notes": [],
       "price": null,
       "in_stock": true,
@@ -1317,7 +1317,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:23:53.909132+00:00",
+      "scraped_at": "2026-06-01T05:40:06.101339+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1343,7 +1343,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:06.859516+00:00",
+      "scraped_at": "2026-06-01T05:40:16.059456+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1369,7 +1369,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:06.859540+00:00",
+      "scraped_at": "2026-06-01T05:40:16.059484+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1395,7 +1395,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:06.859550+00:00",
+      "scraped_at": "2026-06-01T05:40:16.059493+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1421,7 +1421,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:06.859561+00:00",
+      "scraped_at": "2026-06-01T05:40:16.059503+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1447,7 +1447,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:06.859571+00:00",
+      "scraped_at": "2026-06-01T05:40:16.059512+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1473,7 +1473,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:06.859580+00:00",
+      "scraped_at": "2026-06-01T05:40:16.059520+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1499,7 +1499,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:06.859591+00:00",
+      "scraped_at": "2026-06-01T05:40:16.059529+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1525,7 +1525,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:06.859600+00:00",
+      "scraped_at": "2026-06-01T05:40:16.059537+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1551,7 +1551,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:06.859610+00:00",
+      "scraped_at": "2026-06-01T05:40:16.059546+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1577,7 +1577,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:06.859621+00:00",
+      "scraped_at": "2026-06-01T05:40:16.059556+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1604,7 +1604,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:06.859631+00:00",
+      "scraped_at": "2026-06-01T05:40:16.059564+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1630,7 +1630,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:06.859675+00:00",
+      "scraped_at": "2026-06-01T05:40:16.059572+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1656,7 +1656,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:06.859687+00:00",
+      "scraped_at": "2026-06-01T05:40:16.059582+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1682,7 +1682,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:06.859697+00:00",
+      "scraped_at": "2026-06-01T05:40:16.059590+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1708,7 +1708,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:06.859707+00:00",
+      "scraped_at": "2026-06-01T05:40:16.059598+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1735,7 +1735,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:06.859717+00:00",
+      "scraped_at": "2026-06-01T05:40:16.059607+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1761,7 +1761,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:06.859725+00:00",
+      "scraped_at": "2026-06-01T05:40:16.059613+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1787,7 +1787,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:06.859732+00:00",
+      "scraped_at": "2026-06-01T05:40:16.059619+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1814,7 +1814,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:06.859740+00:00",
+      "scraped_at": "2026-06-01T05:40:16.059625+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1840,7 +1840,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:06.859749+00:00",
+      "scraped_at": "2026-06-01T05:40:16.059632+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1868,7 +1868,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:06.859773+00:00",
+      "scraped_at": "2026-06-01T05:40:16.059654+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1895,7 +1895,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:10.117033+00:00",
+      "scraped_at": "2026-06-01T05:40:19.714573+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1919,7 +1919,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:10.117058+00:00",
+      "scraped_at": "2026-06-01T05:40:19.714597+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1941,12 +1941,12 @@
         "Cane Sugar"
       ],
       "price": "21800",
-      "in_stock": false,
+      "in_stock": true,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:10.117068+00:00",
+      "scraped_at": "2026-06-01T05:40:19.714608+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -1973,7 +1973,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:10.117077+00:00",
+      "scraped_at": "2026-06-01T05:40:19.714616+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2000,7 +2000,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:10.117091+00:00",
+      "scraped_at": "2026-06-01T05:40:19.714631+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2024,7 +2024,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:10.117101+00:00",
+      "scraped_at": "2026-06-01T05:40:19.714640+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2051,7 +2051,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:10.117110+00:00",
+      "scraped_at": "2026-06-01T05:40:19.714649+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2078,7 +2078,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:10.117118+00:00",
+      "scraped_at": "2026-06-01T05:40:19.714657+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2105,7 +2105,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:10.117126+00:00",
+      "scraped_at": "2026-06-01T05:40:19.714665+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2132,7 +2132,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:10.117134+00:00",
+      "scraped_at": "2026-06-01T05:40:19.714672+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2159,7 +2159,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:10.117141+00:00",
+      "scraped_at": "2026-06-01T05:40:19.714679+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2186,7 +2186,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:10.117149+00:00",
+      "scraped_at": "2026-06-01T05:40:19.714687+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2213,7 +2213,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:10.117158+00:00",
+      "scraped_at": "2026-06-01T05:40:19.714695+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2241,7 +2241,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:10.117165+00:00",
+      "scraped_at": "2026-06-01T05:40:19.714734+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2268,7 +2268,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:10.117172+00:00",
+      "scraped_at": "2026-06-01T05:40:19.714744+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2295,7 +2295,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:10.117180+00:00",
+      "scraped_at": "2026-06-01T05:40:19.714755+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2322,7 +2322,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:10.117187+00:00",
+      "scraped_at": "2026-06-01T05:40:19.714765+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2349,7 +2349,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:10.117194+00:00",
+      "scraped_at": "2026-06-01T05:40:19.714774+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2376,7 +2376,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:10.117202+00:00",
+      "scraped_at": "2026-06-01T05:40:19.714784+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2403,7 +2403,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:10.117212+00:00",
+      "scraped_at": "2026-06-01T05:40:19.714800+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2430,7 +2430,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:10.117221+00:00",
+      "scraped_at": "2026-06-01T05:40:19.714810+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2457,7 +2457,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:10.117229+00:00",
+      "scraped_at": "2026-06-01T05:40:19.714822+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2491,7 +2491,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:10.117236+00:00",
+      "scraped_at": "2026-06-01T05:40:19.714832+00:00",
       "added_at": "2026-05-29"
     },
     {
@@ -2513,8 +2513,309 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:10.117246+00:00",
+      "scraped_at": "2026-06-01T05:40:19.714841+00:00",
       "added_at": "2026-05-24"
+    },
+    {
+      "vendor": "ayantu",
+      "url": "https://ayantu.co.kr/?idx=360",
+      "raw_name": "에티오피아 생두 곤조베 사무엘 내추럴",
+      "origin": "Ethiopia",
+      "region": "Sidama, Bensa, Bumbe",
+      "farm": "Gonjobe Samuel",
+      "producer": "Samuel Zerihun",
+      "altitude": "2,000-2,200m",
+      "variety": "Heirloom",
+      "process": "Natural",
+      "grade": null,
+      "cup_notes": [
+        "Honey",
+        "Jam",
+        "Lime",
+        "Floral"
+      ],
+      "price": "38,000 KRW",
+      "in_stock": true,
+      "moisture": null,
+      "density": null,
+      "score": null,
+      "arrival": null,
+      "scraped_at": "2026-06-01T05:41:28.446870+00:00",
+      "added_at": "2026-05-24"
+    },
+    {
+      "vendor": "ayantu",
+      "url": "https://ayantu.co.kr/?idx=358",
+      "raw_name": "에티오피아 생두 바샤 봄베 내추럴",
+      "origin": "Ethiopia",
+      "region": "Sidama",
+      "farm": "Bensa Bombe",
+      "producer": "Basha Bombe",
+      "altitude": "2,000m",
+      "variety": "Heirloom",
+      "process": "Natural",
+      "grade": "G1",
+      "cup_notes": [
+        "Acacia honey",
+        "Green apple",
+        "Honey"
+      ],
+      "price": "38,000원",
+      "in_stock": true,
+      "moisture": null,
+      "density": null,
+      "score": null,
+      "arrival": null,
+      "scraped_at": "2026-06-01T05:41:28.446892+00:00",
+      "added_at": "2026-05-24"
+    },
+    {
+      "vendor": "ayantu",
+      "url": "https://ayantu.co.kr/?idx=202",
+      "raw_name": "에티오피아 생두 물루게타 문타샤 워시드",
+      "origin": "Ethiopia",
+      "region": "Guji",
+      "farm": "Mulugeta Muntasha",
+      "producer": null,
+      "altitude": "2,200m",
+      "variety": "Ethiopian Heirloom",
+      "process": "Washed",
+      "grade": null,
+      "cup_notes": [
+        "Blueberry",
+        "Jasmine",
+        "Peach",
+        "Honey",
+        "Sugarcane"
+      ],
+      "price": "38800",
+      "in_stock": true,
+      "moisture": null,
+      "density": null,
+      "score": null,
+      "arrival": null,
+      "scraped_at": "2026-06-01T05:41:28.446903+00:00",
+      "added_at": "2026-05-24"
+    },
+    {
+      "vendor": "ayantu",
+      "url": "https://ayantu.co.kr/?idx=310",
+      "raw_name": "에티오피아 생두 물루게타문타샤 피베리 내추럴",
+      "origin": "Ethiopia",
+      "region": "Sidama, Guji",
+      "farm": "Mulugeta Muntasaha",
+      "producer": "Mulugeta Muntasaha",
+      "altitude": "2,200m",
+      "variety": "Peaberry",
+      "process": "Natural",
+      "grade": null,
+      "cup_notes": [
+        "Blueberry",
+        "Jasmine",
+        "Peach",
+        "Orange",
+        "Honey"
+      ],
+      "price": "68,800 KRW",
+      "in_stock": true,
+      "moisture": null,
+      "density": null,
+      "score": null,
+      "arrival": null,
+      "scraped_at": "2026-06-01T05:41:28.446914+00:00",
+      "added_at": "2026-05-24"
+    },
+    {
+      "vendor": "ayantu",
+      "url": "https://ayantu.co.kr/?idx=195",
+      "raw_name": "에티오피아 생두 물루게타문타샤 무산소",
+      "origin": "Ethiopia",
+      "region": "Sidama",
+      "farm": "Muntasha Washing Station",
+      "producer": "Mulugeta Muntasha",
+      "altitude": "Over 2000m",
+      "variety": "Ethiopian Heirloom",
+      "process": "Anaerobic",
+      "grade": null,
+      "cup_notes": [
+        "Blueberry",
+        "Jasmine",
+        "Peach",
+        "Honey",
+        "Tropical Fruit",
+        "Winey"
+      ],
+      "price": "68800",
+      "in_stock": true,
+      "moisture": null,
+      "density": null,
+      "score": null,
+      "arrival": null,
+      "scraped_at": "2026-06-01T05:41:28.446922+00:00",
+      "added_at": "2026-05-24"
+    },
+    {
+      "vendor": "ayantu",
+      "url": "https://ayantu.co.kr/?idx=312",
+      "raw_name": "에티오피아 생두 바샤베켈레 곤조베 내추럴",
+      "origin": "Ethiopia",
+      "region": "Bashabekele Gonzobe",
+      "farm": "Bashabekele Gonjobe",
+      "producer": null,
+      "altitude": null,
+      "variety": "Ethiopian Heirloom",
+      "process": "Natural",
+      "grade": null,
+      "cup_notes": [
+        "Blueberry",
+        "Jasmine",
+        "Peach",
+        "Orange",
+        "Pineapple",
+        "Honey",
+        "Citrus"
+      ],
+      "price": "68,800",
+      "in_stock": true,
+      "moisture": null,
+      "density": null,
+      "score": null,
+      "arrival": null,
+      "scraped_at": "2026-06-01T05:41:28.446931+00:00",
+      "added_at": "2026-05-24"
+    },
+    {
+      "vendor": "ayantu",
+      "url": "https://ayantu.co.kr/?idx=313",
+      "raw_name": "에티오피아 생두 바샤베켈레 곤조베 내추럴허니",
+      "origin": "Ethiopia",
+      "region": "Basha Bekele Gonzo Be",
+      "farm": "Basha Bekele Gonzo Be",
+      "producer": "Gonjobe",
+      "altitude": "2,000m",
+      "variety": "Ethiopian Heirloom",
+      "process": "Honey",
+      "grade": null,
+      "cup_notes": [
+        "Berry",
+        "Jasmine",
+        "Honey",
+        "Molasses"
+      ],
+      "price": "66,800원",
+      "in_stock": true,
+      "moisture": null,
+      "density": null,
+      "score": null,
+      "arrival": null,
+      "scraped_at": "2026-06-01T05:41:28.446939+00:00",
+      "added_at": "2026-05-24"
+    },
+    {
+      "vendor": "ayantu",
+      "url": "https://ayantu.co.kr/?idx=314",
+      "raw_name": "에티오피아 생두 바샤베켈레 무라고 내추럴",
+      "origin": "Ethiopia",
+      "region": "Sidama Bashabekele",
+      "farm": "Bashabekele Murago",
+      "producer": "Murago Washing Station",
+      "altitude": "2,000m - 2,200m",
+      "variety": "Ethiopian Heirloom",
+      "process": "Natural",
+      "grade": null,
+      "cup_notes": [
+        "Orange",
+        "Blueberry",
+        "Jasmine",
+        "Earl Grey"
+      ],
+      "price": "55,800 KRW",
+      "in_stock": true,
+      "moisture": null,
+      "density": null,
+      "score": null,
+      "arrival": null,
+      "scraped_at": "2026-06-01T05:41:28.446947+00:00",
+      "added_at": "2026-05-24"
+    },
+    {
+      "vendor": "ayantu",
+      "url": "https://ayantu.co.kr/?idx=315",
+      "raw_name": "에티오피아 생두 발레 내추럴",
+      "origin": "Ethiopia",
+      "region": "Bale",
+      "farm": null,
+      "producer": null,
+      "altitude": "1,900-2,300m",
+      "variety": "Heirloom",
+      "process": "Natural",
+      "grade": "G4",
+      "cup_notes": [
+        "Floral",
+        "Fruit",
+        "Malt-Barley",
+        "Sweet",
+        "Clean"
+      ],
+      "price": "13,800원",
+      "in_stock": true,
+      "moisture": null,
+      "density": null,
+      "score": null,
+      "arrival": null,
+      "scraped_at": "2026-06-01T05:41:28.446956+00:00",
+      "added_at": "2026-05-24"
+    },
+    {
+      "vendor": "ayantu",
+      "url": "https://ayantu.co.kr/?idx=346",
+      "raw_name": "에티오피아 생두 시다마 내추럴",
+      "origin": "Ethiopia",
+      "region": "Sidama",
+      "farm": null,
+      "producer": null,
+      "altitude": "1,700m ~ 1,900m",
+      "variety": "Heirloom",
+      "process": "Natural",
+      "grade": "G1",
+      "cup_notes": [
+        "Black tea",
+        "Brown sugar",
+        "Orange blossom"
+      ],
+      "price": "15800",
+      "in_stock": true,
+      "moisture": null,
+      "density": null,
+      "score": null,
+      "arrival": null,
+      "scraped_at": "2026-06-01T05:41:28.446964+00:00",
+      "added_at": "2026-05-26"
+    },
+    {
+      "vendor": "ayantu",
+      "url": "https://ayantu.co.kr/?idx=205",
+      "raw_name": "에티오피아 생두 전문",
+      "origin": "Ethiopia",
+      "region": "Sidama Arbegona",
+      "farm": "Bursa",
+      "producer": "Mulugeta Muntasha",
+      "altitude": "2,350m+",
+      "variety": "74158",
+      "process": "Peaberry Washed",
+      "grade": null,
+      "cup_notes": [
+        "White Peach",
+        "Jasmine"
+      ],
+      "price": "68000",
+      "in_stock": true,
+      "moisture": null,
+      "density": null,
+      "score": null,
+      "arrival": null,
+      "scraped_at": "2026-06-01T05:41:28.446974+00:00",
+      "added_at": "2026-05-31"
     },
     {
       "vendor": "momos",
@@ -2541,7 +2842,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:30.296436+00:00",
+      "scraped_at": "2026-06-01T05:41:36.320944+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2569,7 +2870,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:30.296476+00:00",
+      "scraped_at": "2026-06-01T05:41:36.320983+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2598,7 +2899,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:30.296489+00:00",
+      "scraped_at": "2026-06-01T05:41:36.320994+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2625,7 +2926,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:30.296499+00:00",
+      "scraped_at": "2026-06-01T05:41:36.321003+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2652,7 +2953,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:30.296513+00:00",
+      "scraped_at": "2026-06-01T05:41:36.321014+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2680,7 +2981,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:30.296526+00:00",
+      "scraped_at": "2026-06-01T05:41:36.321022+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2707,7 +3008,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:30.296537+00:00",
+      "scraped_at": "2026-06-01T05:41:36.321031+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2735,7 +3036,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:30.296549+00:00",
+      "scraped_at": "2026-06-01T05:41:36.321040+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2763,7 +3064,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:30.296562+00:00",
+      "scraped_at": "2026-06-01T05:41:36.321049+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2791,7 +3092,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:30.296573+00:00",
+      "scraped_at": "2026-06-01T05:41:36.321057+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2818,7 +3119,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:30.296583+00:00",
+      "scraped_at": "2026-06-01T05:41:36.321064+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2845,7 +3146,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:30.296593+00:00",
+      "scraped_at": "2026-06-01T05:41:36.321071+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2872,7 +3173,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:30.296604+00:00",
+      "scraped_at": "2026-06-01T05:41:36.321079+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2901,7 +3202,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:30.296613+00:00",
+      "scraped_at": "2026-06-01T05:41:36.321086+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2929,7 +3230,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:30.296622+00:00",
+      "scraped_at": "2026-06-01T05:41:36.321093+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2958,7 +3259,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:30.296633+00:00",
+      "scraped_at": "2026-06-01T05:41:36.321101+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -2986,7 +3287,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:30.296686+00:00",
+      "scraped_at": "2026-06-01T05:41:36.321110+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3013,7 +3314,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:30.296715+00:00",
+      "scraped_at": "2026-06-01T05:41:36.321121+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3041,7 +3342,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:30.296738+00:00",
+      "scraped_at": "2026-06-01T05:41:36.321131+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3068,7 +3369,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:30.296752+00:00",
+      "scraped_at": "2026-06-01T05:41:36.321153+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3097,7 +3398,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:30.296762+00:00",
+      "scraped_at": "2026-06-01T05:41:36.321161+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3125,7 +3426,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:30.296774+00:00",
+      "scraped_at": "2026-06-01T05:41:36.321171+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3154,7 +3455,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:30.296797+00:00",
+      "scraped_at": "2026-06-01T05:41:36.321180+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3182,7 +3483,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:30.296808+00:00",
+      "scraped_at": "2026-06-01T05:41:36.321187+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3209,7 +3510,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:30.296818+00:00",
+      "scraped_at": "2026-06-01T05:41:36.321195+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3238,7 +3539,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:34.674922+00:00",
+      "scraped_at": "2026-06-01T05:41:42.258420+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3268,7 +3569,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:34.674948+00:00",
+      "scraped_at": "2026-06-01T05:41:42.258448+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3298,7 +3599,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:34.674959+00:00",
+      "scraped_at": "2026-06-01T05:41:42.258460+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3327,7 +3628,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:34.674977+00:00",
+      "scraped_at": "2026-06-01T05:41:42.258478+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3356,7 +3657,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:34.674987+00:00",
+      "scraped_at": "2026-06-01T05:41:42.258489+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3385,7 +3686,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:34.674997+00:00",
+      "scraped_at": "2026-06-01T05:41:42.258499+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3415,13 +3716,40 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:34.675006+00:00",
+      "scraped_at": "2026-06-01T05:41:42.258507+00:00",
       "added_at": "2026-05-24"
     },
     {
       "vendor": "micoffee",
+      "url": "https://www.micoffee.co.kr/goods/goods_view.php?goodsNo=1000007494",
+      "raw_name": "[6월 추천생두] 콜롬비아 페르가미노 카투라 워시드",
+      "origin": "Colombia",
+      "region": "Inza, Cauca",
+      "farm": "Pergamino",
+      "producer": "Arnulfo",
+      "altitude": "1,700m ~ 1,900m",
+      "variety": "Caturra",
+      "process": "Washed",
+      "grade": null,
+      "cup_notes": [
+        "Orange",
+        "Apple",
+        "Hazelnut",
+        "Milk Chocolate"
+      ],
+      "price": "21000",
+      "in_stock": false,
+      "moisture": null,
+      "density": null,
+      "score": null,
+      "arrival": null,
+      "scraped_at": "2026-06-01T05:41:51.113049+00:00",
+      "added_at": "2026-06-01"
+    },
+    {
+      "vendor": "micoffee",
       "url": "https://www.micoffee.co.kr/goods/goods_view.php?goodsNo=1000007486",
-      "raw_name": "[신규입고] 콜롬비아 아폰테 타블론 데 고메즈 카투라 워시드",
+      "raw_name": "콜롬비아 아폰테 타블론 데 고메즈 카투라 워시드",
       "origin": "Colombia",
       "region": "Tablon de Gomez, Aponte, Narino",
       "farm": "Tablon de Gomez",
@@ -3442,13 +3770,13 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:41.410077+00:00",
+      "scraped_at": "2026-06-01T05:41:51.113077+00:00",
       "added_at": "2026-05-26"
     },
     {
       "vendor": "micoffee",
       "url": "https://www.micoffee.co.kr/goods/goods_view.php?goodsNo=1000007485",
-      "raw_name": "[신규입고] 콜롬비아 아폰테 카투라 허니",
+      "raw_name": "콜롬비아 아폰테 카투라 허니",
       "origin": "Colombia",
       "region": "Aponte, Narino",
       "farm": "Aponte",
@@ -3469,7 +3797,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:41.410106+00:00",
+      "scraped_at": "2026-06-01T05:41:51.113087+00:00",
       "added_at": "2026-05-26"
     },
     {
@@ -3495,7 +3823,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:41.410119+00:00",
+      "scraped_at": "2026-06-01T05:41:51.113097+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3521,7 +3849,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:41.410132+00:00",
+      "scraped_at": "2026-06-01T05:41:51.113104+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3547,61 +3875,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:41.410143+00:00",
-      "added_at": "2026-05-24"
-    },
-    {
-      "vendor": "micoffee",
-      "url": "https://www.micoffee.co.kr/goods/goods_view.php?goodsNo=1000007451",
-      "raw_name": "[5월 추천생두] 콜롬비아 엘 하르딘 콜롬비아 워시드",
-      "origin": "Colombia",
-      "region": "Santa Barbara, Antioquia",
-      "farm": "El Jardin",
-      "producer": "Leonardo Henao Triana",
-      "altitude": "1,950m ~ 2,050m",
-      "variety": "Colombia",
-      "process": "Washed",
-      "grade": null,
-      "cup_notes": [
-        "Grape",
-        "Apple",
-        "Orange",
-        "Chocolate"
-      ],
-      "price": "21000",
-      "in_stock": false,
-      "moisture": null,
-      "density": null,
-      "score": null,
-      "arrival": null,
-      "scraped_at": "2026-05-31T22:24:41.410155+00:00",
-      "added_at": "2026-05-24"
-    },
-    {
-      "vendor": "micoffee",
-      "url": "https://www.micoffee.co.kr/goods/goods_view.php?goodsNo=1000007430",
-      "raw_name": "콜롬비아 페르가미노 카투라 워시드",
-      "origin": "Colombia",
-      "region": "Inza, Cauca",
-      "farm": "Pergamino",
-      "producer": "Arnulfo",
-      "altitude": "1,700m ~ 1,900m",
-      "variety": "Caturra",
-      "process": "Washed",
-      "grade": null,
-      "cup_notes": [
-        "Orange",
-        "Apple",
-        "Hazelnut",
-        "Milk Chocolate"
-      ],
-      "price": "24,500",
-      "in_stock": false,
-      "moisture": null,
-      "density": null,
-      "score": null,
-      "arrival": null,
-      "scraped_at": "2026-05-31T22:24:41.410166+00:00",
+      "scraped_at": "2026-06-01T05:41:51.113113+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3629,7 +3903,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:41.410179+00:00",
+      "scraped_at": "2026-06-01T05:41:51.113123+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3656,7 +3930,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:41.410190+00:00",
+      "scraped_at": "2026-06-01T05:41:51.113131+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3678,12 +3952,12 @@
         "Dark Chocolate"
       ],
       "price": "24500",
-      "in_stock": false,
+      "in_stock": true,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:41.410202+00:00",
+      "scraped_at": "2026-06-01T05:41:51.113139+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3710,8 +3984,35 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:41.410214+00:00",
+      "scraped_at": "2026-06-01T05:41:51.113149+00:00",
       "added_at": "2026-05-24"
+    },
+    {
+      "vendor": "micoffee",
+      "url": "https://www.micoffee.co.kr/goods/goods_view.php?goodsNo=1000007388",
+      "raw_name": "콜롬비아 엘 하르딘 콜롬비아 워시드",
+      "origin": "Colombia",
+      "region": "Santa Barbara, Antioquia",
+      "farm": "El Jardin",
+      "producer": "Leonardo Henao Triana",
+      "altitude": "1,950m ~ 2,050m",
+      "variety": "Colombia",
+      "process": "Washed",
+      "grade": null,
+      "cup_notes": [
+        "Grape",
+        "Apple",
+        "Orange",
+        "Chocolate"
+      ],
+      "price": "24500",
+      "in_stock": true,
+      "moisture": null,
+      "density": null,
+      "score": null,
+      "arrival": null,
+      "scraped_at": "2026-06-01T05:41:51.113158+00:00",
+      "added_at": "2026-06-01"
     },
     {
       "vendor": "micoffee",
@@ -3738,7 +4039,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:41.410237+00:00",
+      "scraped_at": "2026-06-01T05:41:51.113166+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3764,7 +4065,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:41.410246+00:00",
+      "scraped_at": "2026-06-01T05:41:51.113174+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3791,7 +4092,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:41.410259+00:00",
+      "scraped_at": "2026-06-01T05:41:51.113183+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3813,12 +4114,12 @@
         "Chocolate"
       ],
       "price": "34,000 KRW",
-      "in_stock": false,
+      "in_stock": true,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:41.410273+00:00",
+      "scraped_at": "2026-06-01T05:41:51.113193+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3846,7 +4147,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:41.410284+00:00",
+      "scraped_at": "2026-06-01T05:41:51.113214+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3874,7 +4175,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:41.410294+00:00",
+      "scraped_at": "2026-06-01T05:41:51.113223+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3901,7 +4202,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:41.410303+00:00",
+      "scraped_at": "2026-06-01T05:41:51.113230+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3928,7 +4229,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:41.410314+00:00",
+      "scraped_at": "2026-06-01T05:41:51.113238+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3955,7 +4256,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:41.410324+00:00",
+      "scraped_at": "2026-06-01T05:41:51.113247+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -3977,12 +4278,12 @@
         "Cacao"
       ],
       "price": "19000",
-      "in_stock": false,
+      "in_stock": true,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:41.410335+00:00",
+      "scraped_at": "2026-06-01T05:41:51.113255+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4010,7 +4311,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:46.394760+00:00",
+      "scraped_at": "2026-06-01T05:41:56.618442+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4044,7 +4345,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:46.394787+00:00",
+      "scraped_at": "2026-06-01T05:41:56.618469+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4070,7 +4371,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:46.394796+00:00",
+      "scraped_at": "2026-06-01T05:41:56.618478+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4099,7 +4400,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:46.394805+00:00",
+      "scraped_at": "2026-06-01T05:41:56.618486+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4135,7 +4436,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:46.394818+00:00",
+      "scraped_at": "2026-06-01T05:41:56.618499+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4159,7 +4460,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:46.394828+00:00",
+      "scraped_at": "2026-06-01T05:41:56.618509+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4186,7 +4487,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:46.394837+00:00",
+      "scraped_at": "2026-06-01T05:41:56.618517+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4214,7 +4515,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:46.394846+00:00",
+      "scraped_at": "2026-06-01T05:41:56.618525+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4243,7 +4544,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:46.394854+00:00",
+      "scraped_at": "2026-06-01T05:41:56.618535+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4272,7 +4573,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:46.394862+00:00",
+      "scraped_at": "2026-06-01T05:41:56.618543+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4300,7 +4601,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:46.394871+00:00",
+      "scraped_at": "2026-06-01T05:41:56.618551+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4329,23 +4630,23 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:46.394879+00:00",
+      "scraped_at": "2026-06-01T05:41:56.618559+00:00",
       "added_at": "2026-05-24"
     },
     {
       "vendor": "cobeans",
-      "url": "https://www.cobeans.com/shop/detail.php?pno=E58AEA67B01FA747687F038DFDE066F6",
-      "raw_name": "︎6월1일오픈예정︎26 콜롬비아 카페 로사리오 애...",
+      "url": "https://www.cobeans.com/shop/detail.php?pno=FFEDF5BE3A86E2EE281D54CDC97BC1CF",
+      "raw_name": "26 콜롬비아 로스 파티오스 피치 코퍼먼티드",
       "origin": "Colombia",
-      "region": "Antioquia",
-      "farm": "Cafe Rosario",
-      "producer": "Cafe Rosario",
-      "altitude": "1650-2000m",
+      "region": "La Plata",
+      "farm": "Los Patios",
+      "producer": null,
+      "altitude": "1600-1900m",
       "variety": "Blend",
-      "process": "Apricot Co-fermented",
+      "process": "Ferment",
       "grade": null,
       "cup_notes": [
-        "Apricot"
+        "Peach"
       ],
       "price": "0",
       "in_stock": true,
@@ -4353,23 +4654,47 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:56.384247+00:00",
+      "scraped_at": "2026-06-01T05:42:09.440496+00:00",
       "added_at": "2026-05-24"
     },
     {
       "vendor": "cobeans",
-      "url": "https://www.cobeans.com/shop/detail.php?pno=F516DFB84B9051ED85B89CDC3A8AB7F5",
-      "raw_name": "︎6월1일오픈예정︎26 콜롬비아 카페 로사리오 사...",
+      "url": "https://www.cobeans.com/shop/detail.php?pno=D827F12E35EAE370BA9C65B7F6026695",
+      "raw_name": "26 콜롬비아 과코비아 스트로베리 코퍼먼티드",
+      "origin": "Colombia",
+      "region": "Guacobia",
+      "farm": "Guacobia",
+      "producer": null,
+      "altitude": "1550-1600m",
+      "variety": "Pink Bourbon",
+      "process": "Ferment",
+      "grade": null,
+      "cup_notes": [
+        "Strawberry"
+      ],
+      "price": "0 원",
+      "in_stock": true,
+      "moisture": null,
+      "density": null,
+      "score": null,
+      "arrival": null,
+      "scraped_at": "2026-06-01T05:42:09.440521+00:00",
+      "added_at": "2026-05-24"
+    },
+    {
+      "vendor": "cobeans",
+      "url": "https://www.cobeans.com/shop/detail.php?pno=E6C2DC3DEE4A51DCEC3A876AA2339A78",
+      "raw_name": "26 콜롬비아 카페 로사리오 리치 코퍼먼티드",
       "origin": "Colombia",
       "region": "Antioquia",
       "farm": "Cafe Rosario",
       "producer": "Cafe Rosario",
       "altitude": "1650-2000m",
       "variety": "Blend",
-      "process": "Copper Fermented",
+      "process": "Ferment",
       "grade": null,
       "cup_notes": [
-        "Soursop"
+        "Lychee"
       ],
       "price": "0",
       "in_stock": true,
@@ -4377,23 +4702,23 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:56.384276+00:00",
+      "scraped_at": "2026-06-01T05:42:09.440530+00:00",
       "added_at": "2026-05-24"
     },
     {
       "vendor": "cobeans",
-      "url": "https://www.cobeans.com/shop/detail.php?pno=046DDF96C233A273FD390C3D0B1A9AA4",
-      "raw_name": "︎6월1일오픈예정︎26 콜롬비아 카페 로사리오 아...",
+      "url": "https://www.cobeans.com/shop/detail.php?pno=2D2CA7EEDF739EF4C3800713EC482E1A",
+      "raw_name": "26 콜롬비아 카페 로사리오 워터멜론 코퍼먼티드",
       "origin": "Colombia",
       "region": "Antioquia",
       "farm": "Cafe Rosario",
       "producer": "Cafe Rosario",
       "altitude": "1650-2000m",
       "variety": "Blend",
-      "process": "Irish Cream Co-Fermented",
+      "process": "Ferment",
       "grade": null,
       "cup_notes": [
-        "Irish Cream"
+        "Watermelon"
       ],
       "price": "0",
       "in_stock": true,
@@ -4401,37 +4726,13 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:56.384288+00:00",
-      "added_at": "2026-05-24"
-    },
-    {
-      "vendor": "cobeans",
-      "url": "https://www.cobeans.com/shop/detail.php?pno=6211080FA89981F66B1A0C9D55C61D0F",
-      "raw_name": "︎6월1일오픈예정︎26 콜롬비아 카페 로사리오 블...",
-      "origin": "Colombia",
-      "region": "Antioquia",
-      "farm": "Cafe Rosario",
-      "producer": "Cafe Rosario",
-      "altitude": "1650-2000m",
-      "variety": "Blend",
-      "process": "Co-fermented",
-      "grade": null,
-      "cup_notes": [
-        "Blueberry"
-      ],
-      "price": "0 Won",
-      "in_stock": true,
-      "moisture": null,
-      "density": null,
-      "score": null,
-      "arrival": null,
-      "scraped_at": "2026-05-31T22:24:56.384300+00:00",
+      "scraped_at": "2026-06-01T05:42:09.440539+00:00",
       "added_at": "2026-05-24"
     },
     {
       "vendor": "cobeans",
       "url": "https://www.cobeans.com/shop/detail.php?pno=F976B57BB9DD27AA2E7E7DF2825893A6",
-      "raw_name": "︎6월1일오픈예정︎26 콜롬비아 카페 로사리오 코...",
+      "raw_name": "︎온라인전용︎26 콜롬비아 카페 로사리오 코코넛 ...",
       "origin": "Colombia",
       "region": "Antioquia",
       "farm": "Cafe Rosario",
@@ -4449,23 +4750,47 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:56.384311+00:00",
+      "scraped_at": "2026-06-01T05:42:09.440551+00:00",
       "added_at": "2026-05-24"
     },
     {
       "vendor": "cobeans",
-      "url": "https://www.cobeans.com/shop/detail.php?pno=FFEDF5BE3A86E2EE281D54CDC97BC1CF",
-      "raw_name": "︎6월1일오픈예정︎26 콜롬비아 로스 파티오스 피...",
+      "url": "https://www.cobeans.com/shop/detail.php?pno=6211080FA89981F66B1A0C9D55C61D0F",
+      "raw_name": "︎온라인전용︎26 콜롬비아 카페 로사리오 블루베...",
       "origin": "Colombia",
-      "region": "La Plata",
-      "farm": "Los Patios",
-      "producer": null,
-      "altitude": "1600-1900m",
+      "region": "Antioquia",
+      "farm": "Cafe Rosario",
+      "producer": "Cafe Rosario",
+      "altitude": "1650-2000m",
       "variety": "Blend",
       "process": "Co-fermented",
       "grade": null,
       "cup_notes": [
-        "Peach"
+        "Blueberry"
+      ],
+      "price": "0 Won",
+      "in_stock": true,
+      "moisture": null,
+      "density": null,
+      "score": null,
+      "arrival": null,
+      "scraped_at": "2026-06-01T05:42:09.440561+00:00",
+      "added_at": "2026-05-24"
+    },
+    {
+      "vendor": "cobeans",
+      "url": "https://www.cobeans.com/shop/detail.php?pno=E58AEA67B01FA747687F038DFDE066F6",
+      "raw_name": "26 콜롬비아 카페 로사리오 애프리콧 코퍼먼티드",
+      "origin": "Colombia",
+      "region": "Antioquia",
+      "farm": "Cafe Rosario",
+      "producer": "Cafe Rosario",
+      "altitude": "1650-2000m",
+      "variety": "Blend",
+      "process": "Ferment",
+      "grade": null,
+      "cup_notes": [
+        "Apricot"
       ],
       "price": "0",
       "in_stock": true,
@@ -4473,20 +4798,44 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:56.384322+00:00",
+      "scraped_at": "2026-06-01T05:42:09.440568+00:00",
+      "added_at": "2026-05-24"
+    },
+    {
+      "vendor": "cobeans",
+      "url": "https://www.cobeans.com/shop/detail.php?pno=F516DFB84B9051ED85B89CDC3A8AB7F5",
+      "raw_name": "︎온라인전용︎26 콜롬비아 카페 로사리오 사워솝 ...",
+      "origin": "Colombia",
+      "region": "Antioquia",
+      "farm": "Cafe Rosario",
+      "producer": "Cafe Rosario",
+      "altitude": "1650-2000m",
+      "variety": "Blend",
+      "process": "Copper Fermented",
+      "grade": null,
+      "cup_notes": [
+        "Soursop"
+      ],
+      "price": "0",
+      "in_stock": true,
+      "moisture": null,
+      "density": null,
+      "score": null,
+      "arrival": null,
+      "scraped_at": "2026-06-01T05:42:09.440576+00:00",
       "added_at": "2026-05-24"
     },
     {
       "vendor": "cobeans",
       "url": "https://www.cobeans.com/shop/detail.php?pno=49C0B9D84C2A16FCAF9D25694FDA75E1",
-      "raw_name": "︎6월1일오픈예정︎26 콜롬비아 로스 파티오스 체...",
+      "raw_name": "26 콜롬비아 로스 파티오스 체리 코퍼먼티드",
       "origin": "Colombia",
       "region": "La Plata",
       "farm": "Los Patios",
       "producer": "Los Patios",
       "altitude": "1600-1900m",
       "variety": "Cherry",
-      "process": "Cherry Co-Fermented",
+      "process": "Ferment",
       "grade": null,
       "cup_notes": [
         "Cherry"
@@ -4497,20 +4846,44 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:56.384332+00:00",
+      "scraped_at": "2026-06-01T05:42:09.440584+00:00",
+      "added_at": "2026-05-24"
+    },
+    {
+      "vendor": "cobeans",
+      "url": "https://www.cobeans.com/shop/detail.php?pno=046DDF96C233A273FD390C3D0B1A9AA4",
+      "raw_name": "︎온라인전용︎26 콜롬비아 카페 로사리오 아이리...",
+      "origin": "Colombia",
+      "region": "Antioquia",
+      "farm": "Cafe Rosario",
+      "producer": "Cafe Rosario",
+      "altitude": "1650-2000m",
+      "variety": "Blend",
+      "process": "Irish Cream Co-Fermented",
+      "grade": null,
+      "cup_notes": [
+        "Irish Cream"
+      ],
+      "price": "0",
+      "in_stock": true,
+      "moisture": null,
+      "density": null,
+      "score": null,
+      "arrival": null,
+      "scraped_at": "2026-06-01T05:42:09.440593+00:00",
       "added_at": "2026-05-24"
     },
     {
       "vendor": "cobeans",
       "url": "https://www.cobeans.com/shop/detail.php?pno=149815EB972B3C370DEE3B89D645AE14",
-      "raw_name": "︎6월1일오픈예정︎26 콜롬비아 로스 파티오스 베...",
+      "raw_name": "26 콜롬비아 로스 파티오스 베리 코퍼먼티드",
       "origin": "Colombia",
       "region": "La Plata",
       "farm": "Los Patios",
       "producer": "Los Patios",
       "altitude": "1600-1900m",
       "variety": "Blend",
-      "process": "Berry Co-fermented",
+      "process": "Ferment",
       "grade": null,
       "cup_notes": [
         "Strawberry",
@@ -4524,79 +4897,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:56.384342+00:00",
-      "added_at": "2026-05-24"
-    },
-    {
-      "vendor": "cobeans",
-      "url": "https://www.cobeans.com/shop/detail.php?pno=2D2CA7EEDF739EF4C3800713EC482E1A",
-      "raw_name": "︎6월1일오픈예정︎26 콜롬비아 카페 로사리오 워...",
-      "origin": "Colombia",
-      "region": "Antioquia",
-      "farm": "Cafe Rosario",
-      "producer": "Cafe Rosario",
-      "altitude": "1650-2000m",
-      "variety": "Blend",
-      "process": "Watermelon Co-fermented",
-      "grade": null,
-      "cup_notes": [
-        "Watermelon"
-      ],
-      "price": "0",
-      "in_stock": true,
-      "moisture": null,
-      "density": null,
-      "score": null,
-      "arrival": null,
-      "scraped_at": "2026-05-31T22:24:56.384352+00:00",
-      "added_at": "2026-05-24"
-    },
-    {
-      "vendor": "cobeans",
-      "url": "https://www.cobeans.com/shop/detail.php?pno=D827F12E35EAE370BA9C65B7F6026695",
-      "raw_name": "︎6월1일오픈예정︎26 콜롬비아 과코비아 스트로베...",
-      "origin": "Colombia",
-      "region": "Guacobia",
-      "farm": "Guacobia",
-      "producer": null,
-      "altitude": "1550-1600m",
-      "variety": "Pink Bourbon",
-      "process": "Co-fermented",
-      "grade": null,
-      "cup_notes": [
-        "Strawberry"
-      ],
-      "price": "0 원",
-      "in_stock": true,
-      "moisture": null,
-      "density": null,
-      "score": null,
-      "arrival": null,
-      "scraped_at": "2026-05-31T22:24:56.384361+00:00",
-      "added_at": "2026-05-24"
-    },
-    {
-      "vendor": "cobeans",
-      "url": "https://www.cobeans.com/shop/detail.php?pno=E6C2DC3DEE4A51DCEC3A876AA2339A78",
-      "raw_name": "︎6월1일오픈예정︎26 콜롬비아 카페 로사리오 리...",
-      "origin": "Colombia",
-      "region": "Antioquia",
-      "farm": "Cafe Rosario",
-      "producer": "Cafe Rosario",
-      "altitude": "1650-2000m",
-      "variety": "Blend",
-      "process": "Co-fermented",
-      "grade": null,
-      "cup_notes": [
-        "Lychee"
-      ],
-      "price": "0",
-      "in_stock": true,
-      "moisture": null,
-      "density": null,
-      "score": null,
-      "arrival": null,
-      "scraped_at": "2026-05-31T22:24:56.384371+00:00",
+      "scraped_at": "2026-06-01T05:42:09.440600+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4622,7 +4923,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:56.384382+00:00",
+      "scraped_at": "2026-06-01T05:42:09.440608+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4648,7 +4949,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:56.384395+00:00",
+      "scraped_at": "2026-06-01T05:42:09.440618+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4674,7 +4975,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:56.384418+00:00",
+      "scraped_at": "2026-06-01T05:42:09.440626+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4701,7 +5002,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:56.384441+00:00",
+      "scraped_at": "2026-06-01T05:42:09.440645+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4730,7 +5031,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:56.384449+00:00",
+      "scraped_at": "2026-06-01T05:42:09.440653+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4756,7 +5057,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:56.384459+00:00",
+      "scraped_at": "2026-06-01T05:42:09.440663+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4783,7 +5084,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:56.384468+00:00",
+      "scraped_at": "2026-06-01T05:42:09.440685+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4809,7 +5110,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:56.384478+00:00",
+      "scraped_at": "2026-06-01T05:42:09.440694+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4835,7 +5136,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:59.124071+00:00",
+      "scraped_at": "2026-06-01T05:42:13.854634+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4862,7 +5163,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:59.124096+00:00",
+      "scraped_at": "2026-06-01T05:42:13.854661+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4889,7 +5190,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:59.124106+00:00",
+      "scraped_at": "2026-06-01T05:42:13.854670+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4916,7 +5217,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:59.124115+00:00",
+      "scraped_at": "2026-06-01T05:42:13.854679+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4940,7 +5241,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:59.124125+00:00",
+      "scraped_at": "2026-06-01T05:42:13.854688+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4967,7 +5268,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:59.124133+00:00",
+      "scraped_at": "2026-06-01T05:42:13.854708+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -4995,7 +5296,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:59.124141+00:00",
+      "scraped_at": "2026-06-01T05:42:13.854716+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5024,7 +5325,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:59.124150+00:00",
+      "scraped_at": "2026-06-01T05:42:13.854725+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5051,7 +5352,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:59.124159+00:00",
+      "scraped_at": "2026-06-01T05:42:13.854733+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5078,7 +5379,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:59.124167+00:00",
+      "scraped_at": "2026-06-01T05:42:13.854740+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5103,7 +5404,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:59.124174+00:00",
+      "scraped_at": "2026-06-01T05:42:13.854748+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5127,7 +5428,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:59.124182+00:00",
+      "scraped_at": "2026-06-01T05:42:13.854756+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5154,7 +5455,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:59.124191+00:00",
+      "scraped_at": "2026-06-01T05:42:13.854764+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5181,7 +5482,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:59.124204+00:00",
+      "scraped_at": "2026-06-01T05:42:13.854778+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5205,7 +5506,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:59.124212+00:00",
+      "scraped_at": "2026-06-01T05:42:13.854786+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5229,7 +5530,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:59.124220+00:00",
+      "scraped_at": "2026-06-01T05:42:13.854794+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5254,7 +5555,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:59.124227+00:00",
+      "scraped_at": "2026-06-01T05:42:13.854801+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5278,7 +5579,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:59.124240+00:00",
+      "scraped_at": "2026-06-01T05:42:13.854809+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5302,7 +5603,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:59.124249+00:00",
+      "scraped_at": "2026-06-01T05:42:13.854817+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5329,7 +5630,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:59.124257+00:00",
+      "scraped_at": "2026-06-01T05:42:13.854826+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5356,7 +5657,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:59.124267+00:00",
+      "scraped_at": "2026-06-01T05:42:13.854846+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5383,7 +5684,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:59.124276+00:00",
+      "scraped_at": "2026-06-01T05:42:13.854854+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5410,7 +5711,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:59.124284+00:00",
+      "scraped_at": "2026-06-01T05:42:13.854862+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5437,7 +5738,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:59.124293+00:00",
+      "scraped_at": "2026-06-01T05:42:13.854870+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5464,7 +5765,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:59.124303+00:00",
+      "scraped_at": "2026-06-01T05:42:13.854880+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5491,7 +5792,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:59.124312+00:00",
+      "scraped_at": "2026-06-01T05:42:13.854889+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5518,7 +5819,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:59.124321+00:00",
+      "scraped_at": "2026-06-01T05:42:13.854897+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5545,7 +5846,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:59.124329+00:00",
+      "scraped_at": "2026-06-01T05:42:13.854905+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5572,7 +5873,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:59.124337+00:00",
+      "scraped_at": "2026-06-01T05:42:13.854913+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5599,7 +5900,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:59.124345+00:00",
+      "scraped_at": "2026-06-01T05:42:13.854921+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5626,7 +5927,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:59.124354+00:00",
+      "scraped_at": "2026-06-01T05:42:13.854930+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5653,7 +5954,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:59.124361+00:00",
+      "scraped_at": "2026-06-01T05:42:13.854937+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5680,7 +5981,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:59.124369+00:00",
+      "scraped_at": "2026-06-01T05:42:13.854945+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5707,7 +6008,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:59.124535+00:00",
+      "scraped_at": "2026-06-01T05:42:13.854952+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5734,7 +6035,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:59.124544+00:00",
+      "scraped_at": "2026-06-01T05:42:13.854960+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5761,7 +6062,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:59.124552+00:00",
+      "scraped_at": "2026-06-01T05:42:13.854968+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5788,7 +6089,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:24:59.124560+00:00",
+      "scraped_at": "2026-06-01T05:42:13.854975+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5816,7 +6117,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:25:12.136956+00:00",
+      "scraped_at": "2026-06-01T05:43:24.622049+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5845,7 +6146,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:25:12.136982+00:00",
+      "scraped_at": "2026-06-01T05:43:24.622075+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5878,7 +6179,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:25:12.136993+00:00",
+      "scraped_at": "2026-06-01T05:43:24.622086+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5914,7 +6215,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:25:12.137002+00:00",
+      "scraped_at": "2026-06-01T05:43:24.622094+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5943,7 +6244,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:25:12.137010+00:00",
+      "scraped_at": "2026-06-01T05:43:24.622103+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -5976,7 +6277,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:25:12.137019+00:00",
+      "scraped_at": "2026-06-01T05:43:24.622113+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6004,7 +6305,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:25:12.137027+00:00",
+      "scraped_at": "2026-06-01T05:43:24.622122+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6032,7 +6333,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:25:12.137036+00:00",
+      "scraped_at": "2026-06-01T05:43:24.622131+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6061,7 +6362,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:25:12.137045+00:00",
+      "scraped_at": "2026-06-01T05:43:24.622140+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6090,7 +6391,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:25:12.137053+00:00",
+      "scraped_at": "2026-06-01T05:43:24.622148+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6119,7 +6420,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:25:12.137061+00:00",
+      "scraped_at": "2026-06-01T05:43:24.622157+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6148,7 +6449,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:25:12.137068+00:00",
+      "scraped_at": "2026-06-01T05:43:24.622165+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6177,7 +6478,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:25:12.137075+00:00",
+      "scraped_at": "2026-06-01T05:43:24.622172+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6206,34 +6507,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:25:12.137083+00:00",
-      "added_at": "2026-05-24"
-    },
-    {
-      "vendor": "micoffee",
-      "url": "https://www.micoffee.co.kr/goods/goods_view.php?goodsNo=1000007484",
-      "raw_name": "[이주의 특가] 케냐 AA",
-      "origin": "Kenya",
-      "region": "Kirinyaga, Nyeri",
-      "farm": "Various Cooperatives",
-      "producer": null,
-      "altitude": "1,700m",
-      "variety": "SL28, Ruiru11",
-      "process": "Fully Washed",
-      "grade": "AA",
-      "cup_notes": [
-        "Grapefruit",
-        "Roasted Nuts",
-        "Brown Sugar",
-        "Dark Chocolate"
-      ],
-      "price": "16,500",
-      "in_stock": false,
-      "moisture": null,
-      "density": null,
-      "score": null,
-      "arrival": null,
-      "scraped_at": "2026-05-31T22:25:17.176446+00:00",
+      "scraped_at": "2026-06-01T05:43:24.622179+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6260,8 +6534,35 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:25:17.176470+00:00",
+      "scraped_at": "2026-06-01T05:43:30.459828+00:00",
       "added_at": "2026-05-24"
+    },
+    {
+      "vendor": "micoffee",
+      "url": "https://www.micoffee.co.kr/goods/goods_view.php?goodsNo=1000000750",
+      "raw_name": "케냐 AA",
+      "origin": "Kenya",
+      "region": "Kirinyaga, Nyeri",
+      "farm": null,
+      "producer": "Various Cooperatives",
+      "altitude": "1,700m",
+      "variety": "SL28, Ruiru11",
+      "process": "Fully Washed",
+      "grade": "AA",
+      "cup_notes": [
+        "Grapefruit",
+        "Roasted Nuts",
+        "Brown Sugar",
+        "Dark Chocolate"
+      ],
+      "price": "20000",
+      "in_stock": false,
+      "moisture": null,
+      "density": null,
+      "score": null,
+      "arrival": null,
+      "scraped_at": "2026-06-01T05:43:30.459853+00:00",
+      "added_at": "2026-06-01"
     },
     {
       "vendor": "newbean",
@@ -6289,7 +6590,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:25:21.881232+00:00",
+      "scraped_at": "2026-06-01T05:43:35.616504+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6317,7 +6618,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:25:21.881258+00:00",
+      "scraped_at": "2026-06-01T05:43:35.616530+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6329,7 +6630,7 @@
       "farm": null,
       "producer": null,
       "altitude": "1,600 ~ 2,000m",
-      "variety": null,
+      "variety": "SL 28, SL 34, Ruiru 11, Batian",
       "process": "Washed",
       "grade": "AA FAQ",
       "cup_notes": [
@@ -6346,7 +6647,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:25:21.881269+00:00",
+      "scraped_at": "2026-06-01T05:43:35.616540+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6374,7 +6675,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:25:21.881279+00:00",
+      "scraped_at": "2026-06-01T05:43:35.616549+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6400,7 +6701,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:25:37.012560+00:00",
+      "scraped_at": "2026-06-01T05:43:46.879416+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6426,7 +6727,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:25:37.012589+00:00",
+      "scraped_at": "2026-06-01T05:43:46.879442+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6453,7 +6754,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:25:37.012602+00:00",
+      "scraped_at": "2026-06-01T05:43:46.879453+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6480,7 +6781,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:25:37.012613+00:00",
+      "scraped_at": "2026-06-01T05:43:46.879462+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6505,7 +6806,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:25:38.888126+00:00",
+      "scraped_at": "2026-06-01T05:43:49.791400+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6532,7 +6833,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:25:38.888150+00:00",
+      "scraped_at": "2026-06-01T05:43:49.791424+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6559,7 +6860,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:25:38.888161+00:00",
+      "scraped_at": "2026-06-01T05:43:49.791435+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6586,7 +6887,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:25:38.888170+00:00",
+      "scraped_at": "2026-06-01T05:43:49.791445+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6613,7 +6914,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:25:38.888179+00:00",
+      "scraped_at": "2026-06-01T05:43:49.791453+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6640,7 +6941,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:25:38.888187+00:00",
+      "scraped_at": "2026-06-01T05:43:49.791461+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6667,7 +6968,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:25:38.888195+00:00",
+      "scraped_at": "2026-06-01T05:43:49.791469+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6694,7 +6995,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:25:38.888204+00:00",
+      "scraped_at": "2026-06-01T05:43:49.791477+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6721,7 +7022,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:25:38.888213+00:00",
+      "scraped_at": "2026-06-01T05:43:49.791485+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6748,7 +7049,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:25:38.888222+00:00",
+      "scraped_at": "2026-06-01T05:43:49.791494+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6775,7 +7076,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:25:38.888230+00:00",
+      "scraped_at": "2026-06-01T05:43:49.791502+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6802,7 +7103,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:25:38.888237+00:00",
+      "scraped_at": "2026-06-01T05:43:49.791510+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6829,7 +7130,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:25:38.888245+00:00",
+      "scraped_at": "2026-06-01T05:43:49.791518+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6856,7 +7157,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:25:38.888253+00:00",
+      "scraped_at": "2026-06-01T05:43:49.791526+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6884,7 +7185,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:25:47.834339+00:00",
+      "scraped_at": "2026-06-01T05:44:58.113428+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6911,7 +7212,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:25:47.834378+00:00",
+      "scraped_at": "2026-06-01T05:44:58.113466+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6938,7 +7239,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:25:47.834390+00:00",
+      "scraped_at": "2026-06-01T05:44:58.113478+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6965,7 +7266,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:25:47.834401+00:00",
+      "scraped_at": "2026-06-01T05:44:58.113487+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -6993,7 +7294,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:25:47.834411+00:00",
+      "scraped_at": "2026-06-01T05:44:58.113497+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7021,7 +7322,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:25:47.834422+00:00",
+      "scraped_at": "2026-06-01T05:44:58.113507+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7050,7 +7351,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:25:51.831396+00:00",
+      "scraped_at": "2026-06-01T05:45:03.958955+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7080,7 +7381,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:25:51.831421+00:00",
+      "scraped_at": "2026-06-01T05:45:03.958982+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7110,7 +7411,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:25:51.831433+00:00",
+      "scraped_at": "2026-06-01T05:45:03.958994+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7139,7 +7440,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:25:51.831443+00:00",
+      "scraped_at": "2026-06-01T05:45:03.959004+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7168,7 +7469,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:25:51.831452+00:00",
+      "scraped_at": "2026-06-01T05:45:03.959012+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7197,7 +7498,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:25:51.831461+00:00",
+      "scraped_at": "2026-06-01T05:45:03.959021+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7226,7 +7527,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:25:51.831469+00:00",
+      "scraped_at": "2026-06-01T05:45:03.959029+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7255,7 +7556,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:25:51.831477+00:00",
+      "scraped_at": "2026-06-01T05:45:03.959038+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7284,7 +7585,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:25:51.831485+00:00",
+      "scraped_at": "2026-06-01T05:45:03.959047+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7314,7 +7615,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:25:51.831494+00:00",
+      "scraped_at": "2026-06-01T05:45:03.959056+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7343,7 +7644,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:25:51.831502+00:00",
+      "scraped_at": "2026-06-01T05:45:03.959065+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7367,12 +7668,12 @@
         "Round Body"
       ],
       "price": "166500",
-      "in_stock": true,
+      "in_stock": false,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:25:51.831511+00:00",
+      "scraped_at": "2026-06-01T05:45:03.959074+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7401,7 +7702,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:25:51.831520+00:00",
+      "scraped_at": "2026-06-01T05:45:03.959082+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7430,7 +7731,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:25:51.831528+00:00",
+      "scraped_at": "2026-06-01T05:45:03.959090+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7458,8 +7759,35 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:25:51.831536+00:00",
+      "scraped_at": "2026-06-01T05:45:03.959097+00:00",
       "added_at": "2026-05-24"
+    },
+    {
+      "vendor": "micoffee",
+      "url": "https://www.micoffee.co.kr/goods/goods_view.php?goodsNo=1000007496",
+      "raw_name": "[이주의 특가] 과테말라 안티구아 파노라마 SHB EP",
+      "origin": "Guatemala",
+      "region": "Antigua",
+      "farm": null,
+      "producer": null,
+      "altitude": "1,500 ~ 1,800m",
+      "variety": "Bourbon, others",
+      "process": "Fully Washed",
+      "grade": "EP",
+      "cup_notes": [
+        "Orange",
+        "Apple",
+        "Macadamia",
+        "Chocolate"
+      ],
+      "price": "17500",
+      "in_stock": false,
+      "moisture": null,
+      "density": null,
+      "score": null,
+      "arrival": null,
+      "scraped_at": "2026-06-01T05:45:10.530535+00:00",
+      "added_at": "2026-06-01"
     },
     {
       "vendor": "micoffee",
@@ -7486,7 +7814,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:25:56.556043+00:00",
+      "scraped_at": "2026-06-01T05:45:10.530562+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7514,7 +7842,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:25:56.556077+00:00",
+      "scraped_at": "2026-06-01T05:45:10.530579+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7541,7 +7869,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:25:56.556088+00:00",
+      "scraped_at": "2026-06-01T05:45:10.530586+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7563,12 +7891,12 @@
         "Milk Chocolate"
       ],
       "price": "21500",
-      "in_stock": true,
+      "in_stock": false,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:25:56.556100+00:00",
+      "scraped_at": "2026-06-01T05:45:10.530596+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7595,7 +7923,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:25:56.556111+00:00",
+      "scraped_at": "2026-06-01T05:45:10.530604+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7622,34 +7950,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:25:56.556122+00:00",
-      "added_at": "2026-05-24"
-    },
-    {
-      "vendor": "micoffee",
-      "url": "https://www.micoffee.co.kr/goods/goods_view.php?goodsNo=1000000725",
-      "raw_name": "과테말라 안티구아 파노라마 SHB EP",
-      "origin": "Guatemala",
-      "region": "Antigua",
-      "farm": null,
-      "producer": null,
-      "altitude": "1,500 ~ 1,800m",
-      "variety": "Bourbon, others",
-      "process": "Fully Washed",
-      "grade": "EP",
-      "cup_notes": [
-        "Orange",
-        "Apple",
-        "Macadamia",
-        "Chocolate"
-      ],
-      "price": "21000",
-      "in_stock": true,
-      "moisture": null,
-      "density": null,
-      "score": null,
-      "arrival": null,
-      "scraped_at": "2026-05-31T22:25:56.556134+00:00",
+      "scraped_at": "2026-06-01T05:45:10.530612+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7676,7 +7977,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:26:00.878985+00:00",
+      "scraped_at": "2026-06-01T05:45:16.536568+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7705,7 +8006,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:26:00.879014+00:00",
+      "scraped_at": "2026-06-01T05:45:16.536595+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7733,7 +8034,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:26:00.879027+00:00",
+      "scraped_at": "2026-06-01T05:45:16.536605+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7759,7 +8060,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:26:16.198276+00:00",
+      "scraped_at": "2026-06-01T05:45:32.410301+00:00",
       "added_at": "2026-05-27"
     },
     {
@@ -7787,7 +8088,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:26:16.198304+00:00",
+      "scraped_at": "2026-06-01T05:45:32.410328+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7813,7 +8114,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:26:16.198316+00:00",
+      "scraped_at": "2026-06-01T05:45:32.410338+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7839,7 +8140,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:26:18.573365+00:00",
+      "scraped_at": "2026-06-01T05:45:35.815513+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7863,7 +8164,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:26:18.573388+00:00",
+      "scraped_at": "2026-06-01T05:45:35.815537+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7885,7 +8186,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:26:18.573400+00:00",
+      "scraped_at": "2026-06-01T05:45:35.815550+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7907,7 +8208,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:26:18.573417+00:00",
+      "scraped_at": "2026-06-01T05:45:35.815567+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7929,7 +8230,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:26:18.573426+00:00",
+      "scraped_at": "2026-06-01T05:45:35.815576+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7951,7 +8252,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:26:18.573436+00:00",
+      "scraped_at": "2026-06-01T05:45:35.815586+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -7973,7 +8274,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:26:18.573445+00:00",
+      "scraped_at": "2026-06-01T05:45:35.815596+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8000,7 +8301,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:26:18.573454+00:00",
+      "scraped_at": "2026-06-01T05:45:35.815605+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8022,7 +8323,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:26:18.573462+00:00",
+      "scraped_at": "2026-06-01T05:45:35.815613+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8044,7 +8345,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:26:18.573471+00:00",
+      "scraped_at": "2026-06-01T05:45:35.815621+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8071,7 +8372,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:26:18.573480+00:00",
+      "scraped_at": "2026-06-01T05:45:35.815631+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8098,7 +8399,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:26:18.573488+00:00",
+      "scraped_at": "2026-06-01T05:45:35.815641+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8125,7 +8426,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:26:18.573498+00:00",
+      "scraped_at": "2026-06-01T05:45:35.815650+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8151,7 +8452,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:26:18.573507+00:00",
+      "scraped_at": "2026-06-01T05:45:35.815659+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8177,7 +8478,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:26:18.573516+00:00",
+      "scraped_at": "2026-06-01T05:45:35.815668+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8204,7 +8505,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:26:18.573524+00:00",
+      "scraped_at": "2026-06-01T05:45:35.815676+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8231,7 +8532,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:26:18.573532+00:00",
+      "scraped_at": "2026-06-01T05:45:35.815683+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8258,7 +8559,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:26:18.573543+00:00",
+      "scraped_at": "2026-06-01T05:45:35.815693+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8285,7 +8586,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:26:18.573552+00:00",
+      "scraped_at": "2026-06-01T05:45:35.815736+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8312,7 +8613,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:26:18.573560+00:00",
+      "scraped_at": "2026-06-01T05:45:35.815749+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8339,7 +8640,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:26:18.573569+00:00",
+      "scraped_at": "2026-06-01T05:45:35.815763+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8361,7 +8662,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:26:18.573580+00:00",
+      "scraped_at": "2026-06-01T05:45:35.815774+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8388,7 +8689,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:26:27.160262+00:00",
+      "scraped_at": "2026-06-01T05:46:41.397417+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8416,7 +8717,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:26:27.160277+00:00",
+      "scraped_at": "2026-06-01T05:46:41.397429+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8444,7 +8745,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:26:27.160289+00:00",
+      "scraped_at": "2026-06-01T05:46:41.397439+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8473,7 +8774,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:26:31.215822+00:00",
+      "scraped_at": "2026-06-01T05:46:46.381537+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8502,7 +8803,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:26:31.215851+00:00",
+      "scraped_at": "2026-06-01T05:46:46.381581+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8531,7 +8832,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:26:31.215865+00:00",
+      "scraped_at": "2026-06-01T05:46:46.381591+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8560,7 +8861,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:26:31.215878+00:00",
+      "scraped_at": "2026-06-01T05:46:46.381602+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8589,7 +8890,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:26:31.215890+00:00",
+      "scraped_at": "2026-06-01T05:46:46.381611+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8617,35 +8918,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:26:35.176029+00:00",
-      "added_at": "2026-05-24"
-    },
-    {
-      "vendor": "micoffee",
-      "url": "https://www.micoffee.co.kr/goods/goods_view.php?goodsNo=1000007217",
-      "raw_name": "[100g 한정판매] 파나마 아부 게이샤 GW-3155 워시드",
-      "origin": "Panama",
-      "region": "Boquete, Cañas Verdes, Chiriqui",
-      "farm": "Abu Coffee",
-      "producer": null,
-      "altitude": "1,550m",
-      "variety": "Geisha",
-      "process": "Washed",
-      "grade": null,
-      "cup_notes": [
-        "Earl Grey",
-        "Floral",
-        "Grape",
-        "Apricot",
-        "Apple"
-      ],
-      "price": "25,000",
-      "in_stock": true,
-      "moisture": null,
-      "density": null,
-      "score": null,
-      "arrival": null,
-      "scraped_at": "2026-05-31T22:26:35.176053+00:00",
+      "scraped_at": "2026-06-01T05:46:51.837859+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8673,7 +8946,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:26:35.176064+00:00",
+      "scraped_at": "2026-06-01T05:46:51.837888+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8695,12 +8968,12 @@
         "Caramel"
       ],
       "price": "121,000",
-      "in_stock": true,
+      "in_stock": false,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:26:35.176073+00:00",
+      "scraped_at": "2026-06-01T05:46:51.837898+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8723,12 +8996,12 @@
         "Milk Chocolate"
       ],
       "price": "67,000 KRW",
-      "in_stock": true,
+      "in_stock": false,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:26:35.176082+00:00",
+      "scraped_at": "2026-06-01T05:46:51.837908+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8755,7 +9028,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:26:35.176089+00:00",
+      "scraped_at": "2026-06-01T05:46:51.837915+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8783,7 +9056,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:26:35.176097+00:00",
+      "scraped_at": "2026-06-01T05:46:51.837923+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8806,12 +9079,12 @@
         "Milk Chocolate"
       ],
       "price": "330,000",
-      "in_stock": true,
+      "in_stock": false,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:26:35.176106+00:00",
+      "scraped_at": "2026-06-01T05:46:51.837931+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8834,12 +9107,12 @@
         "Chocolate"
       ],
       "price": "41000",
-      "in_stock": true,
+      "in_stock": false,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:26:35.176115+00:00",
+      "scraped_at": "2026-06-01T05:46:51.837940+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8869,7 +9142,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:26:39.744769+00:00",
+      "scraped_at": "2026-06-01T05:46:57.682098+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8900,7 +9173,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:26:39.744799+00:00",
+      "scraped_at": "2026-06-01T05:46:57.682125+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8927,7 +9200,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:06.659032+00:00",
+      "scraped_at": "2026-06-01T05:47:12.969917+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8954,7 +9227,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:06.659057+00:00",
+      "scraped_at": "2026-06-01T05:47:12.969944+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -8981,7 +9254,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:06.659069+00:00",
+      "scraped_at": "2026-06-01T05:47:12.969956+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9008,7 +9281,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:06.659078+00:00",
+      "scraped_at": "2026-06-01T05:47:12.969965+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9035,7 +9308,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:06.659088+00:00",
+      "scraped_at": "2026-06-01T05:47:12.969975+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9062,7 +9335,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:06.659098+00:00",
+      "scraped_at": "2026-06-01T05:47:12.969984+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9089,7 +9362,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:06.659107+00:00",
+      "scraped_at": "2026-06-01T05:47:12.969994+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9118,7 +9391,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:06.659116+00:00",
+      "scraped_at": "2026-06-01T05:47:12.970003+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9146,7 +9419,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:06.659125+00:00",
+      "scraped_at": "2026-06-01T05:47:12.970012+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9173,7 +9446,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:06.659134+00:00",
+      "scraped_at": "2026-06-01T05:47:12.970021+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9198,7 +9471,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:06.659143+00:00",
+      "scraped_at": "2026-06-01T05:47:12.970030+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9226,7 +9499,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:06.659151+00:00",
+      "scraped_at": "2026-06-01T05:47:12.970039+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9253,7 +9526,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:06.659159+00:00",
+      "scraped_at": "2026-06-01T05:47:12.970046+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9281,7 +9554,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:06.659167+00:00",
+      "scraped_at": "2026-06-01T05:47:12.970055+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9309,7 +9582,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:06.659176+00:00",
+      "scraped_at": "2026-06-01T05:47:12.970063+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9337,7 +9610,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:06.659185+00:00",
+      "scraped_at": "2026-06-01T05:47:12.970070+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9359,7 +9632,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:06.659194+00:00",
+      "scraped_at": "2026-06-01T05:47:12.970078+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9381,7 +9654,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:06.659201+00:00",
+      "scraped_at": "2026-06-01T05:47:12.970084+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9403,7 +9676,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:06.659210+00:00",
+      "scraped_at": "2026-06-01T05:47:12.970091+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9425,7 +9698,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:06.659218+00:00",
+      "scraped_at": "2026-06-01T05:47:12.970099+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9452,7 +9725,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:06.659226+00:00",
+      "scraped_at": "2026-06-01T05:47:12.970106+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9479,7 +9752,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:06.659234+00:00",
+      "scraped_at": "2026-06-01T05:47:12.970114+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9506,7 +9779,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:06.659242+00:00",
+      "scraped_at": "2026-06-01T05:47:12.970121+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9528,7 +9801,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:06.659252+00:00",
+      "scraped_at": "2026-06-01T05:47:12.970132+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9550,7 +9823,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:06.659263+00:00",
+      "scraped_at": "2026-06-01T05:47:12.970141+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9572,7 +9845,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:06.659272+00:00",
+      "scraped_at": "2026-06-01T05:47:12.970150+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9594,7 +9867,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:06.659281+00:00",
+      "scraped_at": "2026-06-01T05:47:12.970159+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9621,7 +9894,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:16.339401+00:00",
+      "scraped_at": "2026-06-01T05:48:21.822190+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9649,7 +9922,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:16.339426+00:00",
+      "scraped_at": "2026-06-01T05:48:21.822219+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9678,7 +9951,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:20.839372+00:00",
+      "scraped_at": "2026-06-01T05:48:26.914070+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9707,13 +9980,13 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:20.839397+00:00",
+      "scraped_at": "2026-06-01T05:48:26.914098+00:00",
       "added_at": "2026-05-24"
     },
     {
       "vendor": "micoffee",
-      "url": "https://www.micoffee.co.kr/goods/goods_view.php?goodsNo=1000007417",
-      "raw_name": "[5월 추천생두] 브라질 세하도 14/16 NY2 FC",
+      "url": "https://www.micoffee.co.kr/goods/goods_view.php?goodsNo=1000006601",
+      "raw_name": "브라질 세하도 14/16 NY2 FC",
       "origin": "Brazil",
       "region": "Cerrado",
       "farm": null,
@@ -9721,21 +9994,21 @@
       "altitude": "800m ~ 1,100m",
       "variety": "Mundo Novo",
       "process": "Natural",
-      "grade": "14/16 NY2 FC",
+      "grade": "NY2 FC",
       "cup_notes": [
         "Citrus",
         "Roasted Peanut",
-        "Chocolate",
-        "Heavy Body"
+        "Brown Sugar",
+        "Chocolate"
       ],
-      "price": "14500",
-      "in_stock": false,
+      "price": "18,000",
+      "in_stock": true,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:26.362863+00:00",
-      "added_at": "2026-05-24"
+      "scraped_at": "2026-06-01T05:48:32.842664+00:00",
+      "added_at": "2026-06-01"
     },
     {
       "vendor": "micoffee",
@@ -9761,7 +10034,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:26.362887+00:00",
+      "scraped_at": "2026-06-01T05:48:32.842692+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9783,12 +10056,12 @@
         "Dark Chocolate"
       ],
       "price": "18,000 원",
-      "in_stock": true,
+      "in_stock": false,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:26.362897+00:00",
+      "scraped_at": "2026-06-01T05:48:32.842736+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9815,7 +10088,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:26.362907+00:00",
+      "scraped_at": "2026-06-01T05:48:32.842746+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9837,7 +10110,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:26.362915+00:00",
+      "scraped_at": "2026-06-01T05:48:32.842756+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9863,7 +10136,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:31.821171+00:00",
+      "scraped_at": "2026-06-01T05:48:38.776825+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9890,7 +10163,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:31.821196+00:00",
+      "scraped_at": "2026-06-01T05:48:38.776852+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9920,7 +10193,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:31.821207+00:00",
+      "scraped_at": "2026-06-01T05:48:38.776862+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9952,7 +10225,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:31.821217+00:00",
+      "scraped_at": "2026-06-01T05:48:38.776871+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -9980,7 +10253,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:31.821226+00:00",
+      "scraped_at": "2026-06-01T05:48:38.776880+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10008,7 +10281,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:31.821236+00:00",
+      "scraped_at": "2026-06-01T05:48:38.776890+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10036,7 +10309,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:31.821252+00:00",
+      "scraped_at": "2026-06-01T05:48:38.776908+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10062,7 +10335,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:31.821262+00:00",
+      "scraped_at": "2026-06-01T05:48:38.776919+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10089,7 +10362,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:31.821270+00:00",
+      "scraped_at": "2026-06-01T05:48:38.776927+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10117,7 +10390,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:31.821280+00:00",
+      "scraped_at": "2026-06-01T05:48:38.776937+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10143,7 +10416,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:31.821287+00:00",
+      "scraped_at": "2026-06-01T05:48:38.776945+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10171,7 +10444,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:31.821296+00:00",
+      "scraped_at": "2026-06-01T05:48:38.776954+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10198,7 +10471,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:31.821303+00:00",
+      "scraped_at": "2026-06-01T05:48:38.776961+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10227,7 +10500,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:31.821313+00:00",
+      "scraped_at": "2026-06-01T05:48:38.776972+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10262,7 +10535,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:31.821322+00:00",
+      "scraped_at": "2026-06-01T05:48:38.776980+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10289,7 +10562,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:31.821330+00:00",
+      "scraped_at": "2026-06-01T05:48:38.776988+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10316,7 +10589,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:31.821339+00:00",
+      "scraped_at": "2026-06-01T05:48:38.776998+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10341,7 +10614,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:44.323953+00:00",
+      "scraped_at": "2026-06-01T05:48:50.731202+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10367,7 +10640,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:44.323979+00:00",
+      "scraped_at": "2026-06-01T05:48:50.731230+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10391,7 +10664,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:44.323989+00:00",
+      "scraped_at": "2026-06-01T05:48:50.731241+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10417,7 +10690,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:44.323999+00:00",
+      "scraped_at": "2026-06-01T05:48:50.731251+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10441,7 +10714,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:44.324007+00:00",
+      "scraped_at": "2026-06-01T05:48:50.731260+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10465,7 +10738,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:44.324015+00:00",
+      "scraped_at": "2026-06-01T05:48:50.731269+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10493,7 +10766,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:47.161624+00:00",
+      "scraped_at": "2026-06-01T05:48:53.755318+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10521,7 +10794,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:47.161664+00:00",
+      "scraped_at": "2026-06-01T05:48:53.755344+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10547,7 +10820,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:47.161675+00:00",
+      "scraped_at": "2026-06-01T05:48:53.755354+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10574,7 +10847,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:47.161684+00:00",
+      "scraped_at": "2026-06-01T05:48:53.755363+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10601,7 +10874,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:47.161693+00:00",
+      "scraped_at": "2026-06-01T05:48:53.755372+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10626,7 +10899,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:47.161702+00:00",
+      "scraped_at": "2026-06-01T05:48:53.755381+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10653,7 +10926,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:47.161709+00:00",
+      "scraped_at": "2026-06-01T05:48:53.755388+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10680,7 +10953,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:47.161718+00:00",
+      "scraped_at": "2026-06-01T05:48:53.755395+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10707,7 +10980,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:47.161726+00:00",
+      "scraped_at": "2026-06-01T05:48:53.755403+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10734,7 +11007,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:47.161734+00:00",
+      "scraped_at": "2026-06-01T05:48:53.755411+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10761,7 +11034,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:47.161741+00:00",
+      "scraped_at": "2026-06-01T05:48:53.755419+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10788,7 +11061,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:47.161749+00:00",
+      "scraped_at": "2026-06-01T05:48:53.755428+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10815,7 +11088,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:47.161757+00:00",
+      "scraped_at": "2026-06-01T05:48:53.755437+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10842,7 +11115,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:47.161765+00:00",
+      "scraped_at": "2026-06-01T05:48:53.755445+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10869,7 +11142,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:47.161774+00:00",
+      "scraped_at": "2026-06-01T05:48:53.755453+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10896,7 +11169,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:47.161782+00:00",
+      "scraped_at": "2026-06-01T05:48:53.755461+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10923,7 +11196,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:47.161790+00:00",
+      "scraped_at": "2026-06-01T05:48:53.755470+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10951,7 +11224,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:47.161798+00:00",
+      "scraped_at": "2026-06-01T05:48:53.755479+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -10978,7 +11251,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:47.161807+00:00",
+      "scraped_at": "2026-06-01T05:48:53.755488+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -11005,7 +11278,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:47.161816+00:00",
+      "scraped_at": "2026-06-01T05:48:53.755497+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -11033,7 +11306,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:47.161825+00:00",
+      "scraped_at": "2026-06-01T05:48:53.755506+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -11057,7 +11330,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:47.161834+00:00",
+      "scraped_at": "2026-06-01T05:48:53.755515+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -11081,7 +11354,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:47.161843+00:00",
+      "scraped_at": "2026-06-01T05:48:53.755524+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -11106,7 +11379,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:47.161851+00:00",
+      "scraped_at": "2026-06-01T05:48:53.755533+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -11131,7 +11404,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:47.161858+00:00",
+      "scraped_at": "2026-06-01T05:48:53.755542+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -11158,7 +11431,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:47.161866+00:00",
+      "scraped_at": "2026-06-01T05:48:53.755550+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -11182,7 +11455,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:47.161874+00:00",
+      "scraped_at": "2026-06-01T05:48:53.755557+00:00",
       "added_at": "2026-05-24"
     },
     {
@@ -11208,309 +11481,8 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-05-31T22:27:47.161880+00:00",
+      "scraped_at": "2026-06-01T05:48:53.755565+00:00",
       "added_at": "2026-05-24"
-    },
-    {
-      "vendor": "ayantu",
-      "url": "https://ayantu.co.kr/?idx=360",
-      "raw_name": "에티오피아 생두 곤조베 사무엘 내추럴",
-      "origin": "Ethiopia",
-      "region": "Sidama, Bensa, Bumbe",
-      "farm": "Gonjobe Samuel",
-      "producer": "Samuel Zerihun",
-      "altitude": "2,000-2,200m",
-      "variety": "Heirloom",
-      "process": "Natural",
-      "grade": null,
-      "cup_notes": [
-        "Honey",
-        "Jam",
-        "Lime",
-        "Floral"
-      ],
-      "price": "38,000 KRW",
-      "in_stock": true,
-      "moisture": null,
-      "density": null,
-      "score": null,
-      "arrival": null,
-      "scraped_at": "2026-05-31T12:40:29.999698+00:00",
-      "added_at": "2026-05-24"
-    },
-    {
-      "vendor": "ayantu",
-      "url": "https://ayantu.co.kr/?idx=358",
-      "raw_name": "에티오피아 생두 바샤 봄베 내추럴",
-      "origin": "Ethiopia",
-      "region": "Sidama",
-      "farm": "Bensa Bombe",
-      "producer": "Basha Bombe",
-      "altitude": "2,000m",
-      "variety": "Heirloom",
-      "process": "Natural",
-      "grade": "G1",
-      "cup_notes": [
-        "Acacia honey",
-        "Green apple",
-        "Honey"
-      ],
-      "price": "38,000원",
-      "in_stock": true,
-      "moisture": null,
-      "density": null,
-      "score": null,
-      "arrival": null,
-      "scraped_at": "2026-05-31T12:40:29.999720+00:00",
-      "added_at": "2026-05-24"
-    },
-    {
-      "vendor": "ayantu",
-      "url": "https://ayantu.co.kr/?idx=202",
-      "raw_name": "에티오피아 생두 물루게타 문타샤 워시드",
-      "origin": "Ethiopia",
-      "region": "Guji",
-      "farm": "Mulugeta Muntasha",
-      "producer": null,
-      "altitude": "2,200m",
-      "variety": "Ethiopian Heirloom",
-      "process": "Washed",
-      "grade": null,
-      "cup_notes": [
-        "Blueberry",
-        "Jasmine",
-        "Peach",
-        "Honey",
-        "Sugarcane"
-      ],
-      "price": "38800",
-      "in_stock": true,
-      "moisture": null,
-      "density": null,
-      "score": null,
-      "arrival": null,
-      "scraped_at": "2026-05-31T12:40:29.999731+00:00",
-      "added_at": "2026-05-24"
-    },
-    {
-      "vendor": "ayantu",
-      "url": "https://ayantu.co.kr/?idx=310",
-      "raw_name": "에티오피아 생두 물루게타문타샤 피베리 내추럴",
-      "origin": "Ethiopia",
-      "region": "Sidama, Guji",
-      "farm": "Mulugeta Muntasaha",
-      "producer": "Mulugeta Muntasaha",
-      "altitude": "2,200m",
-      "variety": "Peaberry",
-      "process": "Natural",
-      "grade": null,
-      "cup_notes": [
-        "Blueberry",
-        "Jasmine",
-        "Peach",
-        "Orange",
-        "Honey"
-      ],
-      "price": "68,800 KRW",
-      "in_stock": true,
-      "moisture": null,
-      "density": null,
-      "score": null,
-      "arrival": null,
-      "scraped_at": "2026-05-31T12:40:29.999741+00:00",
-      "added_at": "2026-05-24"
-    },
-    {
-      "vendor": "ayantu",
-      "url": "https://ayantu.co.kr/?idx=195",
-      "raw_name": "에티오피아 생두 물루게타문타샤 무산소",
-      "origin": "Ethiopia",
-      "region": "Sidama",
-      "farm": "Muntasha Washing Station",
-      "producer": "Mulugeta Muntasha",
-      "altitude": "Over 2000m",
-      "variety": "Ethiopian Heirloom",
-      "process": "Anaerobic",
-      "grade": null,
-      "cup_notes": [
-        "Blueberry",
-        "Jasmine",
-        "Peach",
-        "Honey",
-        "Tropical Fruit",
-        "Winey"
-      ],
-      "price": "68800",
-      "in_stock": true,
-      "moisture": null,
-      "density": null,
-      "score": null,
-      "arrival": null,
-      "scraped_at": "2026-05-31T12:40:29.999749+00:00",
-      "added_at": "2026-05-24"
-    },
-    {
-      "vendor": "ayantu",
-      "url": "https://ayantu.co.kr/?idx=312",
-      "raw_name": "에티오피아 생두 바샤베켈레 곤조베 내추럴",
-      "origin": "Ethiopia",
-      "region": "Bashabekele Gonzobe",
-      "farm": "Bashabekele Gonjobe",
-      "producer": null,
-      "altitude": null,
-      "variety": "Ethiopian Heirloom",
-      "process": "Natural",
-      "grade": null,
-      "cup_notes": [
-        "Blueberry",
-        "Jasmine",
-        "Peach",
-        "Orange",
-        "Pineapple",
-        "Honey",
-        "Citrus"
-      ],
-      "price": "68,800",
-      "in_stock": true,
-      "moisture": null,
-      "density": null,
-      "score": null,
-      "arrival": null,
-      "scraped_at": "2026-05-31T12:40:29.999758+00:00",
-      "added_at": "2026-05-24"
-    },
-    {
-      "vendor": "ayantu",
-      "url": "https://ayantu.co.kr/?idx=313",
-      "raw_name": "에티오피아 생두 바샤베켈레 곤조베 내추럴허니",
-      "origin": "Ethiopia",
-      "region": "Basha Bekele Gonzo Be",
-      "farm": "Basha Bekele Gonzo Be",
-      "producer": "Gonjobe",
-      "altitude": "2,000m",
-      "variety": "Ethiopian Heirloom",
-      "process": "Honey",
-      "grade": null,
-      "cup_notes": [
-        "Berry",
-        "Jasmine",
-        "Honey",
-        "Molasses"
-      ],
-      "price": "66,800원",
-      "in_stock": true,
-      "moisture": null,
-      "density": null,
-      "score": null,
-      "arrival": null,
-      "scraped_at": "2026-05-31T12:40:29.999766+00:00",
-      "added_at": "2026-05-24"
-    },
-    {
-      "vendor": "ayantu",
-      "url": "https://ayantu.co.kr/?idx=314",
-      "raw_name": "에티오피아 생두 바샤베켈레 무라고 내추럴",
-      "origin": "Ethiopia",
-      "region": "Sidama Bashabekele",
-      "farm": "Bashabekele Murago",
-      "producer": "Murago Washing Station",
-      "altitude": "2,000m - 2,200m",
-      "variety": "Ethiopian Heirloom",
-      "process": "Natural",
-      "grade": null,
-      "cup_notes": [
-        "Orange",
-        "Blueberry",
-        "Jasmine",
-        "Earl Grey"
-      ],
-      "price": "55,800 KRW",
-      "in_stock": true,
-      "moisture": null,
-      "density": null,
-      "score": null,
-      "arrival": null,
-      "scraped_at": "2026-05-31T12:40:29.999775+00:00",
-      "added_at": "2026-05-24"
-    },
-    {
-      "vendor": "ayantu",
-      "url": "https://ayantu.co.kr/?idx=315",
-      "raw_name": "에티오피아 생두 발레 내추럴",
-      "origin": "Ethiopia",
-      "region": "Bale",
-      "farm": null,
-      "producer": null,
-      "altitude": "1,900-2,300m",
-      "variety": "Heirloom",
-      "process": "Natural",
-      "grade": "G4",
-      "cup_notes": [
-        "Floral",
-        "Fruit",
-        "Malt-Barley",
-        "Sweet",
-        "Clean"
-      ],
-      "price": "13,800원",
-      "in_stock": true,
-      "moisture": null,
-      "density": null,
-      "score": null,
-      "arrival": null,
-      "scraped_at": "2026-05-31T12:40:29.999784+00:00",
-      "added_at": "2026-05-24"
-    },
-    {
-      "vendor": "ayantu",
-      "url": "https://ayantu.co.kr/?idx=346",
-      "raw_name": "에티오피아 생두 시다마 내추럴",
-      "origin": "Ethiopia",
-      "region": "Sidama",
-      "farm": null,
-      "producer": null,
-      "altitude": "1,700m ~ 1,900m",
-      "variety": "Heirloom",
-      "process": "Natural",
-      "grade": "G1",
-      "cup_notes": [
-        "Black tea",
-        "Brown sugar",
-        "Orange blossom"
-      ],
-      "price": "15800",
-      "in_stock": true,
-      "moisture": null,
-      "density": null,
-      "score": null,
-      "arrival": null,
-      "scraped_at": "2026-05-31T12:40:29.999792+00:00",
-      "added_at": "2026-05-26"
-    },
-    {
-      "vendor": "ayantu",
-      "url": "https://ayantu.co.kr/?idx=205",
-      "raw_name": "에티오피아 생두 전문",
-      "origin": "Ethiopia",
-      "region": "Sidama Arbegona",
-      "farm": "Bursa",
-      "producer": "Mulugeta Muntasha",
-      "altitude": "2,350m+",
-      "variety": "74158",
-      "process": "Peaberry Washed",
-      "grade": null,
-      "cup_notes": [
-        "White Peach",
-        "Jasmine"
-      ],
-      "price": "68000",
-      "in_stock": true,
-      "moisture": null,
-      "density": null,
-      "score": null,
-      "arrival": null,
-      "scraped_at": "2026-05-31T12:40:29.999802+00:00",
-      "added_at": "2026-05-31"
     },
     {
       "vendor": "royalcoffee",
@@ -13242,26 +13214,59 @@
     }
   ],
   "changes": {
-    "new": [],
+    "new": [
+      {
+        "url": "https://www.micoffee.co.kr/goods/goods_view.php?goodsNo=1000007494",
+        "type": "new"
+      },
+      {
+        "url": "https://www.micoffee.co.kr/goods/goods_view.php?goodsNo=1000007388",
+        "type": "new"
+      },
+      {
+        "url": "https://www.micoffee.co.kr/goods/goods_view.php?goodsNo=1000000750",
+        "type": "new"
+      },
+      {
+        "url": "https://www.micoffee.co.kr/goods/goods_view.php?goodsNo=1000007496",
+        "type": "new"
+      },
+      {
+        "url": "https://www.micoffee.co.kr/goods/goods_view.php?goodsNo=1000006601",
+        "type": "new"
+      }
+    ],
     "sold_out": [
       {
-        "url": "https://www.micoffee.co.kr/goods/goods_view.php?goodsNo=1000007486",
+        "url": "https://www.newbean.co.kr/goods/goods_view.php?goodsNo=1000000095",
         "type": "sold_out"
       },
       {
-        "url": "https://www.micoffee.co.kr/goods/goods_view.php?goodsNo=1000007485",
+        "url": "https://coffeelibre.kr/product/detail.html?product_no=6436",
         "type": "sold_out"
       },
       {
-        "url": "https://www.micoffee.co.kr/goods/goods_view.php?goodsNo=1000007472",
+        "url": "https://www.micoffee.co.kr/goods/goods_view.php?goodsNo=1000003808",
         "type": "sold_out"
       },
       {
-        "url": "https://www.micoffee.co.kr/goods/goods_view.php?goodsNo=1000007430",
+        "url": "https://www.micoffee.co.kr/goods/goods_view.php?goodsNo=1000007103",
         "type": "sold_out"
       },
       {
-        "url": "https://www.micoffee.co.kr/goods/goods_view.php?goodsNo=1000007283",
+        "url": "https://www.micoffee.co.kr/goods/goods_view.php?goodsNo=1000007102",
+        "type": "sold_out"
+      },
+      {
+        "url": "https://www.micoffee.co.kr/goods/goods_view.php?goodsNo=1000006830",
+        "type": "sold_out"
+      },
+      {
+        "url": "https://www.micoffee.co.kr/goods/goods_view.php?goodsNo=1000006041",
+        "type": "sold_out"
+      },
+      {
+        "url": "https://www.micoffee.co.kr/goods/goods_view.php?goodsNo=1000000745",
         "type": "sold_out"
       }
     ],
