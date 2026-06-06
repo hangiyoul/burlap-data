@@ -935,7 +935,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:18:31.183233+00:00",
       "added_at": "2026-05-24",
-      "display_name": "Ethiopia Sidamo G1 Bombe 와인 Natural"
+      "display_name": "Ethiopia Sidamo G1 Bombe Wine Natural"
     },
     {
       "vendor": "micoffee",
@@ -1099,7 +1099,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:18:36.844689+00:00",
       "added_at": "2026-05-24",
-      "display_name": "Guji 사키소 리유 Aimee G1 Natural"
+      "display_name": "Guji Sakiso Ruyu Aimee G1 Natural"
     },
     {
       "vendor": "newbean",
@@ -1221,7 +1221,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:18:36.844737+00:00",
       "added_at": "2026-05-24",
-      "display_name": "나르도스 Guji 와테 G1 AFCA TOH 레지오날 Washed 1등랏"
+      "display_name": "Nardos Guji Wate G1 AFCA TOH Regional Washed 1등랏"
     },
     {
       "vendor": "newbean",
@@ -1882,7 +1882,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:18:51.240227+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Ethiopia Alo 타미루 Collection G1 Sidamo 델라 Natural"
+      "display_name": "Ethiopia Alo Tamiro Collection G1 Sidamo Della Natural"
     },
     {
       "vendor": "gsc",
@@ -1911,7 +1911,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:18:51.240235+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Ethiopia Alo 타미루 Collection G1 Sidamo 하테사 Anaerobic Natural"
+      "display_name": "Ethiopia Alo Tamiro Collection G1 Sidamo Hatesa Anaerobic Natural"
     },
     {
       "vendor": "gsc",
@@ -2042,7 +2042,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:18:57.146752+00:00",
       "added_at": "2026-05-24",
-      "display_name": "Ethiopia Gedeb 우리 G1 Washed"
+      "display_name": "Ethiopia Gedeb Uri G1 Washed"
     },
     {
       "vendor": "cobeans",
@@ -2096,7 +2096,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:18:57.146769+00:00",
       "added_at": "2026-05-24",
-      "display_name": "Ethiopia Yirgacheffe 아제레 G1 Washed"
+      "display_name": "Ethiopia Yirgacheffe Azere G1 Washed"
     },
     {
       "vendor": "cobeans",
@@ -2123,7 +2123,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:18:57.146832+00:00",
       "added_at": "2026-05-24",
-      "display_name": "Ethiopia Yirgacheffe 단체 G1 Washed"
+      "display_name": "Ethiopia Yirgacheffe Dante G1 Washed"
     },
     {
       "vendor": "cobeans",
@@ -2259,7 +2259,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:18:57.146875+00:00",
       "added_at": "2026-05-24",
-      "display_name": "25 Ethiopia Sidama Bensa 하마쇼 G1 Washed"
+      "display_name": "25 Ethiopia Sidama Bensa Hamasho G1 Washed"
     },
     {
       "vendor": "cobeans",
@@ -2286,7 +2286,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:18:57.146883+00:00",
       "added_at": "2026-05-24",
-      "display_name": "Ethiopia Sidama Arbegona 보체..."
+      "display_name": "Ethiopia Sidama Arbegona Boche..."
     },
     {
       "vendor": "cobeans",
@@ -2340,7 +2340,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:18:57.146899+00:00",
       "added_at": "2026-05-24",
-      "display_name": "Ethiopia 오로미아 이스트 하라르 G3 Natural"
+      "display_name": "Ethiopia Oromia East Harar G3 Natural"
     },
     {
       "vendor": "cobeans",
@@ -2424,7 +2424,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:18:57.146922+00:00",
       "added_at": "2026-05-24",
-      "display_name": "Ethiopia Sidama Arbegona 루무다모 G1 Natural"
+      "display_name": "Ethiopia Sidama Arbegona Rumudamo G1 Natural"
     },
     {
       "vendor": "cobeans",
@@ -2587,7 +2587,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:19:00.469697+00:00",
       "added_at": "2026-05-24",
-      "display_name": "엑소 Q1 Natural"
+      "display_name": "Exo Q1 Natural"
     },
     {
       "vendor": "sewoonggc",
@@ -2836,7 +2836,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:19:00.469789+00:00",
       "added_at": "2026-05-24",
-      "display_name": "칼리 Q1 Washed 2025"
+      "display_name": "Kali Q1 Washed 2025"
     },
     {
       "vendor": "sewoonggc",
@@ -2893,7 +2893,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:19:00.469804+00:00",
       "added_at": "2026-05-24",
-      "display_name": "코케허니 Natural G2"
+      "display_name": "Koke Honey Natural G2"
     },
     {
       "vendor": "sewoonggc",
@@ -2949,7 +2949,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:19:00.469819+00:00",
       "added_at": "2026-05-24",
-      "display_name": "벤치 마지 Geisha G1 Washed"
+      "display_name": "Bench Maji Geisha G1 Washed"
     },
     {
       "vendor": "sewoonggc",
@@ -3005,7 +3005,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:19:00.469833+00:00",
       "added_at": "2026-05-24",
-      "display_name": "사키소 G1 Natural"
+      "display_name": "Sakiso G1 Natural"
     },
     {
       "vendor": "sewoonggc",
@@ -3033,7 +3033,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:19:00.469841+00:00",
       "added_at": "2026-05-24",
-      "display_name": "모모라 G1 Natural"
+      "display_name": "Momora G1 Natural"
     },
     {
       "vendor": "sewoonggc",
@@ -3117,7 +3117,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:19:00.469873+00:00",
       "added_at": "2026-05-24",
-      "display_name": "Yirgacheffe 벨로야 G2 Washed"
+      "display_name": "Yirgacheffe Beloya G2 Washed"
     },
     {
       "vendor": "sewoonggc",
@@ -3152,7 +3152,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:19:00.469880+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Kochere 첼렐렉투 G1 Washed"
+      "display_name": "Kochere Tselellectu G1 Washed"
     },
     {
       "vendor": "sewoonggc",
@@ -3203,7 +3203,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:20:02.706658+00:00",
       "added_at": "2026-05-24",
-      "display_name": "Ethiopia Gonzobe 사무엘 Natural"
+      "display_name": "Ethiopia Gonzobe Samuel Natural"
     },
     {
       "vendor": "ayantu",
@@ -3230,7 +3230,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:20:02.706676+00:00",
       "added_at": "2026-05-24",
-      "display_name": "Ethiopia 바샤 Bombe Natural"
+      "display_name": "Ethiopia Basha Bombe Natural"
     },
     {
       "vendor": "ayantu",
@@ -3377,7 +3377,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:20:02.706720+00:00",
       "added_at": "2026-05-24",
-      "display_name": "Ethiopia Bashabekele Gonzobe 내추럴허니"
+      "display_name": "Ethiopia Bashabekele Gonzobe Natural Honey"
     },
     {
       "vendor": "ayantu",
@@ -3405,7 +3405,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:20:02.706729+00:00",
       "added_at": "2026-05-24",
-      "display_name": "Ethiopia Bashabekele 무라고 Natural"
+      "display_name": "Ethiopia Bashabekele Murago Natural"
     },
     {
       "vendor": "ayantu",
@@ -3434,7 +3434,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:20:02.706737+00:00",
       "added_at": "2026-05-24",
-      "display_name": "Ethiopia 발레 Natural"
+      "display_name": "Ethiopia Valle Natural"
     },
     {
       "vendor": "ayantu",
@@ -3493,7 +3493,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:20:02.706755+00:00",
       "added_at": "2026-05-24",
-      "display_name": "Ethiopia 전문"
+      "display_name": "Ethiopia Zemun"
     },
     {
       "vendor": "momos",
@@ -4306,7 +4306,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:20:17.390546+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Colombia Huila 나랑히토스 Pink Bourbon Semi-washed"
+      "display_name": "Colombia Huila Naranjitos Pink Bourbon Semi-washed"
     },
     {
       "vendor": "coffeelibre",
@@ -4336,7 +4336,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:20:17.390567+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Colombia Nariño 라스 과야카네스 Caturra Chiroso"
+      "display_name": "Colombia Nariño Las Guayacanes Caturra Chiroso"
     },
     {
       "vendor": "coffeelibre",
@@ -4396,7 +4396,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:20:17.390591+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Colombia 랜드 오브 다이버시티 La Marina"
+      "display_name": "Colombia Land of Diversity La Marina"
     },
     {
       "vendor": "coffeelibre",
@@ -4427,7 +4427,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:20:17.390609+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Colombia Nariño El Tablón 레이트 하비스트"
+      "display_name": "Colombia Nariño El Tablón Late Harvest"
     },
     {
       "vendor": "micoffee",
@@ -4568,7 +4568,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:20:23.321910+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Colombia 네이드 El 카르멘 Caturra Washed"
+      "display_name": "Colombia Nade El Carmen Caturra Washed"
     },
     {
       "vendor": "micoffee",
@@ -4596,7 +4596,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:20:23.321919+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Colombia El 노갈 Caturra Washed"
+      "display_name": "Colombia El Nogal Caturra Washed"
     },
     {
       "vendor": "micoffee",
@@ -4624,7 +4624,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:20:23.321928+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Colombia El 디아만테 Pink Bourbon Washed"
+      "display_name": "Colombia El Diamante Pink Bourbon Washed"
     },
     {
       "vendor": "micoffee",
@@ -4652,7 +4652,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:20:23.321937+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Colombia El 하르딘"
+      "display_name": "Colombia El Jardin"
     },
     {
       "vendor": "micoffee",
@@ -4680,7 +4680,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:20:23.321946+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Colombia 세로 아줄 Geisha 나폴레옹"
+      "display_name": "Colombia Cerro Azul Geisha Napoleon"
     },
     {
       "vendor": "micoffee",
@@ -4707,7 +4707,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:20:23.321955+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Colombia 캄포 에르모소 Caturra Honey 시나몬 모스토 CO 퍼먼티드"
+      "display_name": "Colombia Campo Hermoso Caturra Honey Cinnamon Mosto CO Fermented"
     },
     {
       "vendor": "micoffee",
@@ -4735,7 +4735,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:20:23.321968+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Colombia 캄포 에르모소 Pink Bourbon Natural 카보닉 마서레이션"
+      "display_name": "Colombia Campo Hermoso Pink Bourbon Natural Carbonic Maceration"
     },
     {
       "vendor": "micoffee",
@@ -4821,7 +4821,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:20:23.321995+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Colombia 라 에스페란자 만델라 엑스오 Natural"
+      "display_name": "Colombia La Esperanza Mandela XO Natural"
     },
     {
       "vendor": "micoffee",
@@ -4877,7 +4877,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:20:23.322011+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Colombia Antioquia 라 수이사"
+      "display_name": "Colombia Antioquia La Suiza"
     },
     {
       "vendor": "micoffee",
@@ -4905,7 +4905,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:20:23.322019+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Colombia 티마나 Huila Selection"
+      "display_name": "Colombia Timana Huila Selection"
     },
     {
       "vendor": "micoffee",
@@ -4997,7 +4997,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:20:29.696712+00:00",
       "added_at": "2026-06-06",
-      "display_name": "노르딕 어프로치 Huila 알헤시라스"
+      "display_name": "Nordic Approach Huila Algeciras"
     },
     {
       "vendor": "newbean",
@@ -5090,7 +5090,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:20:29.696751+00:00",
       "added_at": "2026-06-06",
-      "display_name": "로스 노갈레스 오렌지 Bourbon 046CH EF"
+      "display_name": "Los Nogales Orange Bourbon 046CH EF"
     },
     {
       "vendor": "newbean",
@@ -5116,7 +5116,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:20:29.696761+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Pink Bourbon Honey 레드 후르츠 누비아"
+      "display_name": "Pink Bourbon Honey Red Fruits Nubia"
     },
     {
       "vendor": "newbean",
@@ -5519,7 +5519,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:20:47.543315+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Colombia Supremo 발레나토"
+      "display_name": "Colombia Supremo Valle Nato"
     },
     {
       "vendor": "gsc",
@@ -5690,7 +5690,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:20:47.543368+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Colombia 잉가 빌리지 Caturra Honey"
+      "display_name": "Colombia Inga Village Caturra Honey"
     },
     {
       "vendor": "gsc",
@@ -5718,7 +5718,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:20:47.543380+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Colombia 산 가브리엘 Bourbon Chiroso Anaerobic Washed"
+      "display_name": "Colombia San Gabriel Bourbon Chiroso Anaerobic Washed"
     },
     {
       "vendor": "gsc",
@@ -5748,7 +5748,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:20:47.543389+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Colombia 산 가브리엘 파파요 Bourbon Anaerobic Honey"
+      "display_name": "Colombia San Gabriel Papayo Bourbon Anaerobic Honey"
     },
     {
       "vendor": "gsc",
@@ -5777,7 +5777,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:20:47.543398+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Colombia 페냐스 블랑카스 Caturra Washed"
+      "display_name": "Colombia Peñas Blancas Caturra Washed"
     },
     {
       "vendor": "gsc",
@@ -5806,7 +5806,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:20:47.543406+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Colombia 라 리제르바 Caturra Anaerobic Honey (Lychee)"
+      "display_name": "Colombia La Reserva Caturra Anaerobic Honey (Lychee)"
     },
     {
       "vendor": "gsc",
@@ -5835,7 +5835,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:20:47.543415+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Colombia 라스 브리사스 Pink Bourbon Washed"
+      "display_name": "Colombia Las Brisas Pink Bourbon Washed"
     },
     {
       "vendor": "gsc",
@@ -5864,7 +5864,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:20:47.543423+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Colombia 로스 나랑호스 Caturra Chiroso Washed EF"
+      "display_name": "Colombia Los Naranjos Caturra Chiroso Washed EF"
     },
     {
       "vendor": "gsc",
@@ -5893,7 +5893,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:20:47.543431+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Colombia 라 플란타 Pink Bourbon Washed Decaf"
+      "display_name": "Colombia La Planta Pink Bourbon Washed Decaf"
     },
     {
       "vendor": "gsc",
@@ -5922,7 +5922,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:20:47.543439+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Colombia 산타 테레사 Geisha Anaerobic Washed"
+      "display_name": "Colombia Santa Teresa Geisha Anaerobic Washed"
     },
     {
       "vendor": "gsc",
@@ -6010,7 +6010,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:20:47.543466+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Colombia El Diviso 티피카 메호라도 Washed"
+      "display_name": "Colombia El Diviso Típica Mejorado Washed"
     },
     {
       "vendor": "gsc",
@@ -6067,7 +6067,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:20:47.543483+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Colombia El Diviso 아지 Bourbon Anaerobic Natural"
+      "display_name": "Colombia El Diviso Aji Bourbon Anaerobic Natural"
     },
     {
       "vendor": "cobeans",
@@ -6094,7 +6094,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:20:52.263541+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Colombia 과코비아 Strawberry Co-fermented"
+      "display_name": "Colombia Guacovia Strawberry Co-fermented"
     },
     {
       "vendor": "cobeans",
@@ -6204,7 +6204,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:20:52.263591+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Colombia Café Rosario 블루베..."
+      "display_name": "Colombia Café Rosario Blueberry..."
     },
     {
       "vendor": "cobeans",
@@ -6231,7 +6231,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:20:52.263599+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Colombia Café Rosario 애프리콧 Co-fermented"
+      "display_name": "Colombia Café Rosario Apricot Co-fermented"
     },
     {
       "vendor": "cobeans",
@@ -6312,7 +6312,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:20:52.263624+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Colombia Los Patios 베리 Co-fermented"
+      "display_name": "Colombia Los Patios Berry Co-fermented"
     },
     {
       "vendor": "cobeans",
@@ -6366,7 +6366,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:20:52.263642+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Colombia 라 파라다 Pacamara 애너러빅 Natural"
+      "display_name": "Colombia La Parada Pacamara Anaerobic Natural"
     },
     {
       "vendor": "cobeans",
@@ -6393,7 +6393,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:20:52.263651+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Colombia 빌라 율리아나 파파요 Washed"
+      "display_name": "Colombia Villa Juliana Papayo Washed"
     },
     {
       "vendor": "cobeans",
@@ -6421,7 +6421,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:20:52.263668+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Colombia Las Flores Geisha 애너러빅 Washed"
+      "display_name": "Colombia Las Flores Geisha Anaerobic Washed"
     },
     {
       "vendor": "cobeans",
@@ -6478,7 +6478,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:20:52.263685+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Colombia El 로시오 핑크버번 Honey"
+      "display_name": "Colombia El Rocio Pink Bourbon Honey"
     },
     {
       "vendor": "cobeans",
@@ -6506,7 +6506,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:20:52.263695+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Colombia 라 로카 Geisha 인퓨즈드 플로럴"
+      "display_name": "Colombia La Roca Geisha Infused Floral"
     },
     {
       "vendor": "cobeans",
@@ -6560,7 +6560,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:20:52.263713+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Colombia Café Rosario 아이리..."
+      "display_name": "Colombia Café Rosario Airi..."
     },
     {
       "vendor": "cobeans",
@@ -6587,7 +6587,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:20:52.263723+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Colombia 로스 카우쵸스 핑크버번 애너러빅 Washed"
+      "display_name": "Colombia Los Cauchos Pink Bourbon Anaerobic Washed"
     },
     {
       "vendor": "sewoonggc",
@@ -6698,7 +6698,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:20:55.285293+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Supremo Antioquia 스페셜"
+      "display_name": "Supremo Antioquia Special"
     },
     {
       "vendor": "sewoonggc",
@@ -6724,7 +6724,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:20:55.285302+00:00",
       "added_at": "2026-06-06",
-      "display_name": "EXOTIC 리치피치"
+      "display_name": "EXOTIC Rich Peach"
     },
     {
       "vendor": "sewoonggc",
@@ -6814,7 +6814,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:20:55.285329+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Supremo 바예 데 Cauca 스페셜"
+      "display_name": "Supremo Valle de Cauca Special"
     },
     {
       "vendor": "sewoonggc",
@@ -6842,7 +6842,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:20:55.285338+00:00",
       "added_at": "2026-06-06",
-      "display_name": "스페셜티 Cauca EP"
+      "display_name": "Specialty Cauca EP"
     },
     {
       "vendor": "sewoonggc",
@@ -6870,7 +6870,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:20:55.285346+00:00",
       "added_at": "2026-06-06",
-      "display_name": "쿤디나마르카 과타비타"
+      "display_name": "Cundinamarca Guatavita"
     },
     {
       "vendor": "sewoonggc",
@@ -6898,7 +6898,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:20:55.285353+00:00",
       "added_at": "2026-06-06",
-      "display_name": "레드 프룻 Honey (오렌지 버본)"
+      "display_name": "Red Fruit Honey (Orange Bourbon)"
     },
     {
       "vendor": "sewoonggc",
@@ -6921,7 +6921,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:20:55.285361+00:00",
       "added_at": "2026-06-06",
-      "display_name": "패션 프룻 Washed (카스티요)"
+      "display_name": "Passion Fruit Washed (Castillo)"
     },
     {
       "vendor": "sewoonggc",
@@ -6944,7 +6944,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:20:55.285369+00:00",
       "added_at": "2026-06-06",
-      "display_name": "트로피컬 코코 Washed (카스티요)"
+      "display_name": "Tropical Coco Washed (Castillo)"
     },
     {
       "vendor": "sewoonggc",
@@ -6967,7 +6967,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:20:55.285383+00:00",
       "added_at": "2026-06-06",
-      "display_name": "럼 에이지드 Natural (Caturra)"
+      "display_name": "Rum Aged Natural (Caturra)"
     },
     {
       "vendor": "sewoonggc",
@@ -6992,7 +6992,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:20:55.285391+00:00",
       "added_at": "2026-06-06",
-      "display_name": "EXOTIC 코피넷 Peach Honey"
+      "display_name": "EXOTIC Kofinet Peach Honey"
     },
     {
       "vendor": "sewoonggc",
@@ -7017,7 +7017,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:20:55.285398+00:00",
       "added_at": "2026-06-06",
-      "display_name": "EXOTIC 코피넷 레드 프루츠 Honey"
+      "display_name": "EXOTIC Kofinet Red Fruits Honey"
     },
     {
       "vendor": "sewoonggc",
@@ -7042,7 +7042,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:20:55.285405+00:00",
       "added_at": "2026-06-06",
-      "display_name": "EXOTIC 코피넷 그린 애플 Honey"
+      "display_name": "EXOTIC Kofinet Green Apple Honey"
     },
     {
       "vendor": "sewoonggc",
@@ -7070,7 +7070,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:20:55.285413+00:00",
       "added_at": "2026-06-06",
-      "display_name": "EXOTIC 코피넷 망고 Washed"
+      "display_name": "EXOTIC Kofinet Mango Washed"
     },
     {
       "vendor": "sewoonggc",
@@ -7098,7 +7098,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:20:55.285421+00:00",
       "added_at": "2026-06-06",
-      "display_name": "EXOTIC 코피넷 패션 프루트 Washed"
+      "display_name": "EXOTIC Koffinet Passion Fruit Washed"
     },
     {
       "vendor": "sewoonggc",
@@ -7126,7 +7126,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:20:55.285430+00:00",
       "added_at": "2026-06-06",
-      "display_name": "플럼"
+      "display_name": "Plum"
     },
     {
       "vendor": "sewoonggc",
@@ -7210,7 +7210,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:20:55.285456+00:00",
       "added_at": "2026-06-06",
-      "display_name": "El Diviso 스테이트 #3 Washed ASD"
+      "display_name": "El Diviso State #3 Washed ASD"
     },
     {
       "vendor": "sewoonggc",
@@ -7238,7 +7238,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:20:55.285465+00:00",
       "added_at": "2026-06-06",
-      "display_name": "라 플란타 Ombligón Natural ASD"
+      "display_name": "La Planta Ombligón Natural ASD"
     },
     {
       "vendor": "sewoonggc",
@@ -7266,7 +7266,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:20:55.285476+00:00",
       "added_at": "2026-06-06",
-      "display_name": "로스 세드로스 Sidra Washed ASD"
+      "display_name": "Los Cedros Sidra Washed ASD"
     },
     {
       "vendor": "sewoonggc",
@@ -7294,7 +7294,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:20:55.285485+00:00",
       "added_at": "2026-06-06",
-      "display_name": "사르사 Aji Bourbon Natural ASD"
+      "display_name": "Sarsa Aji Bourbon Natural ASD"
     },
     {
       "vendor": "sewoonggc",
@@ -7322,7 +7322,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:20:55.285498+00:00",
       "added_at": "2026-06-06",
-      "display_name": "시에라 네바다 스페셜티"
+      "display_name": "Sierra Nevada Specialty"
     },
     {
       "vendor": "sewoonggc",
@@ -7434,7 +7434,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:20:55.285532+00:00",
       "added_at": "2026-06-06",
-      "display_name": "El Diviso Ombligón Natural 디카프"
+      "display_name": "El Diviso Ombligón Natural Dikap"
     },
     {
       "vendor": "sewoonggc",
@@ -7490,7 +7490,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:20:55.285547+00:00",
       "added_at": "2026-06-06",
-      "display_name": "시나몬 주스"
+      "display_name": "Cinnamon Juice"
     },
     {
       "vendor": "sewoonggc",
@@ -7518,7 +7518,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:20:55.285554+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Honey 쥬시 Strawberry"
+      "display_name": "Honey Juicy Strawberry"
     },
     {
       "vendor": "sewoonggc",
@@ -7546,7 +7546,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:20:55.285562+00:00",
       "added_at": "2026-06-06",
-      "display_name": "쥬시 패션프룻"
+      "display_name": "Juicy Passionfruit"
     },
     {
       "vendor": "sewoonggc",
@@ -7574,7 +7574,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:20:55.285570+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Colombia Sugarcane EA Decaf 데스카페콜"
+      "display_name": "Colombia Sugarcane EA Decaf Descafeocol"
     },
     {
       "vendor": "sewoonggc",
@@ -7602,7 +7602,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:20:55.285576+00:00",
       "added_at": "2026-06-06",
-      "display_name": "리치피치 Decaf"
+      "display_name": "Rich Peach Decaf"
     },
     {
       "vendor": "momos",
@@ -7885,7 +7885,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:22:03.371704+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Kenya 키아무구모 AA 2026"
+      "display_name": "Kenya Kiamugumo AA 2026"
     },
     {
       "vendor": "coffeelibre",
@@ -7915,7 +7915,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:22:03.371731+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Kenya 카루만디 AA 2026"
+      "display_name": "Kenya Karumandi AA 2026"
     },
     {
       "vendor": "coffeelibre",
@@ -7948,7 +7948,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:22:03.371745+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Kenya 카구모 AA 2026"
+      "display_name": "Kenya Kagumo AA 2026"
     },
     {
       "vendor": "coffeelibre",
@@ -7977,7 +7977,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:22:03.371757+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Kenya 무가야 AA 2026"
+      "display_name": "Kenya Mugaya AA 2026"
     },
     {
       "vendor": "coffeelibre",
@@ -8007,7 +8007,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:22:03.371767+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Kenya 무티투 AA 2026"
+      "display_name": "Kenya Mutitu AA 2026"
     },
     {
       "vendor": "coffeelibre",
@@ -8070,7 +8070,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:22:03.371843+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Kenya 카리미쿠이 AA 2026"
+      "display_name": "Kenya Karimikui AA 2026"
     },
     {
       "vendor": "coffeelibre",
@@ -8099,7 +8099,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:22:03.371852+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Kenya 키앙고이 AA 2026"
+      "display_name": "Kenya Kiangoi AA 2026"
     },
     {
       "vendor": "coffeelibre",
@@ -8159,7 +8159,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:22:03.371869+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Kenya 카빙가라 AA"
+      "display_name": "Kenya Kavingara AA"
     },
     {
       "vendor": "coffeelibre",
@@ -8189,7 +8189,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:22:03.371877+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Kenya 카구모 AA"
+      "display_name": "Kenya Kagumo AA"
     },
     {
       "vendor": "coffeelibre",
@@ -8226,7 +8226,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:22:03.371885+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Kenya 무가야 AB"
+      "display_name": "Kenya Mugaya AB"
     },
     {
       "vendor": "coffeelibre",
@@ -8256,7 +8256,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:22:03.371892+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Kenya 응고라노 AA"
+      "display_name": "Kenya Ngorano AA"
     },
     {
       "vendor": "coffeelibre",
@@ -8286,7 +8286,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:22:03.371899+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Kenya 카루만디 AA"
+      "display_name": "Kenya Karumandi AA"
     },
     {
       "vendor": "micoffee",
@@ -8314,7 +8314,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:22:08.377025+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Kenya Nyeri 레드 마운틴 AA"
+      "display_name": "Kenya Nyeri Red Mountain AA"
     },
     {
       "vendor": "micoffee",
@@ -8371,7 +8371,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:22:13.409279+00:00",
       "added_at": "2026-06-06",
-      "display_name": "AA TOP 키린야가 키이"
+      "display_name": "AA TOP Kirinyaga Kii"
     },
     {
       "vendor": "newbean",
@@ -8573,7 +8573,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:22:25.889445+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Kenya Peaberry 세렝게티"
+      "display_name": "Kenya Peaberry Serengeti"
     },
     {
       "vendor": "cobeans",
@@ -8627,7 +8627,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:22:30.376281+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Kenya Nyeri 카라티나 AB TOP Washed"
+      "display_name": "Kenya Nyeri Karatina AB TOP Washed"
     },
     {
       "vendor": "cobeans",
@@ -8683,7 +8683,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:22:30.376299+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Kenya Murang'a 탕가이니 AA TOP Washed"
+      "display_name": "Kenya Murang'a Tangaini AA TOP Washed"
     },
     {
       "vendor": "sewoonggc",
@@ -8821,7 +8821,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:22:32.202110+00:00",
       "added_at": "2026-06-06",
-      "display_name": "스페셜티 움불라"
+      "display_name": "Specialty Umbula"
     },
     {
       "vendor": "sewoonggc",
@@ -9017,7 +9017,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:22:32.202165+00:00",
       "added_at": "2026-06-06",
-      "display_name": "문가리아 Natural"
+      "display_name": "Mungaria Natural"
     },
     {
       "vendor": "sewoonggc",
@@ -9045,7 +9045,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:22:32.202178+00:00",
       "added_at": "2026-06-06",
-      "display_name": "기티투 Natural"
+      "display_name": "Gititu Natural"
     },
     {
       "vendor": "sewoonggc",
@@ -9073,7 +9073,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:22:32.202186+00:00",
       "added_at": "2026-06-06",
-      "display_name": "메루 사니스 Natural"
+      "display_name": "Meru Sanis Natural"
     },
     {
       "vendor": "momos",
@@ -9337,7 +9337,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:23:41.956870+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Guatemala 우에우에테낭고 우니온 칸티닐"
+      "display_name": "Guatemala Huehuetenango Union Cantinil"
     },
     {
       "vendor": "coffeelibre",
@@ -9367,7 +9367,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:23:41.956882+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Guatemala El 디비노 니뇨"
+      "display_name": "Guatemala El Divino Niño"
     },
     {
       "vendor": "coffeelibre",
@@ -9397,7 +9397,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:23:41.956893+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Guatemala 팔로 블랑코"
+      "display_name": "Guatemala Palo Blanco"
     },
     {
       "vendor": "coffeelibre",
@@ -9427,7 +9427,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:23:41.956904+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Guatemala El 타로 Lot.2"
+      "display_name": "Guatemala El Taro Lot.2"
     },
     {
       "vendor": "coffeelibre",
@@ -9457,7 +9457,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:23:41.956916+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Guatemala 란초 라스 베가스 Lot.2"
+      "display_name": "Guatemala Rancho Las Vegas Lot.2"
     },
     {
       "vendor": "coffeelibre",
@@ -9487,7 +9487,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:23:41.956929+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Guatemala 란초 라스 베가스 Lot.1"
+      "display_name": "Guatemala Rancho Las Vegas Lot.1"
     },
     {
       "vendor": "coffeelibre",
@@ -9517,7 +9517,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:23:41.956941+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Guatemala 호코테"
+      "display_name": "Guatemala Jocote"
     },
     {
       "vendor": "coffeelibre",
@@ -9607,7 +9607,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:23:41.956975+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Guatemala 우에우에테낭고 Libre Selection"
+      "display_name": "Guatemala Huehuetenango Libre Selection"
     },
     {
       "vendor": "coffeelibre",
@@ -9636,7 +9636,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:23:41.956985+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Guatemala 엔트레 볼카네스"
+      "display_name": "Guatemala Entre Volcanes"
     },
     {
       "vendor": "coffeelibre",
@@ -9666,7 +9666,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:23:41.956996+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Guatemala El 템픽스케"
+      "display_name": "Guatemala El Tempixque"
     },
     {
       "vendor": "coffeelibre",
@@ -9696,7 +9696,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:23:41.957005+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Guatemala 엔트레 볼카네스"
+      "display_name": "Guatemala Entre Volcanes"
     },
     {
       "vendor": "micoffee",
@@ -9753,7 +9753,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:23:46.952299+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Guatemala El 인헤르또 Pacamara Washed"
+      "display_name": "Guatemala El Incierto Pacamara Washed"
     },
     {
       "vendor": "micoffee",
@@ -9838,7 +9838,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:23:46.952341+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Guatemala 우에우에테낭고 킨 Washed"
+      "display_name": "Guatemala Huehuetenango Xin Washed"
     },
     {
       "vendor": "micoffee",
@@ -9894,7 +9894,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:23:46.952364+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Guatemala El Socorro 산 로렌조"
+      "display_name": "Guatemala El Socorro San Lorenzo"
     },
     {
       "vendor": "newbean",
@@ -9922,7 +9922,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:23:51.864012+00:00",
       "added_at": "2026-06-06",
-      "display_name": "SHB EP 뉴 오리엔테 JV"
+      "display_name": "SHB EP New Oriente JV"
     },
     {
       "vendor": "newbean",
@@ -9981,7 +9981,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:23:51.864046+00:00",
       "added_at": "2026-06-06",
-      "display_name": "SHB Antigua 라 글로리아"
+      "display_name": "SHB Antigua La Gloria"
     },
     {
       "vendor": "gsc",
@@ -10130,7 +10130,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:24:04.513088+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Guatemala 라 에르모사 SHB EP Acatenango 마마 카타 Washed"
+      "display_name": "Guatemala La Hermosa SHB EP Acatenango Mama Cata Washed"
     },
     {
       "vendor": "gsc",
@@ -10158,7 +10158,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:24:04.513097+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Guatemala 라 에르모사 SHB EP 돈 발로 Washed"
+      "display_name": "Guatemala La Hermosa SHB EP Don Baloo Washed"
     },
     {
       "vendor": "gsc",
@@ -10324,7 +10324,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:24:11.560952+00:00",
       "added_at": "2026-06-06",
-      "display_name": "SHB 제뉴인 Antigua 라 비야"
+      "display_name": "SHB Genuine Antigua La Villa"
     },
     {
       "vendor": "sewoonggc",
@@ -10349,7 +10349,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:24:11.560975+00:00",
       "added_at": "2026-06-06",
-      "display_name": "SHB 자스민"
+      "display_name": "SHB Jasmine"
     },
     {
       "vendor": "sewoonggc",
@@ -10492,7 +10492,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:24:11.561043+00:00",
       "added_at": "2026-06-06",
-      "display_name": "제뉴인 Antigua 라 비야"
+      "display_name": "Genuine Antigua La Villa"
     },
     {
       "vendor": "sewoonggc",
@@ -10515,7 +10515,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:24:11.561050+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Guatemala 우에우에테낭고 마운틴 워…"
+      "display_name": "Guatemala Huehuetenango Mountain War…"
     },
     {
       "vendor": "sewoonggc",
@@ -10538,7 +10538,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:24:11.561059+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Santa Felisa Blue Jade Puli Washed 트리플에…"
+      "display_name": "Santa Felisa Blue Jade Puli Washed Triple E…"
     },
     {
       "vendor": "sewoonggc",
@@ -10594,7 +10594,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:24:11.561076+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Santa Felisa 아나카페 14 Natural 1500"
+      "display_name": "Santa Felisa Anafe 14 Natural 1500"
     },
     {
       "vendor": "sewoonggc",
@@ -10622,7 +10622,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:24:11.561084+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Santa Felisa SL-28 Natural 와일드 이스트…"
+      "display_name": "Santa Felisa SL-28 Natural Wild East…"
     },
     {
       "vendor": "sewoonggc",
@@ -10704,7 +10704,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:24:11.561109+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Santa Felisa Geisha 2722 오렌지 Honey 1…"
+      "display_name": "Santa Felisa Geisha 2722 Orange Honey 1…"
     },
     {
       "vendor": "sewoonggc",
@@ -10760,7 +10760,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:24:11.561127+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Santa Felisa Red Sidra Natural 와일드 이스…"
+      "display_name": "Santa Felisa Red Sidra Natural Wild Is…"
     },
     {
       "vendor": "sewoonggc",
@@ -10816,7 +10816,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:24:11.561144+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Santa Felisa 드워프 Geisha Natural 1500"
+      "display_name": "Santa Felisa Dwarf Geisha Natural 1500"
     },
     {
       "vendor": "sewoonggc",
@@ -11073,7 +11073,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:25:21.974076+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Panama Finca 아우로마르 파이어스톤 Geisha"
+      "display_name": "Panama Finca Auromar Firestone Geisha"
     },
     {
       "vendor": "micoffee",
@@ -11102,7 +11102,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:25:26.372983+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Panama 데보라 일루미네이션 Geisha Washed 카보닉 머서레이션"
+      "display_name": "Panama Deborah Illumination Geisha Washed Carbonic Maceration"
     },
     {
       "vendor": "micoffee",
@@ -11131,7 +11131,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:25:26.373010+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Panama El 바하레케 심비오시스 커피 Geisha 언에어로빅 Natural"
+      "display_name": "Panama El Bahareke Symbiosis Coffee Geisha Anaerobic Natural"
     },
     {
       "vendor": "micoffee",
@@ -11159,7 +11159,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:25:26.373022+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Panama El 바하레케 Geisha Washed"
+      "display_name": "Panama El Bahareke Geisha Washed"
     },
     {
       "vendor": "micoffee",
@@ -11188,7 +11188,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:25:26.373033+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Panama 가리도 하이랜드 파넬라 둘세 Geisha Natural"
+      "display_name": "Panama Garrido Highland Panela Dulce Geisha Natural"
     },
     {
       "vendor": "micoffee",
@@ -11216,7 +11216,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:25:26.373043+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Panama 가리도 하이랜드 파넬라 둘세 Geisha Washed"
+      "display_name": "Panama Garrido Highland Panela Dulce Geisha Washed"
     },
     {
       "vendor": "micoffee",
@@ -11245,7 +11245,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:25:26.373053+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Panama 아부 Geisha GW-3160 Washed"
+      "display_name": "Panama Abu Geisha GW-3160 Washed"
     },
     {
       "vendor": "micoffee",
@@ -11274,7 +11274,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:25:26.373063+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Panama 아부 Geisha GW-3150 Washed"
+      "display_name": "Panama Abu Geisha GW-3150 Washed"
     },
     {
       "vendor": "micoffee",
@@ -11303,7 +11303,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:25:26.373076+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Panama 페리엔 Pacamara Washed"
+      "display_name": "Panama Ferien Pacamara Washed"
     },
     {
       "vendor": "newbean",
@@ -11334,7 +11334,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:25:31.055581+00:00",
       "added_at": "2026-06-06",
-      "display_name": "라 에스메랄다 프라이빗 콜렉션 El 벨로 Geisha Washed"
+      "display_name": "La Esmeralda Private Collection El Bello Geisha Washed"
     },
     {
       "vendor": "newbean",
@@ -11366,7 +11366,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:25:31.055608+00:00",
       "added_at": "2026-06-06",
-      "display_name": "라 에스메랄다 프라이빗 콜렉션 El 벨로 Geisha Natural"
+      "display_name": "La Esmeralda Private Collection El Bello Geisha Natural"
     },
     {
       "vendor": "gsc",
@@ -11394,7 +11394,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:25:43.271351+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Panama 라 산타 Washed"
+      "display_name": "Panama La Santa Washed"
     },
     {
       "vendor": "gsc",
@@ -11422,7 +11422,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:25:43.271376+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Panama 새비지 엘릭서 Anaerobic Natural"
+      "display_name": "Panama Savage Elixir Anaerobic Natural"
     },
     {
       "vendor": "gsc",
@@ -11450,7 +11450,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:25:43.271386+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Panama 새비지 Pacamara Natural"
+      "display_name": "Panama Savage Pacamara Natural"
     },
     {
       "vendor": "gsc",
@@ -11479,7 +11479,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:25:43.271395+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Panama Hartmann 치코 가요 Natural"
+      "display_name": "Panama Hartmann Chico Gayo Natural"
     },
     {
       "vendor": "gsc",
@@ -11509,7 +11509,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:25:43.271404+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Panama 보니타스프링 SL 28 Natural"
+      "display_name": "Panama Bonita Spring SL 28 Natural"
     },
     {
       "vendor": "gsc",
@@ -11537,7 +11537,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:25:43.271413+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Panama 보니타스프링 우쉬우쉬 Natural"
+      "display_name": "Panama Bonitas Spring Ush Ush Natural"
     },
     {
       "vendor": "gsc",
@@ -11568,7 +11568,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:25:43.271428+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Panama 엘리다 에스테이트 Geisha Natural"
+      "display_name": "Panama Elida Estate Geisha Natural"
     },
     {
       "vendor": "gsc",
@@ -11598,7 +11598,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:25:43.271438+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Panama 잔슨 알프스 #990 Geisha Washed"
+      "display_name": "Panama Janson Alps #990 Geisha Washed"
     },
     {
       "vendor": "gsc",
@@ -11630,7 +11630,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:25:43.271447+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Panama 엘리다 에스테이트 Geisha DRD Washed"
+      "display_name": "Panama Elida Estate Geisha DRD Washed"
     },
     {
       "vendor": "gsc",
@@ -11661,7 +11661,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:25:43.271455+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Panama 아부 커피 Geisha Washed #3190"
+      "display_name": "Panama Abu Coffee Geisha Washed #3190"
     },
     {
       "vendor": "sewoonggc",
@@ -11689,7 +11689,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:25:49.206833+00:00",
       "added_at": "2026-06-06",
-      "display_name": "에스메랄다 스페셜 Geisha Washed G…"
+      "display_name": "Esmeralda Special Geisha Washed G…"
     },
     {
       "vendor": "sewoonggc",
@@ -11717,7 +11717,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:25:49.206862+00:00",
       "added_at": "2026-06-06",
-      "display_name": "에스메랄다 스페셜 Geisha Natural AGUILA…"
+      "display_name": "Esmeralda Special Geisha Natural AGUILA…"
     },
     {
       "vendor": "sewoonggc",
@@ -11745,7 +11745,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:25:49.206874+00:00",
       "added_at": "2026-06-06",
-      "display_name": "에스메랄다 프라이빗 Collection Washed 엘베로 (…"
+      "display_name": "Esmeralda Private Collection Washed El Vero (…"
     },
     {
       "vendor": "sewoonggc",
@@ -11773,7 +11773,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:25:49.206884+00:00",
       "added_at": "2026-06-06",
-      "display_name": "에스메랄다 프라이빗 Collection Natural 엘베로 (…"
+      "display_name": "Esmeralda Private Collection Natural El Vero (…"
     },
     {
       "vendor": "sewoonggc",
@@ -11801,7 +11801,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:25:49.206906+00:00",
       "added_at": "2026-06-06",
-      "display_name": "CCD 로스포조스 Geisha Natural 인트린직"
+      "display_name": "CCD Los Pozos Geisha Natural Intrinsic"
     },
     {
       "vendor": "sewoonggc",
@@ -11832,7 +11832,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:25:49.206925+00:00",
       "added_at": "2026-06-06",
-      "display_name": "코토와 리오 크리스탈 Pacamara Washed #18…"
+      "display_name": "Cotua Rio Cristal Pacamara Washed #18…"
     },
     {
       "vendor": "sewoonggc",
@@ -11863,7 +11863,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:25:49.206937+00:00",
       "added_at": "2026-06-06",
-      "display_name": "코토와 던칸 Maragogype Natural #859"
+      "display_name": "Cotua Duncan Maragogype Natural #859"
     },
     {
       "vendor": "sewoonggc",
@@ -11893,7 +11893,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:25:49.206946+00:00",
       "added_at": "2026-06-06",
-      "display_name": "마마카타 모키타 ASD Natural 2021 BO…"
+      "display_name": "Mamacata Mokita ASD Natural 2021 BO…"
     },
     {
       "vendor": "sewoonggc",
@@ -11976,7 +11976,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:25:49.206976+00:00",
       "added_at": "2026-06-06",
-      "display_name": "카페 코토와 던칸 블랙 커런트 꼬냑"
+      "display_name": "Cafe Cotua Duncan Black Current Cognac"
     },
     {
       "vendor": "sewoonggc",
@@ -12091,7 +12091,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:25:49.207009+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Geisha 프라이빗 Collection 카냐스 베르…"
+      "display_name": "Geisha Private Collection Cañas Ver…"
     },
     {
       "vendor": "sewoonggc",
@@ -12120,7 +12120,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:25:49.207030+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Geisha 프라이빗 Collection 카냐스 베르…"
+      "display_name": "Geisha Private Collection Cañas Ver…"
     },
     {
       "vendor": "sewoonggc",
@@ -12271,7 +12271,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:25:49.207133+00:00",
       "added_at": "2026-06-06",
-      "display_name": "코토와 라스브루하스 Geisha Natural #747"
+      "display_name": "Coto Las Brujas Geisha Natural #747"
     },
     {
       "vendor": "sewoonggc",
@@ -12302,7 +12302,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:25:49.207141+00:00",
       "added_at": "2026-06-06",
-      "display_name": "코토와 라스브루하스 Geisha Natural #863"
+      "display_name": "Coto Las Brujas Geisha Natural #863"
     },
     {
       "vendor": "sewoonggc",
@@ -12511,7 +12511,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:26:56.316988+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Brazil 술 데 미나스 Natural Libre Selection"
+      "display_name": "Brazil Sul de Minas Natural Libre Selection"
     },
     {
       "vendor": "micoffee",
@@ -12567,7 +12567,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:27:00.936091+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Brazil 산타이네스 Natural"
+      "display_name": "Brazil Santa Ines Natural"
     },
     {
       "vendor": "micoffee",
@@ -12595,7 +12595,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:27:00.936105+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Brazil 산타루시아 Natural"
+      "display_name": "Brazil Santa Lucia Natural"
     },
     {
       "vendor": "micoffee",
@@ -12623,7 +12623,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:27:00.936117+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Brazil 산타이네스 Pulped Natural"
+      "display_name": "Brazil Santa Ines Pulped Natural"
     },
     {
       "vendor": "micoffee",
@@ -12646,7 +12646,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:27:00.936128+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Brazil 산타루시아 Pulped Natural"
+      "display_name": "Brazil Santa Lucia Pulped Natural"
     },
     {
       "vendor": "newbean",
@@ -12673,7 +12673,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:27:05.924991+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Datterra Peaberry 클래식"
+      "display_name": "Datterra Peaberry Classic"
     },
     {
       "vendor": "newbean",
@@ -12716,7 +12716,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:27:05.925014+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Datterra 에스프레소 Yellow"
+      "display_name": "Datterra Espresso Yellow"
     },
     {
       "vendor": "newbean",
@@ -12748,7 +12748,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:27:05.925024+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Datterra 에스프레소 Collection"
+      "display_name": "Datterra Espresso Collection"
     },
     {
       "vendor": "newbean",
@@ -12777,7 +12777,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:27:05.925033+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Datterra 선라이즈 클래식"
+      "display_name": "Datterra Sunrise Classic"
     },
     {
       "vendor": "newbean",
@@ -12807,7 +12807,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:27:05.925041+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Datterra 부에나 비스타"
+      "display_name": "Datterra Buena Vista"
     },
     {
       "vendor": "newbean",
@@ -12836,7 +12836,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:27:05.925051+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Fazenda 캄페스트레 문도 노보 Natural"
+      "display_name": "Fazenda Campestre Mundo Novo Natural"
     },
     {
       "vendor": "newbean",
@@ -12865,7 +12865,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:27:05.925066+00:00",
       "added_at": "2026-06-06",
-      "display_name": "몬테 벨로 Yellow Bourbon P/N 16up"
+      "display_name": "Monte Bello Yellow Bourbon P/N 16up"
     },
     {
       "vendor": "newbean",
@@ -12892,7 +12892,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:27:05.925076+00:00",
       "added_at": "2026-06-06",
-      "display_name": "로부스타 코닐론"
+      "display_name": "Robusta Conilon"
     },
     {
       "vendor": "newbean",
@@ -12949,7 +12949,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:27:05.925093+00:00",
       "added_at": "2026-06-06",
-      "display_name": "카페 돌체 NY2 16up FC"
+      "display_name": "Cafe Dolce NY2 16up FC"
     },
     {
       "vendor": "newbean",
@@ -13004,7 +13004,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:27:05.925108+00:00",
       "added_at": "2026-06-06",
-      "display_name": "블루 다이아몬드"
+      "display_name": "Blue Diamond"
     },
     {
       "vendor": "newbean",
@@ -13032,7 +13032,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:27:05.925116+00:00",
       "added_at": "2026-06-06",
-      "display_name": "블랙 다이아몬드"
+      "display_name": "Black Diamond"
     },
     {
       "vendor": "newbean",
@@ -13093,7 +13093,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:27:05.925135+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Datterra Collection 블라썸"
+      "display_name": "Datterra Collection Blossom"
     },
     {
       "vendor": "newbean",
@@ -13138,7 +13138,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:27:05.925142+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Datterra 빌라"
+      "display_name": "Datterra Villa"
     },
     {
       "vendor": "newbean",
@@ -13338,7 +13338,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:27:20.952291+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Brazil Fazenda Em 문도노보 Natural"
+      "display_name": "Brazil Fazenda Em Mundo Novo Natural"
     },
     {
       "vendor": "gsc",
@@ -13481,7 +13481,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:27:20.952348+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Brazil NY2 FC 17/18 에포카 스페셜 Natural BSCA certified"
+      "display_name": "Brazil NY2 FC 17/18 Epoca Special Natural BSCA certified"
     },
     {
       "vendor": "gsc",
@@ -13509,7 +13509,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:27:20.952357+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Brazil NY2 FC 17/18 Cerrado 노바 Pulped Natural"
+      "display_name": "Brazil NY2 FC 17/18 Cerrado Nova Pulped Natural"
     },
     {
       "vendor": "gsc",
@@ -13537,7 +13537,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:27:20.952368+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Brazil NY2 FC SC16UP Fazenda 카르모 에스테이트 Natural BSCA Certified"
+      "display_name": "Brazil NY2 FC SC16UP Fazenda Carmo Estate Natural BSCA Certified"
     },
     {
       "vendor": "gsc",
@@ -13565,7 +13565,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:27:20.952377+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Brazil Fazenda Em 보이아 문도노보 Natural"
+      "display_name": "Brazil Fazenda Em Boia Mundo Novo Natural"
     },
     {
       "vendor": "gsc",
@@ -13593,7 +13593,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:27:20.952385+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Brazil NY2/3 SC14/16 슈가 케인 Decaf"
+      "display_name": "Brazil NY2/3 SC14/16 Sugar Cane Decaf"
     },
     {
       "vendor": "gsc",
@@ -13621,7 +13621,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:27:20.952395+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Brazil Fazenda Em Yellow Bourbon 보인하스 Natural"
+      "display_name": "Brazil Fazenda Em Yellow Bourbon Boinhas Natural"
     },
     {
       "vendor": "gsc",
@@ -13678,7 +13678,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:27:20.952413+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Brazil Fazenda Em Yellow Bourbon 보인하스 다크룸"
+      "display_name": "Brazil Fazenda Em Yellow Bourbon Boinhas Dark Room"
     },
     {
       "vendor": "gsc",
@@ -13734,7 +13734,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:27:20.952429+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Brazil Fazenda Em 파라이소 Pulped Natural"
+      "display_name": "Brazil Fazenda Em Paraiso Pulped Natural"
     },
     {
       "vendor": "gsc",
@@ -13791,7 +13791,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:27:20.952445+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Brazil Fazenda Em 아라라 Pulped Natural"
+      "display_name": "Brazil Fazenda Em Arara Pulped Natural"
     },
     {
       "vendor": "gsc",
@@ -13821,7 +13821,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:27:20.952454+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Brazil Fazenda Em Red Catucaí 솔리 Natural"
+      "display_name": "Brazil Fazenda Em Red Catucaí Soli Natural"
     },
     {
       "vendor": "gsc",
@@ -13849,7 +13849,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:27:20.952462+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Brazil Fazenda Em 수프림 Pulped Natural"
+      "display_name": "Brazil Fazenda Em Supreme Pulped Natural"
     },
     {
       "vendor": "gsc",
@@ -13906,7 +13906,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:27:20.952479+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Brazil Fazenda Em 알레크림 다크룸"
+      "display_name": "Brazil Fazenda Em Alecrim Dark Room"
     },
     {
       "vendor": "cobeans",
@@ -13959,7 +13959,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:27:24.932640+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Brazil Fazenda 이스트렐라 카르벨류 옐로우파라..."
+      "display_name": "Brazil Fazenda Estrela Carvalha Yellow Para..."
     },
     {
       "vendor": "cobeans",
@@ -13984,7 +13984,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:27:24.932653+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Brazil 빈할 WL56 레드 그레이프"
+      "display_name": "Brazil Binal WL56 Red Grape"
     },
     {
       "vendor": "cobeans",
@@ -14011,7 +14011,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:27:24.932665+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Brazil 캄페스트리 문도노보 Natural"
+      "display_name": "Brazil Campestre Mundo Novo Natural"
     },
     {
       "vendor": "cobeans",
@@ -14036,7 +14036,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:27:24.932676+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Brazil 빈할 WL44 초콜릿"
+      "display_name": "Brazil Binal WL44 Chocolate"
     },
     {
       "vendor": "cobeans",
@@ -14061,7 +14061,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:27:24.932687+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Brazil 빈할 WL07 Coconut"
+      "display_name": "Brazil Binal WL07 Coconut"
     },
     {
       "vendor": "sewoonggc",
@@ -14119,7 +14119,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:27:29.375676+00:00",
       "added_at": "2026-06-06",
-      "display_name": "퍼펙트 Natural"
+      "display_name": "Perfect Natural"
     },
     {
       "vendor": "sewoonggc",
@@ -14146,7 +14146,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:27:29.375685+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Cerrado 카페브라스"
+      "display_name": "Cerrado Cafe Brasil"
     },
     {
       "vendor": "sewoonggc",
@@ -14174,7 +14174,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:27:29.375694+00:00",
       "added_at": "2026-06-06",
-      "display_name": "후루타 초코 포르치"
+      "display_name": "Fruta Choco Porci"
     },
     {
       "vendor": "sewoonggc",
@@ -14202,7 +14202,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:27:29.375703+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Datterra 버본컬렉션 Pulped Natural"
+      "display_name": "Datterra Bourbon Collection Pulped Natural"
     },
     {
       "vendor": "sewoonggc",
@@ -14228,7 +14228,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:27:29.375710+00:00",
       "added_at": "2026-06-06",
-      "display_name": "베리 초코"
+      "display_name": "Berry Choco"
     },
     {
       "vendor": "sewoonggc",
@@ -14256,7 +14256,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:27:29.375718+00:00",
       "added_at": "2026-06-06",
-      "display_name": "로얄 Honey"
+      "display_name": "Royal Honey"
     },
     {
       "vendor": "sewoonggc",
@@ -14284,7 +14284,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:27:29.375725+00:00",
       "added_at": "2026-06-06",
-      "display_name": "카라멜라도"
+      "display_name": "Caramelado"
     },
     {
       "vendor": "sewoonggc",
@@ -14312,7 +14312,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:27:29.375732+00:00",
       "added_at": "2026-06-06",
-      "display_name": "퍼펙트 Natural"
+      "display_name": "Perfect Natural"
     },
     {
       "vendor": "sewoonggc",
@@ -14340,7 +14340,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:27:29.375740+00:00",
       "added_at": "2026-06-06",
-      "display_name": "얼라이 클래식"
+      "display_name": "Allay Classic"
     },
     {
       "vendor": "sewoonggc",
@@ -14368,7 +14368,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:27:29.375747+00:00",
       "added_at": "2026-06-06",
-      "display_name": "카카오 엠버"
+      "display_name": "Cacao Amber"
     },
     {
       "vendor": "sewoonggc",
@@ -14396,7 +14396,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:27:29.375754+00:00",
       "added_at": "2026-06-06",
-      "display_name": "카샤사 럼 배럴"
+      "display_name": "Cachaça Rum Barrel"
     },
     {
       "vendor": "sewoonggc",
@@ -14424,7 +14424,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:27:29.375762+00:00",
       "added_at": "2026-06-06",
-      "display_name": "카라멜 Mocha"
+      "display_name": "Caramel Mocha"
     },
     {
       "vendor": "sewoonggc",
@@ -14452,7 +14452,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:27:29.375769+00:00",
       "added_at": "2026-06-06",
-      "display_name": "초콜릿 무스"
+      "display_name": "Chocolate Mousse"
     },
     {
       "vendor": "sewoonggc",
@@ -14482,7 +14482,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:27:29.375793+00:00",
       "added_at": "2026-06-06",
-      "display_name": "다크 초코 베리"
+      "display_name": "Dark Choco Berry"
     },
     {
       "vendor": "sewoonggc",
@@ -14511,7 +14511,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:27:29.375802+00:00",
       "added_at": "2026-06-06",
-      "display_name": "플로럴 카라멜라도"
+      "display_name": "Floral Caramelado"
     },
     {
       "vendor": "sewoonggc",
@@ -14539,7 +14539,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:27:29.375810+00:00",
       "added_at": "2026-06-06",
-      "display_name": "골든 베리"
+      "display_name": "Golden Berry"
     },
     {
       "vendor": "sewoonggc",
@@ -14568,7 +14568,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:27:29.375817+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Brazil Cerrado No.2 파인컵 Decaf"
+      "display_name": "Brazil Cerrado No.2 Fine Cup Decaf"
     },
     {
       "vendor": "sewoonggc",
@@ -14596,7 +14596,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:27:29.375826+00:00",
       "added_at": "2026-06-06",
-      "display_name": "프리마베라 Yellow Catuai Natural"
+      "display_name": "Primavera Yellow Catuai Natural"
     },
     {
       "vendor": "sewoonggc",
@@ -14624,7 +14624,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:27:29.375835+00:00",
       "added_at": "2026-06-06",
-      "display_name": "프리마베라 Yellow Catuai Pulped Natural"
+      "display_name": "Primavera Yellow Catuai Pulped Natural"
     },
     {
       "vendor": "sewoonggc",
@@ -14653,7 +14653,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:27:29.375844+00:00",
       "added_at": "2026-06-06",
-      "display_name": "만티퀘이라 아줄 레드 Catuai 펄프드 …"
+      "display_name": "Mantiqueira Azul Red Catuai Pulped …"
     },
     {
       "vendor": "sewoonggc",
@@ -14678,7 +14678,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:27:29.375852+00:00",
       "added_at": "2026-06-06",
-      "display_name": "엘도라도 라즈베리 잼"
+      "display_name": "Eldorado Raspberry Jam"
     },
     {
       "vendor": "sewoonggc",
@@ -14703,7 +14703,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:27:29.375860+00:00",
       "added_at": "2026-06-06",
-      "display_name": "엘도라도 프룻 칵테일"
+      "display_name": "Eldorado Fruit Cocktail"
     },
     {
       "vendor": "sewoonggc",
@@ -14729,7 +14729,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:27:29.375868+00:00",
       "added_at": "2026-06-06",
-      "display_name": "엘도라도 오렌지 Caramel"
+      "display_name": "Eldorado Orange Caramel"
     },
     {
       "vendor": "sewoonggc",
@@ -14755,7 +14755,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:27:29.375875+00:00",
       "added_at": "2026-06-06",
-      "display_name": "엘도라도 초콜릿 프룬"
+      "display_name": "Eldorado Chocolate Prune"
     },
     {
       "vendor": "sewoonggc",
@@ -14783,7 +14783,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:27:29.375882+00:00",
       "added_at": "2026-06-06",
-      "display_name": "엘도라도 피그 쳐트니"
+      "display_name": "Eldorado Fig Chutney"
     },
     {
       "vendor": "sewoonggc",
@@ -14808,7 +14808,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T18:27:29.375889+00:00",
       "added_at": "2026-06-06",
-      "display_name": "엘도라도 초콜릿 무스"
+      "display_name": "Eldorado Chocolate Mousse"
     },
     {
       "vendor": "sewoonggc",
@@ -14864,7 +14864,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T08:09:50.495734+00:00",
       "added_at": "2026-05-24",
-      "display_name": "Ethiopia 빌로야 Natural 3일 Anaerobic G1"
+      "display_name": "Ethiopia Villalobos Natural 3일 Anaerobic G1"
     },
     {
       "vendor": "royalcoffee",
@@ -14893,7 +14893,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T08:09:50.495769+00:00",
       "added_at": "2026-05-24",
-      "display_name": "Ethiopia 젤라나 Abaya Natural 4일 Anaerobic G1"
+      "display_name": "Ethiopia Gelana Abaya Natural 4일 Anaerobic G1"
     },
     {
       "vendor": "royalcoffee",
@@ -14951,7 +14951,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T08:09:50.495793+00:00",
       "added_at": "2026-05-24",
-      "display_name": "Ethiopia 알라마예후 고사예 Natural G1"
+      "display_name": "Ethiopia Alamayhu Gosaye Natural G1"
     },
     {
       "vendor": "royalcoffee",
@@ -15009,7 +15009,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T08:09:50.495816+00:00",
       "added_at": "2026-05-24",
-      "display_name": "Ethiopia Guji 킬렌소 Natural G3"
+      "display_name": "Ethiopia Guji Kilenso Natural G3"
     },
     {
       "vendor": "royalcoffee",
@@ -15096,7 +15096,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T08:09:50.495867+00:00",
       "added_at": "2026-05-24",
-      "display_name": "Ethiopia 하로 와츄 Natural 6일 Anaerobic G1 카카오, 자두, 피칸, 라즈베리주스, 콜라"
+      "display_name": "Ethiopia Haro Wachu Natural 6일 Anaerobic G1 Cacao, Plum, Pecan, Raspberry Juice, Cola"
     },
     {
       "vendor": "royalcoffee",
@@ -15125,7 +15125,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T08:09:50.495880+00:00",
       "added_at": "2026-05-24",
-      "display_name": "Ethiopia Uraga 레쵸 Natural 7일 Anaerobic G1"
+      "display_name": "Ethiopia Uraga Recho Natural 7일 Anaerobic G1"
     },
     {
       "vendor": "royalcoffee",
@@ -15183,7 +15183,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T08:09:50.495912+00:00",
       "added_at": "2026-05-24",
-      "display_name": "Ethiopia 아다메 케벨레 그레이드 제로"
+      "display_name": "Ethiopia Adame Kebele Grade Zero"
     },
     {
       "vendor": "royalcoffee",
@@ -15212,7 +15212,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T08:09:50.495926+00:00",
       "added_at": "2026-05-24",
-      "display_name": "Ethiopia 디가 Natural G1 COE NSJ"
+      "display_name": "Ethiopia Digi Natural G1 COE NSJ"
     },
     {
       "vendor": "royalcoffee",
@@ -15270,7 +15270,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T08:09:50.495953+00:00",
       "added_at": "2026-05-24",
-      "display_name": "Ethiopia 아흐메드 Natural G1 COE NSJ"
+      "display_name": "Ethiopia Ahmed Natural G1 COE NSJ"
     },
     {
       "vendor": "royalcoffee",
@@ -15328,7 +15328,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T08:09:50.495983+00:00",
       "added_at": "2026-05-24",
-      "display_name": "Ethiopia 보루 Natural G1 COE NSJ"
+      "display_name": "Ethiopia Boru Natural G1 COE NSJ"
     },
     {
       "vendor": "royalcoffee",
@@ -15357,7 +15357,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T08:09:50.495996+00:00",
       "added_at": "2026-05-24",
-      "display_name": "Ethiopia 타켈레 맘모 덴비 Natural G1"
+      "display_name": "Ethiopia Takkale Mammo Denbi Natural G1"
     },
     {
       "vendor": "royalcoffee",
@@ -15386,7 +15386,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T08:09:50.496010+00:00",
       "added_at": "2026-05-24",
-      "display_name": "Ethiopia 조비르 Natural G1 COE NSJ"
+      "display_name": "Ethiopia Jobir Natural G1 COE NSJ"
     },
     {
       "vendor": "royalcoffee",
@@ -15415,7 +15415,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T08:09:50.496028+00:00",
       "added_at": "2026-05-24",
-      "display_name": "Ethiopia 칼시사 Natural G1 COE NSJ"
+      "display_name": "Ethiopia Kalcisa Natural G1 COE NSJ"
     },
     {
       "vendor": "royalcoffee",
@@ -15444,7 +15444,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T08:09:50.496043+00:00",
       "added_at": "2026-05-24",
-      "display_name": "Ethiopia Worka 마르타 알레무 Natural G1"
+      "display_name": "Ethiopia Worka Marta Alemu Natural G1"
     },
     {
       "vendor": "royalcoffee",
@@ -15583,7 +15583,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T08:09:50.496112+00:00",
       "added_at": "2026-05-24",
-      "display_name": "Ethiopia Guji 킬렌소 Natural G3"
+      "display_name": "Ethiopia Guji Kilenso Natural G3"
     },
     {
       "vendor": "royalcoffee",
@@ -15721,7 +15721,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T08:11:45.422371+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Colombia 아스프로티마나 우먼스 프로젝트 아몬드밀크, 비스킷, 밀크초콜릿, 블랙체리, Caramel"
+      "display_name": "Colombia Asprutmana Women's Project Almond Milk, Biscuit, Milk Chocolate, Black Cherry, Caramel"
     },
     {
       "vendor": "royalcoffee",
@@ -15836,7 +15836,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T08:11:45.422454+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Colombia 쏠 나시엔테 Mountain Water Decaf 곶감, 사과칩, 아몬드, 레드와인, 군밤"
+      "display_name": "Colombia Sol Naciente Mountain Water Decaf Dried Persimmon, Apple Chip, Almond, Red Wine, Roasted Chestnut"
     },
     {
       "vendor": "royalcoffee",
@@ -15859,7 +15859,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T08:11:45.422467+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Colombia 카찰루 Santander Mountain Water Decaf"
+      "display_name": "Colombia Kachalu Santander Mountain Water Decaf"
     },
     {
       "vendor": "royalcoffee",
@@ -15928,7 +15928,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T08:11:45.422511+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Colombia 블랙허니 2중 Anaerobic"
+      "display_name": "Colombia Black Honey 2중 Anaerobic"
     },
     {
       "vendor": "royalcoffee",
@@ -15974,7 +15974,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T08:11:45.422539+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Colombia Caturra 블랙허니 2중탄소"
+      "display_name": "Colombia Caturra Black Honey 2중탄소"
     },
     {
       "vendor": "royalcoffee",
@@ -15997,7 +15997,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T08:11:45.422552+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Colombia 옐로우버번 레드허니"
+      "display_name": "Colombia Yellow Bourbon Red Honey"
     },
     {
       "vendor": "royalcoffee",
@@ -16043,7 +16043,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T08:11:45.422581+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Colombia 시드라버번 2중탄소"
+      "display_name": "Colombia Sidra Bourbon 2중탄소"
     },
     {
       "vendor": "royalcoffee",
@@ -16089,7 +16089,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T08:11:45.422611+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Colombia 핑크버번 블랙허니 2중 Anaerobic"
+      "display_name": "Colombia Pink Bourbon Black Honey 2중 Anaerobic"
     },
     {
       "vendor": "royalcoffee",
@@ -16112,7 +16112,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T08:11:45.422625+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Colombia Crown Jewel Carbonic Honey 캐스케이드 홉 Edwin Noreña 홉, 레몬그라스, 꿀호두, 구아바, 파인애플"
+      "display_name": "Colombia Crown Jewel Carbonic Honey Cascade Hops Edwin Noreña 홉, Lemongrass, Honey Walnut, Guava, Pineapple"
     },
     {
       "vendor": "royalcoffee",
@@ -16135,7 +16135,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T08:11:45.422639+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Colombia Crown Jewel Carbonic Honey Peach Edwin Noreña 복숭아, 쟈스민, 망고, 수박젤리, Caramel"
+      "display_name": "Colombia Crown Jewel Carbonic Honey Peach Edwin Noreña Peach, Jasmine, Mango, Watermelon Jelly, Caramel"
     },
     {
       "vendor": "royalcoffee",
@@ -16158,7 +16158,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T08:11:45.422653+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Colombia Crown Jewel Carbonic Honey 그린 애플 Edwin Noreña 청사과, 애플사이다, 백설탕, 망고젤리, 쟈스민"
+      "display_name": "Colombia Crown Jewel Carbonic Honey Green Apple Edwin Noreña Green Apple, Apple Cider, White Sugar, Mango Jelly, Jasmine"
     },
     {
       "vendor": "royalcoffee",
@@ -16227,7 +16227,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T08:14:12.326187+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Guatemala 베네피시오 익첼"
+      "display_name": "Guatemala Beneficio Ixchel"
     },
     {
       "vendor": "royalcoffee",
@@ -16273,7 +16273,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T08:16:37.121253+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Brazil 포코 펀도 Natural"
+      "display_name": "Brazil Poco Fondo Natural"
     },
     {
       "vendor": "royalcoffee",
