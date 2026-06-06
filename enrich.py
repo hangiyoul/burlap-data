@@ -112,6 +112,27 @@ def enrich(force=False):
     except Exception as e:
         print(f"정규식 전처리 건너뜀: {type(e).__name__}: {e}")
 
+    # vendor 별 처리 우선순위 — enrich 충족률(cup_notes 있음) 낮은 vendor 부터.
+    # 이렇게 하면 GSC 처럼 새로 추가된 0% vendor 가 무료 한도 안에서 우선 채워짐.
+    from collections import defaultdict
+    vendor_fill = defaultdict(lambda: [0, 0])  # [enriched, total]
+    for b in beans:
+        v = b.get("vendor", "?")
+        vendor_fill[v][1] += 1
+        if b.get("cup_notes"):
+            vendor_fill[v][0] += 1
+    vendor_rank = {
+        v: vendor_fill[v][0] / vendor_fill[v][1] if vendor_fill[v][1] else 1.0
+        for v in vendor_fill
+    }
+    # 원본 순서 보존 위해 stable sort + index 보조 키
+    beans_with_idx = sorted(
+        enumerate(beans),
+        key=lambda x: (vendor_rank.get(x[1].get("vendor"), 1.0), x[0])
+    )
+    # enrich 처리 순서만 바꾸고, 최종 beans 배열은 원본 순서 유지(JSON 안정성).
+    process_order = [i for i, _ in beans_with_idx]
+
     todo = sum(1 for b in beans if force or _needs(b))
     has_key = bool(os.environ.get("GEMINI_API_KEY") or os.environ.get("GOOGLE_API_KEY")
                    or os.environ.get("ANTHROPIC_API_KEY"))
@@ -121,7 +142,8 @@ def enrich(force=False):
         print("⚠️ 이 터미널에 키가 없습니다. 같은 창에서 export GEMINI_API_KEY=... 후 다시 실행하세요.", flush=True)
         return
 
-    for i, b in enumerate(beans):
+    for idx, i in enumerate(process_order):
+        b = beans[i]
         if not force and not _needs(b):
             continue
         try:
@@ -130,7 +152,7 @@ def enrich(force=False):
         except Exception:
             html, text = None, None
         if not text:
-            print(f"  {i + 1}/{n} 본문 못 받음 → 건너뜀", flush=True)
+            print(f"  {idx + 1}/{n} 본문 못 받음 → 건너뜀", flush=True)
             continue
 
         # 429: 분당 한도면 대기 후 재시도, 연속 실패(일일 한도로 추정) 시 중단
@@ -143,10 +165,10 @@ def enrich(force=False):
                     fails += 1
                     if fails >= 4:
                         _save(payload)
-                        print(f"\n⚠️ 한도 지속(일일 한도로 추정) — {i}/{n}에서 중단·저장.")
+                        print(f"\n⚠️ 한도 지속(일일 한도로 추정) — {idx + 1}/{n}에서 중단·저장.")
                         print("   내일(한도 리셋) 또는 결제 활성화 후 'python3 enrich.py' 다시 실행 → 이어서 채웁니다.")
                         raise SystemExit(0)
-                    print(f"  분당 한도 — 35초 대기 후 재시도 ({i + 1}/{n})...")
+                    print(f"  분당 한도 — 35초 대기 후 재시도 ({idx + 1}/{n})...")
                     time.sleep(35)
 
         data = _call(raw_text=text)
@@ -180,7 +202,7 @@ def enrich(force=False):
                     enriched += 1
 
         notes = len(b.get("cup_notes") or [])
-        print(f"  {i + 1}/{n} {b['raw_name'][:28]:28} → 컵노트 {notes}개"
+        print(f"  {idx + 1}/{n} [{b.get('vendor', '?')}] {b['raw_name'][:24]:24} → 컵노트 {notes}개"
               + (f" {b.get('price')}" if b.get("price") else ""), flush=True)
         if processed % 10 == 0:
             _save(payload)
