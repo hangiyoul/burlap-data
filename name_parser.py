@@ -395,26 +395,42 @@ def _multi_word_replace(text):
     return text
 
 
+def _load_learned_tokens():
+    """data/learned_tokens.json — Gemini 가 학습한 한글→영문 음역 사전."""
+    path = os.path.join(os.path.dirname(os.path.abspath(__file__)),
+                        "data", "learned_tokens.json")
+    if os.path.exists(path):
+        try:
+            return json.load(open(path, encoding="utf-8"))
+        except Exception:
+            pass
+    return {}
+
+
 def _build_token_map():
-    """단일 토큰 한글 → 영문 사전 (PROCESS/VARIETY/REGION/EXTRA 등 통합)."""
+    """단일 토큰 한글 → 영문 사전 (PROCESS/VARIETY/REGION/EXTRA/learned 통합)."""
     m = {}
     # 국가
     for ko, en in COUNTRY_KO.items():
         m[ko] = en
-    # 가공/품종/등급 — name_parser.py 의 기존 사전 재활용 (한글 키만)
+    # 가공/품종/등급
     for src in (PROCESS, VARIETY, GRADE):
         for ko, en in src.items():
-            # 영문 키는 어차피 그대로라 무시. 한글 키만 매핑.
             if not any("a" <= c <= "z" for c in ko):
                 m[ko] = en
-    # 모든 산지의 region 사전 합침
+    # 모든 산지의 region 사전
     for origin, regions in REGION_BY_ORIGIN.items():
         for ko, en in regions.items():
             if not any("a" <= c <= "z" for c in ko):
                 m[ko] = en
-    # 추가 토큰 (농장명·재료어·마케팅)
+    # 추가 토큰 (수동 사전)
     for ko, en in EXTRA_TOKENS.items():
         m[ko] = en
+    # 학습 사전 (Gemini 누적 결과 — 자동 + 영구)
+    # 수동 사전이 우선이므로 learned 가 덮어쓰지 않도록 setdefault
+    for ko, en in _load_learned_tokens().items():
+        if ko not in m and en and isinstance(en, str):
+            m[ko] = en
     return m
 
 
@@ -461,8 +477,15 @@ def translate_to_english(raw_name):
     # 3) 선두 숫자 SKU 제거 (1-4자리)
     s = re.sub(r"^\d{1,4}\s+", "", s)
 
-    # 4) 다중 단어 치환
+    # 4) 다중 단어 치환 (수동 + 학습 사전)
     s = _multi_word_replace(s)
+    # 학습 사전의 다중 단어 (공백 포함) 도 미리 치환
+    learned = _load_learned_tokens()
+    multi_learned = [(k, v) for k, v in learned.items()
+                     if " " in k and isinstance(v, str) and v]
+    multi_learned.sort(key=lambda x: -len(x[0]))
+    for ko, en in multi_learned:
+        s = s.replace(ko, en)
 
     # 5) 단어별 치환 — 공백으로 split 후 매핑
     tokens = s.split()

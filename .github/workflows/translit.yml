@@ -1,0 +1,36 @@
+name: Burlap Translit (학습형 음역)
+
+# 수동 트리거 전용 — 한글 잔존 토큰을 Gemini Flash-Lite 로 영문 음역.
+# 결과는 data/learned_tokens.json 에 누적됨. 다음 회차부터 캐시 hit.
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  translit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run Gemini translit + apply to beans.json
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python gemini_translit.py --apply
+
+      - name: Commit learned tokens + beans.json
+        run: |
+          git config user.name "burlap-bot"
+          git config user.email "bot@burlap.app"
+          [ -f data/learned_tokens.json ] && git add data/learned_tokens.json
+          git add data/beans.json
+          git commit -m "translit: $(date -u +'%Y-%m-%dT%H:%MZ')" || echo "no changes"
+          git push || echo "push skipped"

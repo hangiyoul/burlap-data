@@ -44,6 +44,11 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python enrich.py || echo "enrich skipped"
 
+      - name: Translit residual Korean tokens (학습형 사전 누적)
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python gemini_translit.py --apply || echo "translit skipped"
+
       - name: Compute changes (어제 대비 신규·품절·가격↓)
         run: python make_changes.py || echo "changes skipped"
 
@@ -58,6 +63,7 @@ jobs:
           git config user.name "burlap-bot"
           git config user.email "bot@burlap.app"
           git add data/beans.json data/market.json
+          [ -f data/learned_tokens.json ] && git add data/learned_tokens.json
           [ -f data/story_translations.json ] && git add data/story_translations.json
           git commit -m "crawl: $(date -u +'%Y-%m-%dT%H:%MZ')" || echo "no changes"
           git push || echo "push skipped"
