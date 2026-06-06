@@ -1,15 +1,20 @@
 """시장 지표 헤드라인 스크레이핑 → data/market.json (자체 시계열 적립).
 
-스크레이핑이 필요한 참조 지표(무료 클라이언트 API 없음):
-  - Freight Index = Baltic Dry Index (BDI)   ← 현재 구현
-  - ICO Composite / ICE Certified Stocks      ← 소스 확정 후 추가 (TODO)
+수집 지표:
+  - Freight Index       = Containerized Freight Index (tradingeconomics)
+  - Arabica · Monthly   = World Bank Pink Sheet (월간 평균, 1960년~, ¢/lb)
+  - Robusta · Monthly   = World Bank Pink Sheet (월간 평균, 1960년~, $/t)
+  - Arabica · Daily     = ICO "Other Milds" indicator (일간, ¢/lb)
+  - Robusta · Daily     = ICO "Robustas" indicator (일간, ¢/lb)
+  - Specialty Auction   = COE + Best of Panama
 
-매 실행 시 오늘 값을 history 에 append(최근 365개 유지) → 시간이 지나며 차트 이력이 쌓임.
+매 실행 시 일간 지표는 append(2000포인트 캡), 월간(WB)은 history 통째 replace.
 크롤 스케줄(crawl.yml)에 함께 돌리면 하루 3회 갱신.
 이후: cp data/market.json Burlap/Burlap/market.json → 앱 재빌드
 
 ⚠️ 출처 약관: 데이터 재판매 사이트(예: tradingeconomics) 스크레이핑은 약관 주의.
    "지연·참고용 + 출처표기"로 운영하고, 가능하면 1차 출처로 교체 권장.
+   WB Pink Sheet, ICO 는 공공 데이터로 ToS 안전.
 """
 import json
 import os
@@ -77,6 +82,24 @@ def append_point(metrics, title, value, unit, fmt="{:,.0f}"):
     }
 
 
+def replace_series(metrics, title, dates, values, unit, fmt="{:,.2f}"):
+    """월간 시계열 전체 교체용 (WB Pink Sheet 처럼 전체 시계열을 매번 받는 소스).
+    dates·values 는 길이 동일 (시간순). 단위·포맷은 일간과 동일 스키마.
+    """
+    if not values or len(dates) != len(values):
+        return
+    last = float(values[-1])
+    prev = float(values[-2]) if len(values) >= 2 else last
+    chg = (last - prev) / prev * 100 if prev else 0.0
+    metrics[title] = {
+        "value": fmt.format(last),
+        "unit": unit,
+        "changePct": round(chg, 2),
+        "history": [float(v) for v in values],
+        "dates": list(dates),
+    }
+
+
 def main():
     payload = load()
     metrics = payload.get("metrics", {})
@@ -91,6 +114,36 @@ def main():
         print(f"Freight Index (Container): {cfi:,.1f}  (history {len(metrics['Freight Index']['history'])}pt)")
     else:
         print("운임 스크레이프 실패 — 이번 회차 건너뜀")
+
+    # WB Pink Sheet 월간 (Arabica · Robusta) — 전체 시계열 교체
+    try:
+        import wb_pink
+        wb = wb_pink.fetch_coffee_monthly()
+        replace_series(metrics, "Arabica · Monthly",
+                       wb["arabica"]["dates"], wb["arabica"]["values"],
+                       unit="¢/lb", fmt="{:,.1f}")
+        replace_series(metrics, "Robusta · Monthly",
+                       wb["robusta"]["dates"], wb["robusta"]["values"],
+                       unit="$/t", fmt="{:,.0f}")
+        print(f"WB Arabica · Monthly: {len(wb['arabica']['values'])}M, "
+              f"last {wb['arabica']['dates'][-1]} = {wb['arabica']['values'][-1]} ¢/lb")
+        print(f"WB Robusta · Monthly: {len(wb['robusta']['values'])}M, "
+              f"last {wb['robusta']['dates'][-1]} = {wb['robusta']['values'][-1]:.0f} $/t")
+    except Exception as e:
+        print("WB Pink Sheet 스크레이프 오류:", type(e).__name__, e)
+
+    # ICO 일간 indicator — Other Milds(Arabica), Robustas(Robusta)
+    try:
+        import ico_daily
+        ico = ico_daily.fetch_daily()
+        append_point(metrics, "Arabica · Daily", ico["other_milds"], "¢/lb", fmt="{:,.2f}")
+        append_point(metrics, "Robusta · Daily", ico["robustas"], "¢/lb", fmt="{:,.2f}")
+        print(f"ICO Arabica · Daily: {ico['other_milds']:.2f} ¢/lb  "
+              f"(history {len(metrics['Arabica · Daily']['history'])}pt)")
+        print(f"ICO Robusta · Daily: {ico['robustas']:.2f} ¢/lb  "
+              f"(history {len(metrics['Robusta · Daily']['history'])}pt)")
+    except Exception as e:
+        print("ICO 일간 스크레이프 오류:", type(e).__name__, e)
 
     # 스페셜티 경매 결과 — COE + Best of Panama(BOP) 통합 (변화 감지 후 델타만 크롤)
     try:
