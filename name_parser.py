@@ -184,9 +184,25 @@ def _match_dict(text_norm, mapping):
 #     "[6월 추천생두] 콜롬비아 아폰테 카투라 허니" → "Colombia Aponte Caturra Honey"
 # ─────────────────────────────────────────────────────────────────
 
-# 자주 등장하는 단일 토큰 — 농장명, 흔한 재료어
+# 자주 등장하는 단일 토큰 — 농장명, 흔한 재료어, 마케팅 (실데이터 빈도순)
 EXTRA_TOKENS = {
+    # 흔한 가공·재료어
     "슈가케인": "Sugarcane",
+    "체리": "Cherry",
+    "스트로베리": "Strawberry",
+    "피치": "Peach",
+    "리치": "Lychee",
+    "워터멜론": "Watermelon",
+    "벨벳": "Velvet",
+    "자바": "Java",
+    "아히": "Aji",
+    "피베리": "Peaberry",
+    "아나에어로빅": "Anaerobic",
+    "마운틴워터": "Mountain Water",
+    "버번": "Bourbon",
+    "디카페인": "Decaf",
+    "생두": "",            # 토큰 제거 (= green bean, redundant)
+    # 농장명 (자주 등장)
     "페르가미노": "Pergamino",
     "아폰테": "Aponte",
     "타블론": "Tablón",
@@ -195,22 +211,87 @@ EXTRA_TOKENS = {
     "야쿠앙케르": "Yacuanquer",
     "콘사카": "Consacá",
     "팜본도": "Pamplona",
-    "체리": "Cherry",
-    "스트로베리": "Strawberry",
-    "허니": "Honey",    # 가공이 아닌 풍미 표기일 수 있음
-    "피치": "Peach",
-    "리치": "Lychee",
-    "워터멜론": "Watermelon",
-    "벨벳": "Velvet",
-    "자바": "Java",
-    "아히": "Aji",
-    "추천생두": "",     # 마케팅 토큰 제거
+    "산타펠리사": "Santa Felisa",
+    "옴블리곤": "Ombligón",
+    "키야라": "Kiyara",
+    "오로라": "Aurora",
+    "풀리": "Puli",
+    "봄베": "Bombe",
+    "첼첼레": "Chelchele",
+    "모틸론": "Motilón",
+    "샤키소": "Shakiso",
+    "시드라": "Sidra",
+    "에이미": "Aimee",
+    "곤조베": "Gonzobe",
+    "와다리": "Wadari",
+    "아디수": "Addisu",
+    "키다네": "Kidane",
+    "두바": "Duba",
+    "보체사": "Bochesa",
+    "아르베고나": "Arbegona",
+    "파노라마": "Panorama",
+    "메디나": "Medina",
+    "겔레나": "Gelena",
+    "아바야": "Abaya",
+    "물루게타": "Mulugeta",
+    "문타샤": "Muntasha",
+    "바샤베켈레": "Bashabekele",
+    "비타": "Vita",
+    "카파": "Kaffa",
+    "리브레": "Libre",
+    "셀렉션": "Selection",
+    "컬렉션": "Collection",
+    "할로": "Halo",
+    "베리티": "Bariti",
+    "가타": "Gata",
+    "코빈즈": "Cobeans",
+    "마르": "Mar",
+    # 잔존 빈도 높은 농장·품종·표기 (2차)
+    "옐로우": "Yellow",
+    "블루제이드": "Blue Jade",
+    "하트만": "Hartmann",
+    "다테하": "Datterra",
+    "캐러멜": "Caramel",
+    "사워솝": "Soursop",
+    "블루베리": "Blueberry",
+    "코코넛": "Coconut",
+    "아이리시": "Irish",
+    "구지": "Guji",
+    "시다마": "Sidama",
+    "케라모": "Keramo",
+    "솔로모": "Solomo",
+    "고구구": "Gogugu",
+    "고로": "Goro",
+    "무다": "Muda",
+    "루무": "Rumudamo",
+    "코케": "Koke",
+    "첼바": "Chelba",
+    "문타사": "Muntasha",
+    "우라가": "Uraga",
+    "벤사": "Bensa",
+    "조히": "Johi",
+    "할인": "",
+    "코퍼먼티드": "Co-fermented",
+    # 핀카 = Finca (스페인어 농장), 파젠다 = Fazenda (포르투갈어 농장)
+    "핀카": "Finca",
+    "파젠다": "Fazenda",
+    "엄": "Em",
+    "레리다": "Lérida",
+    "엘": "El",           # 단일 토큰 그대로
+    # 마케팅·시즈널 — 제거
+    "추천생두": "",
     "행사": "",
     "세일": "",
     "이벤트": "",
     "신상품": "",
     "한정수량": "",
-    "디카페인": "Decaf",
+    "프리미엄": "",
+    "온라인전용": "",
+    "신규": "",
+    "라인업": "",
+    "재입고": "",
+    "런칭": "",
+    # 산지 한글 1-회용
     "에티오피아": "Ethiopia",
     "콜롬비아": "Colombia",
 }
@@ -249,8 +330,11 @@ def _multi_word_replace(text):
     """다중 단어 표현을 먼저 치환 (긴 표현 우선)."""
     multi = [
         ("핑크 부르봉", "Pink Bourbon"),
+        ("핑크 버번", "Pink Bourbon"),
         ("옐로우 부르봉", "Yellow Bourbon"),
+        ("옐로우 버번", "Yellow Bourbon"),
         ("레드 부르봉", "Red Bourbon"),
+        ("레드 버번", "Red Bourbon"),
         ("세미 워시드", "Semi-washed"),
         ("펄프드 내추럴", "Pulped Natural"),
         ("펄프드 워시드", "Pulped Washed"),
@@ -286,6 +370,25 @@ def _multi_word_replace(text):
         ("산 펠리페", "San Felipe"),
         ("란초 그란데", "Rancho Grande"),
         ("쟈딘즈", "Jardines"),  # momos 가 흔히 씀
+        # 자주 등장하는 다중-단어 농장명
+        ("핀카 메디나", "Finca Medina"),
+        ("핀카 레리다", "Finca Lérida"),
+        ("핀카 마타레돈다", "Finca Mataredonda"),
+        ("아구아 티비아", "Agua Tibia"),
+        ("라스 플로레스", "Las Flores"),
+        ("리브레 셀렉션", "Libre Selection"),
+        ("파젠다 엄", "Fazenda Em"),
+        ("산타펠리사 레드", "Santa Felisa Red"),
+        ("모틸론 스페셜티", "Motilón Specialty"),
+        ("생두 바샤베켈레", "Bashabekele"),
+        ("아디수 키다네", "Addisu Kidane"),
+        ("겔레나 아바야", "Gelena Abaya"),
+        ("물루게타문타샤", "Mulugeta Muntasha"),
+        ("레드 카투카이", "Red Catucaí"),
+        ("크라운쥬얼 카보닉", "Crown Jewel Carbonic"),
+        ("에드윈 노레냐", "Edwin Noreña"),
+        ("트리플 에이", "Triple A"),
+        ("더블 에이", "Double A"),
     ]
     for ko, en in multi:
         text = text.replace(ko, en)
@@ -335,6 +438,11 @@ def translate_to_english(raw_name):
         return ""
     s = raw_name.strip()
 
+    # 0) 변형 선택자(U+FE0E / U+FE0F) 로 감싼 마케팅 라벨 제거.
+    # 일부 vendor(royalcoffee 등) 가 '︎이벤트︎', '︎온라인전용︎' 식으로 감싸 표기.
+    s = re.sub(r"[︎️]([^︎️]+)[︎️]\s*", "", s)
+    s = s.replace("︎", "").replace("️", "")
+
     # 1) 선두 brackets 제거
     while s.startswith(("[", "(")):
         close = "]" if s.startswith("[") else ")"
@@ -376,6 +484,18 @@ def translate_to_english(raw_name):
     s = " ".join(out)
     # 중복 공백 정리
     s = re.sub(r"\s+", " ", s).strip()
+
+    # 영문+한글 중복 제거 (royalcoffee 패턴)
+    # 예: "Ethiopia Yirgacheffe Addisu Kidane Natural G1 Ethiopia 아디수 키다네 Natural G1"
+    #     → "Ethiopia Yirgacheffe Addisu Kidane Natural G1"
+    # 산지 영문명이 두 번 등장하면, 두 번째 등장 이전까지만 유지.
+    for country_en in set(COUNTRY_KO.values()) | {"Colombia", "Ethiopia", "Guatemala", "Brazil", "Kenya", "Panama"}:
+        idx = s.find(country_en)
+        if idx >= 0:
+            second = s.find(country_en, idx + len(country_en))
+            if second > 0:
+                s = s[:second].rstrip()
+                break
     return s
 
 
