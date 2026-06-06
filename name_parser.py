@@ -178,6 +178,207 @@ def _match_dict(text_norm, mapping):
     return None
 
 
+# ─────────────────────────────────────────────────────────────────
+# 표시용 영문 이름 (display_name) — raw_name 의 한글 토큰을 영문으로 치환.
+# 예) "25 과테말라 SHB EP 워시드" → "Guatemala SHB EP Washed"
+#     "[6월 추천생두] 콜롬비아 아폰테 카투라 허니" → "Colombia Aponte Caturra Honey"
+# ─────────────────────────────────────────────────────────────────
+
+# 자주 등장하는 단일 토큰 — 농장명, 흔한 재료어
+EXTRA_TOKENS = {
+    "슈가케인": "Sugarcane",
+    "페르가미노": "Pergamino",
+    "아폰테": "Aponte",
+    "타블론": "Tablón",
+    "고메즈": "Gómez",
+    "부에사코": "Buesaco",
+    "야쿠앙케르": "Yacuanquer",
+    "콘사카": "Consacá",
+    "팜본도": "Pamplona",
+    "체리": "Cherry",
+    "스트로베리": "Strawberry",
+    "허니": "Honey",    # 가공이 아닌 풍미 표기일 수 있음
+    "피치": "Peach",
+    "리치": "Lychee",
+    "워터멜론": "Watermelon",
+    "벨벳": "Velvet",
+    "자바": "Java",
+    "아히": "Aji",
+    "추천생두": "",     # 마케팅 토큰 제거
+    "행사": "",
+    "세일": "",
+    "이벤트": "",
+    "신상품": "",
+    "한정수량": "",
+    "디카페인": "Decaf",
+    "에티오피아": "Ethiopia",
+    "콜롬비아": "Colombia",
+}
+
+
+# 국가 — 한글 → 영문 (raw_name 안에서 빈도 높음)
+COUNTRY_KO = {
+    "콜롬비아": "Colombia",
+    "에티오피아": "Ethiopia",
+    "케냐": "Kenya",
+    "과테말라": "Guatemala",
+    "파나마": "Panama",
+    "브라질": "Brazil",
+    "코스타리카": "Costa Rica",
+    "엘살바도르": "El Salvador",
+    "온두라스": "Honduras",
+    "니카라과": "Nicaragua",
+    "예멘": "Yemen",
+    "탄자니아": "Tanzania",
+    "르완다": "Rwanda",
+    "부룬디": "Burundi",
+    "인도": "India",
+    "인도네시아": "Indonesia",
+    "베트남": "Vietnam",
+    "페루": "Peru",
+    "볼리비아": "Bolivia",
+    "에콰도르": "Ecuador",
+    "도미니카": "Dominican Republic",
+    "자메이카": "Jamaica",
+    "쿠바": "Cuba",
+    "멕시코": "Mexico",
+}
+
+
+def _multi_word_replace(text):
+    """다중 단어 표현을 먼저 치환 (긴 표현 우선)."""
+    multi = [
+        ("핑크 부르봉", "Pink Bourbon"),
+        ("옐로우 부르봉", "Yellow Bourbon"),
+        ("레드 부르봉", "Red Bourbon"),
+        ("세미 워시드", "Semi-washed"),
+        ("펄프드 내추럴", "Pulped Natural"),
+        ("펄프드 워시드", "Pulped Washed"),
+        ("워시드 EA", "EA Washed"),
+        ("EA 디카페인", "EA Decaf"),
+        ("슈가케인 디카페인", "Sugarcane Decaf"),
+        ("스위스 워터", "Swiss Water"),
+        ("카보닉 메서레이션", "Anaerobic"),
+        ("무산소 발효", "Anaerobic"),
+        ("후에후에 테낭고", "Huehuetenango"),
+        ("후에후에테낭고", "Huehuetenango"),
+        ("산타 바바라", "Santa Bárbara"),
+        ("산타 아나", "Santa Ana"),
+        ("산 아구스틴", "San Agustín"),
+        ("산 어거스틴", "San Agustín"),
+        ("커피 지도 세트", ""),       # 비-생두
+        ("커피 지도", ""),
+        # 흔한 농장명·로트명 (다단어)
+        ("엘 미라도르", "El Mirador"),
+        ("라스 라하스", "Las Lajas"),
+        ("라스 마가리타스", "Las Margaritas"),
+        ("라 마리나", "La Marina"),
+        ("라 테라사", "La Terraza"),
+        ("라 플라타", "La Plata"),
+        ("로스 파티오스", "Los Patios"),
+        ("카페 로사리오", "Café Rosario"),
+        ("엘 파라이소", "El Paraíso"),
+        ("엘 디비소", "El Diviso"),
+        ("엘 소코로", "El Socorro"),
+        ("엘 오브라헤", "El Obraje"),
+        ("핀카 마타레돈다", "Finca Mataredonda"),
+        ("산토 도밍고", "Santo Domingo"),
+        ("산 펠리페", "San Felipe"),
+        ("란초 그란데", "Rancho Grande"),
+        ("쟈딘즈", "Jardines"),  # momos 가 흔히 씀
+    ]
+    for ko, en in multi:
+        text = text.replace(ko, en)
+    return text
+
+
+def _build_token_map():
+    """단일 토큰 한글 → 영문 사전 (PROCESS/VARIETY/REGION/EXTRA 등 통합)."""
+    m = {}
+    # 국가
+    for ko, en in COUNTRY_KO.items():
+        m[ko] = en
+    # 가공/품종/등급 — name_parser.py 의 기존 사전 재활용 (한글 키만)
+    for src in (PROCESS, VARIETY, GRADE):
+        for ko, en in src.items():
+            # 영문 키는 어차피 그대로라 무시. 한글 키만 매핑.
+            if not any("a" <= c <= "z" for c in ko):
+                m[ko] = en
+    # 모든 산지의 region 사전 합침
+    for origin, regions in REGION_BY_ORIGIN.items():
+        for ko, en in regions.items():
+            if not any("a" <= c <= "z" for c in ko):
+                m[ko] = en
+    # 추가 토큰 (농장명·재료어·마케팅)
+    for ko, en in EXTRA_TOKENS.items():
+        m[ko] = en
+    return m
+
+
+_TOKEN_MAP = None
+
+
+def translate_to_english(raw_name):
+    """raw_name 의 한글 토큰을 영문으로 치환한 표시용 문자열 반환.
+
+    1) 선두 [...] / (...) 마케팅 brackets 제거
+    2) " - " 또는 " · " 뒤 컵노트/세일 표기 제거
+    3) 선두 1-4자리 숫자 SKU 제거 (예: "25 과테말라" → "과테말라")
+    4) 다중 단어 표현 치환 ("핑크 부르봉" → "Pink Bourbon")
+    5) 단어별 토큰 치환 (한글 → 영문)
+    """
+    global _TOKEN_MAP
+    if _TOKEN_MAP is None:
+        _TOKEN_MAP = _build_token_map()
+
+    if not raw_name:
+        return ""
+    s = raw_name.strip()
+
+    # 1) 선두 brackets 제거
+    while s.startswith(("[", "(")):
+        close = "]" if s.startswith("[") else ")"
+        idx = s.find(close)
+        if idx < 0:
+            break
+        s = s[idx + 1:].strip()
+
+    # 2) 컵노트·세일 꼬리 제거
+    for sep in (" - ", " -", " · "):
+        i = s.find(sep)
+        if i > 0:
+            s = s[:i].strip()
+            break
+
+    # 3) 선두 숫자 SKU 제거 (1-4자리)
+    s = re.sub(r"^\d{1,4}\s+", "", s)
+
+    # 4) 다중 단어 치환
+    s = _multi_word_replace(s)
+
+    # 5) 단어별 치환 — 공백으로 split 후 매핑
+    tokens = s.split()
+    out = []
+    for t in tokens:
+        # 콤마/쉼표 등 끝에 붙은 구두점 분리 처리
+        prefix, core, suffix = "", t, ""
+        while core and not (core[0].isalnum() or "가" <= core[0] <= "힯"):
+            prefix += core[0]; core = core[1:]
+        while core and not (core[-1].isalnum() or "가" <= core[-1] <= "힯"):
+            suffix = core[-1] + suffix; core = core[:-1]
+        # 직접 매핑 시도 (대소문자 무시)
+        for key, val in _TOKEN_MAP.items():
+            if core == key:
+                core = val
+                break
+        out.append(prefix + core + suffix)
+
+    s = " ".join(out)
+    # 중복 공백 정리
+    s = re.sub(r"\s+", " ", s).strip()
+    return s
+
+
 def extract_from_name(raw_name, origin=None):
     """raw_name 에서 region/variety/process/grade 정규식 추출.
 
@@ -214,7 +415,7 @@ def _save(payload):
 def main(dry_run=False):
     payload = json.load(open(DATA, encoding="utf-8"))
     beans = payload["beans"]
-    filled = {"region": 0, "variety": 0, "process": 0, "grade": 0}
+    filled = {"region": 0, "variety": 0, "process": 0, "grade": 0, "display_name": 0}
     touched = 0
     for b in beans:
         result = extract_from_name(b.get("raw_name"), b.get("origin"))
@@ -224,12 +425,19 @@ def main(dry_run=False):
                 b[k] = v
                 filled[k] += 1
                 changed = True
+        # display_name — 표시용 영문 정규화 이름. 항상 갱신(raw_name 이 바뀌면 따라감).
+        if rn := b.get("raw_name"):
+            dn = translate_to_english(rn)
+            if dn and dn != b.get("display_name"):
+                b["display_name"] = dn
+                filled["display_name"] += 1
+                changed = True
         if changed:
             touched += 1
 
     print(f"정규식 사전 채움 결과 — {touched}/{len(beans)}종 보강")
     for k, n in filled.items():
-        print(f"  {k:10s}: +{n}")
+        print(f"  {k:14s}: +{n}")
     if dry_run:
         print("(dry-run — 저장 안 함)")
     else:
