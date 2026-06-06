@@ -94,6 +94,24 @@ def enrich(force=False):
     n = len(beans)
     enriched = processed = 0
 
+    # 0단계: 정규식 사전 채움 — LLM 호출 전에 raw_name 에서 잡을 수 있는
+    # region/variety/process/grade 를 우선 채움. Vision OCR 빈도를 낮춰
+    # 무료 한도를 더 오래 버티게 함.
+    try:
+        from name_parser import extract_from_name
+        prefilled = 0
+        for b in beans:
+            r = extract_from_name(b.get("raw_name"), b.get("origin"))
+            for k, v in r.items():
+                if not b.get(k):
+                    b[k] = v
+                    prefilled += 1
+        if prefilled:
+            _save(payload)
+            print(f"[0/N] 정규식 전처리: {prefilled}개 필드 사전 채움 → LLM 호출 절감")
+    except Exception as e:
+        print(f"정규식 전처리 건너뜀: {type(e).__name__}: {e}")
+
     todo = sum(1 for b in beans if force or _needs(b))
     has_key = bool(os.environ.get("GEMINI_API_KEY") or os.environ.get("GOOGLE_API_KEY")
                    or os.environ.get("ANTHROPIC_API_KEY"))
