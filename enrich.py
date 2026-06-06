@@ -83,8 +83,23 @@ def _fetch_detail_images(html, page_url):
 
 
 def _needs(b):
-    """핵심 스펙(컵노트·품종·지역) 중 하나라도 비면 enrich 대상."""
-    return not (b.get("cup_notes") and b.get("variety") and b.get("region"))
+    """enrich 재시도 대상 판정.
+
+    조건 A) 핵심 3필드(컵노트·품종·지역) 중 하나라도 비면 → 재시도
+    조건 B) 핵심은 다 채워졌지만 디테일(농장·고도·가격) 중 2개 이상 비면 → 재시도
+
+    이전 버전(A 만) 은 cup_notes/variety/region 채워지면 farm/altitude 가 비어도
+    재시도를 안 함 → 디테일 필드 천장 형성. B 조건 추가로 디테일 보강 기회 부여.
+
+    '정보가 아예 없는 빈' (산 어거스틴 케이스) 은 그날도 결과 빈 → 비용 무한 누적 X.
+    """
+    # 조건 A — 기존 로직 유지
+    core_three = ("cup_notes", "variety", "region")
+    if any(not b.get(f) for f in core_three):
+        return True
+    # 조건 B — 디테일 보강
+    detail = ("farm", "altitude", "price")
+    return sum(1 for f in detail if not b.get(f)) >= 2
 
 
 def enrich(force=False):
