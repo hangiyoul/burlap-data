@@ -40,6 +40,11 @@
       "status": "active", "spec": "image_ocr", "loose_search": true,
       "note": "검색 느슨(타산지 혼입)→제목필터. 스펙=이미지OCR. 제목에 지역/품종/가공 다수 포함."
     },
+    "gsc": {
+      "platform": "godo", "base": "https://www.gsc.coffee",
+      "status": "active",
+      "note": "지에스씨 인터내셔날. 고도몰5(엠플샵 스킨). 국내 생두 점유율 상위. 진공 포장 강조."
+    },
     "cobeans": {
       "platform": "cobeans", "base": "https://www.cobeans.com",
       "status": "active", "spec": "text",
