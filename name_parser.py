@@ -508,6 +508,18 @@ def translate_to_english(raw_name):
     # 중복 공백 정리
     s = re.sub(r"\s+", " ", s).strip()
 
+    # Title Case 후처리 — momos 처럼 모두 소문자 영문으로 저장된 케이스 보정.
+    # 단, 이미 대문자가 섞인 단어(SHB, EP, G1, Yirgacheffe 등)는 손대지 않음.
+    titled = []
+    for w in s.split():
+        if any(c.isupper() for c in w):
+            titled.append(w)              # 이미 대소문자 섞인 단어 → 보존
+        elif w and w[0].isascii() and w[0].isalpha():
+            titled.append(w[0].upper() + w[1:])   # 소문자 영문 → 첫 글자 대문자
+        else:
+            titled.append(w)
+    s = " ".join(titled)
+
     # 영문+한글 중복 제거 (royalcoffee 패턴)
     # 예: "Ethiopia Yirgacheffe Addisu Kidane Natural G1 Ethiopia 아디수 키다네 Natural G1"
     #     → "Ethiopia Yirgacheffe Addisu Kidane Natural G1"
