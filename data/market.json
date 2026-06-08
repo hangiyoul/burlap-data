@@ -3274,13 +3274,13 @@
       ]
     },
     "Arabica · Daily": {
-      "value": "284.98",
+      "value": "287.98",
       "unit": "¢/lb",
-      "changePct": 0.0,
+      "changePct": 1.05,
       "history": [
         284.98,
         284.98,
-        284.98
+        287.98
       ],
       "dates": [
         "2026-06-06",
@@ -3289,13 +3289,13 @@
       ]
     },
     "Robusta · Daily": {
-      "value": "159.94",
+      "value": "158.87",
       "unit": "¢/lb",
-      "changePct": 0.0,
+      "changePct": -0.67,
       "history": [
         159.94,
         159.94,
-        159.94
+        158.87
       ],
       "dates": [
         "2026-06-06",
@@ -3304,7 +3304,7 @@
       ]
     }
   },
-  "generated_at": "2026-06-08T07:06:12.497530+00:00",
+  "generated_at": "2026-06-08T14:57:53.892266+00:00",
   "coe_auctions": [
     {
       "country": "brazil",
