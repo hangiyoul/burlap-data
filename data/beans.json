@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-08T22:45:27.787980+00:00",
-  "count": 578,
+  "generated_at": "2026-06-09T05:36:26.320810+00:00",
+  "count": 576,
   "origins": [
     "ethiopia",
     "colombia",
@@ -11,7 +11,7 @@
   ],
   "summary": {
     "ethiopia": {
-      "total": 149,
+      "total": 148,
       "per_vendor": {
         "momos": 18,
         "coffeelibre": 7,
@@ -22,7 +22,7 @@
         "gsc": 39,
         "cobeans": 22,
         "sewoonggc": 24,
-        "ayantu": 11
+        "ayantu": 10
       }
     },
     "colombia": {
@@ -41,10 +41,10 @@
       }
     },
     "kenya": {
-      "total": 55,
+      "total": 54,
       "per_vendor": {
         "momos": 9,
-        "coffeelibre": 14,
+        "coffeelibre": 13,
         "micoffee": 2,
         "newbean": 4,
         "wbeans": 1,
@@ -56,13 +56,13 @@
       }
     },
     "guatemala": {
-      "total": 77,
+      "total": 78,
       "per_vendor": {
         "momos": 6,
         "coffeelibre": 15,
         "micoffee": 9,
         "newbean": 3,
-        "wbeans": 3,
+        "wbeans": 4,
         "royalcoffee": 0,
         "gsc": 16,
         "cobeans": 3,
@@ -126,7 +126,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:34:31.998045+00:00",
+      "scraped_at": "2026-06-09T05:24:31.604577+00:00",
       "added_at": "2026-06-06",
       "display_name": "Ethiopia Bursa Hure G1 Anaerobic Natural"
     },
@@ -154,7 +154,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:34:31.998082+00:00",
+      "scraped_at": "2026-06-09T05:24:31.604613+00:00",
       "added_at": "2026-06-06",
       "display_name": "Ethiopia Guji Buku Saysia G1 Natural"
     },
@@ -183,7 +183,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:34:31.998092+00:00",
+      "scraped_at": "2026-06-09T05:24:31.604623+00:00",
       "added_at": "2026-05-24",
       "display_name": "Ethiopia Duwancho Natural G1"
     },
@@ -210,7 +210,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:34:31.998099+00:00",
+      "scraped_at": "2026-06-09T05:24:31.604631+00:00",
       "added_at": "2026-05-24",
       "display_name": "Ethiopia Charicho Anaerobic Natural G1"
     },
@@ -239,7 +239,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:34:31.998107+00:00",
+      "scraped_at": "2026-06-09T05:24:31.604639+00:00",
       "added_at": "2026-05-24",
       "display_name": "Ethiopia Bursa Muntasha Anaerobic Natural G1"
     },
@@ -267,7 +267,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:34:31.998116+00:00",
+      "scraped_at": "2026-06-09T05:24:31.604648+00:00",
       "added_at": "2026-05-24",
       "display_name": "Ethiopia Bursa Muntasha G1 Cold Underwater Fermentation Natural"
     },
@@ -295,7 +295,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:34:31.998123+00:00",
+      "scraped_at": "2026-06-09T05:24:31.604655+00:00",
       "added_at": "2026-05-24",
       "display_name": "Ethiopia Bursa Muntasha Peaberry Natural G1"
     },
@@ -323,7 +323,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:34:31.998134+00:00",
+      "scraped_at": "2026-06-09T05:24:31.604667+00:00",
       "added_at": "2026-05-24",
       "display_name": "Ethiopia Bursa Hure G1 Mosto Anaerobic Natural"
     },
@@ -352,7 +352,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:34:31.998141+00:00",
+      "scraped_at": "2026-06-09T05:24:31.604674+00:00",
       "added_at": "2026-05-24",
       "display_name": "Ethiopia Bursa Hure G1 Red Honey"
     },
@@ -380,7 +380,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:34:31.998147+00:00",
+      "scraped_at": "2026-06-09T05:24:31.604680+00:00",
       "added_at": "2026-05-24",
       "display_name": "Ethiopia Bursa Sidamo G1 Red Honey"
     },
@@ -408,7 +408,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:34:31.998153+00:00",
+      "scraped_at": "2026-06-09T05:24:31.604685+00:00",
       "added_at": "2026-05-24",
       "display_name": "Ethiopia Bursa Sidamo G1 White Honey"
     },
@@ -436,7 +436,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:34:31.998160+00:00",
+      "scraped_at": "2026-06-09T05:24:31.604692+00:00",
       "added_at": "2026-05-24",
       "display_name": "Ethiopia Guji Raro Boda G1 Washed"
     },
@@ -464,7 +464,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:34:31.998167+00:00",
+      "scraped_at": "2026-06-09T05:24:31.604699+00:00",
       "added_at": "2026-05-24",
       "display_name": "Ethiopia Guji Haro Wachu G1 Washed"
     },
@@ -492,7 +492,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:34:31.998173+00:00",
+      "scraped_at": "2026-06-09T05:24:31.604705+00:00",
       "added_at": "2026-05-24",
       "display_name": "Ethiopia Yirgacheffe Danche G1 Washed"
     },
@@ -521,7 +521,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:34:31.998180+00:00",
+      "scraped_at": "2026-06-09T05:24:31.604713+00:00",
       "added_at": "2026-05-24",
       "display_name": "Ethiopia Yirgacheffee Chelbesa G1 Washed"
     },
@@ -550,7 +550,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:34:31.998187+00:00",
+      "scraped_at": "2026-06-09T05:24:31.604719+00:00",
       "added_at": "2026-05-24",
       "display_name": "Ethiopia Kaffa Bita Washed G1"
     },
@@ -579,7 +579,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:34:31.998193+00:00",
+      "scraped_at": "2026-06-09T05:24:31.604755+00:00",
       "added_at": "2026-05-24",
       "display_name": "Ethiopia Jimma Gera Washed G1"
     },
@@ -607,7 +607,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:34:31.998327+00:00",
+      "scraped_at": "2026-06-09T05:24:31.604896+00:00",
       "added_at": "2026-05-24",
       "display_name": "Costa Rica Santa Teresa 2000 La Hondura Geishaethiopia Red Honey"
     },
@@ -637,7 +637,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:34:38.375854+00:00",
+      "scraped_at": "2026-06-09T05:24:39.383825+00:00",
       "added_at": "2026-05-24",
       "display_name": "Decaf Ethiopia Yirgacheffe Halo Bariti Natural"
     },
@@ -667,7 +667,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:34:38.375883+00:00",
+      "scraped_at": "2026-06-09T05:24:39.383854+00:00",
       "added_at": "2026-05-24",
       "display_name": "Ethiopia Sidamo Bensa Duba"
     },
@@ -698,7 +698,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:34:38.375894+00:00",
+      "scraped_at": "2026-06-09T05:24:39.383865+00:00",
       "added_at": "2026-05-24",
       "display_name": "Ethiopia Kaffa Vita Libre Selection"
     },
@@ -729,7 +729,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:34:38.375903+00:00",
+      "scraped_at": "2026-06-09T05:24:39.383875+00:00",
       "added_at": "2026-05-24",
       "display_name": "Ethiopia Sidamo Arbegona Bochesa"
     },
@@ -759,7 +759,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:34:38.375911+00:00",
+      "scraped_at": "2026-06-09T05:24:39.383884+00:00",
       "added_at": "2026-05-24",
       "display_name": "Ethiopia Sidamo Bensa Duba"
     },
@@ -790,7 +790,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:34:38.375919+00:00",
+      "scraped_at": "2026-06-09T05:24:39.383891+00:00",
       "added_at": "2026-05-24",
       "display_name": "Ethiopia Sidamo Arbegona Bochesa"
     },
@@ -821,7 +821,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:34:38.375927+00:00",
+      "scraped_at": "2026-06-09T05:24:39.383899+00:00",
       "added_at": "2026-05-24",
       "display_name": "Ethiopia Kaffa Vita Libre Selection"
     },
@@ -849,7 +849,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:34:45.313992+00:00",
+      "scraped_at": "2026-06-09T05:24:46.388774+00:00",
       "added_at": "2026-06-06",
       "display_name": "Ethiopia Yirgacheffe G1 Arbegona Natural"
     },
@@ -877,7 +877,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:34:45.314019+00:00",
+      "scraped_at": "2026-06-09T05:24:46.388809+00:00",
       "added_at": "2026-06-06",
       "display_name": "Ethiopia Sidamo G1 Bombe Natural"
     },
@@ -905,7 +905,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:34:45.314030+00:00",
+      "scraped_at": "2026-06-09T05:24:46.388820+00:00",
       "added_at": "2026-05-24",
       "display_name": "Ethiopia Yirgacheffe G1 Gedeb Chelchele Washed"
     },
@@ -933,7 +933,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:34:45.314039+00:00",
+      "scraped_at": "2026-06-09T05:24:46.388829+00:00",
       "added_at": "2026-05-24",
       "display_name": "Ethiopia Sidamo G1 Bombe Wine Natural"
     },
@@ -961,7 +961,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:34:45.314048+00:00",
+      "scraped_at": "2026-06-09T05:24:46.388838+00:00",
       "added_at": "2026-06-06",
       "display_name": "Ethiopia Yirgacheffe G1 Gedeb Chelchele Natural"
     },
@@ -989,7 +989,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:34:45.314056+00:00",
+      "scraped_at": "2026-06-09T05:24:46.388846+00:00",
       "added_at": "2026-05-24",
       "display_name": "Ethiopia Yirgacheffe G2 Washed"
     },
@@ -1017,7 +1017,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:34:45.314064+00:00",
+      "scraped_at": "2026-06-09T05:24:46.388854+00:00",
       "added_at": "2026-05-24",
       "display_name": "Ethiopia Sidamo G4"
     },
@@ -1045,7 +1045,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:34:45.314071+00:00",
+      "scraped_at": "2026-06-09T05:24:46.388862+00:00",
       "added_at": "2026-05-24",
       "display_name": "Ethiopia Sidamo G2"
     },
@@ -1068,7 +1068,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:34:45.314080+00:00",
+      "scraped_at": "2026-06-09T05:24:46.388871+00:00",
       "added_at": "2026-05-24",
       "display_name": "Ethiopia Yirgacheffe G1 Gedeb Chelchele Washed"
     },
@@ -1097,7 +1097,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:34:52.044214+00:00",
+      "scraped_at": "2026-06-09T05:24:53.882875+00:00",
       "added_at": "2026-05-24",
       "display_name": "Guji Sakiso Ruyu Aimee G1 Natural"
     },
@@ -1130,7 +1130,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:34:52.044240+00:00",
+      "scraped_at": "2026-06-09T05:24:53.882902+00:00",
       "added_at": "2026-05-24",
       "display_name": "Yirgacheffe Aricha Aimee G1 Natural"
     },
@@ -1160,7 +1160,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:34:52.044251+00:00",
+      "scraped_at": "2026-06-09T05:24:53.882912+00:00",
       "added_at": "2026-05-24",
       "display_name": "Yirgacheffe G2"
     },
@@ -1189,7 +1189,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:34:52.044259+00:00",
+      "scraped_at": "2026-06-09T05:24:53.882921+00:00",
       "added_at": "2026-05-24",
       "display_name": "Sidamo Guji G4"
     },
@@ -1219,7 +1219,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:34:52.044270+00:00",
+      "scraped_at": "2026-06-09T05:24:53.882932+00:00",
       "added_at": "2026-05-24",
       "display_name": "Nardos Guji Wate G1 AFCA TOH Regional Washed 1등랏"
     },
@@ -1248,7 +1248,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:34:52.044278+00:00",
+      "scraped_at": "2026-06-09T05:24:53.882940+00:00",
       "added_at": "2026-05-24",
       "display_name": "Yirgacheffe Aricha G2 Washed"
     },
@@ -1278,7 +1278,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:34:52.044285+00:00",
+      "scraped_at": "2026-06-09T05:24:53.882947+00:00",
       "added_at": "2026-05-24",
       "display_name": "Yirgacheffe Koke Honey G1 Natural"
     },
@@ -1307,7 +1307,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:34:52.044293+00:00",
+      "scraped_at": "2026-06-09T05:24:53.882955+00:00",
       "added_at": "2026-05-24",
       "display_name": "Yirgacheffe Gelena Abaya G1 Natural"
     },
@@ -1336,7 +1336,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:34:52.044301+00:00",
+      "scraped_at": "2026-06-09T05:24:53.882962+00:00",
       "added_at": "2026-05-24",
       "display_name": "Yirgacheffe Aricha Aimee G1 Washed"
     },
@@ -1364,7 +1364,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:34:52.044309+00:00",
+      "scraped_at": "2026-06-09T05:24:53.882971+00:00",
       "added_at": "2026-06-06",
       "display_name": "Sidamo G4 Natural"
     },
@@ -1387,7 +1387,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:34:58.827429+00:00",
+      "scraped_at": "2026-06-09T05:25:01.528925+00:00",
       "added_at": "2026-05-24",
       "display_name": "Ethiopia Yirgacheffe Chelba G1 Natural"
     },
@@ -1416,7 +1416,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:35:09.234424+00:00",
+      "scraped_at": "2026-06-09T05:25:13.056270+00:00",
       "added_at": "2026-06-06",
       "display_name": "Ethiopia G4 Sidamo Natural"
     },
@@ -1445,7 +1445,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:35:09.234450+00:00",
+      "scraped_at": "2026-06-09T05:25:13.056297+00:00",
       "added_at": "2026-06-06",
       "display_name": "Ethiopia G4 Yirgacheffe Natural"
     },
@@ -1474,7 +1474,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:35:09.234459+00:00",
+      "scraped_at": "2026-06-09T05:25:13.056306+00:00",
       "added_at": "2026-06-06",
       "display_name": "Ethiopia G4 Sidamo Natural"
     },
@@ -1503,7 +1503,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:35:09.234467+00:00",
+      "scraped_at": "2026-06-09T05:25:13.056314+00:00",
       "added_at": "2026-06-06",
       "display_name": "Ethiopia G2 Sidamo Washed"
     },
@@ -1533,7 +1533,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:35:09.234475+00:00",
+      "scraped_at": "2026-06-09T05:25:13.056323+00:00",
       "added_at": "2026-06-06",
       "display_name": "Ethiopia G2 Yirgacheffe Washed"
     },
@@ -1562,7 +1562,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:35:09.234483+00:00",
+      "scraped_at": "2026-06-09T05:25:13.056332+00:00",
       "added_at": "2026-06-06",
       "display_name": "G1 Yirgacheffe Kochere Washed"
     },
@@ -1590,7 +1590,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:35:09.234491+00:00",
+      "scraped_at": "2026-06-09T05:25:13.056340+00:00",
       "added_at": "2026-06-06",
       "display_name": "Ethiopia G2 Yirgacheffe Kochere Washed"
     },
@@ -1619,7 +1619,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:35:09.234498+00:00",
+      "scraped_at": "2026-06-09T05:25:13.056347+00:00",
       "added_at": "2026-06-06",
       "display_name": "Ethiopia G1 Sidamo Bona Washed"
     },
@@ -1648,7 +1648,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:35:09.234506+00:00",
+      "scraped_at": "2026-06-09T05:25:13.056355+00:00",
       "added_at": "2026-06-06",
       "display_name": "Ethiopia G1 Yirgacheffe Banko Gotiti Washed"
     },
@@ -1678,7 +1678,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:35:09.234513+00:00",
+      "scraped_at": "2026-06-09T05:25:13.056362+00:00",
       "added_at": "2026-06-06",
       "display_name": "Ethiopia G1 Guji Uraga Washed"
     },
@@ -1708,7 +1708,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:35:09.234520+00:00",
+      "scraped_at": "2026-06-09T05:25:13.056369+00:00",
       "added_at": "2026-06-06",
       "display_name": "Ethiopia G1 Yirgacheffe Adado Washed"
     },
@@ -1737,7 +1737,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:35:09.234527+00:00",
+      "scraped_at": "2026-06-09T05:25:13.056376+00:00",
       "added_at": "2026-06-06",
       "display_name": "Ethiopia G1 Guji Uraga Natural"
     },
@@ -1765,7 +1765,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:35:09.234535+00:00",
+      "scraped_at": "2026-06-09T05:25:13.056385+00:00",
       "added_at": "2026-06-06",
       "display_name": "Ethiopia G1 Guji Shakiso Washed"
     },
@@ -1794,7 +1794,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:35:09.234544+00:00",
+      "scraped_at": "2026-06-09T05:25:13.056392+00:00",
       "added_at": "2026-06-06",
       "display_name": "Ethiopia G1 Guji Shakiso Natural"
     },
@@ -1823,7 +1823,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:35:09.234561+00:00",
+      "scraped_at": "2026-06-09T05:25:13.056410+00:00",
       "added_at": "2026-06-06",
       "display_name": "Ethiopia Bursa G1 Muntasha Arbegona Natural"
     },
@@ -1847,12 +1847,12 @@
         "Dark Chocolate"
       ],
       "price": "62000",
-      "in_stock": true,
+      "in_stock": false,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:35:09.234570+00:00",
+      "scraped_at": "2026-06-09T05:25:13.056419+00:00",
       "added_at": "2026-06-06",
       "display_name": "Ethiopia Bursa G1 Muntasha Arbegona Anaerobic Natural"
     },
@@ -1881,7 +1881,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:35:09.234576+00:00",
+      "scraped_at": "2026-06-09T05:25:13.056427+00:00",
       "added_at": "2026-06-08",
       "display_name": "Ethiopia Bursa G1 Muntasha Arbegona 레드 Honey"
     },
@@ -1909,7 +1909,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:35:09.234585+00:00",
+      "scraped_at": "2026-06-09T05:25:13.056436+00:00",
       "added_at": "2026-06-06",
       "display_name": "Ethiopia Alo Tamiro Collection G1 Sidamo Della Natural"
     },
@@ -1933,12 +1933,12 @@
         "Almond Chocolate"
       ],
       "price": "74,000",
-      "in_stock": true,
+      "in_stock": false,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:35:09.234594+00:00",
+      "scraped_at": "2026-06-09T05:25:13.056444+00:00",
       "added_at": "2026-06-08",
       "display_name": "Ethiopia Bursa G1 Muntasha Arbegona Peaberry Natural"
     },
@@ -1967,7 +1967,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:35:09.234603+00:00",
+      "scraped_at": "2026-06-09T05:25:13.056453+00:00",
       "added_at": "2026-06-06",
       "display_name": "Ethiopia Alo Tamiro Collection G1 Sidamo Hatesa Anaerobic Natural"
     },
@@ -1990,7 +1990,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:35:09.234610+00:00",
+      "scraped_at": "2026-06-09T05:25:13.056462+00:00",
       "added_at": "2026-06-06",
       "display_name": "Ethiopia G4 Sidamo Natural"
     },
@@ -2017,7 +2017,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:35:16.462745+00:00",
+      "scraped_at": "2026-06-09T05:25:20.522668+00:00",
       "added_at": "2026-05-24",
       "display_name": "Ethiopia Sidama Bensa Bombe G1 Washed"
     },
@@ -2044,7 +2044,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:35:16.462772+00:00",
+      "scraped_at": "2026-06-09T05:25:20.522696+00:00",
       "added_at": "2026-05-24",
       "display_name": "Ethiopia Sidama Bensa Keramo G1 ..."
     },
@@ -2071,7 +2071,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:35:16.462790+00:00",
+      "scraped_at": "2026-06-09T05:25:20.522719+00:00",
       "added_at": "2026-05-24",
       "display_name": "Ethiopia Guji Uraga Solomo G1 ..."
     },
@@ -2098,7 +2098,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:35:16.462799+00:00",
+      "scraped_at": "2026-06-09T05:25:20.522758+00:00",
       "added_at": "2026-05-24",
       "display_name": "Ethiopia Gedeb Uri G1 Washed"
     },
@@ -2125,7 +2125,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:35:16.462807+00:00",
+      "scraped_at": "2026-06-09T05:25:20.522767+00:00",
       "added_at": "2026-05-24",
       "display_name": "Ethiopia Guji Uraga Gogugu G1 ..."
     },
@@ -2152,7 +2152,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:35:16.462815+00:00",
+      "scraped_at": "2026-06-09T05:25:20.522775+00:00",
       "added_at": "2026-05-24",
       "display_name": "Ethiopia Yirgacheffe Azere G1 Washed"
     },
@@ -2179,7 +2179,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:35:16.462823+00:00",
+      "scraped_at": "2026-06-09T05:25:20.522785+00:00",
       "added_at": "2026-05-24",
       "display_name": "Ethiopia Yirgacheffe Dante G1 Washed"
     },
@@ -2206,7 +2206,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:35:16.462831+00:00",
+      "scraped_at": "2026-06-09T05:25:20.522793+00:00",
       "added_at": "2026-05-24",
       "display_name": "25 Ethiopia Sidama Bensa Gata G1 Honey"
     },
@@ -2233,7 +2233,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:35:16.462840+00:00",
+      "scraped_at": "2026-06-09T05:25:20.522801+00:00",
       "added_at": "2026-05-24",
       "display_name": "Ethiopia Sidama Bensa Gata G1 워..."
     },
@@ -2261,7 +2261,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:35:16.462848+00:00",
+      "scraped_at": "2026-06-09T05:25:20.522810+00:00",
       "added_at": "2026-05-24",
       "display_name": "Ethiopia Sidama Arbegona Rumudamo..."
     },
@@ -2288,7 +2288,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:35:16.462856+00:00",
+      "scraped_at": "2026-06-09T05:25:20.522818+00:00",
       "added_at": "2026-05-24",
       "display_name": "25 Ethiopia Sidama Bensa Hamasho G1 Washed"
     },
@@ -2315,7 +2315,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:35:16.462864+00:00",
+      "scraped_at": "2026-06-09T05:25:20.522827+00:00",
       "added_at": "2026-05-24",
       "display_name": "Ethiopia Sidama Arbegona Boche..."
     },
@@ -2342,7 +2342,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:35:16.462873+00:00",
+      "scraped_at": "2026-06-09T05:25:20.522836+00:00",
       "added_at": "2026-05-24",
       "display_name": "Ethiopia Sidama Bensa G4 Natural"
     },
@@ -2369,7 +2369,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:35:16.462882+00:00",
+      "scraped_at": "2026-06-09T05:25:20.522845+00:00",
       "added_at": "2026-05-24",
       "display_name": "Ethiopia Oromia East Harar G3 Natural"
     },
@@ -2397,7 +2397,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:35:16.462891+00:00",
+      "scraped_at": "2026-06-09T05:25:20.522853+00:00",
       "added_at": "2026-05-24",
       "display_name": "Ethiopia Sidama Bensa G3 TOP Natural"
     },
@@ -2424,7 +2424,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:35:16.462900+00:00",
+      "scraped_at": "2026-06-09T05:25:20.522862+00:00",
       "added_at": "2026-05-24",
       "display_name": "Ethiopia Guji Uraga Goro Muda G..."
     },
@@ -2451,7 +2451,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:35:16.462907+00:00",
+      "scraped_at": "2026-06-09T05:25:20.522870+00:00",
       "added_at": "2026-05-24",
       "display_name": "Ethiopia Kochere G2 Washed"
     },
@@ -2480,7 +2480,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:35:16.462916+00:00",
+      "scraped_at": "2026-06-09T05:25:20.522878+00:00",
       "added_at": "2026-05-24",
       "display_name": "Ethiopia Sidama Arbegona Rumudamo G1 Natural"
     },
@@ -2507,7 +2507,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:35:16.462923+00:00",
+      "scraped_at": "2026-06-09T05:25:20.522884+00:00",
       "added_at": "2026-05-24",
       "display_name": "Ethiopia Sidama Bensa Gata G1 Cobeans Decaf"
     },
@@ -2534,7 +2534,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:35:16.462929+00:00",
+      "scraped_at": "2026-06-09T05:25:20.522891+00:00",
       "added_at": "2026-05-24",
       "display_name": "Ethiopia Yirgacheffe Kochere G2 Cobeans Decaf"
     },
@@ -2562,7 +2562,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:35:16.462935+00:00",
+      "scraped_at": "2026-06-09T05:25:20.522897+00:00",
       "added_at": "2026-05-24",
       "display_name": "Ethiopia Sidama Bensa Keramo G1 Cobeans Decaf"
     },
@@ -2590,7 +2590,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:35:20.813009+00:00",
+      "scraped_at": "2026-06-09T05:25:25.341714+00:00",
       "added_at": "2026-05-24",
       "display_name": "Sidamo G4 Natural"
     },
@@ -2615,7 +2615,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:35:20.813033+00:00",
+      "scraped_at": "2026-06-09T05:25:25.341764+00:00",
       "added_at": "2026-05-24",
       "display_name": "Sidamo G2 Washed"
     },
@@ -2643,7 +2643,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:35:20.813044+00:00",
+      "scraped_at": "2026-06-09T05:25:25.341775+00:00",
       "added_at": "2026-05-24",
       "display_name": "Exo Q1 Natural"
     },
@@ -2671,7 +2671,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:35:20.813053+00:00",
+      "scraped_at": "2026-06-09T05:25:25.341784+00:00",
       "added_at": "2026-05-24",
       "display_name": "Yirgacheffe Koke G1 Natural"
     },
@@ -2699,7 +2699,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:35:20.813068+00:00",
+      "scraped_at": "2026-06-09T05:25:25.341801+00:00",
       "added_at": "2026-05-24",
       "display_name": "Abaya Geisha G1 Natural Mar"
     },
@@ -2724,7 +2724,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:35:20.813078+00:00",
+      "scraped_at": "2026-06-09T05:25:25.341811+00:00",
       "added_at": "2026-05-24",
       "display_name": "Abaya Geisha G1 Strawberry Natural"
     },
@@ -2752,7 +2752,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:35:20.813087+00:00",
+      "scraped_at": "2026-06-09T05:25:25.341820+00:00",
       "added_at": "2026-05-24",
       "display_name": "Guji Uraga G1 Natural AFCA"
     },
@@ -2780,7 +2780,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:35:20.813095+00:00",
+      "scraped_at": "2026-06-09T05:25:25.341829+00:00",
       "added_at": "2026-05-24",
       "display_name": "Bensa G3 Natural"
     },
@@ -2808,7 +2808,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:35:20.813104+00:00",
+      "scraped_at": "2026-06-09T05:25:25.341837+00:00",
       "added_at": "2026-05-24",
       "display_name": "Sidamo Arbegona G2 Washed"
     },
@@ -2836,7 +2836,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:35:20.813112+00:00",
+      "scraped_at": "2026-06-09T05:25:25.341845+00:00",
       "added_at": "2026-05-24",
       "display_name": "Aricha G1 Natural"
     },
@@ -2864,7 +2864,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:35:20.813120+00:00",
+      "scraped_at": "2026-06-09T05:25:25.341853+00:00",
       "added_at": "2026-05-24",
       "display_name": "Chelba G1 Natural"
     },
@@ -2892,7 +2892,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:35:20.813128+00:00",
+      "scraped_at": "2026-06-09T05:25:25.341861+00:00",
       "added_at": "2026-05-24",
       "display_name": "Kali Q1 Washed 2025"
     },
@@ -2920,7 +2920,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:35:20.813137+00:00",
+      "scraped_at": "2026-06-09T05:25:25.341869+00:00",
       "added_at": "2026-05-24",
       "display_name": "Yirgacheffe"
     },
@@ -2949,7 +2949,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:35:20.813145+00:00",
+      "scraped_at": "2026-06-09T05:25:25.341876+00:00",
       "added_at": "2026-05-24",
       "display_name": "Koke Honey Natural G2"
     },
@@ -2977,7 +2977,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:35:20.813152+00:00",
+      "scraped_at": "2026-06-09T05:25:25.341884+00:00",
       "added_at": "2026-05-24",
       "display_name": "Guji Uraga G1 Washed"
     },
@@ -3005,7 +3005,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:35:20.813160+00:00",
+      "scraped_at": "2026-06-09T05:25:25.341892+00:00",
       "added_at": "2026-05-24",
       "display_name": "Bench Maji Geisha G1 Washed"
     },
@@ -3033,7 +3033,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:35:20.813168+00:00",
+      "scraped_at": "2026-06-09T05:25:25.341901+00:00",
       "added_at": "2026-05-24",
       "display_name": "Sidamo Bensa G2 Washed"
     },
@@ -3061,7 +3061,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:35:20.813188+00:00",
+      "scraped_at": "2026-06-09T05:25:25.341923+00:00",
       "added_at": "2026-05-24",
       "display_name": "Sakiso G1 Natural"
     },
@@ -3089,7 +3089,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:35:20.813195+00:00",
+      "scraped_at": "2026-06-09T05:25:25.341930+00:00",
       "added_at": "2026-05-24",
       "display_name": "Momora G1 Natural"
     },
@@ -3117,7 +3117,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:35:20.813202+00:00",
+      "scraped_at": "2026-06-09T05:25:25.341937+00:00",
       "added_at": "2026-05-24",
       "display_name": "Bombe G1 Natural"
     },
@@ -3145,7 +3145,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:35:20.813210+00:00",
+      "scraped_at": "2026-06-09T05:25:25.341944+00:00",
       "added_at": "2026-05-24",
       "display_name": "Yirgacheffe G2 Washed"
     },
@@ -3173,7 +3173,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:35:20.813218+00:00",
+      "scraped_at": "2026-06-09T05:25:25.341956+00:00",
       "added_at": "2026-05-24",
       "display_name": "Yirgacheffe Beloya G2 Washed"
     },
@@ -3208,7 +3208,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:35:20.813225+00:00",
+      "scraped_at": "2026-06-09T05:25:25.341964+00:00",
       "added_at": "2026-06-06",
       "display_name": "Kochere Tselellectu G1 Washed"
     },
@@ -3231,7 +3231,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:35:20.813235+00:00",
+      "scraped_at": "2026-06-09T05:25:25.341974+00:00",
       "added_at": "2026-05-24",
       "display_name": "KWAMI Ethiopia 2025 AFCA TOH 2…"
     },
@@ -3259,7 +3259,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:36:33.404206+00:00",
+      "scraped_at": "2026-06-09T05:26:34.421068+00:00",
       "added_at": "2026-05-24",
       "display_name": "Ethiopia Gonzobe Samuel Natural"
     },
@@ -3286,7 +3286,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:36:33.404228+00:00",
+      "scraped_at": "2026-06-09T05:26:34.421091+00:00",
       "added_at": "2026-05-24",
       "display_name": "Ethiopia Basha Bombe Natural"
     },
@@ -3315,7 +3315,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:36:33.404239+00:00",
+      "scraped_at": "2026-06-09T05:26:34.421102+00:00",
       "added_at": "2026-05-24",
       "display_name": "Ethiopia Mulugeta Muntasha Washed"
     },
@@ -3344,7 +3344,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:36:33.404249+00:00",
+      "scraped_at": "2026-06-09T05:26:34.421112+00:00",
       "added_at": "2026-05-24",
       "display_name": "Ethiopia Mulugeta Muntasha Peaberry Natural"
     },
@@ -3374,7 +3374,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:36:33.404257+00:00",
+      "scraped_at": "2026-06-09T05:26:34.421121+00:00",
       "added_at": "2026-05-24",
       "display_name": "Ethiopia Mulugeta Muntasha Anaerobic"
     },
@@ -3405,7 +3405,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:36:33.404265+00:00",
+      "scraped_at": "2026-06-09T05:26:34.421130+00:00",
       "added_at": "2026-05-24",
       "display_name": "Ethiopia Bashabekele Gonzobe Natural"
     },
@@ -3433,7 +3433,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:36:33.404273+00:00",
+      "scraped_at": "2026-06-09T05:26:34.421138+00:00",
       "added_at": "2026-05-24",
       "display_name": "Ethiopia Bashabekele Gonzobe Natural Honey"
     },
@@ -3461,7 +3461,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:36:33.404282+00:00",
+      "scraped_at": "2026-06-09T05:26:34.421147+00:00",
       "added_at": "2026-05-24",
       "display_name": "Ethiopia Bashabekele Murago Natural"
     },
@@ -3490,7 +3490,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:36:33.404290+00:00",
+      "scraped_at": "2026-06-09T05:26:34.421156+00:00",
       "added_at": "2026-05-24",
       "display_name": "Ethiopia Valle Natural"
     },
@@ -3517,35 +3517,9 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:36:33.404298+00:00",
+      "scraped_at": "2026-06-09T05:26:34.421165+00:00",
       "added_at": "2026-05-24",
       "display_name": "Ethiopia Sidama Natural"
-    },
-    {
-      "vendor": "ayantu",
-      "url": "https://ayantu.co.kr/?idx=205",
-      "raw_name": "에티오피아 생두 전문",
-      "origin": "Ethiopia",
-      "region": "Sidama Arbegona",
-      "farm": "Bursa Washing Station",
-      "producer": "Mulugeta Muntasha",
-      "altitude": "Over 2,350m",
-      "variety": "74158",
-      "process": "Peaberry Washed",
-      "grade": null,
-      "cup_notes": [
-        "White Peach",
-        "Jasmine"
-      ],
-      "price": "68000",
-      "in_stock": true,
-      "moisture": null,
-      "density": null,
-      "score": null,
-      "arrival": null,
-      "scraped_at": "2026-06-08T22:36:33.404308+00:00",
-      "added_at": "2026-06-08",
-      "display_name": "Ethiopia Zemun"
     },
     {
       "vendor": "momos",
@@ -3572,7 +3546,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:36:42.494053+00:00",
+      "scraped_at": "2026-06-09T05:26:43.990040+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia Jardines Buesaco Blend Washed"
     },
@@ -3601,7 +3575,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:36:42.494092+00:00",
+      "scraped_at": "2026-06-09T05:26:43.990080+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia El Socorro Caturra Washed"
     },
@@ -3631,7 +3605,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:36:42.494103+00:00",
+      "scraped_at": "2026-06-09T05:26:43.990092+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia El Obraje Moka Natural"
     },
@@ -3659,7 +3633,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:36:42.494112+00:00",
+      "scraped_at": "2026-06-09T05:26:43.990102+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia Yacuanquer Blend Washed"
     },
@@ -3687,7 +3661,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:36:42.494124+00:00",
+      "scraped_at": "2026-06-09T05:26:43.990114+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia El Obraje Typica Washed"
     },
@@ -3716,7 +3690,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:36:42.494151+00:00",
+      "scraped_at": "2026-06-09T05:26:43.990123+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia La Guadua Geisha Lote Panama Washed"
     },
@@ -3744,7 +3718,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:36:42.494160+00:00",
+      "scraped_at": "2026-06-09T05:26:43.990132+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia El Muro Caturra Washed"
     },
@@ -3773,7 +3747,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:36:42.494169+00:00",
+      "scraped_at": "2026-06-09T05:26:43.990141+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia La Estrella Geisha Natural"
     },
@@ -3802,7 +3776,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:36:42.494179+00:00",
+      "scraped_at": "2026-06-09T05:26:43.990151+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia El Obraje Yellow Bourbon Washed"
     },
@@ -3831,7 +3805,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:36:42.494187+00:00",
+      "scraped_at": "2026-06-09T05:26:43.990160+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia El Obraje Geisha Washed Lote 156"
     },
@@ -3859,7 +3833,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:36:42.494195+00:00",
+      "scraped_at": "2026-06-09T05:26:43.990167+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia La Bohemia Geisha Washed"
     },
@@ -3887,7 +3861,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:36:42.494203+00:00",
+      "scraped_at": "2026-06-09T05:26:43.990175+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia La Guadua Geisha Washed"
     },
@@ -3915,7 +3889,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:36:42.494210+00:00",
+      "scraped_at": "2026-06-09T05:26:43.990182+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia Momos Selection La Plata Geisha"
     },
@@ -3945,7 +3919,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:36:42.494218+00:00",
+      "scraped_at": "2026-06-09T05:26:43.990191+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia Momos Selection La Plata Cima Arusi"
     },
@@ -3974,7 +3948,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:36:42.494226+00:00",
+      "scraped_at": "2026-06-09T05:26:43.990198+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia Aponte Caturra Decaf"
     },
@@ -4004,7 +3978,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:36:42.494234+00:00",
+      "scraped_at": "2026-06-09T05:26:43.990207+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia Las Flores Duo Cherry Velvet Java"
     },
@@ -4033,7 +4007,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:36:42.494244+00:00",
+      "scraped_at": "2026-06-09T05:26:43.990217+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia El Diviso Tropical Fruit Forward Lush Aji Bourbon Anaerobi"
     },
@@ -4061,7 +4035,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:36:42.494254+00:00",
+      "scraped_at": "2026-06-09T05:26:43.990228+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia El Diviso Floral Symphony Ombligon Anaerobic Natural"
     },
@@ -4090,7 +4064,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:36:42.494264+00:00",
+      "scraped_at": "2026-06-09T05:26:43.990238+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia El Diviso Floral Symphony Sudan Rume Anaerobic Natural"
     },
@@ -4118,7 +4092,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:36:42.494274+00:00",
+      "scraped_at": "2026-06-09T05:26:43.990249+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia Zarza Tropical Fruit Forward Lush Pacamara Anaerobic Natur"
     },
@@ -4148,7 +4122,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:36:42.494283+00:00",
+      "scraped_at": "2026-06-09T05:26:43.990257+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia Zarza Tropical Fruit Forward Lush Aji Bourbon Anaerobic Wa"
     },
@@ -4177,7 +4151,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:36:42.494294+00:00",
+      "scraped_at": "2026-06-09T05:26:43.990268+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia Las Flores Penas Blancas Project Ombligon Anaerobic Washed"
     },
@@ -4207,7 +4181,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:36:42.494302+00:00",
+      "scraped_at": "2026-06-09T05:26:43.990277+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia Las Flores Penas Blancas Pink Bourbon Anaerobic Washed"
     },
@@ -4236,7 +4210,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:36:42.494310+00:00",
+      "scraped_at": "2026-06-09T05:26:43.990285+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia Las Flores Penas Blancas Project Opal Geisha Anaerobic Was"
     },
@@ -4264,7 +4238,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:36:42.494318+00:00",
+      "scraped_at": "2026-06-09T05:26:43.990293+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia Gigante Cherry Station Blend Washed"
     },
@@ -4294,7 +4268,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:36:48.825063+00:00",
+      "scraped_at": "2026-06-09T05:26:50.277215+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia Huila El Mirador Pink Bourbon Honey"
     },
@@ -4325,7 +4299,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:36:48.825093+00:00",
+      "scraped_at": "2026-06-09T05:26:50.277243+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia Huila Las Lajas Bourbon Aji"
     },
@@ -4356,7 +4330,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:36:48.825105+00:00",
+      "scraped_at": "2026-06-09T05:26:50.277255+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia Huila Naranjitos Pink Bourbon Semi-washed"
     },
@@ -4386,7 +4360,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:36:48.825124+00:00",
+      "scraped_at": "2026-06-09T05:26:50.277274+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia Nariño Las Guayacanes Caturra Chiroso"
     },
@@ -4416,7 +4390,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:36:48.825136+00:00",
+      "scraped_at": "2026-06-09T05:26:50.277300+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia Huila La Terraza Caturra Chiroso"
     },
@@ -4446,7 +4420,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:36:48.825146+00:00",
+      "scraped_at": "2026-06-09T05:26:50.277310+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia Land Of Diversity La Marina"
     },
@@ -4477,7 +4451,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:36:48.825156+00:00",
+      "scraped_at": "2026-06-09T05:26:50.277319+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia Nariño El Tablón Late Harvest"
     },
@@ -4500,12 +4474,12 @@
         "Milk Chocolate"
       ],
       "price": "21000",
-      "in_stock": true,
+      "in_stock": false,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:36:54.627382+00:00",
+      "scraped_at": "2026-06-09T05:26:58.483892+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia Pergamino Caturra Washed"
     },
@@ -4528,12 +4502,12 @@
         "Black Tea"
       ],
       "price": "25500",
-      "in_stock": false,
+      "in_stock": true,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:36:54.627411+00:00",
+      "scraped_at": "2026-06-09T05:26:58.483919+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia Aponte Tablón 데 Gómez Caturra Washed"
     },
@@ -4561,7 +4535,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:36:54.627421+00:00",
+      "scraped_at": "2026-06-09T05:26:58.483929+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia Aponte Caturra Honey"
     },
@@ -4590,7 +4564,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:36:54.627433+00:00",
+      "scraped_at": "2026-06-09T05:26:58.483942+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia Las Margaritas CGLE-17 Washed"
     },
@@ -4618,7 +4592,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:36:54.627442+00:00",
+      "scraped_at": "2026-06-09T05:26:58.483952+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia Nade El Carmen Caturra Washed"
     },
@@ -4646,7 +4620,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:36:54.627450+00:00",
+      "scraped_at": "2026-06-09T05:26:58.483960+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia El Nogal Caturra Washed"
     },
@@ -4674,7 +4648,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:36:54.627459+00:00",
+      "scraped_at": "2026-06-09T05:26:58.483970+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia El Diamante Pink Bourbon Washed"
     },
@@ -4702,7 +4676,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:36:54.627469+00:00",
+      "scraped_at": "2026-06-09T05:26:58.483979+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia El Jardin"
     },
@@ -4730,7 +4704,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:36:54.627477+00:00",
+      "scraped_at": "2026-06-09T05:26:58.483988+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia Cerro Azul Geisha Napoleon"
     },
@@ -4752,12 +4726,12 @@
         "Brown Sugar"
       ],
       "price": "54800",
-      "in_stock": false,
+      "in_stock": true,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:36:54.627486+00:00",
+      "scraped_at": "2026-06-09T05:26:58.483997+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia Campo Hermoso Caturra Honey Cinnamon Mosto CO Fermented"
     },
@@ -4780,12 +4754,12 @@
         "Wine"
       ],
       "price": "52500",
-      "in_stock": false,
+      "in_stock": true,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:36:54.627496+00:00",
+      "scraped_at": "2026-06-09T05:26:58.484010+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia Campo Hermoso Pink Bourbon Natural Carbonic Maceration"
     },
@@ -4813,7 +4787,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:36:54.627505+00:00",
+      "scraped_at": "2026-06-09T05:26:58.484020+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia Las Margaritas Yellow Bourbon Washed"
     },
@@ -4842,7 +4816,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:36:54.627514+00:00",
+      "scraped_at": "2026-06-09T05:26:58.484029+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia Las Margaritas CGLE-17 Washed"
     },
@@ -4866,12 +4840,12 @@
         "Cognac"
       ],
       "price": "131,000",
-      "in_stock": false,
+      "in_stock": true,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:36:54.627524+00:00",
+      "scraped_at": "2026-06-09T05:26:58.484038+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia La Esperanza Mandela XO Natural"
     },
@@ -4899,7 +4873,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:36:54.627531+00:00",
+      "scraped_at": "2026-06-09T05:26:58.484045+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia Excelso Decaf"
     },
@@ -4922,12 +4896,12 @@
         "Caramel"
       ],
       "price": "21,000",
-      "in_stock": false,
+      "in_stock": true,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:36:54.627540+00:00",
+      "scraped_at": "2026-06-09T05:26:58.484054+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia Antioquia La Suiza"
     },
@@ -4950,12 +4924,12 @@
         "Brown Sugar"
       ],
       "price": "0",
-      "in_stock": false,
+      "in_stock": true,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:36:54.627549+00:00",
+      "scraped_at": "2026-06-09T05:26:58.484063+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia Timana Huila Selection"
     },
@@ -4983,7 +4957,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:36:54.627558+00:00",
+      "scraped_at": "2026-06-09T05:26:58.484071+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia Supremo Huila"
     },
@@ -5012,7 +4986,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:00.152328+00:00",
+      "scraped_at": "2026-06-09T05:27:05.878973+00:00",
       "added_at": "2026-06-06",
       "display_name": "Nariño Finca Mataredonda Caturra Washed"
     },
@@ -5047,7 +5021,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:00.152357+00:00",
+      "scraped_at": "2026-06-09T05:27:05.879002+00:00",
       "added_at": "2026-06-06",
       "display_name": "Nordic Approach Huila Algeciras"
     },
@@ -5075,7 +5049,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:00.152367+00:00",
+      "scraped_at": "2026-06-09T05:27:05.879012+00:00",
       "added_at": "2026-06-06",
       "display_name": "Sugarcane EA Decaf"
     },
@@ -5106,7 +5080,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:00.152377+00:00",
+      "scraped_at": "2026-06-09T05:27:05.879021+00:00",
       "added_at": "2026-06-06",
       "display_name": "Nariño Consacá Washed"
     },
@@ -5140,7 +5114,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:00.152390+00:00",
+      "scraped_at": "2026-06-09T05:27:05.879034+00:00",
       "added_at": "2026-06-06",
       "display_name": "Los Nogales Orange Bourbon 046CH EF"
     },
@@ -5166,7 +5140,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:00.152401+00:00",
+      "scraped_at": "2026-06-09T05:27:05.879043+00:00",
       "added_at": "2026-06-06",
       "display_name": "Pink Bourbon Honey Red Fruits Nubia"
     },
@@ -5194,7 +5168,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:00.152410+00:00",
+      "scraped_at": "2026-06-09T05:27:05.879053+00:00",
       "added_at": "2026-06-06",
       "display_name": "Huila San Agustín Supremo"
     },
@@ -5223,7 +5197,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:00.152418+00:00",
+      "scraped_at": "2026-06-09T05:27:05.879061+00:00",
       "added_at": "2026-06-06",
       "display_name": "Las Flores Geisha Washed"
     },
@@ -5253,7 +5227,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:00.152426+00:00",
+      "scraped_at": "2026-06-09T05:27:05.879069+00:00",
       "added_at": "2026-06-06",
       "display_name": "El Diviso Geisha Washed"
     },
@@ -5283,7 +5257,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:00.152433+00:00",
+      "scraped_at": "2026-06-09T05:27:05.879077+00:00",
       "added_at": "2026-06-06",
       "display_name": "San Agustín Sugarcane Decaf"
     },
@@ -5312,7 +5286,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:00.152442+00:00",
+      "scraped_at": "2026-06-09T05:27:05.879085+00:00",
       "added_at": "2026-06-06",
       "display_name": "Huila Supremo"
     },
@@ -5342,7 +5316,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:00.152450+00:00",
+      "scraped_at": "2026-06-09T05:27:05.879093+00:00",
       "added_at": "2026-06-06",
       "display_name": "Medellín Supremo"
     },
@@ -5370,7 +5344,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:18.950915+00:00",
+      "scraped_at": "2026-06-09T05:27:27.865913+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia Supremo Huila"
     },
@@ -5398,7 +5372,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:18.950943+00:00",
+      "scraped_at": "2026-06-09T05:27:27.865942+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia Supremo Huila"
     },
@@ -5421,12 +5395,12 @@
         "Biscuit"
       ],
       "price": "17500",
-      "in_stock": true,
+      "in_stock": false,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:18.950953+00:00",
+      "scraped_at": "2026-06-09T05:27:27.865952+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia Supremo Cauca Popayán"
     },
@@ -5450,12 +5424,12 @@
         "Roasted Chestnut"
       ],
       "price": "17500",
-      "in_stock": false,
+      "in_stock": true,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:18.950963+00:00",
+      "scraped_at": "2026-06-09T05:27:27.865961+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia Supremo Huila Pitalito"
     },
@@ -5478,12 +5452,12 @@
         "Malt"
       ],
       "price": "17700",
-      "in_stock": true,
+      "in_stock": false,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:18.950972+00:00",
+      "scraped_at": "2026-06-09T05:27:27.865969+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia Supremo Nariño"
     },
@@ -5511,7 +5485,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:18.950981+00:00",
+      "scraped_at": "2026-06-09T05:27:27.865978+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia Supremo Cauca Popayán"
     },
@@ -5535,12 +5509,12 @@
         "Roasted Chestnut"
       ],
       "price": "17800",
-      "in_stock": true,
+      "in_stock": false,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:18.950991+00:00",
+      "scraped_at": "2026-06-09T05:27:27.865987+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia Supremo Huila Pitalito"
     },
@@ -5569,7 +5543,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:18.951000+00:00",
+      "scraped_at": "2026-06-09T05:27:27.865996+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia Supremo Valle Nato"
     },
@@ -5597,7 +5571,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:18.951009+00:00",
+      "scraped_at": "2026-06-09T05:27:27.866004+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia Supremo Nariño"
     },
@@ -5627,7 +5601,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:18.951017+00:00",
+      "scraped_at": "2026-06-09T05:27:27.866013+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia Supremo Tolima"
     },
@@ -5655,7 +5629,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:18.951024+00:00",
+      "scraped_at": "2026-06-09T05:27:27.866020+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia Popayán Sugarcane Decaf"
     },
@@ -5683,7 +5657,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:18.951030+00:00",
+      "scraped_at": "2026-06-09T05:27:27.866027+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia Popayán Sugarcane Decaf"
     },
@@ -5707,12 +5681,12 @@
         "Cacao Nibs"
       ],
       "price": "25800",
-      "in_stock": true,
+      "in_stock": false,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:18.951038+00:00",
+      "scraped_at": "2026-06-09T05:27:27.866035+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia Supremo Swiss Water Decaf"
     },
@@ -5740,7 +5714,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:18.951054+00:00",
+      "scraped_at": "2026-06-09T05:27:27.866051+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia Inga Village Caturra Honey"
     },
@@ -5763,12 +5737,12 @@
         "Brown sugar"
       ],
       "price": "32800",
-      "in_stock": true,
+      "in_stock": false,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:18.951066+00:00",
+      "scraped_at": "2026-06-09T05:27:27.866063+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia San Gabriel Bourbon Chiroso Anaerobic Washed"
     },
@@ -5798,7 +5772,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:18.951075+00:00",
+      "scraped_at": "2026-06-09T05:27:27.866072+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia San Gabriel Papayo Bourbon Anaerobic Honey"
     },
@@ -5827,7 +5801,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:18.951083+00:00",
+      "scraped_at": "2026-06-09T05:27:27.866081+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia Peñas Blancas Caturra Washed"
     },
@@ -5851,12 +5825,12 @@
         "Cacao nibs"
       ],
       "price": "44000",
-      "in_stock": true,
+      "in_stock": false,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:18.951091+00:00",
+      "scraped_at": "2026-06-09T05:27:27.866089+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia La Reserva Caturra Anaerobic Honey (Lychee)"
     },
@@ -5885,7 +5859,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:18.951101+00:00",
+      "scraped_at": "2026-06-09T05:27:27.866099+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia Las Brisas Pink Bourbon Washed"
     },
@@ -5909,12 +5883,12 @@
         "Dark chocolate"
       ],
       "price": "54000",
-      "in_stock": true,
+      "in_stock": false,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:18.951109+00:00",
+      "scraped_at": "2026-06-09T05:27:27.866108+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia Los Naranjos Caturra Chiroso Washed EF"
     },
@@ -5938,12 +5912,12 @@
         "Cacao nibs"
       ],
       "price": "55,000 KRW",
-      "in_stock": true,
+      "in_stock": false,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:18.951117+00:00",
+      "scraped_at": "2026-06-09T05:27:27.866115+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia La Planta Pink Bourbon Washed Decaf"
     },
@@ -5972,7 +5946,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:18.951125+00:00",
+      "scraped_at": "2026-06-09T05:27:27.866123+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia Santa Teresa Geisha Anaerobic Washed"
     },
@@ -5996,12 +5970,12 @@
         "Chocolate"
       ],
       "price": "59000",
-      "in_stock": false,
+      "in_stock": true,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:18.951134+00:00",
+      "scraped_at": "2026-06-09T05:27:27.866132+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia El Diviso Ombligón Washed"
     },
@@ -6031,7 +6005,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:18.951144+00:00",
+      "scraped_at": "2026-06-09T05:27:27.866141+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia El Diviso Bourbon Sidra Washed"
     },
@@ -6055,12 +6029,12 @@
         "Syrup"
       ],
       "price": "69000",
-      "in_stock": false,
+      "in_stock": true,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:18.951153+00:00",
+      "scraped_at": "2026-06-09T05:27:27.866150+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia El Diviso Típica Mejorado Washed"
     },
@@ -6084,12 +6058,12 @@
         "Honey"
       ],
       "price": "79000",
-      "in_stock": false,
+      "in_stock": true,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:18.951161+00:00",
+      "scraped_at": "2026-06-09T05:27:27.866158+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia Las Flores Geisha Washed"
     },
@@ -6117,7 +6091,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:18.951170+00:00",
+      "scraped_at": "2026-06-09T05:27:27.866167+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia El Diviso Aji Bourbon Anaerobic Natural"
     },
@@ -6144,7 +6118,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:24.476911+00:00",
+      "scraped_at": "2026-06-09T05:27:34.079668+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia Guacovia Strawberry Co-fermented"
     },
@@ -6171,7 +6145,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:24.476937+00:00",
+      "scraped_at": "2026-06-09T05:27:34.079696+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia Los Patios Peach Co-fermented"
     },
@@ -6198,38 +6172,9 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:24.476948+00:00",
+      "scraped_at": "2026-06-09T05:27:34.079706+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia Café Rosario Lychee Co-fermented"
-    },
-    {
-      "vendor": "cobeans",
-      "url": "https://www.cobeans.com/shop/detail.php?pno=2D2CA7EEDF739EF4C3800713EC482E1A",
-      "raw_name": "26 콜롬비아 카페 로사리오 워터멜론 코퍼먼티드",
-      "origin": "Colombia",
-      "region": "Antioquia",
-      "farm": "Cafe Rosario",
-      "producer": null,
-      "altitude": "1650-2000m",
-      "variety": "Blend",
-      "process": "Ferment",
-      "grade": null,
-      "cup_notes": [
-        "Watermelon",
-        "Korean Melon",
-        "Melon",
-        "Cucumber",
-        "Juicy"
-      ],
-      "price": "42,800",
-      "in_stock": true,
-      "moisture": null,
-      "density": null,
-      "score": null,
-      "arrival": null,
-      "scraped_at": "2026-06-08T22:37:24.476957+00:00",
-      "added_at": "2026-06-06",
-      "display_name": "Colombia Café Rosario Watermelon Co-fermented"
     },
     {
       "vendor": "cobeans",
@@ -6254,7 +6199,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:24.476968+00:00",
+      "scraped_at": "2026-06-09T05:27:34.079718+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia Café Rosario Blueberry..."
     },
@@ -6281,7 +6226,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:24.476977+00:00",
+      "scraped_at": "2026-06-09T05:27:34.079771+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia Café Rosario Apricot Co-fermented"
     },
@@ -6308,7 +6253,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:24.476988+00:00",
+      "scraped_at": "2026-06-09T05:27:34.079782+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia Café Rosario Soursop ..."
     },
@@ -6335,7 +6280,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:24.476998+00:00",
+      "scraped_at": "2026-06-09T05:27:34.079791+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia Los Patios Cherry Co-fermented"
     },
@@ -6362,7 +6307,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:24.477007+00:00",
+      "scraped_at": "2026-06-09T05:27:34.079801+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia Los Patios Berry Co-fermented"
     },
@@ -6389,7 +6334,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:24.477015+00:00",
+      "scraped_at": "2026-06-09T05:27:34.079810+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia Huila EP10"
     },
@@ -6416,7 +6361,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:24.477026+00:00",
+      "scraped_at": "2026-06-09T05:27:34.079821+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia La Parada Pacamara Anaerobic Natural"
     },
@@ -6443,7 +6388,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:24.477035+00:00",
+      "scraped_at": "2026-06-09T05:27:34.079830+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia Villa Juliana Papayo Washed"
     },
@@ -6471,7 +6416,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:24.477056+00:00",
+      "scraped_at": "2026-06-09T05:27:34.079851+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia Las Flores Geisha Anaerobic Washed"
     },
@@ -6501,7 +6446,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:24.477064+00:00",
+      "scraped_at": "2026-06-09T05:27:34.079859+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia Huila EA Decaf"
     },
@@ -6528,7 +6473,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:24.477075+00:00",
+      "scraped_at": "2026-06-09T05:27:34.079870+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia El Rocio Pink Bourbon Honey"
     },
@@ -6556,9 +6501,38 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:24.477084+00:00",
+      "scraped_at": "2026-06-09T05:27:34.079880+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia La Roca Geisha Infused Floral"
+    },
+    {
+      "vendor": "cobeans",
+      "url": "https://www.cobeans.com/shop/detail.php?pno=2D2CA7EEDF739EF4C3800713EC482E1A",
+      "raw_name": "26 콜롬비아 카페 로사리오 워터멜론 코퍼먼티드",
+      "origin": "Colombia",
+      "region": "Antioquia",
+      "farm": "Cafe Rosario",
+      "producer": null,
+      "altitude": "1650-2000m",
+      "variety": "Blend",
+      "process": "Ferment",
+      "grade": null,
+      "cup_notes": [
+        "Watermelon",
+        "Korean Melon",
+        "Melon",
+        "Cucumber",
+        "Juicy"
+      ],
+      "price": "42,800",
+      "in_stock": false,
+      "moisture": null,
+      "density": null,
+      "score": null,
+      "arrival": null,
+      "scraped_at": "2026-06-09T05:27:34.079889+00:00",
+      "added_at": "2026-06-06",
+      "display_name": "Colombia Café Rosario Watermelon Co-fermented"
     },
     {
       "vendor": "cobeans",
@@ -6583,7 +6557,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:24.477094+00:00",
+      "scraped_at": "2026-06-09T05:27:34.079899+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia Café Rosario Airi..."
     },
@@ -6610,7 +6584,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:24.477104+00:00",
+      "scraped_at": "2026-06-09T05:27:34.079908+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia Café Rosario Coconut ..."
     },
@@ -6637,7 +6611,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:24.477114+00:00",
+      "scraped_at": "2026-06-09T05:27:34.079918+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia Los Cauchos Pink Bourbon Anaerobic Washed"
     },
@@ -6664,7 +6638,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:27.477202+00:00",
+      "scraped_at": "2026-06-09T05:27:37.965779+00:00",
       "added_at": "2026-06-06",
       "display_name": "Supremo 18up"
     },
@@ -6692,7 +6666,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:27.477227+00:00",
+      "scraped_at": "2026-06-09T05:27:37.965805+00:00",
       "added_at": "2026-06-06",
       "display_name": "Supremo Medellín 17/18"
     },
@@ -6720,7 +6694,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:27.477237+00:00",
+      "scraped_at": "2026-06-09T05:27:37.965817+00:00",
       "added_at": "2026-06-06",
       "display_name": "Supremo Huila 17/18"
     },
@@ -6748,7 +6722,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:27.477245+00:00",
+      "scraped_at": "2026-06-09T05:27:37.965826+00:00",
       "added_at": "2026-06-06",
       "display_name": "Supremo Antioquia Special"
     },
@@ -6769,12 +6743,12 @@
         "Peach"
       ],
       "price": "45000",
-      "in_stock": false,
+      "in_stock": true,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:27.477255+00:00",
+      "scraped_at": "2026-06-09T05:27:37.965837+00:00",
       "added_at": "2026-06-06",
       "display_name": "EXOTIC Rich Peach"
     },
@@ -6805,7 +6779,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:27.477263+00:00",
+      "scraped_at": "2026-06-09T05:27:37.965846+00:00",
       "added_at": "2026-06-06",
       "display_name": "Motilón Specialty"
     },
@@ -6834,7 +6808,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:27.477271+00:00",
+      "scraped_at": "2026-06-09T05:27:37.965855+00:00",
       "added_at": "2026-06-06",
       "display_name": "Motilón Specialty EP"
     },
@@ -6864,7 +6838,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:27.477280+00:00",
+      "scraped_at": "2026-06-09T05:27:37.965864+00:00",
       "added_at": "2026-06-06",
       "display_name": "Supremo Valle De Cauca Special"
     },
@@ -6892,7 +6866,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:27.477288+00:00",
+      "scraped_at": "2026-06-09T05:27:37.965874+00:00",
       "added_at": "2026-06-06",
       "display_name": "Specialty Cauca EP"
     },
@@ -6920,7 +6894,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:27.477296+00:00",
+      "scraped_at": "2026-06-09T05:27:37.965884+00:00",
       "added_at": "2026-06-06",
       "display_name": "Cundinamarca Guatavita"
     },
@@ -6948,7 +6922,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:27.477304+00:00",
+      "scraped_at": "2026-06-09T05:27:37.965892+00:00",
       "added_at": "2026-06-06",
       "display_name": "Red Fruit Honey (Orange Bourbon)"
     },
@@ -6976,7 +6950,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:27.477312+00:00",
+      "scraped_at": "2026-06-09T05:27:37.965901+00:00",
       "added_at": "2026-06-06",
       "display_name": "Passion Fruit Washed (Castillo)"
     },
@@ -7004,7 +6978,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:27.477320+00:00",
+      "scraped_at": "2026-06-09T05:27:37.965909+00:00",
       "added_at": "2026-06-06",
       "display_name": "Tropical Coco Washed (Castillo)"
     },
@@ -7032,7 +7006,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:27.477334+00:00",
+      "scraped_at": "2026-06-09T05:27:37.965924+00:00",
       "added_at": "2026-06-06",
       "display_name": "Rum Aged Natural (Caturra)"
     },
@@ -7057,7 +7031,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:27.477342+00:00",
+      "scraped_at": "2026-06-09T05:27:37.965933+00:00",
       "added_at": "2026-06-06",
       "display_name": "EXOTIC Kofinet Peach Honey"
     },
@@ -7082,7 +7056,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:27.477349+00:00",
+      "scraped_at": "2026-06-09T05:27:37.965940+00:00",
       "added_at": "2026-06-06",
       "display_name": "EXOTIC Kofinet Red Fruits Honey"
     },
@@ -7107,7 +7081,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:27.477356+00:00",
+      "scraped_at": "2026-06-09T05:27:37.965948+00:00",
       "added_at": "2026-06-06",
       "display_name": "EXOTIC Kofinet Green Apple Honey"
     },
@@ -7135,7 +7109,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:27.477364+00:00",
+      "scraped_at": "2026-06-09T05:27:37.965955+00:00",
       "added_at": "2026-06-06",
       "display_name": "EXOTIC Kofinet Mango Washed"
     },
@@ -7163,7 +7137,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:27.477372+00:00",
+      "scraped_at": "2026-06-09T05:27:37.965963+00:00",
       "added_at": "2026-06-06",
       "display_name": "EXOTIC Koffinet Passion Fruit Washed"
     },
@@ -7191,7 +7165,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:27.477380+00:00",
+      "scraped_at": "2026-06-09T05:27:37.965973+00:00",
       "added_at": "2026-06-06",
       "display_name": "Plum"
     },
@@ -7219,7 +7193,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:27.477389+00:00",
+      "scraped_at": "2026-06-09T05:27:37.965982+00:00",
       "added_at": "2026-06-06",
       "display_name": "El Diviso Caturra Chiroso Washed"
     },
@@ -7247,7 +7221,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:27.477397+00:00",
+      "scraped_at": "2026-06-09T05:27:37.965991+00:00",
       "added_at": "2026-06-06",
       "display_name": "El Diviso Ombligón Washed"
     },
@@ -7275,7 +7249,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:27.477418+00:00",
+      "scraped_at": "2026-06-09T05:27:37.966000+00:00",
       "added_at": "2026-06-06",
       "display_name": "El Diviso State #3 Washed ASD"
     },
@@ -7303,7 +7277,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:27.477426+00:00",
+      "scraped_at": "2026-06-09T05:27:37.966012+00:00",
       "added_at": "2026-06-06",
       "display_name": "La Planta Ombligón Natural ASD"
     },
@@ -7331,7 +7305,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:27.477436+00:00",
+      "scraped_at": "2026-06-09T05:27:37.966024+00:00",
       "added_at": "2026-06-06",
       "display_name": "Los Cedros Sidra Washed ASD"
     },
@@ -7359,7 +7333,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:27.477445+00:00",
+      "scraped_at": "2026-06-09T05:27:37.966033+00:00",
       "added_at": "2026-06-06",
       "display_name": "Sarsa Aji Bourbon Natural ASD"
     },
@@ -7387,7 +7361,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:27.477453+00:00",
+      "scraped_at": "2026-06-09T05:27:37.966042+00:00",
       "added_at": "2026-06-06",
       "display_name": "Sierra Nevada Specialty"
     },
@@ -7415,7 +7389,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:27.477460+00:00",
+      "scraped_at": "2026-06-09T05:27:37.966050+00:00",
       "added_at": "2026-06-06",
       "display_name": "Motilón Specialty EP"
     },
@@ -7443,7 +7417,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:27.477468+00:00",
+      "scraped_at": "2026-06-09T05:27:37.966058+00:00",
       "added_at": "2026-06-06",
       "display_name": "Geisha Aponte"
     },
@@ -7471,7 +7445,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:27.477477+00:00",
+      "scraped_at": "2026-06-09T05:27:37.966067+00:00",
       "added_at": "2026-06-06",
       "display_name": "El Diviso Geisha Natural"
     },
@@ -7499,7 +7473,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:27.477485+00:00",
+      "scraped_at": "2026-06-09T05:27:37.966076+00:00",
       "added_at": "2026-06-06",
       "display_name": "El Diviso Ombligón Natural Dikap"
     },
@@ -7527,7 +7501,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:27.477492+00:00",
+      "scraped_at": "2026-06-09T05:27:37.966083+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia Sugarcane EA Decaf"
     },
@@ -7555,7 +7529,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:27.477500+00:00",
+      "scraped_at": "2026-06-09T05:27:37.966092+00:00",
       "added_at": "2026-06-06",
       "display_name": "Cinnamon Juice"
     },
@@ -7583,7 +7557,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:27.477507+00:00",
+      "scraped_at": "2026-06-09T05:27:37.966100+00:00",
       "added_at": "2026-06-06",
       "display_name": "Honey Juicy Strawberry"
     },
@@ -7611,7 +7585,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:27.477514+00:00",
+      "scraped_at": "2026-06-09T05:27:37.966109+00:00",
       "added_at": "2026-06-06",
       "display_name": "Juicy Passionfruit"
     },
@@ -7639,7 +7613,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:27.477522+00:00",
+      "scraped_at": "2026-06-09T05:27:37.966116+00:00",
       "added_at": "2026-06-06",
       "display_name": "Colombia Sugarcane EA Decaf Descafeocol"
     },
@@ -7667,7 +7641,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:37:27.477529+00:00",
+      "scraped_at": "2026-06-09T05:27:37.966123+00:00",
       "added_at": "2026-06-06",
       "display_name": "Rich Peach Decaf"
     },
@@ -7695,7 +7669,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:38:34.123936+00:00",
+      "scraped_at": "2026-06-09T05:28:44.880372+00:00",
       "added_at": "2026-06-06",
       "display_name": "Kenya Kamoko Peaberry Fully Washed"
     },
@@ -7723,7 +7697,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:38:34.123963+00:00",
+      "scraped_at": "2026-06-09T05:28:44.880399+00:00",
       "added_at": "2026-06-06",
       "display_name": "Kenya Kagunyu Natural Heavy"
     },
@@ -7751,7 +7725,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:38:34.123973+00:00",
+      "scraped_at": "2026-06-09T05:28:44.880409+00:00",
       "added_at": "2026-06-06",
       "display_name": "Kenya Thunguri Natural Heavy"
     },
@@ -7779,7 +7753,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:38:34.123981+00:00",
+      "scraped_at": "2026-06-09T05:28:44.880419+00:00",
       "added_at": "2026-06-06",
       "display_name": "Kenya Kangiri Peaberry Fully Washed"
     },
@@ -7808,7 +7782,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:38:34.123989+00:00",
+      "scraped_at": "2026-06-09T05:28:44.880426+00:00",
       "added_at": "2026-06-06",
       "display_name": "Kenya Gakundu Peaberry Fully Washed"
     },
@@ -7836,7 +7810,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:38:34.123997+00:00",
+      "scraped_at": "2026-06-09T05:28:44.880434+00:00",
       "added_at": "2026-06-06",
       "display_name": "Kenya Miiri Peaberry Fully Washed"
     },
@@ -7865,7 +7839,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:38:34.124005+00:00",
+      "scraped_at": "2026-06-09T05:28:44.880442+00:00",
       "added_at": "2026-06-06",
       "display_name": "Kenya Kagunyu Aa Fully Washed 11"
     },
@@ -7894,7 +7868,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:38:34.124012+00:00",
+      "scraped_at": "2026-06-09T05:28:44.880450+00:00",
       "added_at": "2026-06-06",
       "display_name": "Kenya Thunguri Ab Fully Washed"
     },
@@ -7921,7 +7895,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:38:34.124019+00:00",
+      "scraped_at": "2026-06-09T05:28:44.880457+00:00",
       "added_at": "2026-06-06",
       "display_name": "Kenya Thunguri Aa Fully Washed 1"
     },
@@ -7950,7 +7924,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:38:39.199735+00:00",
+      "scraped_at": "2026-06-09T05:28:52.879770+00:00",
       "added_at": "2026-06-06",
       "display_name": "Kenya Kiamugumo AA 2026"
     },
@@ -7980,7 +7954,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:38:39.199761+00:00",
+      "scraped_at": "2026-06-09T05:28:52.879797+00:00",
       "added_at": "2026-06-06",
       "display_name": "Kenya Karumandi AA 2026"
     },
@@ -8013,7 +7987,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:38:39.199771+00:00",
+      "scraped_at": "2026-06-09T05:28:52.879807+00:00",
       "added_at": "2026-06-06",
       "display_name": "Kenya Kagumo AA 2026"
     },
@@ -8042,7 +8016,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:38:39.199780+00:00",
+      "scraped_at": "2026-06-09T05:28:52.879815+00:00",
       "added_at": "2026-06-06",
       "display_name": "Kenya Mugaya AA 2026"
     },
@@ -8072,7 +8046,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:38:39.199788+00:00",
+      "scraped_at": "2026-06-09T05:28:52.879824+00:00",
       "added_at": "2026-06-06",
       "display_name": "Kenya Mutitu AA 2026"
     },
@@ -8106,7 +8080,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:38:39.199797+00:00",
+      "scraped_at": "2026-06-09T05:28:52.879833+00:00",
       "added_at": "2026-06-06",
       "display_name": "Kenya 키 AA 2026"
     },
@@ -8135,7 +8109,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:38:39.199806+00:00",
+      "scraped_at": "2026-06-09T05:28:52.879843+00:00",
       "added_at": "2026-06-06",
       "display_name": "Kenya Karimikui AA 2026"
     },
@@ -8164,7 +8138,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:38:39.199814+00:00",
+      "scraped_at": "2026-06-09T05:28:52.879852+00:00",
       "added_at": "2026-06-06",
       "display_name": "Kenya Kiangoi AA 2026"
     },
@@ -8194,7 +8168,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:38:39.199822+00:00",
+      "scraped_at": "2026-06-09T05:28:52.879861+00:00",
       "added_at": "2026-06-06",
       "display_name": "Nicaragua Finca Libre Kenya"
     },
@@ -8224,7 +8198,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:38:39.199830+00:00",
+      "scraped_at": "2026-06-09T05:28:52.879869+00:00",
       "added_at": "2026-06-06",
       "display_name": "Kenya Kavingara AA"
     },
@@ -8254,46 +8228,9 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:38:39.199839+00:00",
+      "scraped_at": "2026-06-09T05:28:52.879878+00:00",
       "added_at": "2026-06-06",
       "display_name": "Kenya Kagumo AA"
-    },
-    {
-      "vendor": "coffeelibre",
-      "url": "https://coffeelibre.kr/product/detail.html?product_no=6285",
-      "raw_name": "케냐 무가야 AB",
-      "origin": "Kenya",
-      "region": "Kirinyaga",
-      "farm": null,
-      "producer": "Mutira FCS",
-      "altitude": "1,700 - 1,800m",
-      "variety": "SL28, SL34, Ruiru11, Batian",
-      "process": "Washed",
-      "grade": "AB",
-      "cup_notes": [
-        "Berry",
-        "Redcurrant",
-        "Grapefruit",
-        "Red Apple",
-        "Brown Sugar",
-        "Molasses",
-        "Orange",
-        "Lychee",
-        "Blueberry",
-        "Cassis",
-        "Vanilla",
-        "Caramel",
-        "Spicy"
-      ],
-      "price": "18,900",
-      "in_stock": true,
-      "moisture": null,
-      "density": null,
-      "score": null,
-      "arrival": null,
-      "scraped_at": "2026-06-08T22:38:39.199846+00:00",
-      "added_at": "2026-06-06",
-      "display_name": "Kenya Mugaya AB"
     },
     {
       "vendor": "coffeelibre",
@@ -8321,7 +8258,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:38:39.199854+00:00",
+      "scraped_at": "2026-06-09T05:28:52.879885+00:00",
       "added_at": "2026-06-06",
       "display_name": "Kenya Ngorano AA"
     },
@@ -8351,7 +8288,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:38:39.199860+00:00",
+      "scraped_at": "2026-06-09T05:28:52.879892+00:00",
       "added_at": "2026-06-06",
       "display_name": "Kenya Karumandi AA"
     },
@@ -8379,7 +8316,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:38:45.072490+00:00",
+      "scraped_at": "2026-06-09T05:28:59.996832+00:00",
       "added_at": "2026-06-06",
       "display_name": "Kenya Nyeri Red Mountain AA"
     },
@@ -8407,7 +8344,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:38:45.072515+00:00",
+      "scraped_at": "2026-06-09T05:28:59.996861+00:00",
       "added_at": "2026-06-06",
       "display_name": "Kenya AA"
     },
@@ -8436,7 +8373,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:38:51.264189+00:00",
+      "scraped_at": "2026-06-09T05:29:06.240030+00:00",
       "added_at": "2026-06-06",
       "display_name": "AA TOP Kirinyaga Kii"
     },
@@ -8465,7 +8402,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:38:51.264215+00:00",
+      "scraped_at": "2026-06-09T05:29:06.240056+00:00",
       "added_at": "2026-06-06",
       "display_name": "Kiambu Peaberry FAQ"
     },
@@ -8495,7 +8432,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:38:51.264224+00:00",
+      "scraped_at": "2026-06-09T05:29:06.240066+00:00",
       "added_at": "2026-06-06",
       "display_name": "Kiambu AA FAQ"
     },
@@ -8522,7 +8459,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:38:51.264234+00:00",
+      "scraped_at": "2026-06-09T05:29:06.240075+00:00",
       "added_at": "2026-06-06",
       "display_name": "AB FAQ"
     },
@@ -8552,7 +8489,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:39:03.986045+00:00",
+      "scraped_at": "2026-06-09T05:29:23.802970+00:00",
       "added_at": "2026-06-06",
       "display_name": "Kenya AA FAQ"
     },
@@ -8582,7 +8519,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:39:03.986072+00:00",
+      "scraped_at": "2026-06-09T05:29:23.802999+00:00",
       "added_at": "2026-06-06",
       "display_name": "Kenya AA FAQ"
     },
@@ -8610,7 +8547,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:39:03.986082+00:00",
+      "scraped_at": "2026-06-09T05:29:23.803009+00:00",
       "added_at": "2026-06-06",
       "display_name": "Kenya AB"
     },
@@ -8638,7 +8575,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:39:03.986091+00:00",
+      "scraped_at": "2026-06-09T05:29:23.803018+00:00",
       "added_at": "2026-06-06",
       "display_name": "Kenya Peaberry Serengeti"
     },
@@ -8665,7 +8602,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:39:08.826749+00:00",
+      "scraped_at": "2026-06-09T05:29:28.368791+00:00",
       "added_at": "2026-06-06",
       "display_name": "Kenya Nyeri 힐 AA TOP Washed"
     },
@@ -8692,7 +8629,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:39:08.826779+00:00",
+      "scraped_at": "2026-06-09T05:29:28.368821+00:00",
       "added_at": "2026-06-06",
       "display_name": "Kenya Nyeri Karatina AB TOP Washed"
     },
@@ -8720,7 +8657,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:39:08.826790+00:00",
+      "scraped_at": "2026-06-09T05:29:28.368832+00:00",
       "added_at": "2026-06-06",
       "display_name": "Kenya Nyeri 힐 AB TOP Washed"
     },
@@ -8748,7 +8685,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:39:08.826800+00:00",
+      "scraped_at": "2026-06-09T05:29:28.368841+00:00",
       "added_at": "2026-06-06",
       "display_name": "Kenya Murang'a Tangaini AA TOP Washed"
     },
@@ -8774,7 +8711,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:39:12.075804+00:00",
+      "scraped_at": "2026-06-09T05:29:31.458492+00:00",
       "added_at": "2026-06-06",
       "display_name": "Peaberry"
     },
@@ -8802,7 +8739,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:39:12.075829+00:00",
+      "scraped_at": "2026-06-09T05:29:31.458518+00:00",
       "added_at": "2026-06-06",
       "display_name": "AA FAQ+"
     },
@@ -8830,7 +8767,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:39:12.075839+00:00",
+      "scraped_at": "2026-06-09T05:29:31.458529+00:00",
       "added_at": "2026-06-06",
       "display_name": "AA TOP Kiyara 819"
     },
@@ -8858,7 +8795,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:39:12.075848+00:00",
+      "scraped_at": "2026-06-09T05:29:31.458537+00:00",
       "added_at": "2026-06-06",
       "display_name": "AA TOP Kiyara 517"
     },
@@ -8886,7 +8823,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:39:12.075856+00:00",
+      "scraped_at": "2026-06-09T05:29:31.458546+00:00",
       "added_at": "2026-06-06",
       "display_name": "Specialty Umbula"
     },
@@ -8914,7 +8851,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:39:12.075864+00:00",
+      "scraped_at": "2026-06-09T05:29:31.458555+00:00",
       "added_at": "2026-06-06",
       "display_name": "AA TOP Aurora 316"
     },
@@ -8942,7 +8879,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:39:12.075872+00:00",
+      "scraped_at": "2026-06-09T05:29:31.458563+00:00",
       "added_at": "2026-06-06",
       "display_name": "AA TOP Aurora 396"
     },
@@ -8970,7 +8907,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:39:12.075881+00:00",
+      "scraped_at": "2026-06-09T05:29:31.458572+00:00",
       "added_at": "2026-06-06",
       "display_name": "Aurora 207"
     },
@@ -8998,7 +8935,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:39:12.075889+00:00",
+      "scraped_at": "2026-06-09T05:29:31.458581+00:00",
       "added_at": "2026-06-06",
       "display_name": "Aurora 160 Peaberry"
     },
@@ -9026,7 +8963,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:39:12.075898+00:00",
+      "scraped_at": "2026-06-09T05:29:31.458590+00:00",
       "added_at": "2026-06-06",
       "display_name": "Kiyara 465 Peaberry"
     },
@@ -9054,7 +8991,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:39:12.075905+00:00",
+      "scraped_at": "2026-06-09T05:29:31.458598+00:00",
       "added_at": "2026-06-06",
       "display_name": "Kiyara 818"
     },
@@ -9082,7 +9019,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:39:12.075914+00:00",
+      "scraped_at": "2026-06-09T05:29:31.458606+00:00",
       "added_at": "2026-06-06",
       "display_name": "Mungaria Natural"
     },
@@ -9110,7 +9047,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:39:12.075923+00:00",
+      "scraped_at": "2026-06-09T05:29:31.458615+00:00",
       "added_at": "2026-06-06",
       "display_name": "Gititu Natural"
     },
@@ -9138,7 +9075,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:39:12.075931+00:00",
+      "scraped_at": "2026-06-09T05:29:31.458624+00:00",
       "added_at": "2026-06-06",
       "display_name": "Meru Sanis Natural"
     },
@@ -9167,7 +9104,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:40:18.112338+00:00",
+      "scraped_at": "2026-06-09T05:30:40.566351+00:00",
       "added_at": "2026-06-06",
       "display_name": "Coe Guatemala Exotic Natural Honey Rank 1"
     },
@@ -9195,7 +9132,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:40:18.112377+00:00",
+      "scraped_at": "2026-06-09T05:30:40.566391+00:00",
       "added_at": "2026-06-06",
       "display_name": "Guatemala Finca Amatillo Bourbon Washed"
     },
@@ -9223,7 +9160,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:40:18.112389+00:00",
+      "scraped_at": "2026-06-09T05:30:40.566403+00:00",
       "added_at": "2026-06-06",
       "display_name": "Guatemala La Florida Caturra Washed"
     },
@@ -9251,7 +9188,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:40:18.112399+00:00",
+      "scraped_at": "2026-06-09T05:30:40.566412+00:00",
       "added_at": "2026-06-06",
       "display_name": "Guatemala La Florida Villa Sarchi Washed"
     },
@@ -9280,7 +9217,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:40:18.112408+00:00",
+      "scraped_at": "2026-06-09T05:30:40.566422+00:00",
       "added_at": "2026-06-06",
       "display_name": "Guatemala La Serrania Geisha Natural"
     },
@@ -9309,7 +9246,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:40:18.112418+00:00",
+      "scraped_at": "2026-06-09T05:30:40.566433+00:00",
       "added_at": "2026-06-06",
       "display_name": "Guatemala Finca Palo Blanco Bourbon Washed"
     },
@@ -9340,7 +9277,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:40:23.529960+00:00",
+      "scraped_at": "2026-06-09T05:30:47.442497+00:00",
       "added_at": "2026-06-06",
       "display_name": "Guatemala Santa Ana Geisha Natural"
     },
@@ -9371,7 +9308,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:40:23.529987+00:00",
+      "scraped_at": "2026-06-09T05:30:47.442526+00:00",
       "added_at": "2026-06-06",
       "display_name": "Guatemala Agua Tibia Geisha"
     },
@@ -9402,7 +9339,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:40:23.530000+00:00",
+      "scraped_at": "2026-06-09T05:30:47.442539+00:00",
       "added_at": "2026-06-06",
       "display_name": "Guatemala Huehuetenango Union Cantinil"
     },
@@ -9432,7 +9369,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:40:23.530011+00:00",
+      "scraped_at": "2026-06-09T05:30:47.442549+00:00",
       "added_at": "2026-06-06",
       "display_name": "Guatemala El Divino Niño"
     },
@@ -9462,7 +9399,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:40:23.530020+00:00",
+      "scraped_at": "2026-06-09T05:30:47.442559+00:00",
       "added_at": "2026-06-06",
       "display_name": "Guatemala Palo Blanco"
     },
@@ -9492,7 +9429,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:40:23.530029+00:00",
+      "scraped_at": "2026-06-09T05:30:47.442568+00:00",
       "added_at": "2026-06-06",
       "display_name": "Guatemala El Taro Lot.2"
     },
@@ -9522,7 +9459,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:40:23.530038+00:00",
+      "scraped_at": "2026-06-09T05:30:47.442577+00:00",
       "added_at": "2026-06-06",
       "display_name": "Guatemala Rancho Las Vegas Lot.2"
     },
@@ -9552,7 +9489,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:40:23.530046+00:00",
+      "scraped_at": "2026-06-09T05:30:47.442585+00:00",
       "added_at": "2026-06-06",
       "display_name": "Guatemala Rancho Las Vegas Lot.1"
     },
@@ -9582,7 +9519,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:40:23.530054+00:00",
+      "scraped_at": "2026-06-09T05:30:47.442594+00:00",
       "added_at": "2026-06-06",
       "display_name": "Guatemala Jocote"
     },
@@ -9612,7 +9549,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:40:23.530064+00:00",
+      "scraped_at": "2026-06-09T05:30:47.442604+00:00",
       "added_at": "2026-06-06",
       "display_name": "Guatemala Agua Tibia Geisha"
     },
@@ -9642,7 +9579,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:40:23.530073+00:00",
+      "scraped_at": "2026-06-09T05:30:47.442613+00:00",
       "added_at": "2026-06-06",
       "display_name": "Guatemala Agua Tibia H1"
     },
@@ -9672,7 +9609,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:40:23.530081+00:00",
+      "scraped_at": "2026-06-09T05:30:47.442622+00:00",
       "added_at": "2026-06-06",
       "display_name": "Guatemala Huehuetenango Libre Selection"
     },
@@ -9701,7 +9638,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:40:23.530089+00:00",
+      "scraped_at": "2026-06-09T05:30:47.442631+00:00",
       "added_at": "2026-06-06",
       "display_name": "Guatemala Entre Volcanes"
     },
@@ -9731,7 +9668,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:40:23.530097+00:00",
+      "scraped_at": "2026-06-09T05:30:47.442639+00:00",
       "added_at": "2026-06-06",
       "display_name": "Guatemala El Tempixque"
     },
@@ -9761,7 +9698,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:40:23.530104+00:00",
+      "scraped_at": "2026-06-09T05:30:47.442647+00:00",
       "added_at": "2026-06-06",
       "display_name": "Guatemala Entre Volcanes"
     },
@@ -9790,7 +9727,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:40:29.532219+00:00",
+      "scraped_at": "2026-06-09T05:30:53.506622+00:00",
       "added_at": "2026-06-06",
       "display_name": "Guatemala El Incierto Pacamara Washed"
     },
@@ -9819,7 +9756,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:40:29.532251+00:00",
+      "scraped_at": "2026-06-09T05:30:53.506655+00:00",
       "added_at": "2026-06-06",
       "display_name": "Guatemala El Socorro Geisha Washed"
     },
@@ -9842,12 +9779,12 @@
         "Dark Chocolate"
       ],
       "price": "25500",
-      "in_stock": false,
+      "in_stock": true,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:40:29.532261+00:00",
+      "scraped_at": "2026-06-09T05:30:53.506665+00:00",
       "added_at": "2026-06-06",
       "display_name": "Guatemala SHB Decaf"
     },
@@ -9875,7 +9812,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:40:29.532271+00:00",
+      "scraped_at": "2026-06-09T05:30:53.506675+00:00",
       "added_at": "2026-06-06",
       "display_name": "Guatemala Huehuetenango Xin Washed"
     },
@@ -9898,12 +9835,12 @@
         "Caramel"
       ],
       "price": "20500",
-      "in_stock": true,
+      "in_stock": false,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:40:29.532280+00:00",
+      "scraped_at": "2026-06-09T05:30:53.506685+00:00",
       "added_at": "2026-06-06",
       "display_name": "Guatemala SHB EP"
     },
@@ -9931,7 +9868,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:40:29.532290+00:00",
+      "scraped_at": "2026-06-09T05:30:53.506695+00:00",
       "added_at": "2026-06-06",
       "display_name": "Guatemala El Socorro San Lorenzo"
     },
@@ -9959,7 +9896,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:40:29.532298+00:00",
+      "scraped_at": "2026-06-09T05:30:53.506704+00:00",
       "added_at": "2026-06-08",
       "display_name": "Guatemala Antigua Panorama SHB EP"
     },
@@ -9987,7 +9924,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:40:35.167855+00:00",
+      "scraped_at": "2026-06-09T05:31:00.571189+00:00",
       "added_at": "2026-06-06",
       "display_name": "SHB EP New Oriente JV"
     },
@@ -10017,7 +9954,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:40:35.167881+00:00",
+      "scraped_at": "2026-06-09T05:31:00.571216+00:00",
       "added_at": "2026-06-06",
       "display_name": "Antigua Finca Medina SHB"
     },
@@ -10046,7 +9983,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:40:35.167891+00:00",
+      "scraped_at": "2026-06-09T05:31:00.571227+00:00",
       "added_at": "2026-06-06",
       "display_name": "SHB Antigua La Gloria"
     },
@@ -10075,7 +10012,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:40:48.983367+00:00",
+      "scraped_at": "2026-06-09T05:31:17.536277+00:00",
       "added_at": "2026-06-06",
       "display_name": "Guatemala SHB Huehuetenango"
     },
@@ -10101,12 +10038,12 @@
         "Malt"
       ],
       "price": "16900",
-      "in_stock": true,
+      "in_stock": false,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:40:48.983392+00:00",
+      "scraped_at": "2026-06-09T05:31:17.536304+00:00",
       "added_at": "2026-06-06",
       "display_name": "Guatemala SHB Antigua"
     },
@@ -10130,12 +10067,12 @@
         "Oatmeal"
       ],
       "price": "17400",
-      "in_stock": false,
+      "in_stock": true,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:40:48.983404+00:00",
+      "scraped_at": "2026-06-09T05:31:17.536316+00:00",
       "added_at": "2026-06-06",
       "display_name": "Guatemala SHB Huehuetenango"
     },
@@ -10161,12 +10098,12 @@
         "Malt"
       ],
       "price": "17,500 KRW",
-      "in_stock": true,
+      "in_stock": false,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:40:48.983414+00:00",
+      "scraped_at": "2026-06-09T05:31:17.536326+00:00",
       "added_at": "2026-06-06",
       "display_name": "Guatemala SHB Antigua"
     },
@@ -10195,7 +10132,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:40:48.983425+00:00",
+      "scraped_at": "2026-06-09T05:31:17.536338+00:00",
       "added_at": "2026-06-06",
       "display_name": "Guatemala La Hermosa SHB EP Acatenango Mama Cata Washed"
     },
@@ -10223,7 +10160,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:40:48.983443+00:00",
+      "scraped_at": "2026-06-09T05:31:17.536347+00:00",
       "added_at": "2026-06-06",
       "display_name": "Guatemala La Hermosa SHB EP Don Baloo Washed"
     },
@@ -10247,12 +10184,12 @@
         "Malt"
       ],
       "price": "25800",
-      "in_stock": true,
+      "in_stock": false,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:40:48.983451+00:00",
+      "scraped_at": "2026-06-09T05:31:17.536355+00:00",
       "added_at": "2026-06-06",
       "display_name": "Guatemala SHB EP Sugarcane Decaf"
     },
@@ -10276,12 +10213,12 @@
         "Black soybean"
       ],
       "price": "27500",
-      "in_stock": true,
+      "in_stock": false,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:40:48.983459+00:00",
+      "scraped_at": "2026-06-09T05:31:17.536363+00:00",
       "added_at": "2026-06-06",
       "display_name": "Guatemala SHB Swiss Water Decaf"
     },
@@ -10308,7 +10245,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:40:53.979680+00:00",
+      "scraped_at": "2026-06-09T05:31:23.162824+00:00",
       "added_at": "2026-06-06",
       "display_name": "Guatemala Antigua SHB Washed"
     },
@@ -10335,7 +10272,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:40:53.979749+00:00",
+      "scraped_at": "2026-06-09T05:31:23.162856+00:00",
       "added_at": "2026-06-06",
       "display_name": "Guatemala Huehuetenango SHB Washed"
     },
@@ -10362,7 +10299,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:40:53.979765+00:00",
+      "scraped_at": "2026-06-09T05:31:23.162866+00:00",
       "added_at": "2026-06-06",
       "display_name": "Guatemala SHB EP Washed"
     },
@@ -10389,7 +10326,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:40:56.445531+00:00",
+      "scraped_at": "2026-06-09T05:31:27.120535+00:00",
       "added_at": "2026-06-06",
       "display_name": "SHB Genuine Antigua La Villa"
     },
@@ -10414,7 +10351,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:40:56.445556+00:00",
+      "scraped_at": "2026-06-09T05:31:27.120559+00:00",
       "added_at": "2026-06-06",
       "display_name": "SHB Jasmine"
     },
@@ -10437,7 +10374,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:40:56.445567+00:00",
+      "scraped_at": "2026-06-09T05:31:27.120571+00:00",
       "added_at": "2026-06-06",
       "display_name": "Santa Felisa Geisha 2722 Natural 1600"
     },
@@ -10460,7 +10397,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:40:56.445583+00:00",
+      "scraped_at": "2026-06-09T05:31:27.120589+00:00",
       "added_at": "2026-06-06",
       "display_name": "Santa Felisa Red Sidra Natural 1550"
     },
@@ -10483,7 +10420,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:40:56.445593+00:00",
+      "scraped_at": "2026-06-09T05:31:27.120600+00:00",
       "added_at": "2026-06-06",
       "display_name": "Santa Felisa SL-28 Natural 1550"
     },
@@ -10506,7 +10443,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:40:56.445602+00:00",
+      "scraped_at": "2026-06-09T05:31:27.120610+00:00",
       "added_at": "2026-06-06",
       "display_name": "Santa Felisa Red Caturra Natural"
     },
@@ -10529,7 +10466,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:40:56.445625+00:00",
+      "scraped_at": "2026-06-09T05:31:27.120620+00:00",
       "added_at": "2026-06-06",
       "display_name": "Santa Felisa Yellow Catuai Natural 1500"
     },
@@ -10557,7 +10494,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:40:56.445633+00:00",
+      "scraped_at": "2026-06-09T05:31:27.120629+00:00",
       "added_at": "2026-06-06",
       "display_name": "Genuine Antigua La Villa"
     },
@@ -10580,7 +10517,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:40:56.445642+00:00",
+      "scraped_at": "2026-06-09T05:31:27.120638+00:00",
       "added_at": "2026-06-06",
       "display_name": "Guatemala Huehuetenango Mountain War…"
     },
@@ -10603,7 +10540,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:40:56.445651+00:00",
+      "scraped_at": "2026-06-09T05:31:27.120647+00:00",
       "added_at": "2026-06-06",
       "display_name": "Santa Felisa Blue Jade Puli Washed Triple E…"
     },
@@ -10631,7 +10568,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:40:56.445661+00:00",
+      "scraped_at": "2026-06-09T05:31:27.120655+00:00",
       "added_at": "2026-06-06",
       "display_name": "Santa Felisa Yellow Catuai Puli Washed 더…"
     },
@@ -10659,7 +10596,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:40:56.445670+00:00",
+      "scraped_at": "2026-06-09T05:31:27.120665+00:00",
       "added_at": "2026-06-06",
       "display_name": "Santa Felisa Anafe 14 Natural 1500"
     },
@@ -10687,7 +10624,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:40:56.445679+00:00",
+      "scraped_at": "2026-06-09T05:31:27.120674+00:00",
       "added_at": "2026-06-06",
       "display_name": "Santa Felisa SL-28 Natural Wild East…"
     },
@@ -10714,7 +10651,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:40:56.445687+00:00",
+      "scraped_at": "2026-06-09T05:31:27.120684+00:00",
       "added_at": "2026-06-06",
       "display_name": "Santa Felisa Blue Jade Puli Washed"
     },
@@ -10741,7 +10678,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:40:56.445734+00:00",
+      "scraped_at": "2026-06-09T05:31:27.120692+00:00",
       "added_at": "2026-06-06",
       "display_name": "Santa Felisa Blue Jade Natural"
     },
@@ -10769,7 +10706,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:40:56.445749+00:00",
+      "scraped_at": "2026-06-09T05:31:27.120701+00:00",
       "added_at": "2026-06-06",
       "display_name": "Santa Felisa Geisha 2722 Orange Honey 1…"
     },
@@ -10797,7 +10734,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:40:56.445762+00:00",
+      "scraped_at": "2026-06-09T05:31:27.120710+00:00",
       "added_at": "2026-06-06",
       "display_name": "Santa Felisa Geisha 2722 Puli Washed 더…"
     },
@@ -10825,7 +10762,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:40:56.445773+00:00",
+      "scraped_at": "2026-06-09T05:31:27.120720+00:00",
       "added_at": "2026-06-06",
       "display_name": "Santa Felisa Red Sidra Natural Wild Is…"
     },
@@ -10853,7 +10790,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:40:56.445781+00:00",
+      "scraped_at": "2026-06-09T05:31:27.120768+00:00",
       "added_at": "2026-06-06",
       "display_name": "Santa Felisa Geisha 2722 Natural 1600"
     },
@@ -10881,7 +10818,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:40:56.445789+00:00",
+      "scraped_at": "2026-06-09T05:31:27.120782+00:00",
       "added_at": "2026-06-06",
       "display_name": "Santa Felisa Dwarf Geisha Natural 1500"
     },
@@ -10909,7 +10846,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:40:56.445798+00:00",
+      "scraped_at": "2026-06-09T05:31:27.120791+00:00",
       "added_at": "2026-06-06",
       "display_name": "Atitlán"
     },
@@ -10932,7 +10869,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:40:56.445809+00:00",
+      "scraped_at": "2026-06-09T05:31:27.120803+00:00",
       "added_at": "2026-06-06",
       "display_name": "Santa Felisa Guatemala Gesha 2…"
     },
@@ -10960,7 +10897,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:42:03.889915+00:00",
+      "scraped_at": "2026-06-09T05:32:36.796689+00:00",
       "added_at": "2026-06-06",
       "display_name": "Panama Abu Coffee Gw 3150 Geisha Washed"
     },
@@ -10989,7 +10926,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:42:03.889927+00:00",
+      "scraped_at": "2026-06-09T05:32:36.796701+00:00",
       "added_at": "2026-06-06",
       "display_name": "Panama Janson Alpes Lot 933 Geisha Natural"
     },
@@ -11018,7 +10955,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:42:03.889937+00:00",
+      "scraped_at": "2026-06-09T05:32:36.796712+00:00",
       "added_at": "2026-06-06",
       "display_name": "Panama Bambito Farm Heart Caturra Catuai Washed"
     },
@@ -11048,7 +10985,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:42:08.533557+00:00",
+      "scraped_at": "2026-06-09T05:32:43.626090+00:00",
       "added_at": "2026-06-06",
       "display_name": "Panama Finca Hartmann Caturra"
     },
@@ -11078,7 +11015,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:42:08.533587+00:00",
+      "scraped_at": "2026-06-09T05:32:43.626119+00:00",
       "added_at": "2026-06-06",
       "display_name": "Panama Finca Hartmann Geisha Natural"
     },
@@ -11108,7 +11045,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:42:08.533600+00:00",
+      "scraped_at": "2026-06-09T05:32:43.626130+00:00",
       "added_at": "2026-06-06",
       "display_name": "Panama Finca Hartmann Geisha"
     },
@@ -11138,7 +11075,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:42:08.533611+00:00",
+      "scraped_at": "2026-06-09T05:32:43.626141+00:00",
       "added_at": "2026-06-06",
       "display_name": "Panama Finca Auromar Firestone Geisha"
     },
@@ -11167,7 +11104,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:42:13.858861+00:00",
+      "scraped_at": "2026-06-09T05:32:51.115716+00:00",
       "added_at": "2026-06-08",
       "display_name": "Panama Garrido Highland Panela Dulce Geisha Natural"
     },
@@ -11191,12 +11128,12 @@
         "Green Tea"
       ],
       "price": "32,500",
-      "in_stock": true,
+      "in_stock": false,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:42:13.858902+00:00",
+      "scraped_at": "2026-06-09T05:32:51.115796+00:00",
       "added_at": "2026-06-06",
       "display_name": "Panama Deborah Illumination Geisha Washed Carbonic Maceration"
     },
@@ -11220,12 +11157,12 @@
         "Chocolate"
       ],
       "price": "141000",
-      "in_stock": false,
+      "in_stock": true,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:42:13.858915+00:00",
+      "scraped_at": "2026-06-09T05:32:51.115809+00:00",
       "added_at": "2026-06-06",
       "display_name": "Panama El Bahareke Symbiosis Coffee Geisha Anaerobic Natural"
     },
@@ -11253,7 +11190,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:42:13.858924+00:00",
+      "scraped_at": "2026-06-09T05:32:51.115819+00:00",
       "added_at": "2026-06-06",
       "display_name": "Panama El Bahareke Geisha Washed"
     },
@@ -11276,12 +11213,12 @@
         "Chocolate"
       ],
       "price": "64000",
-      "in_stock": true,
+      "in_stock": false,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:42:13.858934+00:00",
+      "scraped_at": "2026-06-09T05:32:51.115829+00:00",
       "added_at": "2026-06-06",
       "display_name": "Panama Garrido Highland Panela Dulce Geisha Washed"
     },
@@ -11310,7 +11247,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:42:13.858943+00:00",
+      "scraped_at": "2026-06-09T05:32:51.115837+00:00",
       "added_at": "2026-06-06",
       "display_name": "Panama Abu Geisha GW-3160 Washed"
     },
@@ -11339,7 +11276,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:42:13.858951+00:00",
+      "scraped_at": "2026-06-09T05:32:51.115844+00:00",
       "added_at": "2026-06-06",
       "display_name": "Panama Abu Geisha GW-3150 Washed"
     },
@@ -11368,7 +11305,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:42:13.858961+00:00",
+      "scraped_at": "2026-06-09T05:32:51.115853+00:00",
       "added_at": "2026-06-06",
       "display_name": "Panama Ferien Pacamara Washed"
     },
@@ -11399,7 +11336,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:42:18.385364+00:00",
+      "scraped_at": "2026-06-09T05:32:57.116421+00:00",
       "added_at": "2026-06-06",
       "display_name": "La Esmeralda Private Collection El Bello Geisha Washed"
     },
@@ -11431,7 +11368,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:42:18.385394+00:00",
+      "scraped_at": "2026-06-09T05:32:57.116450+00:00",
       "added_at": "2026-06-06",
       "display_name": "La Esmeralda Private Collection El Bello Geisha Natural"
     },
@@ -11459,7 +11396,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:42:31.793342+00:00",
+      "scraped_at": "2026-06-09T05:33:15.087988+00:00",
       "added_at": "2026-06-06",
       "display_name": "Panama La Santa Washed"
     },
@@ -11487,7 +11424,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:42:31.793371+00:00",
+      "scraped_at": "2026-06-09T05:33:15.088017+00:00",
       "added_at": "2026-06-06",
       "display_name": "Panama Savage Elixir Anaerobic Natural"
     },
@@ -11515,7 +11452,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:42:31.793381+00:00",
+      "scraped_at": "2026-06-09T05:33:15.088028+00:00",
       "added_at": "2026-06-06",
       "display_name": "Panama Savage Pacamara Natural"
     },
@@ -11539,12 +11476,12 @@
         "Syrup"
       ],
       "price": "105000",
-      "in_stock": true,
+      "in_stock": false,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:42:31.793391+00:00",
+      "scraped_at": "2026-06-09T05:33:15.088038+00:00",
       "added_at": "2026-06-06",
       "display_name": "Panama Hartmann Chico Gayo Natural"
     },
@@ -11574,7 +11511,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:42:31.793402+00:00",
+      "scraped_at": "2026-06-09T05:33:15.088047+00:00",
       "added_at": "2026-06-06",
       "display_name": "Panama Bonita Spring SL 28 Natural"
     },
@@ -11597,12 +11534,12 @@
         "Starch syrup"
       ],
       "price": "105000",
-      "in_stock": true,
+      "in_stock": false,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:42:31.793411+00:00",
+      "scraped_at": "2026-06-09T05:33:15.088056+00:00",
       "added_at": "2026-06-06",
       "display_name": "Panama Bonitas Spring Ush Ush Natural"
     },
@@ -11628,12 +11565,12 @@
         "Tangerine chocolate"
       ],
       "price": "149500",
-      "in_stock": true,
+      "in_stock": false,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:42:31.793429+00:00",
+      "scraped_at": "2026-06-09T05:33:15.088074+00:00",
       "added_at": "2026-06-06",
       "display_name": "Panama Elida Estate Geisha Natural"
     },
@@ -11644,7 +11581,7 @@
       "origin": "Panama",
       "region": null,
       "farm": "Janson Alpes",
-      "producer": null,
+      "producer": "Janson Alpes",
       "altitude": null,
       "variety": "Geisha",
       "process": "Washed",
@@ -11658,12 +11595,12 @@
         "Syrup"
       ],
       "price": "219000",
-      "in_stock": false,
+      "in_stock": true,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:42:31.793439+00:00",
+      "scraped_at": "2026-06-09T05:33:15.088085+00:00",
       "added_at": "2026-06-06",
       "display_name": "Panama Janson Alps #990 Geisha Washed"
     },
@@ -11695,7 +11632,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:42:31.793447+00:00",
+      "scraped_at": "2026-06-09T05:33:15.088094+00:00",
       "added_at": "2026-06-06",
       "display_name": "Panama Elida Estate Geisha DRD Washed"
     },
@@ -11726,7 +11663,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:42:31.793456+00:00",
+      "scraped_at": "2026-06-09T05:33:15.088102+00:00",
       "added_at": "2026-06-06",
       "display_name": "Panama Abu Coffee Geisha Washed #3190"
     },
@@ -11754,7 +11691,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:42:40.108006+00:00",
+      "scraped_at": "2026-06-09T05:33:24.514059+00:00",
       "added_at": "2026-06-06",
       "display_name": "Esmeralda Special Geisha Washed G…"
     },
@@ -11782,7 +11719,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:42:40.108034+00:00",
+      "scraped_at": "2026-06-09T05:33:24.514086+00:00",
       "added_at": "2026-06-06",
       "display_name": "Esmeralda Special Geisha Natural AGUILA…"
     },
@@ -11810,7 +11747,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:42:40.108046+00:00",
+      "scraped_at": "2026-06-09T05:33:24.514097+00:00",
       "added_at": "2026-06-06",
       "display_name": "Esmeralda Private Collection Washed El Vero (…"
     },
@@ -11838,7 +11775,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:42:40.108055+00:00",
+      "scraped_at": "2026-06-09T05:33:24.514108+00:00",
       "added_at": "2026-06-06",
       "display_name": "Esmeralda Private Collection Natural El Vero (…"
     },
@@ -11866,7 +11803,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:42:40.108065+00:00",
+      "scraped_at": "2026-06-09T05:33:24.514118+00:00",
       "added_at": "2026-06-06",
       "display_name": "CCD Los Pozos Geisha Natural Intrinsic"
     },
@@ -11897,7 +11834,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:42:40.108075+00:00",
+      "scraped_at": "2026-06-09T05:33:24.514127+00:00",
       "added_at": "2026-06-06",
       "display_name": "Cotua Rio Cristal Pacamara Washed #18…"
     },
@@ -11928,7 +11865,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:42:40.108083+00:00",
+      "scraped_at": "2026-06-09T05:33:24.514136+00:00",
       "added_at": "2026-06-06",
       "display_name": "Cotua Duncan Maragogype Natural #859"
     },
@@ -11958,7 +11895,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:42:40.108093+00:00",
+      "scraped_at": "2026-06-09T05:33:24.514146+00:00",
       "added_at": "2026-06-06",
       "display_name": "Mamacata Mokita ASD Natural 2021 BO…"
     },
@@ -11987,7 +11924,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:42:40.108102+00:00",
+      "scraped_at": "2026-06-09T05:33:24.514155+00:00",
       "added_at": "2026-06-06",
       "display_name": "Panama Finca Lérida Geisha Natural 1500"
     },
@@ -12015,7 +11952,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:42:40.108112+00:00",
+      "scraped_at": "2026-06-09T05:33:24.514165+00:00",
       "added_at": "2026-06-06",
       "display_name": "Panama Finca Lérida Catuai Natural BOP Lot"
     },
@@ -12041,7 +11978,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:42:40.108122+00:00",
+      "scraped_at": "2026-06-09T05:33:24.514175+00:00",
       "added_at": "2026-06-06",
       "display_name": "Cafe Cotua Duncan Black Current Cognac"
     },
@@ -12070,7 +12007,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:42:40.108130+00:00",
+      "scraped_at": "2026-06-09T05:33:24.514184+00:00",
       "added_at": "2026-06-06",
       "display_name": "Panama Finca Lérida Geisha Washed 1800"
     },
@@ -12098,7 +12035,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:42:40.108138+00:00",
+      "scraped_at": "2026-06-09T05:33:24.514192+00:00",
       "added_at": "2026-06-06",
       "display_name": "Panama Finca Lérida Geisha Honey 1750"
     },
@@ -12127,7 +12064,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:42:40.108146+00:00",
+      "scraped_at": "2026-06-09T05:33:24.514201+00:00",
       "added_at": "2026-06-06",
       "display_name": "Panama Finca Lérida Geisha Natural 1800 PP-019…"
     },
@@ -12156,7 +12093,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:42:40.108160+00:00",
+      "scraped_at": "2026-06-09T05:33:24.514209+00:00",
       "added_at": "2026-06-06",
       "display_name": "Geisha Private Collection Cañas Ver…"
     },
@@ -12185,7 +12122,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:42:40.108168+00:00",
+      "scraped_at": "2026-06-09T05:33:24.514221+00:00",
       "added_at": "2026-06-06",
       "display_name": "Geisha Private Collection Cañas Ver…"
     },
@@ -12208,7 +12145,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:42:40.108176+00:00",
+      "scraped_at": "2026-06-09T05:33:24.514229+00:00",
       "added_at": "2026-06-06",
       "display_name": "Finca Lérida Geisha Natural 1600 Lot …"
     },
@@ -12231,7 +12168,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:42:40.108183+00:00",
+      "scraped_at": "2026-06-09T05:33:24.514237+00:00",
       "added_at": "2026-06-06",
       "display_name": "Finca Lérida Geisha Honey 1600 Lot 0…"
     },
@@ -12254,7 +12191,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:42:40.108191+00:00",
+      "scraped_at": "2026-06-09T05:33:24.514245+00:00",
       "added_at": "2026-06-06",
       "display_name": "Finca Lérida Geisha Washed 1700 Lot …"
     },
@@ -12277,7 +12214,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:42:40.108199+00:00",
+      "scraped_at": "2026-06-09T05:33:24.514252+00:00",
       "added_at": "2026-06-06",
       "display_name": "Finca Lérida Geisha Washed 1800 Lot …"
     },
@@ -12305,7 +12242,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:42:40.108207+00:00",
+      "scraped_at": "2026-06-09T05:33:24.514259+00:00",
       "added_at": "2026-06-06",
       "display_name": "Finca Lérida Geisha Washed Cascada #…"
     },
@@ -12336,7 +12273,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:42:40.108214+00:00",
+      "scraped_at": "2026-06-09T05:33:24.514268+00:00",
       "added_at": "2026-06-06",
       "display_name": "Coto Las Brujas Geisha Natural #747"
     },
@@ -12367,7 +12304,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:42:40.108222+00:00",
+      "scraped_at": "2026-06-09T05:33:24.514276+00:00",
       "added_at": "2026-06-06",
       "display_name": "Coto Las Brujas Geisha Natural #863"
     },
@@ -12390,7 +12327,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:42:40.108233+00:00",
+      "scraped_at": "2026-06-09T05:33:24.514286+00:00",
       "added_at": "2026-06-06",
       "display_name": "Finca Lerida Panama Geisha Bla…"
     },
@@ -12413,7 +12350,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:42:40.108244+00:00",
+      "scraped_at": "2026-06-09T05:33:24.514297+00:00",
       "added_at": "2026-06-06",
       "display_name": "KOTOWA Panama Duncan Natural 3…"
     },
@@ -12436,7 +12373,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:42:40.108254+00:00",
+      "scraped_at": "2026-06-09T05:33:24.514309+00:00",
       "added_at": "2026-06-06",
       "display_name": "Finca Lerida Panama Geisha Was…"
     },
@@ -12459,7 +12396,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:42:40.108265+00:00",
+      "scraped_at": "2026-06-09T05:33:24.514320+00:00",
       "added_at": "2026-06-06",
       "display_name": "La Esmeralda Panama El Velo Ge…"
     },
@@ -12488,7 +12425,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:43:47.257962+00:00",
+      "scraped_at": "2026-06-09T05:34:33.887289+00:00",
       "added_at": "2026-06-06",
       "display_name": "Brazil Baba Blend Red Catuai Natural"
     },
@@ -12516,7 +12453,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:43:47.257989+00:00",
+      "scraped_at": "2026-06-09T05:34:33.887316+00:00",
       "added_at": "2026-06-06",
       "display_name": "Brazil Baba Blend Red Catuai Pulped Natural"
     },
@@ -12546,7 +12483,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:43:52.258823+00:00",
+      "scraped_at": "2026-06-09T05:34:40.305233+00:00",
       "added_at": "2026-06-06",
       "display_name": "Brazil Cerrado Natural Libre Selection"
     },
@@ -12576,7 +12513,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:43:52.258851+00:00",
+      "scraped_at": "2026-06-09T05:34:40.305261+00:00",
       "added_at": "2026-06-06",
       "display_name": "Brazil Sul De Minas Natural Libre Selection"
     },
@@ -12599,12 +12536,12 @@
         "Chocolate"
       ],
       "price": "18000",
-      "in_stock": false,
+      "in_stock": true,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:43:57.499734+00:00",
+      "scraped_at": "2026-06-09T05:34:46.467192+00:00",
       "added_at": "2026-06-06",
       "display_name": "Brazil Cerrado 14/16 NY2 FC"
     },
@@ -12632,7 +12569,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:43:57.499766+00:00",
+      "scraped_at": "2026-06-09T05:34:46.467220+00:00",
       "added_at": "2026-06-06",
       "display_name": "Brazil Santa Ines Natural"
     },
@@ -12660,7 +12597,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:43:57.499777+00:00",
+      "scraped_at": "2026-06-09T05:34:46.467230+00:00",
       "added_at": "2026-06-06",
       "display_name": "Brazil Santa Lucia Natural"
     },
@@ -12688,7 +12625,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:43:57.499788+00:00",
+      "scraped_at": "2026-06-09T05:34:46.467241+00:00",
       "added_at": "2026-06-06",
       "display_name": "Brazil Santa Ines Pulped Natural"
     },
@@ -12716,7 +12653,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:43:57.499797+00:00",
+      "scraped_at": "2026-06-09T05:34:46.467250+00:00",
       "added_at": "2026-06-06",
       "display_name": "Brazil Santa Lucia Pulped Natural"
     },
@@ -12743,7 +12680,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:44:03.109605+00:00",
+      "scraped_at": "2026-06-09T05:34:52.899617+00:00",
       "added_at": "2026-06-06",
       "display_name": "Datterra Peaberry Classic"
     },
@@ -12786,7 +12723,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:44:03.109632+00:00",
+      "scraped_at": "2026-06-09T05:34:52.899644+00:00",
       "added_at": "2026-06-06",
       "display_name": "Datterra Espresso Yellow"
     },
@@ -12818,7 +12755,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:44:03.109643+00:00",
+      "scraped_at": "2026-06-09T05:34:52.899654+00:00",
       "added_at": "2026-06-06",
       "display_name": "Datterra Espresso Collection"
     },
@@ -12847,7 +12784,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:44:03.109652+00:00",
+      "scraped_at": "2026-06-09T05:34:52.899664+00:00",
       "added_at": "2026-06-06",
       "display_name": "Datterra Sunrise Classic"
     },
@@ -12877,7 +12814,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:44:03.109661+00:00",
+      "scraped_at": "2026-06-09T05:34:52.899673+00:00",
       "added_at": "2026-06-06",
       "display_name": "Datterra Buena Vista"
     },
@@ -12906,7 +12843,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:44:03.109670+00:00",
+      "scraped_at": "2026-06-09T05:34:52.899683+00:00",
       "added_at": "2026-06-06",
       "display_name": "Fazenda Campestre Mundo Novo Natural"
     },
@@ -12935,7 +12872,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:44:03.109688+00:00",
+      "scraped_at": "2026-06-09T05:34:52.899702+00:00",
       "added_at": "2026-06-06",
       "display_name": "Monte Bello Yellow Bourbon P/N 16up"
     },
@@ -12962,7 +12899,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:44:03.109725+00:00",
+      "scraped_at": "2026-06-09T05:34:52.899711+00:00",
       "added_at": "2026-06-06",
       "display_name": "Robusta Conilon"
     },
@@ -12990,7 +12927,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:44:03.109732+00:00",
+      "scraped_at": "2026-06-09T05:34:52.899719+00:00",
       "added_at": "2026-06-06",
       "display_name": "Decaf"
     },
@@ -13019,7 +12956,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:44:03.109742+00:00",
+      "scraped_at": "2026-06-09T05:34:52.899783+00:00",
       "added_at": "2026-06-06",
       "display_name": "Cafe Dolce NY2 16up FC"
     },
@@ -13046,7 +12983,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:44:03.109750+00:00",
+      "scraped_at": "2026-06-09T05:34:52.899794+00:00",
       "added_at": "2026-06-06",
       "display_name": "EA Decaf"
     },
@@ -13074,7 +13011,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:44:03.109759+00:00",
+      "scraped_at": "2026-06-09T05:34:52.899807+00:00",
       "added_at": "2026-06-06",
       "display_name": "Blue Diamond"
     },
@@ -13102,7 +13039,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:44:03.109767+00:00",
+      "scraped_at": "2026-06-09T05:34:52.899816+00:00",
       "added_at": "2026-06-06",
       "display_name": "Black Diamond"
     },
@@ -13134,7 +13071,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:44:03.109775+00:00",
+      "scraped_at": "2026-06-09T05:34:52.899825+00:00",
       "added_at": "2026-06-06",
       "display_name": "Datterra Collection Blossom"
     },
@@ -13179,7 +13116,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:44:03.109784+00:00",
+      "scraped_at": "2026-06-09T05:34:52.899833+00:00",
       "added_at": "2026-06-06",
       "display_name": "Datterra Villa"
     },
@@ -13207,7 +13144,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:44:03.109793+00:00",
+      "scraped_at": "2026-06-09T05:34:52.899843+00:00",
       "added_at": "2026-06-06",
       "display_name": "Cerrado NY2 17/18 FC"
     },
@@ -13235,7 +13172,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:44:21.186197+00:00",
+      "scraped_at": "2026-06-09T05:35:14.264099+00:00",
       "added_at": "2026-06-06",
       "display_name": "Brazil NY2/3 FC 14up Cerrado"
     },
@@ -13260,12 +13197,12 @@
         "Clean after"
       ],
       "price": "14400",
-      "in_stock": true,
+      "in_stock": false,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:44:21.186226+00:00",
+      "scraped_at": "2026-06-09T05:35:14.264127+00:00",
       "added_at": "2026-06-06",
       "display_name": "Brazil NY2 FC 17/18 Cerrado"
     },
@@ -13293,7 +13230,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:44:21.186238+00:00",
+      "scraped_at": "2026-06-09T05:35:14.264139+00:00",
       "added_at": "2026-06-06",
       "display_name": "Brazil NY2/3 FC 14up Cerrado"
     },
@@ -13318,12 +13255,12 @@
         "Clean after"
       ],
       "price": "14900",
-      "in_stock": true,
+      "in_stock": false,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:44:21.186248+00:00",
+      "scraped_at": "2026-06-09T05:35:14.264149+00:00",
       "added_at": "2026-06-06",
       "display_name": "Brazil NY2 FC 17/18 Cerrado"
     },
@@ -13351,7 +13288,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:44:21.186258+00:00",
+      "scraped_at": "2026-06-09T05:35:14.264158+00:00",
       "added_at": "2026-06-06",
       "display_name": "Brazil NY2 FC 17/18 Mogiana"
     },
@@ -13374,12 +13311,12 @@
         "Citrus"
       ],
       "price": "15900",
-      "in_stock": false,
+      "in_stock": true,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:44:21.186268+00:00",
+      "scraped_at": "2026-06-09T05:35:14.264168+00:00",
       "added_at": "2026-06-06",
       "display_name": "Brazil Fazenda Em Mundo Novo Natural"
     },
@@ -13402,12 +13339,12 @@
         "Oatmeal"
       ],
       "price": "15900",
-      "in_stock": true,
+      "in_stock": false,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:44:21.186277+00:00",
+      "scraped_at": "2026-06-09T05:35:14.264178+00:00",
       "added_at": "2026-06-06",
       "display_name": "Brazil NY2 FC 17/18 Mogiana"
     },
@@ -13430,12 +13367,12 @@
         "Sweet After"
       ],
       "price": "16900",
-      "in_stock": true,
+      "in_stock": false,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:44:21.186295+00:00",
+      "scraped_at": "2026-06-09T05:35:14.264196+00:00",
       "added_at": "2026-06-06",
       "display_name": "Brazil NY2 SC17/18 FC Red Bourbon"
     },
@@ -13458,12 +13395,12 @@
         "Sweet Aftertaste"
       ],
       "price": "17400",
-      "in_stock": true,
+      "in_stock": false,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:44:21.186307+00:00",
+      "scraped_at": "2026-06-09T05:35:14.264208+00:00",
       "added_at": "2026-06-06",
       "display_name": "Brazil NY2 SC17/18 FC Red Bourbon"
     },
@@ -13493,7 +13430,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:44:21.186318+00:00",
+      "scraped_at": "2026-06-09T05:35:14.264218+00:00",
       "added_at": "2026-06-06",
       "display_name": "Brazil NY2 FC Yellow Bourbon"
     },
@@ -13522,7 +13459,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:44:21.186329+00:00",
+      "scraped_at": "2026-06-09T05:35:14.264229+00:00",
       "added_at": "2026-06-06",
       "display_name": "Brazil NY2 FC 17/18 Epoca Special Natural BSCA Certified"
     },
@@ -13550,7 +13487,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:44:21.186338+00:00",
+      "scraped_at": "2026-06-09T05:35:14.264238+00:00",
       "added_at": "2026-06-06",
       "display_name": "Brazil NY2 FC 17/18 Cerrado Nova Pulped Natural"
     },
@@ -13578,7 +13515,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:44:21.186349+00:00",
+      "scraped_at": "2026-06-09T05:35:14.264250+00:00",
       "added_at": "2026-06-06",
       "display_name": "Brazil NY2 FC SC16UP Fazenda Carmo Estate Natural BSCA Certified"
     },
@@ -13606,7 +13543,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:44:21.186360+00:00",
+      "scraped_at": "2026-06-09T05:35:14.264261+00:00",
       "added_at": "2026-06-06",
       "display_name": "Brazil Fazenda Em Boia Mundo Novo Natural"
     },
@@ -13629,12 +13566,12 @@
         "Cacao nibs"
       ],
       "price": "22500",
-      "in_stock": true,
+      "in_stock": false,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:44:21.186368+00:00",
+      "scraped_at": "2026-06-09T05:35:14.264270+00:00",
       "added_at": "2026-06-06",
       "display_name": "Brazil NY2/3 SC14/16 Sugar Cane Decaf"
     },
@@ -13657,12 +13594,12 @@
         "Cereal"
       ],
       "price": "23,500 KRW",
-      "in_stock": true,
+      "in_stock": false,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:44:21.186379+00:00",
+      "scraped_at": "2026-06-09T05:35:14.264281+00:00",
       "added_at": "2026-06-06",
       "display_name": "Brazil Fazenda Em Yellow Bourbon Boinhas Natural"
     },
@@ -13690,7 +13627,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:44:21.186387+00:00",
+      "scraped_at": "2026-06-09T05:35:14.264289+00:00",
       "added_at": "2026-06-06",
       "display_name": "Brazil NY2/3 Swiss Water Decaf"
     },
@@ -13719,7 +13656,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:44:21.186396+00:00",
+      "scraped_at": "2026-06-09T05:35:14.264298+00:00",
       "added_at": "2026-06-06",
       "display_name": "Brazil Fazenda Em Yellow Bourbon Boinhas Dark Room"
     },
@@ -13747,7 +13684,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:44:21.186404+00:00",
+      "scraped_at": "2026-06-09T05:35:14.264306+00:00",
       "added_at": "2026-06-06",
       "display_name": "Brazil NY2/3 Swiss Water Decaf"
     },
@@ -13770,12 +13707,12 @@
         "Citrus nuance"
       ],
       "price": "30000",
-      "in_stock": false,
+      "in_stock": true,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:44:21.186413+00:00",
+      "scraped_at": "2026-06-09T05:35:14.264315+00:00",
       "added_at": "2026-06-06",
       "display_name": "Brazil Fazenda Em Paraiso Pulped Natural"
     },
@@ -13799,12 +13736,12 @@
         "Malt"
       ],
       "price": "30000",
-      "in_stock": true,
+      "in_stock": false,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:44:21.186422+00:00",
+      "scraped_at": "2026-06-09T05:35:14.264324+00:00",
       "added_at": "2026-06-06",
       "display_name": "Brazil Fazenda Em Red Catucaí L-MB5 Pulped Natural"
     },
@@ -13827,12 +13764,12 @@
         "Malt"
       ],
       "price": "39500",
-      "in_stock": false,
+      "in_stock": true,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:44:21.186430+00:00",
+      "scraped_at": "2026-06-09T05:35:14.264333+00:00",
       "added_at": "2026-06-06",
       "display_name": "Brazil Fazenda Em Arara Pulped Natural"
     },
@@ -13857,12 +13794,12 @@
         "Malt"
       ],
       "price": "47000",
-      "in_stock": true,
+      "in_stock": false,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:44:21.186440+00:00",
+      "scraped_at": "2026-06-09T05:35:14.264342+00:00",
       "added_at": "2026-06-06",
       "display_name": "Brazil Fazenda Em Red Catucaí Soli Natural"
     },
@@ -13885,12 +13822,12 @@
         "Citrus nuance"
       ],
       "price": "48700",
-      "in_stock": true,
+      "in_stock": false,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:44:21.186448+00:00",
+      "scraped_at": "2026-06-09T05:35:14.264351+00:00",
       "added_at": "2026-06-06",
       "display_name": "Brazil Fazenda Em Supreme Pulped Natural"
     },
@@ -13914,12 +13851,12 @@
         "Malt"
       ],
       "price": "49000",
-      "in_stock": true,
+      "in_stock": false,
       "moisture": null,
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:44:21.186458+00:00",
+      "scraped_at": "2026-06-09T05:35:14.264360+00:00",
       "added_at": "2026-06-06",
       "display_name": "Brazil Fazenda Em Red Catucaí L-S2 Pulped Natural"
     },
@@ -13947,7 +13884,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:44:21.186466+00:00",
+      "scraped_at": "2026-06-09T05:35:14.264368+00:00",
       "added_at": "2026-06-06",
       "display_name": "Brazil Fazenda Em Alecrim Dark Room"
     },
@@ -13973,7 +13910,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:44:25.365815+00:00",
+      "scraped_at": "2026-06-09T05:35:20.001865+00:00",
       "added_at": "2026-06-06",
       "display_name": "Brazil Cerrado NY2 SC17/18 FC Natural"
     },
@@ -14000,7 +13937,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:44:25.365843+00:00",
+      "scraped_at": "2026-06-09T05:35:20.001895+00:00",
       "added_at": "2026-06-06",
       "display_name": "Brazil Fazenda Estrela Carvalha Yellow Para..."
     },
@@ -14025,7 +13962,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:44:25.365856+00:00",
+      "scraped_at": "2026-06-09T05:35:20.001906+00:00",
       "added_at": "2026-06-06",
       "display_name": "Brazil Binal WL56 Red Grape"
     },
@@ -14052,7 +13989,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:44:25.365866+00:00",
+      "scraped_at": "2026-06-09T05:35:20.001916+00:00",
       "added_at": "2026-06-06",
       "display_name": "Brazil Campestre Mundo Novo Natural"
     },
@@ -14077,7 +14014,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:44:25.365875+00:00",
+      "scraped_at": "2026-06-09T05:35:20.001925+00:00",
       "added_at": "2026-06-06",
       "display_name": "Brazil Binal WL44 Chocolate"
     },
@@ -14102,7 +14039,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:44:25.365884+00:00",
+      "scraped_at": "2026-06-09T05:35:20.001933+00:00",
       "added_at": "2026-06-06",
       "display_name": "Brazil Binal WL07 Coconut"
     },
@@ -14131,7 +14068,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:44:28.380991+00:00",
+      "scraped_at": "2026-06-09T05:35:23.608206+00:00",
       "added_at": "2026-06-06",
       "display_name": "NY2 FC Cerrado"
     },
@@ -14160,7 +14097,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:44:28.381017+00:00",
+      "scraped_at": "2026-06-09T05:35:23.608236+00:00",
       "added_at": "2026-06-06",
       "display_name": "Perfect Natural"
     },
@@ -14187,7 +14124,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:44:28.381028+00:00",
+      "scraped_at": "2026-06-09T05:35:23.608247+00:00",
       "added_at": "2026-06-06",
       "display_name": "Cerrado Cafe Brasil"
     },
@@ -14215,7 +14152,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:44:28.381037+00:00",
+      "scraped_at": "2026-06-09T05:35:23.608255+00:00",
       "added_at": "2026-06-06",
       "display_name": "Fruta Choco Porci"
     },
@@ -14243,7 +14180,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:44:28.381047+00:00",
+      "scraped_at": "2026-06-09T05:35:23.608265+00:00",
       "added_at": "2026-06-06",
       "display_name": "Datterra Bourbon Collection Pulped Natural"
     },
@@ -14269,7 +14206,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:44:28.381055+00:00",
+      "scraped_at": "2026-06-09T05:35:23.608273+00:00",
       "added_at": "2026-06-06",
       "display_name": "Berry Choco"
     },
@@ -14297,7 +14234,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:44:28.381063+00:00",
+      "scraped_at": "2026-06-09T05:35:23.608279+00:00",
       "added_at": "2026-06-06",
       "display_name": "Royal Honey"
     },
@@ -14325,7 +14262,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:44:28.381071+00:00",
+      "scraped_at": "2026-06-09T05:35:23.608287+00:00",
       "added_at": "2026-06-06",
       "display_name": "Caramelado"
     },
@@ -14353,7 +14290,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:44:28.381079+00:00",
+      "scraped_at": "2026-06-09T05:35:23.608295+00:00",
       "added_at": "2026-06-06",
       "display_name": "Perfect Natural"
     },
@@ -14381,7 +14318,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:44:28.381088+00:00",
+      "scraped_at": "2026-06-09T05:35:23.608304+00:00",
       "added_at": "2026-06-06",
       "display_name": "Allay Classic"
     },
@@ -14409,7 +14346,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:44:28.381096+00:00",
+      "scraped_at": "2026-06-09T05:35:23.608312+00:00",
       "added_at": "2026-06-06",
       "display_name": "Cacao Amber"
     },
@@ -14437,7 +14374,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:44:28.381105+00:00",
+      "scraped_at": "2026-06-09T05:35:23.608320+00:00",
       "added_at": "2026-06-06",
       "display_name": "Cachaça Rum Barrel"
     },
@@ -14465,7 +14402,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:44:28.381112+00:00",
+      "scraped_at": "2026-06-09T05:35:23.608328+00:00",
       "added_at": "2026-06-06",
       "display_name": "Caramel Mocha"
     },
@@ -14493,7 +14430,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:44:28.381120+00:00",
+      "scraped_at": "2026-06-09T05:35:23.608335+00:00",
       "added_at": "2026-06-06",
       "display_name": "Chocolate Mousse"
     },
@@ -14523,7 +14460,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:44:28.381128+00:00",
+      "scraped_at": "2026-06-09T05:35:23.608343+00:00",
       "added_at": "2026-06-06",
       "display_name": "Dark Choco Berry"
     },
@@ -14552,7 +14489,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:44:28.381137+00:00",
+      "scraped_at": "2026-06-09T05:35:23.608352+00:00",
       "added_at": "2026-06-06",
       "display_name": "Floral Caramelado"
     },
@@ -14580,7 +14517,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:44:28.381146+00:00",
+      "scraped_at": "2026-06-09T05:35:23.608361+00:00",
       "added_at": "2026-06-06",
       "display_name": "Golden Berry"
     },
@@ -14609,7 +14546,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:44:28.381154+00:00",
+      "scraped_at": "2026-06-09T05:35:23.608370+00:00",
       "added_at": "2026-06-06",
       "display_name": "Brazil Cerrado No.2 Fine Cup Decaf"
     },
@@ -14637,7 +14574,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:44:28.381164+00:00",
+      "scraped_at": "2026-06-09T05:35:23.608379+00:00",
       "added_at": "2026-06-06",
       "display_name": "Primavera Yellow Catuai Natural"
     },
@@ -14665,7 +14602,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:44:28.381173+00:00",
+      "scraped_at": "2026-06-09T05:35:23.608388+00:00",
       "added_at": "2026-06-06",
       "display_name": "Primavera Yellow Catuai Pulped Natural"
     },
@@ -14694,7 +14631,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:44:28.381182+00:00",
+      "scraped_at": "2026-06-09T05:35:23.608397+00:00",
       "added_at": "2026-06-06",
       "display_name": "Mantiqueira Azul Red Catuai Pulped …"
     },
@@ -14719,7 +14656,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:44:28.381191+00:00",
+      "scraped_at": "2026-06-09T05:35:23.608406+00:00",
       "added_at": "2026-06-06",
       "display_name": "Eldorado Raspberry Jam"
     },
@@ -14744,7 +14681,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:44:28.381199+00:00",
+      "scraped_at": "2026-06-09T05:35:23.608414+00:00",
       "added_at": "2026-06-06",
       "display_name": "Eldorado Fruit Cocktail"
     },
@@ -14770,7 +14707,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:44:28.381207+00:00",
+      "scraped_at": "2026-06-09T05:35:23.608422+00:00",
       "added_at": "2026-06-06",
       "display_name": "Eldorado Orange Caramel"
     },
@@ -14796,7 +14733,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:44:28.381216+00:00",
+      "scraped_at": "2026-06-09T05:35:23.608429+00:00",
       "added_at": "2026-06-06",
       "display_name": "Eldorado Chocolate Prune"
     },
@@ -14824,7 +14761,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:44:28.381224+00:00",
+      "scraped_at": "2026-06-09T05:35:23.608437+00:00",
       "added_at": "2026-06-06",
       "display_name": "Eldorado Fig Chutney"
     },
@@ -14849,7 +14786,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:44:28.381232+00:00",
+      "scraped_at": "2026-06-09T05:35:23.608444+00:00",
       "added_at": "2026-06-06",
       "display_name": "Eldorado Chocolate Mousse"
     },
@@ -14876,7 +14813,7 @@
       "density": null,
       "score": null,
       "arrival": null,
-      "scraped_at": "2026-06-08T22:44:28.381239+00:00",
+      "scraped_at": "2026-06-09T05:35:23.608451+00:00",
       "added_at": "2026-06-06",
       "display_name": "Decaf Mountain Water"
     },
@@ -16343,71 +16280,126 @@
     }
   ],
   "changes": {
-    "new": [
-      {
-        "url": "https://ayantu.co.kr/?idx=205",
-        "type": "new"
-      }
-    ],
+    "new": [],
     "sold_out": [
       {
-        "url": "https://www.micoffee.co.kr/goods/goods_view.php?goodsNo=1000007388",
+        "url": "https://www.gsc.coffee/goods/goods_view.php?goodsNo=1000001356",
         "type": "sold_out"
       },
       {
-        "url": "https://www.micoffee.co.kr/goods/goods_view.php?goodsNo=1000007273",
+        "url": "https://www.gsc.coffee/goods/goods_view.php?goodsNo=1000001359",
         "type": "sold_out"
       },
       {
-        "url": "https://www.micoffee.co.kr/goods/goods_view.php?goodsNo=1000000731",
+        "url": "https://www.micoffee.co.kr/goods/goods_view.php?goodsNo=1000007494",
         "type": "sold_out"
       },
       {
-        "url": "https://www.micoffee.co.kr/goods/goods_view.php?goodsNo=1000000723",
+        "url": "https://www.gsc.coffee/goods/goods_view.php?goodsNo=1000001123",
         "type": "sold_out"
       },
       {
-        "url": "https://www.gsc.coffee/goods/goods_view.php?goodsNo=1000000298",
+        "url": "https://www.gsc.coffee/goods/goods_view.php?goodsNo=1000001094",
         "type": "sold_out"
       },
       {
-        "url": "https://www.gsc.coffee/goods/goods_view.php?goodsNo=1000001346",
+        "url": "https://www.gsc.coffee/goods/goods_view.php?goodsNo=1000000292",
         "type": "sold_out"
       },
       {
-        "url": "https://www.micoffee.co.kr/goods/goods_view.php?goodsNo=1000003873",
+        "url": "https://www.gsc.coffee/goods/goods_view.php?goodsNo=1000000293",
         "type": "sold_out"
       },
       {
-        "url": "https://www.gsc.coffee/goods/goods_view.php?goodsNo=1000001084",
+        "url": "https://www.gsc.coffee/goods/goods_view.php?goodsNo=1000001333",
         "type": "sold_out"
       },
       {
-        "url": "https://www.gsc.coffee/goods/goods_view.php?goodsNo=1000000317",
+        "url": "https://www.gsc.coffee/goods/goods_view.php?goodsNo=1000001334",
         "type": "sold_out"
       },
       {
-        "url": "https://www.micoffee.co.kr/goods/goods_view.php?goodsNo=1000007104",
+        "url": "https://www.gsc.coffee/goods/goods_view.php?goodsNo=1000001343",
         "type": "sold_out"
       },
       {
-        "url": "https://www.micoffee.co.kr/goods/goods_view.php?goodsNo=1000007103",
+        "url": "https://www.gsc.coffee/goods/goods_view.php?goodsNo=1000001352",
         "type": "sold_out"
       },
       {
-        "url": "https://www.gsc.coffee/goods/goods_view.php?goodsNo=1000001161",
+        "url": "https://www.cobeans.com/shop/detail.php?pno=2D2CA7EEDF739EF4C3800713EC482E1A",
         "type": "sold_out"
       },
       {
-        "url": "https://www.gsc.coffee/goods/goods_view.php?goodsNo=1000001133",
+        "url": "https://www.micoffee.co.kr/goods/goods_view.php?goodsNo=1000002956",
         "type": "sold_out"
       },
       {
-        "url": "https://www.gsc.coffee/goods/goods_view.php?goodsNo=1000001320",
+        "url": "https://www.gsc.coffee/goods/goods_view.php?goodsNo=1000001082",
         "type": "sold_out"
       },
       {
-        "url": "https://www.gsc.coffee/goods/goods_view.php?goodsNo=1000001214",
+        "url": "https://www.gsc.coffee/goods/goods_view.php?goodsNo=1000000318",
+        "type": "sold_out"
+      },
+      {
+        "url": "https://www.gsc.coffee/goods/goods_view.php?goodsNo=1000001325",
+        "type": "sold_out"
+      },
+      {
+        "url": "https://www.gsc.coffee/goods/goods_view.php?goodsNo=1000000319",
+        "type": "sold_out"
+      },
+      {
+        "url": "https://www.micoffee.co.kr/goods/goods_view.php?goodsNo=1000007421",
+        "type": "sold_out"
+      },
+      {
+        "url": "https://www.micoffee.co.kr/goods/goods_view.php?goodsNo=1000007101",
+        "type": "sold_out"
+      },
+      {
+        "url": "https://www.gsc.coffee/goods/goods_view.php?goodsNo=1000000983",
+        "type": "sold_out"
+      },
+      {
+        "url": "https://www.gsc.coffee/goods/goods_view.php?goodsNo=1000000980",
+        "type": "sold_out"
+      },
+      {
+        "url": "https://www.gsc.coffee/goods/goods_view.php?goodsNo=1000000979",
+        "type": "sold_out"
+      },
+      {
+        "url": "https://www.gsc.coffee/goods/goods_view.php?goodsNo=1000001313",
+        "type": "sold_out"
+      },
+      {
+        "url": "https://www.gsc.coffee/goods/goods_view.php?goodsNo=1000000286",
+        "type": "sold_out"
+      },
+      {
+        "url": "https://www.gsc.coffee/goods/goods_view.php?goodsNo=1000000284",
+        "type": "sold_out"
+      },
+      {
+        "url": "https://www.gsc.coffee/goods/goods_view.php?goodsNo=1000001312",
+        "type": "sold_out"
+      },
+      {
+        "url": "https://www.gsc.coffee/goods/goods_view.php?goodsNo=1000001335",
+        "type": "sold_out"
+      },
+      {
+        "url": "https://www.gsc.coffee/goods/goods_view.php?goodsNo=1000001223",
+        "type": "sold_out"
+      },
+      {
+        "url": "https://www.gsc.coffee/goods/goods_view.php?goodsNo=1000001314",
+        "type": "sold_out"
+      },
+      {
+        "url": "https://www.gsc.coffee/goods/goods_view.php?goodsNo=1000001317",
         "type": "sold_out"
       }
     ],
