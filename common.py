@@ -17,13 +17,33 @@ UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
       "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36")
 
 # 산지 검색 키워드: 한글+영문 둘 다 필수 (영문 slug 상품 누락 방지)
+# name_parser.COUNTRY_KO 가 분류 가능한 전 산지 포함 — 생산국 제한 없이 수집.
+# (검색으로 잡힌 상품은 name_parser 가 상품명에서 산지를 재분류하므로 키 라벨은 힌트일 뿐)
 ORIGIN_KEYWORDS = {
-    "ethiopia":  ["에티오피아", "ethiopia"],
-    "colombia":  ["콜롬비아", "colombia"],
-    "kenya":     ["케냐", "kenya"],
-    "guatemala": ["과테말라", "guatemala"],
-    "panama":    ["파나마", "panama"],
-    "brazil":    ["브라질", "brazil"],
+    "ethiopia":            ["에티오피아", "ethiopia"],
+    "colombia":            ["콜롬비아", "colombia"],
+    "kenya":               ["케냐", "kenya"],
+    "guatemala":           ["과테말라", "guatemala"],
+    "panama":              ["파나마", "panama"],
+    "brazil":              ["브라질", "brazil"],
+    "costa rica":          ["코스타리카", "costa rica"],
+    "el salvador":         ["엘살바도르", "el salvador"],
+    "honduras":            ["온두라스", "honduras"],
+    "nicaragua":           ["니카라과", "nicaragua"],
+    "yemen":               ["예멘", "yemen"],
+    "tanzania":            ["탄자니아", "tanzania"],
+    "rwanda":              ["르완다", "rwanda"],
+    "burundi":             ["부룬디", "burundi"],
+    "india":               ["인도", "india"],
+    "indonesia":           ["인도네시아", "indonesia"],
+    "vietnam":             ["베트남", "vietnam"],
+    "peru":                ["페루", "peru"],
+    "bolivia":             ["볼리비아", "bolivia"],
+    "ecuador":             ["에콰도르", "ecuador"],
+    "dominican republic":  ["도미니카", "dominican"],
+    "jamaica":             ["자메이카", "jamaica"],
+    "cuba":                ["쿠바", "cuba"],
+    "mexico":              ["멕시코", "mexico"],
 }
 
 

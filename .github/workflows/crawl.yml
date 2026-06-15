@@ -1,11 +1,11 @@
 name: Burlap Crawl
 
-# 하루 3회 — KST 07:00 / 13:00 / 21:00 (cron 은 UTC 기준)
+# 하루 2회 — KST 07:00 / 19:00 (cron 은 UTC 기준)
+# 산지 24개국으로 1회 크롤이 무거워져 빈도↓ — 아침 신선(07:00) + 그날 입고 반영(19:00).
 on:
   schedule:
     - cron: "0 22 * * *"   # 07:00 KST (전날 22:00 UTC)
-    - cron: "0 4 * * *"    # 13:00 KST
-    - cron: "0 12 * * *"   # 21:00 KST
+    - cron: "0 10 * * *"   # 19:00 KST
   workflow_dispatch:        # 수동 실행 버튼
 
 # 크롤 결과(data/*.json)를 레포에 다시 커밋하려면 쓰기 권한 필요

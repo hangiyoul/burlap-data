@@ -13,8 +13,10 @@ from datetime import datetime, timezone
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from pipeline import run
+from common import ORIGIN_KEYWORDS
 
-ORIGINS = ["ethiopia", "colombia", "kenya", "guatemala", "panama", "brazil"]
+# 생산국 제한 없음 — 분류 가능한 전 산지(common.ORIGIN_KEYWORDS) 단일 소스에서 가져옴.
+ORIGINS = list(ORIGIN_KEYWORDS.keys())
 OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data", "beans.json")
 
 
@@ -74,19 +76,43 @@ def _preserve_vanished_vendors(bean_dicts, prev_beans):
 
 
 def _merge_prev(bean_dicts, prev_beans, today):
-    """이전 beans.json 과 (vendor,url) 매칭 → 보강 필드·입고일(first_seen) 보존."""
+    """이전 beans.json 과 (vendor,url) 매칭 → 보강 필드·입고일(first_seen) 보존.
+
+    added_at 안전장치: prev 가 비었거나 너무 적으면(<50개) 경고 + abort.
+    → 잘못된 빈 prev 로 모든 생두가 today 로 덮어써지는 사고 방지.
+    """
+    # 안전장치: prev 가 비정상으로 작으면 added_at 덮어쓰기 거부.
+    if len(prev_beans) < 50:
+        print(f"⚠️  prev beans가 비정상({len(prev_beans)}개) — added_at 보존 안전장치 발동", flush=True)
+        # 이번 크롤 새 데이터에 added_at 없으면 today 로 채우되, 기존 added_at 은 절대 안 건드림.
+        for d in bean_dicts:
+            d.setdefault("added_at", today)
+        return bean_dicts
+
     prev = {(ob.get("vendor"), ob.get("url")): ob for ob in prev_beans}
+    matched_count = 0
+    preserved_count = 0
     for d in bean_dicts:
         old = prev.get((d.get("vendor"), d.get("url")))
         if old:
+            matched_count += 1
             for f in _ENRICH_FIELDS:               # 빈 칸만 이전 값으로 채움(enrich 결과 보존)
                 if not d.get(f) and old.get(f):
                     d[f] = old[f]
             if not d.get("price") and old.get("price"):
                 d["price"] = old["price"]
-            d["added_at"] = old.get("added_at") or today
+            # 입고일(first_seen) — 이전 값이 있으면 무조건 보존, 없을 때만 today.
+            old_added = old.get("added_at")
+            if old_added:
+                d["added_at"] = old_added
+                preserved_count += 1
+            else:
+                d["added_at"] = today
         else:
             d["added_at"] = today                  # 처음 발견 → 오늘(first_seen)
+
+    print(f"_merge_prev: 매칭 {matched_count}/{len(bean_dicts)}, "
+          f"added_at 보존 {preserved_count} (신규 {len(bean_dicts) - preserved_count})", flush=True)
     return bean_dicts
 
 
