@@ -64,8 +64,21 @@ VARIETY = {
     "sl34": "SL34", "sl-34": "SL34",
     "ruiru 11": "Ruiru 11", "루이루 11": "Ruiru 11",
     "batian": "Batian", "바티안": "Batian",
-    "74158": "74158", "74112": "74112",
+    # Ethiopian regional cultivars (numbered)
+    "74110": "74110", "74112": "74112", "74148": "74148",
+    "74158": "74158", "74165": "74165", "7440": "7440", "7454": "7454",
+    "regional cultivar": "Regional Cultivar",
+    # Ethiopian heirloom strains (specific landraces)
+    "kurume": "Kurume", "쿠루메": "Kurume",
+    "wolisho": "Wolisho", "wolisha": "Wolisho", "월리쇼": "Wolisho",
+    "dega": "Dega", "데가": "Dega",
+    "wilsho": "Wilsho", "윌쇼": "Wilsho",
+    "diga": "Diga", "디가": "Diga",
+    # Colombian / Ecuadorian / African specialty varieties
     "wush wush": "Wush Wush", "워쉬워쉬": "Wush Wush",
+    "sidra": "Sidra", "시드라": "Sidra",
+    "ombligón": "Ombligón", "ombligon": "Ombligón", "옴블리곤": "Ombligón",
+    "sudan rume": "Sudan Rume", "수단 루메": "Sudan Rume", "수단루메": "Sudan Rume",
     "moka": "Mocha", "모카": "Mocha",
     "마일드": "Mild",
 }

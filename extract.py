@@ -134,16 +134,23 @@ _PROCESSES = [("digital decaf", "Decaf"), ("디카페인", "Decaf"), ("decaf", "
 _GRADES = ["G1", "G2", "G3", "G4", "Q1", "Q2", "EP", "그레이드 제로", "Grade Zero"]
 
 # 품종 한글 → 영문 정규화 (LLM/규칙 어느 경로든 한글이 새어 나오면 영문으로 통일)
+# Swift FilterSheet 큐레이션(17개) 와 라벨 통일.
 _VARIETY_KO_EN = {
-    "게이샤": "Geisha", "게샤": "Gesha",
+    "게이샤": "Geisha", "게샤": "Geisha",
     "카투라": "Caturra", "카투아이": "Catuai",
     "버번": "Bourbon", "핑크 버번": "Pink Bourbon", "핑크버번": "Pink Bourbon",
     "옐로우 버번": "Yellow Bourbon", "옐로우버번": "Yellow Bourbon",
     "레드 버번": "Red Bourbon", "레드버번": "Red Bourbon",
     "티피카": "Typica", "시드라": "Sidra", "파카마라": "Pacamara",
-    "마라고지페": "Maragogipe", "비야사르치": "Villa Sarchi", "빌라사치": "Villa Sarchi",
-    "수단 루메": "Sudan Rume", "에티오피아 재래종": "Heirloom",
-    "재래종": "Heirloom", "에어룸": "Heirloom", "롱베리": "Longberry",
+    "마라고지페": "Maragogype", "비야사르치": "Villa Sarchi", "빌라사치": "Villa Sarchi",
+    "수단 루메": "Sudan Rume", "수단루메": "Sudan Rume",
+    "에티오피아 재래종": "Heirloom", "재래종": "Heirloom", "에어룸": "Heirloom",
+    "롱베리": "Longberry",
+    # Ethiopian heirloom strains
+    "쿠루메": "Kurume", "월리쇼": "Wolisho", "데가": "Dega", "윌쇼": "Wilsho", "디가": "Diga",
+    # Colombian / Ecuadorian / specialty
+    "워쉬워쉬": "Wush Wush",
+    "옴블리곤": "Ombligón",
 }
 
 
