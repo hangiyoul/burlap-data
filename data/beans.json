@@ -1425,7 +1425,7 @@
       "arrival": null,
       "scraped_at": "2026-06-15T22:43:51.883383+00:00",
       "added_at": "2026-05-24",
-      "display_name": "Nardos Guji Wate G1 AFCA TOH Regional Washed 1등랏"
+      "display_name": "Nardos Guji Wate G1 AFCA TOH Regional Washed Grade 1 Lot"
     },
     {
       "vendor": "newbean",
@@ -4740,7 +4740,7 @@
       "arrival": null,
       "scraped_at": "2026-06-15T22:45:56.809887+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Colombia Aponte Tablón 데 Gómez Caturra Washed"
+      "display_name": "Colombia Aponte Tablón De Gómez Caturra Washed"
     },
     {
       "vendor": "micoffee",
@@ -8309,7 +8309,7 @@
       "arrival": null,
       "scraped_at": "2026-06-15T22:47:47.359432+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Kenya 키 AA 2026"
+      "display_name": "Kenya Kii AA 2026"
     },
     {
       "vendor": "coffeelibre",
@@ -8801,7 +8801,7 @@
       "arrival": null,
       "scraped_at": "2026-06-15T22:48:19.246211+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Kenya Nyeri 힐 AA TOP Washed"
+      "display_name": "Kenya Nyeri Hill AA TOP Washed"
     },
     {
       "vendor": "cobeans",
@@ -8884,7 +8884,7 @@
       "arrival": null,
       "scraped_at": "2026-06-15T22:48:19.246258+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Kenya Nyeri 힐 AB TOP Washed"
+      "display_name": "Kenya Nyeri Hill AB TOP Washed"
     },
     {
       "vendor": "sewoonggc",
@@ -20160,7 +20160,7 @@
       "arrival": null,
       "scraped_at": "2026-06-15T23:06:13.776764+00:00",
       "added_at": "2026-06-15",
-      "display_name": "Amahoro 커머셜 Washed Kivu"
+      "display_name": "Amahoro Commercial Washed Kivu"
     },
     {
       "vendor": "sewoonggc",
@@ -21735,7 +21735,7 @@
       "arrival": null,
       "scraped_at": "2026-06-15T23:14:20.985504+00:00",
       "added_at": "2026-06-15",
-      "display_name": "Peru 라 Primavera Geisha"
+      "display_name": "Peru La Primavera Geisha"
     },
     {
       "vendor": "coffeelibre",
@@ -23541,7 +23541,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T08:09:50.495734+00:00",
       "added_at": "2026-05-24",
-      "display_name": "Ethiopia Villalobos Natural 3일 Anaerobic G1"
+      "display_name": "Ethiopia Villalobos Natural 3-day Anaerobic G1"
     },
     {
       "vendor": "royalcoffee",
@@ -23570,7 +23570,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T08:09:50.495769+00:00",
       "added_at": "2026-05-24",
-      "display_name": "Ethiopia Gelana Abaya Natural 4일 Anaerobic G1"
+      "display_name": "Ethiopia Gelana Abaya Natural 4-day Anaerobic G1"
     },
     {
       "vendor": "royalcoffee",
@@ -23599,7 +23599,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T08:09:50.495781+00:00",
       "added_at": "2026-05-24",
-      "display_name": "Ethiopia Chelchele Natural 4일 Anaerobic G1"
+      "display_name": "Ethiopia Chelchele Natural 4-day Anaerobic G1"
     },
     {
       "vendor": "royalcoffee",
@@ -23657,7 +23657,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T08:09:50.495804+00:00",
       "added_at": "2026-05-24",
-      "display_name": "Ethiopia Shakiso Natural 3일 Anaerobic G1"
+      "display_name": "Ethiopia Shakiso Natural 3-day Anaerobic G1"
     },
     {
       "vendor": "royalcoffee",
@@ -23773,7 +23773,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T08:09:50.495867+00:00",
       "added_at": "2026-05-24",
-      "display_name": "Ethiopia Haro Wachu Natural 6일 Anaerobic G1 Cacao, Plum, Pecan, Raspberry Juice, Cola"
+      "display_name": "Ethiopia Haro Wachu Natural 6-day Anaerobic G1 Cacao, Plum, Pecan, Raspberry Juice, Cola"
     },
     {
       "vendor": "royalcoffee",
@@ -23802,7 +23802,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T08:09:50.495880+00:00",
       "added_at": "2026-05-24",
-      "display_name": "Ethiopia Uraga Recho Natural 7일 Anaerobic G1"
+      "display_name": "Ethiopia Uraga Recho Natural 7-day Anaerobic G1"
     },
     {
       "vendor": "royalcoffee",
@@ -24605,7 +24605,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T08:11:45.422511+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Colombia Black Honey 2중 Anaerobic"
+      "display_name": "Colombia Black Honey Double Anaerobic"
     },
     {
       "vendor": "royalcoffee",
@@ -24651,7 +24651,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T08:11:45.422539+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Colombia Caturra Black Honey 2중탄소"
+      "display_name": "Colombia Caturra Black Honey Double Carbonic Maceration"
     },
     {
       "vendor": "royalcoffee",
@@ -24720,7 +24720,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T08:11:45.422581+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Colombia Sidra Bourbon 2중탄소"
+      "display_name": "Colombia Sidra Bourbon Double Carbonic Maceration"
     },
     {
       "vendor": "royalcoffee",
@@ -24766,7 +24766,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T08:11:45.422611+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Colombia Pink Bourbon Black Honey 2중 Anaerobic"
+      "display_name": "Colombia Pink Bourbon Black Honey Double Anaerobic"
     },
     {
       "vendor": "royalcoffee",
@@ -24789,7 +24789,7 @@
       "arrival": null,
       "scraped_at": "2026-06-06T08:11:45.422625+00:00",
       "added_at": "2026-06-06",
-      "display_name": "Colombia Crown Jewel Carbonic Honey Cascade Hops Edwin Noreña 홉, Lemongrass, Honey Walnut, Guava, Pineapple"
+      "display_name": "Colombia Crown Jewel Carbonic Honey Cascade Hops Edwin Noreña Hops, Lemongrass, Honey Walnut, Guava, Pineapple"
     },
     {
       "vendor": "royalcoffee",

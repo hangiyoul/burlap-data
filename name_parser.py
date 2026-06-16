@@ -214,6 +214,14 @@ EXTRA_TOKENS = {
     "마운틴워터": "Mountain Water",
     "버번": "Bourbon",
     "디카페인": "Decaf",
+    "커머셜": "Commercial",
+    "더블": "Double",
+    "홉": "Hops",
+    # 스페인어/지명 연결어·단일 토큰 (Title Case 후처리로 De/La 처럼 첫 글자 대문자가 됨)
+    "데": "de",            # de (Tablón de Gómez)
+    "라": "la",            # la (La Primavera)
+    "힐": "Hill",          # Hill (Nyeri Hill)
+    "키": "Kii",           # Kii (Kenya Kii 워싱스테이션)
     "생두": "",            # 토큰 제거 (= green bean, redundant)
     # 농장명 (자주 등장)
     "페르가미노": "Pergamino",
@@ -499,6 +507,12 @@ def translate_to_english(raw_name):
     multi_learned.sort(key=lambda x: -len(x[0]))
     for ko, en in multi_learned:
         s = s.replace(ko, en)
+
+    # 4b) 가공/로트 설명 — 변수 숫자가 들어가 사전으로 못 잡는 패턴 (정규식).
+    s = re.sub(r"(\d+)\s*일\s*(?:무산소|[Aa]naerobic)", r"\1-day Anaerobic", s)  # 3일 무산소 → 3-day Anaerobic
+    s = re.sub(r"\d*\s*중\s*탄소", "Double Carbonic Maceration", s)             # 2중탄소 → Double Carbonic Maceration
+    s = re.sub(r"2\s*중(?=\s|$)", "Double", s)                                  # 2중 Anaerobic → Double Anaerobic
+    s = re.sub(r"(\d+)\s*등\s*[랏롯]", r"Grade \1 Lot", s)                       # 1등랏 → Grade 1 Lot
 
     # 5) 단어별 치환 — 공백으로 split 후 매핑
     tokens = s.split()
