@@ -44,6 +44,8 @@ ORIGIN_KEYWORDS = {
     "jamaica":             ["자메이카", "jamaica"],
     "cuba":                ["쿠바", "cuba"],
     "mexico":              ["멕시코", "mexico"],
+    "papua new guinea":    ["파푸아뉴기니", "파푸아", "뉴기니", "papua new guinea"],
+    "hawaii":              ["하와이", "코나", "hawaii", "kona"],
 }
 
 

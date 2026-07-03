@@ -17,14 +17,13 @@ GODO_SITES = {
     "newbean":     "https://www.newbean.co.kr",
     "wbeans":      "https://wbeans.com",
     "royalcoffee": "https://www.royalcoffeekorea.co.kr",
+    "sewoonggc":   "https://sewoonggc26.godomall.com",   # 2026-07 영카트→고도몰 이전
 }
 CAFE24_SITES = {
     "momos":       "https://momos.co.kr",
     "coffeelibre": "https://coffeelibre.kr",
 }
-YOUNGCART_SITES = {
-    "sewoonggc":   "https://www.sewoonggc.com",
-}
+YOUNGCART_SITES = {}   # 사용 벤더 없음(sewoonggc 고도몰 이전). 어댑터는 향후 영카트 벤더 대비 유지.
 
 # 헤드리스 필요(미구현 — 정적 불가): ayantu(imweb), gimisa(sixshop),
 #   verde_trade/ryubeans(네이버 스마트스토어). 추후 Playwright 어댑터 추가.

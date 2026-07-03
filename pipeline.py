@@ -24,7 +24,8 @@ def _fetch_catalog(vendor, cfg, keywords):
         return [(url, name) for no, name, url in cafe24.search(base, keywords)]
     if p == "godo":
         out = []
-        for gid, name in godo.search(base, keywords, name_mode=cfg.get("name_mode", "auto")):
+        for gid, name in godo.search(base, keywords, name_mode=cfg.get("name_mode", "auto"),
+                                     name_filter=cfg.get("name_filter", True)):
             url = godo.view_url(base, gid) if gid.isdigit() else base
             out.append((url, name))
         return out

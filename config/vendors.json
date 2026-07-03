@@ -51,9 +51,9 @@
       "note": "텍스트 풀스펙(가장 깔끔). 세트/입고예정 필터 필요."
     },
     "sewoonggc": {
-      "platform": "youngcart", "base": "https://www.sewoonggc.com",
-      "status": "active",
-      "note": "영카트. /shop/search.php?q="
+      "platform": "godo", "base": "https://sewoonggc26.godomall.com",
+      "status": "active", "name_filter": false,
+      "note": "고도몰. /goods/goods_search.php?keyword= (2026-07 영카트 www.sewoonggc.com 에서 이전). name_filter=false: 상품명이 지역·농장명뿐이라 이름 필터 끔 — 사이트 검색이 산지 태그로 매칭(산지별 분리 확인)."
     },
     "ayantu": {
       "platform": "imweb", "base": "https://ayantu.co.kr",

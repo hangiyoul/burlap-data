@@ -18,14 +18,19 @@ sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from common import get, strip_tags, unescape, matches  # noqa: E402
 
 
-def search(base, keywords, max_pages=6, name_mode="auto"):
+def search(base, keywords, max_pages=6, name_mode="auto", name_filter=True):
     """
     base: 예 'https://www.micoffee.co.kr'
+    name_filter=True  : 상품명에 산지 키워드가 있어야 채택(기본 — 이름에 국가명이 붙는 사이트).
+    name_filter=False : 검색 결과를 그대로 신뢰(사이트가 산지 태그로 검색하는 경우 — 예 sewoonggc.
+                        상품명이 지역·농장명뿐이라 이름 필터로는 대량 누락됨. 산지 검증: 검색 결과가
+                        산지별로 분리됨 confirmed).
     return: [(goodsNo, name)]
     """
+    pages = max_pages if name_filter else max(max_pages, 12)
     seen = {}
     for kw in keywords:
-        for pg in range(1, max_pages + 1):
+        for pg in range(1, pages + 1):
             try:
                 s = get(f"{base}/goods/goods_search.php?keyword={kw}&page={pg}")
             except Exception:
@@ -37,11 +42,13 @@ def search(base, keywords, max_pages=6, name_mode="auto"):
                     nm = strip_tags(c)
                     if g in seen or not nm:
                         continue
-                    if matches(nm, keywords):
+                    if not name_filter or matches(nm, keywords):
                         seen[g] = nm
                         new += 1
-            # (2) alt 속성형 (wbeans) — goodsNo 매핑이 어려우면 이름만 수집
-            if name_mode in ("auto", "alt") and new == 0:
+            # (2) alt 속성형 (wbeans) — 링크 텍스트가 빈 사이트 폴백.
+            #     name_filter=False(검색 신뢰)에선 빈 페이지의 푸터 alt(결제·SNS·공정위 배지)를
+            #     상품으로 오수집하므로 끈다. (sewoonggc 는 링크 텍스트가 정상.)
+            if name_filter and name_mode in ("auto", "alt") and new == 0:
                 for a in re.findall(r'alt="([^"]+)"', s):
                     a = unescape(a).strip()
                     if a in seen or len(a) <= 5 or "로고" in a:
