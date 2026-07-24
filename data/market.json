@@ -1,9 +1,9 @@
 {
   "metrics": {
     "Freight Index": {
-      "value": "3,080.3",
+      "value": "3,062.9",
       "unit": "pt",
-      "changePct": 0.0,
+      "changePct": -0.56,
       "history": [
         2218.15,
         2218.15,
@@ -64,7 +64,8 @@
         3080.31,
         3080.31,
         3080.31,
-        3080.31
+        3080.31,
+        3062.95
       ],
       "dates": [
         "2026-05-25",
@@ -126,7 +127,8 @@
         "2026-07-20",
         "2026-07-21",
         "2026-07-22",
-        "2026-07-23"
+        "2026-07-23",
+        "2026-07-24"
       ]
     },
     "Specialty Auction": {
@@ -3365,9 +3367,9 @@
       ]
     },
     "Arabica · Daily": {
-      "value": "349.88",
+      "value": "339.05",
       "unit": "¢/lb",
-      "changePct": -3.14,
+      "changePct": -3.1,
       "history": [
         284.98,
         284.98,
@@ -3416,7 +3418,8 @@
         358.98,
         362.79,
         361.23,
-        349.88
+        349.88,
+        339.05
       ],
       "dates": [
         "2026-06-06",
@@ -3466,13 +3469,14 @@
         "2026-07-20",
         "2026-07-21",
         "2026-07-22",
-        "2026-07-23"
+        "2026-07-23",
+        "2026-07-24"
       ]
     },
     "Robusta · Daily": {
-      "value": "185.21",
+      "value": "179.20",
       "unit": "¢/lb",
-      "changePct": -0.24,
+      "changePct": -3.24,
       "history": [
         159.94,
         159.94,
@@ -3521,7 +3525,8 @@
         186.27,
         186.33,
         185.65,
-        185.21
+        185.21,
+        179.2
       ],
       "dates": [
         "2026-06-06",
@@ -3571,11 +3576,12 @@
         "2026-07-20",
         "2026-07-21",
         "2026-07-22",
-        "2026-07-23"
+        "2026-07-23",
+        "2026-07-24"
       ]
     }
   },
-  "generated_at": "2026-07-24T00:00:04.488088+00:00",
+  "generated_at": "2026-07-24T12:51:30.508053+00:00",
   "coe_auctions": [
     {
       "country": "brazil",
@@ -16598,7 +16604,7 @@
           "bid": 40.2,
           "weightLb": 755.5,
           "total": 30371.1,
-          "company": "Cypher Roastery LLC",
+          "company": "CYPHER ROASTERY LLC, HUNAHPU COFFEE ROASTERS",
           "variety": "Geisha",
           "process": "Honey",
           "region": "Santa Rosa",
@@ -16637,7 +16643,7 @@
           "bid": 36.0,
           "weightLb": 593.3,
           "total": 21358.8,
-          "company": "Two Hands Full",
+          "company": "TWO HANDS FULL (Indonesia), Coffee Me Up (Korea), CYPHER ROASTERY LLC, Citric meets Malic (Vietnam), SHRUB COFFEE (Japan), Instinct Roastery, Tatido Coffee Roasters, 12 ONZAS (Guatemala)",
           "variety": "Geisha",
           "process": "Washed",
           "region": "Guatemala",
@@ -16728,7 +16734,7 @@
           "bid": 25.6,
           "weightLb": 544.6,
           "total": 13941.76,
-          "company": "Linking Coffee (Taiwan), FUGO CAFFÉ, Coffee Wingman Taipei, Coffee Me Up (Korea)",
+          "company": "Linking Coffee (Taiwan), MOMOS COFFEE, FUGO CAFFÉ, Coffee Wingman Taipei, Coffee Me Up (Korea)",
           "variety": "Geisha",
           "process": "Washed",
           "region": "Huehuetenango",
@@ -16741,7 +16747,7 @@
           "bid": 25.3,
           "weightLb": 517.2,
           "total": 13085.16,
-          "company": "SonneCAD Coffee Roaster x 16g x 阔野啡艇1699",
+          "company": "SonneCAD Coffee Roaster & 16g x 阔野啡艇1699, A Basic Coffee Production",
           "variety": "Geisha",
           "process": "Washed",
           "region": "Jalapa",
@@ -16793,7 +16799,7 @@
           "bid": 25.0,
           "weightLb": 659.2,
           "total": 16480.0,
-          "company": "Linking Coffee (Taiwan), 樂波波珈琲 Le BoBo Coffee, 匠豆咖啡, Kay Wu, WaWoo Coffee Taiwan, Coffee Me Up (Korea)",
+          "company": "Linking Coffee (Taiwan), 樂波波珈琲 Le BoBo Coffee, 匠豆咖啡 Craft Bean Coffee, Kay Wu, WaWoo Coffee Taiwan, Coffee Me Up (Korea), 12 ONZAS (Guatemala), Coffeestopover, 步昂咖啡 Buon Caffe.",
           "variety": "Geisha",
           "process": "Washed",
           "region": "Huehuetenango",
