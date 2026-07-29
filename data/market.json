@@ -69,6 +69,7 @@
         3062.95,
         3062.95,
         3062.95,
+        3062.95,
         3062.95
       ],
       "dates": [
@@ -136,7 +137,8 @@
         "2026-07-25",
         "2026-07-26",
         "2026-07-27",
-        "2026-07-28"
+        "2026-07-28",
+        "2026-07-29"
       ]
     },
     "Specialty Auction": {
@@ -3376,9 +3378,9 @@
       ]
     },
     "Arabica · Daily": {
-      "value": "352.57",
+      "value": "361.46",
       "unit": "¢/lb",
-      "changePct": 3.04,
+      "changePct": 2.52,
       "history": [
         284.98,
         284.98,
@@ -3432,7 +3434,8 @@
         339.05,
         339.05,
         342.18,
-        352.57
+        352.57,
+        361.46
       ],
       "dates": [
         "2026-06-06",
@@ -3487,13 +3490,14 @@
         "2026-07-25",
         "2026-07-26",
         "2026-07-27",
-        "2026-07-28"
+        "2026-07-28",
+        "2026-07-29"
       ]
     },
     "Robusta · Daily": {
-      "value": "185.50",
+      "value": "186.31",
       "unit": "¢/lb",
-      "changePct": 2.01,
+      "changePct": 0.44,
       "history": [
         159.94,
         159.94,
@@ -3547,7 +3551,8 @@
         179.2,
         179.2,
         181.85,
-        185.5
+        185.5,
+        186.31
       ],
       "dates": [
         "2026-06-06",
@@ -3602,11 +3607,12 @@
         "2026-07-25",
         "2026-07-26",
         "2026-07-27",
-        "2026-07-28"
+        "2026-07-28",
+        "2026-07-29"
       ]
     }
   },
-  "generated_at": "2026-07-28T23:59:35.608099+00:00",
+  "generated_at": "2026-07-29T13:13:15.249812+00:00",
   "coe_auctions": [
     {
       "country": "brazil",
@@ -16963,7 +16969,7 @@
           "bid": 88.7,
           "weightLb": 132.28,
           "total": 11733.24,
-          "company": "YN Coffee & Snow Beans Coffee",
+          "company": "YN & Snow Beans Coffee",
           "variety": "Gesha",
           "process": "Washed",
           "region": "Veracruz",
@@ -16989,7 +16995,7 @@
           "bid": 63.1,
           "weightLb": 132.28,
           "total": 8346.87,
-          "company": "Orsir Coffee(Taiwan )",
+          "company": "Orsir Coffee Taiwan",
           "variety": "Gesha",
           "process": "Honey",
           "region": "Veracruz",
@@ -17015,7 +17021,7 @@
           "bid": 41.0,
           "weightLb": 264.55,
           "total": 10846.55,
-          "company": "Coffee Me Up (Korea)",
+          "company": "Coffee Me Up (Korea), MONARCH HAUS, LO+US, Shyghost coffeelab, Coffee Therapy (Thailand)",
           "variety": "Gesha",
           "process": "Washed",
           "region": "Veracruz",
@@ -17145,7 +17151,7 @@
           "bid": 28.1,
           "weightLb": 661.39,
           "total": 18585.06,
-          "company": "Mira Mar 08 Ltd / Dabov Specialty Coffee",
+          "company": "Dabov Specialty Coffee, GeeCoffee, Coffee Me Up (Korea)",
           "variety": "Gesha",
           "process": "Natural",
           "region": "Chiapas",
