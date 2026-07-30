@@ -70,6 +70,7 @@
         3062.95,
         3062.95,
         3062.95,
+        3062.95,
         3062.95
       ],
       "dates": [
@@ -138,7 +139,8 @@
         "2026-07-26",
         "2026-07-27",
         "2026-07-28",
-        "2026-07-29"
+        "2026-07-29",
+        "2026-07-30"
       ]
     },
     "Specialty Auction": {
@@ -3380,7 +3382,7 @@
     "Arabica · Daily": {
       "value": "361.46",
       "unit": "¢/lb",
-      "changePct": 2.52,
+      "changePct": 0.0,
       "history": [
         284.98,
         284.98,
@@ -3435,6 +3437,7 @@
         339.05,
         342.18,
         352.57,
+        361.46,
         361.46
       ],
       "dates": [
@@ -3491,13 +3494,14 @@
         "2026-07-26",
         "2026-07-27",
         "2026-07-28",
-        "2026-07-29"
+        "2026-07-29",
+        "2026-07-30"
       ]
     },
     "Robusta · Daily": {
       "value": "186.31",
       "unit": "¢/lb",
-      "changePct": 0.44,
+      "changePct": 0.0,
       "history": [
         159.94,
         159.94,
@@ -3552,6 +3556,7 @@
         179.2,
         181.85,
         185.5,
+        186.31,
         186.31
       ],
       "dates": [
@@ -3608,11 +3613,12 @@
         "2026-07-26",
         "2026-07-27",
         "2026-07-28",
-        "2026-07-29"
+        "2026-07-29",
+        "2026-07-30"
       ]
     }
   },
-  "generated_at": "2026-07-29T13:13:15.249812+00:00",
+  "generated_at": "2026-07-30T00:05:35.480207+00:00",
   "coe_auctions": [
     {
       "country": "brazil",
@@ -17197,19 +17203,6 @@
           "farmer": "Gustavo Adolfo  Tapia Vazquez"
         },
         {
-          "rank": "11",
-          "farm": "La Llorona",
-          "score": 87.64,
-          "bid": 25.0,
-          "weightLb": 198.42,
-          "total": 4960.5,
-          "company": "New Heights Coffee Roasters",
-          "variety": "Typica, Marcellesa, Gesha",
-          "process": "Honey",
-          "region": "Veracruz",
-          "farmer": "Fatima  Marini manica"
-        },
-        {
           "rank": "9",
           "farm": "Ohuapan",
           "score": 87.75,
@@ -17221,6 +17214,19 @@
           "process": "Washed",
           "region": "Veracruz",
           "farmer": "Monika  Frankenberger Martorell"
+        },
+        {
+          "rank": "11",
+          "farm": "La Llorona",
+          "score": 87.64,
+          "bid": 25.0,
+          "weightLb": 198.42,
+          "total": 4960.5,
+          "company": "New Heights Coffee Roasters",
+          "variety": "Typica, Marcellesa, Gesha",
+          "process": "Honey",
+          "region": "Veracruz",
+          "farmer": "Fatima  Marini manica"
         },
         {
           "rank": "3",
