@@ -3382,9 +3382,9 @@
       ]
     },
     "Arabica · Daily": {
-      "value": "355.37",
+      "value": "351.12",
       "unit": "¢/lb",
-      "changePct": 0.0,
+      "changePct": -1.2,
       "history": [
         284.98,
         284.98,
@@ -3441,7 +3441,7 @@
         352.57,
         361.46,
         355.37,
-        355.37
+        351.12
       ],
       "dates": [
         "2026-06-06",
@@ -3503,9 +3503,9 @@
       ]
     },
     "Robusta · Daily": {
-      "value": "186.67",
+      "value": "182.05",
       "unit": "¢/lb",
-      "changePct": 0.0,
+      "changePct": -2.47,
       "history": [
         159.94,
         159.94,
@@ -3562,7 +3562,7 @@
         185.5,
         186.31,
         186.67,
-        186.67
+        182.05
       ],
       "dates": [
         "2026-06-06",
@@ -3624,7 +3624,7 @@
       ]
     }
   },
-  "generated_at": "2026-07-31T00:40:19.413544+00:00",
+  "generated_at": "2026-07-31T13:20:56.150545+00:00",
   "coe_auctions": [
     {
       "country": "brazil",
@@ -16994,7 +16994,7 @@
           "bid": 88.7,
           "weightLb": 132.28,
           "total": 11733.24,
-          "company": "YN Coffee",
+          "company": "YN Coffee for CoffeeGalaxy; Allyouwant.",
           "variety": "Gesha",
           "process": "Washed",
           "region": "Veracruz",
