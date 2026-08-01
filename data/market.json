@@ -1,9 +1,9 @@
 {
   "metrics": {
     "Freight Index": {
-      "value": "3,062.9",
+      "value": "3,206.0",
       "unit": "pt",
-      "changePct": 0.0,
+      "changePct": 4.67,
       "history": [
         2218.15,
         2218.15,
@@ -72,7 +72,8 @@
         3062.95,
         3062.95,
         3062.95,
-        3062.95
+        3062.95,
+        3205.97
       ],
       "dates": [
         "2026-05-25",
@@ -142,11 +143,12 @@
         "2026-07-28",
         "2026-07-29",
         "2026-07-30",
-        "2026-07-31"
+        "2026-07-31",
+        "2026-08-01"
       ]
     },
     "Specialty Auction": {
-      "value": "29.2",
+      "value": "28.3",
       "unit": "$/lb",
       "changePct": 0.0,
       "history": [
@@ -172,7 +174,7 @@
         43.75,
         19.4,
         30.3,
-        28.1
+        26.25
       ]
     },
     "Arabica · Monthly": {
@@ -3384,7 +3386,7 @@
     "Arabica · Daily": {
       "value": "351.12",
       "unit": "¢/lb",
-      "changePct": -1.2,
+      "changePct": 0.0,
       "history": [
         284.98,
         284.98,
@@ -3441,6 +3443,7 @@
         352.57,
         361.46,
         355.37,
+        351.12,
         351.12
       ],
       "dates": [
@@ -3499,13 +3502,14 @@
         "2026-07-28",
         "2026-07-29",
         "2026-07-30",
-        "2026-07-31"
+        "2026-07-31",
+        "2026-08-01"
       ]
     },
     "Robusta · Daily": {
       "value": "182.05",
       "unit": "¢/lb",
-      "changePct": -2.47,
+      "changePct": 0.0,
       "history": [
         159.94,
         159.94,
@@ -3562,6 +3566,7 @@
         185.5,
         186.31,
         186.67,
+        182.05,
         182.05
       ],
       "dates": [
@@ -3620,11 +3625,12 @@
         "2026-07-28",
         "2026-07-29",
         "2026-07-30",
-        "2026-07-31"
+        "2026-07-31",
+        "2026-08-01"
       ]
     }
   },
-  "generated_at": "2026-07-31T13:20:56.150545+00:00",
+  "generated_at": "2026-08-01T00:16:10.582230+00:00",
   "coe_auctions": [
     {
       "country": "brazil",
@@ -16946,7 +16952,7 @@
       "year": 2026,
       "label": "COE Mexico 2026",
       "topBid": 94.7,
-      "medianBid": 28.1,
+      "medianBid": 26.25,
       "lots": [
         {
           "rank": "1A",
@@ -17376,6 +17382,71 @@
           "process": "Washed Experimental",
           "region": "Veracruz",
           "farmer": "Juan Emilio  Morales Prado"
+        },
+        {
+          "rank": "NW",
+          "farm": "Tlaixco",
+          "score": 87.4,
+          "bid": 14.2,
+          "weightLb": 132.28,
+          "total": 1878.38,
+          "company": "The Quantum Crack Coffee Roasters",
+          "variety": "Geisha, Sarchimor",
+          "process": "Honey",
+          "region": "Veracruz",
+          "farmer": "María Alba Antonia  García Guerra"
+        },
+        {
+          "rank": "NW",
+          "farm": "Finca Parak",
+          "score": 86.7,
+          "bid": 13.5,
+          "weightLb": 264.55,
+          "total": 3571.43,
+          "company": "ORO ROASTERS",
+          "variety": "Typica",
+          "process": "Washed",
+          "region": "Michoacán",
+          "farmer": "José Alfredo Miranda Moreno"
+        },
+        {
+          "rank": "NW",
+          "farm": "Rancho la Proveedora S de RL de CV.",
+          "score": 87.39,
+          "bid": 12.7,
+          "weightLb": 198.42,
+          "total": 2519.93,
+          "company": "COFFEE COUNTY",
+          "variety": "Caturra",
+          "process": "Washed",
+          "region": "Ilegible",
+          "farmer": "Rafael  Suarez Guevara"
+        },
+        {
+          "rank": "NW",
+          "farm": "Alba",
+          "score": 87.6,
+          "bid": 12.1,
+          "weightLb": 330.69,
+          "total": 4001.35,
+          "company": "Calufe",
+          "variety": "Sarchimor 100%",
+          "process": "Honey",
+          "region": "Veracruz",
+          "farmer": "Edzon Jesus  Meza López"
+        },
+        {
+          "rank": "NW",
+          "farm": "El Fresno",
+          "score": 87.4,
+          "bid": 11.7,
+          "weightLb": 264.55,
+          "total": 3095.24,
+          "company": "Wataru & Co., Ltd.",
+          "variety": "Salchimor",
+          "process": "Honey",
+          "region": "Veracruz",
+          "farmer": "Ester Elizabeth  Meza García"
         }
       ]
     },
