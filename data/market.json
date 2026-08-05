@@ -76,6 +76,7 @@
         3205.97,
         3062.95,
         3205.97,
+        3205.97,
         3205.97
       ],
       "dates": [
@@ -150,11 +151,12 @@
         "2026-08-01",
         "2026-08-02",
         "2026-08-03",
-        "2026-08-04"
+        "2026-08-04",
+        "2026-08-05"
       ]
     },
     "Specialty Auction": {
-      "value": "28.3",
+      "value": "26.2",
       "unit": "$/lb",
       "changePct": 0.0,
       "history": [
@@ -180,7 +182,8 @@
         43.75,
         19.4,
         30.3,
-        26.25
+        26.25,
+        25.6
       ]
     },
     "Arabica · Monthly": {
@@ -3392,7 +3395,7 @@
     "Arabica · Daily": {
       "value": "350.86",
       "unit": "¢/lb",
-      "changePct": -1.84,
+      "changePct": 0.0,
       "history": [
         284.98,
         284.98,
@@ -3453,6 +3456,7 @@
         351.12,
         351.12,
         357.42,
+        350.86,
         350.86
       ],
       "dates": [
@@ -3515,13 +3519,14 @@
         "2026-08-01",
         "2026-08-02",
         "2026-08-03",
-        "2026-08-04"
+        "2026-08-04",
+        "2026-08-05"
       ]
     },
     "Robusta · Daily": {
       "value": "186.11",
       "unit": "¢/lb",
-      "changePct": 1.73,
+      "changePct": 0.0,
       "history": [
         159.94,
         159.94,
@@ -3582,6 +3587,7 @@
         182.05,
         182.05,
         182.94,
+        186.11,
         186.11
       ],
       "dates": [
@@ -3644,11 +3650,12 @@
         "2026-08-01",
         "2026-08-02",
         "2026-08-03",
-        "2026-08-04"
+        "2026-08-04",
+        "2026-08-05"
       ]
     }
   },
-  "generated_at": "2026-08-04T13:36:51.906440+00:00",
+  "generated_at": "2026-08-05T00:40:49.434118+00:00",
   "coe_auctions": [
     {
       "country": "brazil",
@@ -17465,6 +17472,340 @@
           "process": "Honey",
           "region": "Veracruz",
           "farmer": "Ester Elizabeth  Meza García"
+        }
+      ]
+    },
+    {
+      "country": "thailand",
+      "year": 2026,
+      "label": "COE Thailand 2026",
+      "topBid": 91.6,
+      "medianBid": 25.6,
+      "lots": [
+        {
+          "rank": "1A",
+          "farm": "Coffee De Hmong Bio Farm",
+          "score": 90.5,
+          "bid": 91.6,
+          "weightLb": 99.21,
+          "total": 9087.64,
+          "company": "Black Sea Corp",
+          "variety": "Gesha",
+          "process": "Honey",
+          "region": "Nan",
+          "farmer": "Wichai Kamnerdmongkhon"
+        },
+        {
+          "rank": "1B",
+          "farm": "Coffee De Hmong Bio Farm",
+          "score": 90.5,
+          "bid": 88.98,
+          "weightLb": 97.0,
+          "total": 8631.06,
+          "company": "Paper Swan",
+          "variety": "Gesha",
+          "process": "Honey",
+          "region": "Nan",
+          "farmer": "Wichai Kamnerdmongkhon"
+        },
+        {
+          "rank": "2",
+          "farm": "Natee Coffee Estate",
+          "score": 89.77,
+          "bid": 58.2,
+          "weightLb": 198.41,
+          "total": 11547.46,
+          "company": "Black Knight",
+          "variety": "Bourbon, Cartimor",
+          "process": "Dry/Natural",
+          "region": "Chiang Rai",
+          "farmer": "natee Santiphoomsawan"
+        },
+        {
+          "rank": "4",
+          "farm": "Doi Tung Development Project",
+          "score": 89.54,
+          "bid": 58.0,
+          "weightLb": 178.57,
+          "total": 10357.06,
+          "company": "ORO ROASTERS",
+          "variety": "Gayo",
+          "process": "Dry/Natural",
+          "region": "Chiang Rai",
+          "farmer": "Tanawit Thirintong"
+        },
+        {
+          "rank": "6",
+          "farm": "Saenchai estate",
+          "score": 89.04,
+          "bid": 56.3,
+          "weightLb": 186.73,
+          "total": 10512.9,
+          "company": "Taith Coffee LTD",
+          "variety": "Gesha",
+          "process": "Honey",
+          "region": "Chiang Mai",
+          "farmer": "Saenchai Jupo"
+        },
+        {
+          "rank": "8",
+          "farm": "Ma Gor Loe Coffee Farm",
+          "score": 88.08,
+          "bid": 40.0,
+          "weightLb": 159.61,
+          "total": 6384.4,
+          "company": "Black Sea Corp",
+          "variety": "Gesha",
+          "process": "Dry/Natural",
+          "region": "Chiang Mai",
+          "farmer": "Chaloempong Funna"
+        },
+        {
+          "rank": "19",
+          "farm": "Coffee de Hmong Bio Farm",
+          "score": 87.42,
+          "bid": 39.1,
+          "weightLb": 207.45,
+          "total": 8111.3,
+          "company": "Paper Swan",
+          "variety": "Catimor, Bourbon, Typica",
+          "process": "Dry/Natural",
+          "region": "Chiang Mai",
+          "farmer": "Parin piangphiang"
+        },
+        {
+          "rank": "12",
+          "farm": "Typica rakpa",
+          "score": 87.77,
+          "bid": 36.2,
+          "weightLb": 187.39,
+          "total": 6783.52,
+          "company": "Black Knight",
+          "variety": "Gesha 6-%, Java 4-%",
+          "process": "Washed",
+          "region": "Chiang Mai",
+          "farmer": "Sanchai Pongpraiwan"
+        },
+        {
+          "rank": "5",
+          "farm": "Sopa’s estate",
+          "score": 89.15,
+          "bid": 33.5,
+          "weightLb": 190.26,
+          "total": 6373.71,
+          "company": "Coffee Project NY, The Espresso Lab, Goodboybob Coffee Roaster",
+          "variety": "Cartimor",
+          "process": "Dry/Natural",
+          "region": "Chiang Mai",
+          "farmer": "Bongkotsasada Chaiprom"
+        },
+        {
+          "rank": "10",
+          "farm": "Natee Coffee Estate",
+          "score": 87.92,
+          "bid": 30.1,
+          "weightLb": 220.9,
+          "total": 6649.09,
+          "company": "Brew92 Cafe & Roastery",
+          "variety": "Bourbon, Catuai, Caturra, Typica",
+          "process": "Honey",
+          "region": "Chiang Mai",
+          "farmer": "Kantima Tadplevthong"
+        },
+        {
+          "rank": "15",
+          "farm": "Sopa’s estate",
+          "score": 87.62,
+          "bid": 26.8,
+          "weightLb": 207.23,
+          "total": 5553.76,
+          "company": "Brew92 Cafe & Roastery",
+          "variety": "Catuai, Typica",
+          "process": "Dry/Natural",
+          "region": "Chiang Mai",
+          "farmer": "Wish Junprasert"
+        },
+        {
+          "rank": "9",
+          "farm": "Phupha Estate",
+          "score": 87.92,
+          "bid": 26.1,
+          "weightLb": 186.51,
+          "total": 4867.91,
+          "company": "Ashlawn Farm Coffee",
+          "variety": "Bourbon, Catuai, Caturra, Typica",
+          "process": "Honey",
+          "region": "Chiang Mai",
+          "farmer": "Kantima Tadplevthong"
+        },
+        {
+          "rank": "3",
+          "farm": "Ching family farm",
+          "score": 89.69,
+          "bid": 25.6,
+          "weightLb": 667.99,
+          "total": 17100.54,
+          "company": "TWO HANDS FULL (Indonesia), Dethlefsen & Balk GmbH, Tatido Coffee Roasters, Citric meets Malic, Pyroast, A Roastworks, SHRUB COFFEE (Japan)",
+          "variety": "Gesha",
+          "process": "Honey",
+          "region": "Nan",
+          "farmer": "Ching Saethao"
+        },
+        {
+          "rank": "13",
+          "farm": "Pakakayo family",
+          "score": 87.73,
+          "bid": 25.1,
+          "weightLb": 275.58,
+          "total": 6917.06,
+          "company": "Brew92 Cafe & Roastery",
+          "variety": "Typica",
+          "process": "Dry/Natural",
+          "region": "Mae Hong Son",
+          "farmer": "Boonsak Yuwarattanaporn"
+        },
+        {
+          "rank": "24",
+          "farm": "Nai Kong Coffee",
+          "score": 87.0,
+          "bid": 25.1,
+          "weightLb": 198.41,
+          "total": 4980.09,
+          "company": "ORO ROASTERS",
+          "variety": "Cartimor",
+          "process": "Dry/Natural",
+          "region": "Chiang Mai",
+          "farmer": "Chamipurn Purasao"
+        },
+        {
+          "rank": "16",
+          "farm": "Livespecialty",
+          "score": 87.5,
+          "bid": 24.0,
+          "weightLb": 198.41,
+          "total": 4761.84,
+          "company": "Sulalat",
+          "variety": "Bourbon",
+          "process": "Dry/Natural",
+          "region": "Chiang Mai",
+          "farmer": "Wararat Rattanathakul"
+        },
+        {
+          "rank": "11",
+          "farm": "Praiwan farm",
+          "score": 87.77,
+          "bid": 23.5,
+          "weightLb": 213.18,
+          "total": 5009.73,
+          "company": "Black Sea Corp",
+          "variety": "Gesha 6-%, Java 4-%",
+          "process": "Washed",
+          "region": "Chiang Mai",
+          "farmer": "Sanchai Pongpraiwan"
+        },
+        {
+          "rank": "18",
+          "farm": "Omkoi Coffee bean Piangphiang",
+          "score": 87.42,
+          "bid": 22.2,
+          "weightLb": 189.6,
+          "total": 4209.12,
+          "company": "Alchemist",
+          "variety": "Catimor, Bourbon, Typica",
+          "process": "Dry/Natural",
+          "region": "Chiang Mai",
+          "farmer": "Parin piangphiang"
+        },
+        {
+          "rank": "22",
+          "farm": "Lica Coffee Estate",
+          "score": 87.19,
+          "bid": 22.0,
+          "weightLb": 296.52,
+          "total": 6523.44,
+          "company": "Anna Coffee Roasters",
+          "variety": "Bourbon",
+          "process": "Red Honey",
+          "region": "Chiang Mai",
+          "farmer": "Manita Jarutkamoon"
+        },
+        {
+          "rank": "7",
+          "farm": "Pakakayo family",
+          "score": 88.42,
+          "bid": 21.6,
+          "weightLb": 308.64,
+          "total": 6666.62,
+          "company": "Pure Coffee",
+          "variety": "Typica",
+          "process": "Honey",
+          "region": "Mae Hong Son",
+          "farmer": "Boonsak Yuwarattanapron"
+        },
+        {
+          "rank": "21",
+          "farm": "Wan na farm",
+          "score": 87.23,
+          "bid": 21.6,
+          "weightLb": 198.41,
+          "total": 4285.66,
+          "company": "CORE LAB CO.,LTD",
+          "variety": "Bourbon",
+          "process": "Dry/Natural",
+          "region": "Nan",
+          "farmer": "Natthakan Yodon"
+        },
+        {
+          "rank": "20",
+          "farm": "OonBox Family",
+          "score": 87.38,
+          "bid": 21.0,
+          "weightLb": 207.23,
+          "total": 4351.83,
+          "company": "Paper Swan",
+          "variety": "Caturra",
+          "process": "Dry/Natural",
+          "region": "Chiang Mai",
+          "farmer": "Jirawut Nammung"
+        },
+        {
+          "rank": "23",
+          "farm": "Chatchai Organic Coffee Farming",
+          "score": 87.19,
+          "bid": 20.5,
+          "weightLb": 225.97,
+          "total": 4632.39,
+          "company": "Wataru & Co., Ltd.",
+          "variety": "Bourbon",
+          "process": "Red Honey",
+          "region": "Chiang Mai",
+          "farmer": "Manita Jarutkamoon"
+        },
+        {
+          "rank": "17",
+          "farm": "Soft Coffee",
+          "score": 87.5,
+          "bid": 15.5,
+          "weightLb": 446.43,
+          "total": 6919.67,
+          "company": "MI Coffee Corporation",
+          "variety": "Bourbon",
+          "process": "Dry/Natural",
+          "region": "Chiang Mai",
+          "farmer": "Wararat Rattanathakul"
+        },
+        {
+          "rank": "14",
+          "farm": "Soft Coffee",
+          "score": 87.62,
+          "bid": 15.3,
+          "weightLb": 521.39,
+          "total": 7977.27,
+          "company": "ALLRIDE – coffee roaster",
+          "variety": "Catuai, Typica",
+          "process": "Dry/Natural",
+          "region": "Chiang Mai",
+          "farmer": "Wish Junprasert"
         }
       ]
     },
