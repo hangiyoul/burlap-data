@@ -3393,9 +3393,9 @@
       ]
     },
     "Arabica · Daily": {
-      "value": "350.86",
+      "value": "350.82",
       "unit": "¢/lb",
-      "changePct": 0.0,
+      "changePct": -0.01,
       "history": [
         284.98,
         284.98,
@@ -3457,7 +3457,7 @@
         351.12,
         357.42,
         350.86,
-        350.86
+        350.82
       ],
       "dates": [
         "2026-06-06",
@@ -3524,9 +3524,9 @@
       ]
     },
     "Robusta · Daily": {
-      "value": "186.11",
+      "value": "186.02",
       "unit": "¢/lb",
-      "changePct": 0.0,
+      "changePct": -0.05,
       "history": [
         159.94,
         159.94,
@@ -3588,7 +3588,7 @@
         182.05,
         182.94,
         186.11,
-        186.11
+        186.02
       ],
       "dates": [
         "2026-06-06",
@@ -3655,7 +3655,7 @@
       ]
     }
   },
-  "generated_at": "2026-08-05T00:40:49.434118+00:00",
+  "generated_at": "2026-08-05T13:45:30.710528+00:00",
   "coe_auctions": [
     {
       "country": "brazil",
@@ -17645,7 +17645,7 @@
           "bid": 25.6,
           "weightLb": 667.99,
           "total": 17100.54,
-          "company": "TWO HANDS FULL (Indonesia), Dethlefsen & Balk GmbH, Tatido Coffee Roasters, Citric meets Malic, Pyroast, A Roastworks, SHRUB COFFEE (Japan)",
+          "company": "TWO HANDS FULL (Indonesia), Dethlefsen & Balk GmbH, Tatido Coffee Roasters, Citric meets Malic, Pyroast, A Roastworks, SHRUB COFFEE (Japan), Taiwan Coffee Laboratory",
           "variety": "Gesha",
           "process": "Honey",
           "region": "Nan",
