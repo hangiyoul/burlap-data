@@ -1,9 +1,9 @@
 {
   "metrics": {
     "Freight Index": {
-      "value": "3,276.1",
+      "value": "3,206.0",
       "unit": "pt",
-      "changePct": 2.19,
+      "changePct": -2.14,
       "history": [
         2218.15,
         2218.15,
@@ -79,7 +79,8 @@
         3205.97,
         3205.97,
         3205.97,
-        3276.14
+        3276.14,
+        3205.97
       ],
       "dates": [
         "2026-05-25",
@@ -156,7 +157,8 @@
         "2026-08-04",
         "2026-08-05",
         "2026-08-06",
-        "2026-08-07"
+        "2026-08-07",
+        "2026-08-08"
       ]
     },
     "Specialty Auction": {
@@ -187,7 +189,7 @@
         19.4,
         30.3,
         26.25,
-        25.6
+        22.85
       ]
     },
     "Arabica · Monthly": {
@@ -3399,7 +3401,7 @@
     "Arabica · Daily": {
       "value": "348.81",
       "unit": "¢/lb",
-      "changePct": -2.04,
+      "changePct": 0.0,
       "history": [
         284.98,
         284.98,
@@ -3463,6 +3465,7 @@
         350.86,
         350.82,
         356.09,
+        348.81,
         348.81
       ],
       "dates": [
@@ -3528,13 +3531,14 @@
         "2026-08-04",
         "2026-08-05",
         "2026-08-06",
-        "2026-08-07"
+        "2026-08-07",
+        "2026-08-08"
       ]
     },
     "Robusta · Daily": {
       "value": "183.82",
       "unit": "¢/lb",
-      "changePct": -1.93,
+      "changePct": 0.0,
       "history": [
         159.94,
         159.94,
@@ -3598,6 +3602,7 @@
         186.11,
         186.02,
         187.44,
+        183.82,
         183.82
       ],
       "dates": [
@@ -3663,11 +3668,12 @@
         "2026-08-04",
         "2026-08-05",
         "2026-08-06",
-        "2026-08-07"
+        "2026-08-07",
+        "2026-08-08"
       ]
     }
   },
-  "generated_at": "2026-08-07T12:38:22.700028+00:00",
+  "generated_at": "2026-08-08T00:16:48.733139+00:00",
   "coe_auctions": [
     {
       "country": "brazil",
@@ -17492,7 +17498,7 @@
       "year": 2026,
       "label": "COE Thailand 2026",
       "topBid": 91.6,
-      "medianBid": 25.6,
+      "medianBid": 22.85,
       "lots": [
         {
           "rank": "1A",
@@ -17818,6 +17824,123 @@
           "process": "Dry/Natural",
           "region": "Chiang Mai",
           "farmer": "Wish Junprasert"
+        },
+        {
+          "rank": "NW",
+          "farm": "Sahairoen Farm",
+          "score": 86.88,
+          "bid": 13.5,
+          "weightLb": 216.05,
+          "total": 2916.68,
+          "company": "ALLRIDE – coffee roaster",
+          "variety": "Java",
+          "process": "Honey",
+          "region": "Nan",
+          "farmer": "Thuanthong Homdong"
+        },
+        {
+          "rank": "NW",
+          "farm": "Phupha Estate",
+          "score": 86.85,
+          "bid": 12.5,
+          "weightLb": 251.32,
+          "total": 3141.5,
+          "company": "Savaya Coffee LLC",
+          "variety": "Cartimor",
+          "process": "Honey",
+          "region": "Chiang Rai",
+          "farmer": "Monthira mayer"
+        },
+        {
+          "rank": "NW",
+          "farm": "Yosniyom coffee farm",
+          "score": 86.04,
+          "bid": 11.1,
+          "weightLb": 203.04,
+          "total": 2253.74,
+          "company": "Terra Imports LTD.",
+          "variety": "Bourbon",
+          "process": "Honey",
+          "region": "Chiang Mai",
+          "farmer": "nathagrid somboonkhamchoo"
+        },
+        {
+          "rank": "NW",
+          "farm": "Saenchai estate",
+          "score": 86.88,
+          "bid": 11.0,
+          "weightLb": 240.74,
+          "total": 2648.14,
+          "company": "Sulalat",
+          "variety": "Java",
+          "process": "Honey",
+          "region": "Nan",
+          "farmer": "Thuanthong Homdong"
+        },
+        {
+          "rank": "NW",
+          "farm": "Monthira",
+          "score": 86.85,
+          "bid": 10.1,
+          "weightLb": 192.9,
+          "total": 1948.29,
+          "company": "Ryans Coffee Roasters",
+          "variety": "Cartimor",
+          "process": "Honey",
+          "region": "Chiang Rai",
+          "farmer": "Monthira mayer"
+        },
+        {
+          "rank": "NW",
+          "farm": "Abo-Kor Coffee&farm",
+          "score": 86.62,
+          "bid": 9.2,
+          "weightLb": 186.29,
+          "total": 1713.87,
+          "company": "Ashlawn Farm Coffee",
+          "variety": "Typica catimor",
+          "process": "Dry/Natural",
+          "region": "Chiang Rai",
+          "farmer": "sinthop juepa"
+        },
+        {
+          "rank": "NW",
+          "farm": "Sumio",
+          "score": 86.62,
+          "bid": 7.1,
+          "weightLb": 195.11,
+          "total": 1385.28,
+          "company": "Terra Imports LTD.",
+          "variety": "Typica catimor",
+          "process": "Dry/Natural",
+          "region": "Chiang Rai",
+          "farmer": "sinthop juepa"
+        },
+        {
+          "rank": "NW",
+          "farm": "Pakakayo family Huai wai",
+          "score": 86.46,
+          "bid": 7.1,
+          "weightLb": 205.47,
+          "total": 1458.84,
+          "company": "Brew92 Cafe & Roastery",
+          "variety": "Cartimor",
+          "process": "Dry/Natural",
+          "region": "Mae Hong Son",
+          "farmer": "Somporn Dongbuatong"
+        },
+        {
+          "rank": "NW",
+          "farm": "Phu Chee Deun Coffee",
+          "score": 86.04,
+          "bid": 6.6,
+          "weightLb": 335.76,
+          "total": 2216.02,
+          "company": "Terra Imports LTD.",
+          "variety": "Bourbon",
+          "process": "Honey",
+          "region": "Chiang Mai",
+          "farmer": "nathagrid somboonkhamchoo"
         }
       ]
     },
